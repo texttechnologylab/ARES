@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle: https://standardebooks.org/ebooks/edith-wharton/ethan-frome/text/single-page
+
+It was in the early morning stillness, when his muscles were swinging to their familiar task and his lungs expanding with long draughts of mountain air, that Ethan did his clearest thinking. He and Zeena had not exchanged a word after the door of their room had closed on them. She had measured out some drops from a medicine-bottle on a chair by the bed and, after swallowing them, and wrapping her head in a piece of yellow flannel, had lain down with her face turned away. Ethan undressed hurriedly and blew out the light so that he should not see her when he took his place at her side. As he lay there he could hear Mattie moving about in her room, and her candle, sending its small ray across the landing, drew a scarcely perceptible line of light under his door. He kept his eyes fixed on the light till it vanished. Then the room grew perfectly black, and not a sound was audible but Zeena’s asthmatic breathing. Ethan felt confusedly that there were many things he ought to think about, but through his tingling veins and tired brain only one sensation throbbed: the warmth of Mattie’s shoulder against his. Why had he not kissed her when he held her there? A few hours earlier he would not have asked himself the question. Even a few minutes earlier, when they had stood alone outside the house, he would not have dared to think of kissing her. But since he had seen her lips in the lamplight he felt that they were his.
+
+Now, in the bright morning air, her face was still before him. It was part of the sun’s red and of the pure glitter on the snow. How the girl had changed since she had come to Starkfield! He remembered what a colourless slip of a thing she had looked the day he had met her at the station. ]]></TEXT>
+<TAGS>
+<PLACE id="pl5" spans="1385~1390" text="house" type="PPL" dimensionality="AREA" form="NOM" dcl="FALSE" countable="TRUE" />
+<PLACE id="pl6" spans="1694~1704" text="Starkfield" type="PPL" dimensionality="AREA" form="NAM" dcl="FALSE" countable="TRUE" />
+<PLACE id="pl7" spans="1799~1806" text="station" form="NOM" dcl="FALSE" type="PPL" dimensionality="AREA" countable="TRUE" />
+<PLACE id="pl0" spans="225~233" text="mountain" type="MTN" dimensionality="AREA" form="NOM" dcl="FALSE" countable="TRUE" />
+<PLACE id="pl4" spans="339~343" text="room" type="PPL" dimensionality="AREA" form="NOM" dcl="FALSE" countable="TRUE" />
+<PLACE id="pl1" spans="658~663" text="place" type="PPL" dimensionality="AREA" form="NOM" dcl="FALSE" countable="TRUE" />
+<PLACE id="pl2" spans="734~738" text="room" type="PPL" dimensionality="AREA" form="NOM" dcl="FALSE" countable="TRUE" />
+<PLACE id="pl3" spans="919~923" text="room" type="PPL" dimensionality="AREA" form="NOM" dcl="FALSE" countable="TRUE" />
+<PLACE id="pl8" spans="1246~1251" text="there" dcl="FALSE" type="RGN" dimensionality="AREA" form="NOM" countable="FALSE" />
+<PLACE id="pl9" spans="671~675" text="side" dcl="FALSE" type="RGN" dimensionality="AREA" form="NOM" />
+<PLACE id="pl10" spans="1479~1488" text="lamplight" dcl="FALSE" type="RGN" dimensionality="AREA" form="NOM" />
+<SPATIAL_ENTITY id="se31" spans="1007~1012" text="Ethan" type="PERSON" form="NAM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se32" spans="1057~1059" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se33" spans="1094~1097" text="his" type="ARTIFACT" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se34" spans="1172~1178" text="Mattie" type="PERSON" form="NAM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se35" spans="1211~1213" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se36" spans="1225~1228" text="her" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se37" spans="1234~1236" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se38" spans="1242~1245" text="her" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se39" spans="1273~1275" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se40" spans="1297~1304" text="himself" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="130~133" text="his" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se41" spans="1352~1356" text="they" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se42" spans="1392~1394" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se43" spans="1436~1439" text="her" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se44" spans="1451~1453" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se45" spans="1463~1466" text="her" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se46" spans="1489~1491" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se48" spans="1576~1579" text="him" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se49" spans="1655~1659" text="girl" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se50" spans="1678~1681" text="she" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se51" spans="1706~1708" text="He" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se52" spans="1754~1757" text="she" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se53" spans="1777~1779" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se54" spans="1788~1791" text="her" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="183~186" text="his" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se2" spans="244~249" text="Ethan" type="PERSON" form="NAM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se3" spans="254~257" text="his" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="277~279" text="He" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se5" spans="284~289" text="Zeena" type="PERSON" form="NAM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se6" spans="325~329" text="door" type="ARTIFACT" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se7" spans="358~362" text="them" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se8" spans="364~367" text="She" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se9" spans="403~418" text="medicine-bottle" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se10" spans="424~429" text="chair" type="ARTIFACT" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se11" spans="437~440" text="bed" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="463~467" text="them" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se13" spans="482~485" text="her" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se14" spans="512~519" text="flannel" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se15" spans="562~567" text="Ethan" type="PERSON" form="NAM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se16" spans="619~621" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se17" spans="637~640" text="her" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se18" spans="646~648" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se19" spans="654~657" text="his" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se20" spans="667~670" text="her" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se21" spans="680~682" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se22" spans="693~695" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se23" spans="707~713" text="Mattie" type="PERSON" form="NAM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se24" spans="730~733" text="her" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se25" spans="744~747" text="her" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se26" spans="748~754" text="candle" type="ARTIFACT" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se27" spans="850~854" text="door" form="NOM" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se28" spans="856~858" text="He" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se30" spans="978~983" text="Zeena" type="PERSON" form="NAM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se29" spans="1550~1553" text="her" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se47" spans="864~867" text="his" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se55" spans="276~277" text=" " dcl="FALSE" comment="Ethan and Zeena" form="NAM" />
+<SPATIAL_ENTITY id="se56" spans="390~395" text="drops" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se57" spans="1351~1352" text=" " dcl="FALSE" comment="Ethan and Mattie" />
+<NONMOTION_EVENT id="e15" spans="1013~1017" text="felt"  />
+<NONMOTION_EVENT id="e16" spans="1069~1074" text="think"  />
+<NONMOTION_EVENT id="e17" spans="1218~1224" text="kissed"  />
+<NONMOTION_EVENT id="e18" spans="1237~1241" text="held"  />
+<NONMOTION_EVENT id="e19" spans="1291~1296" text="asked"  />
+<NONMOTION_EVENT id="e20" spans="1361~1366" text="stood"  />
+<NONMOTION_EVENT id="e21" spans="1458~1462" text="seen"  />
+<NONMOTION_EVENT id="e22" spans="1492~1496" text="felt"  />
+<NONMOTION_EVENT id="e23" spans="1709~1719" text="remembered"  />
+<NONMOTION_EVENT id="e24" spans="1762~1768" text="looked"  />
+<NONMOTION_EVENT id="e25" spans="1784~1787" text="met"  />
+<NONMOTION_EVENT id="e2" spans="250~253" text="did"  />
+<NONMOTION_EVENT id="e3" spans="298~307" text="exchanged"  />
+<NONMOTION_EVENT id="e4" spans="372~380" text="measured"  />
+<NONMOTION_EVENT id="e5" spans="452~462" text="swallowing"  />
+<NONMOTION_EVENT id="e6" spans="473~481" text="wrapping"  />
+<NONMOTION_EVENT id="e8" spans="568~577" text="undressed"  />
+<NONMOTION_EVENT id="e9" spans="592~600" text="blew out"  />
+<NONMOTION_EVENT id="e10" spans="633~636" text="see"  />
+<NONMOTION_EVENT id="e11" spans="683~686" text="lay"  />
+<NONMOTION_EVENT id="e12" spans="702~706" text="hear"  />
+<NONMOTION_EVENT id="e13" spans="756~763" text="sending"  />
+<NONMOTION_EVENT id="e14" spans="859~863" text="kept"  />
+<NONMOTION_EVENT id="e26" spans="900~908" text="vanished"  />
+<NONMOTION_EVENT id="e27" spans="966~973" text="audible"  />
+<NONMOTION_EVENT id="e28" spans="1148~1156" text="throbbed"  />
+<NONMOTION_EVENT id="e29" spans="1428~1435" text="kissing"  />
+<NONMOTION_EVENT id="e30" spans="174~178" text="task"  />
+<MOTION id="m0" spans="147~155" text="swinging" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m1" spans="193~202" text="expanding" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m2" spans="348~354" text="closed" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr1" spans="156~158" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr2" spans="491~493" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="727~729" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="664~666" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="1066~1068" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr7" spans="1472~1474" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="1523~1525" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="1792~1794" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="419~421" text="on" semantic_type="DIR_TOP" />
+<QSLINK id="qsl0" fromID="e6" fromText="wrapping" toID="se14" toText="flannel" relType="IN" trajector="se5" landmark="pl4" trigger="sr2" />
+<QSLINK id="qsl1" fromID="se19" fromText="his" toID="se20" toText="her" relType="EC" trajector="se19" landmark="pl9" trigger="sr4" />
+<QSLINK id="qsl2" fromID="se23" fromText="Mattie" toID="pl2" toText="room" relType="IN" trajector="se23" landmark="pl2" trigger="sr3" />
+<QSLINK id="qsl3" fromID="se45" fromText="her" toID="pl10" toText="lamplight" relType="IN" trajector="se44" landmark="pl10" trigger="sr7" />
+<QSLINK id="qsl4" fromID="se53" fromText="he" toID="pl7" toText="station" relType="IN" trajector="se53" landmark="pl7" trigger="sr9" />
+<QSLINK id="qsl5" fromID="se9" fromText="medicine-bottle" toID="se10" toText="chair" relType="EC" trajector="se9" landmark="pl4" trigger="sr10" />
+<QSLINK id="qsl6" fromID="pl5" fromText="house" toID="pl6" toText="Starkfield" relType="IN" />
+<QSLINK id="qsl7" fromID="pl2" fromText="room" toID="pl5" toText="house" relType="IN" />
+<QSLINK id="qsl8" fromID="pl4" fromText="room" toID="pl5" toText="house" relType="IN" />
+<QSLINK id="qsl9" fromID="pl7" fromText="station" toID="pl6" toText="Starkfield" relType="IN" />
+<QSLINK id="qsl10" fromID="pl6" fromText="Starkfield" toID="pl0" toText="mountain" relType="EC" />
+<OLINK id="ol0" fromID="se9" fromText="medicine-bottle" toID="se10" toText="chair" trajector="se9" landmark="pl4" trigger="sr10" frame_type="ABSOLUTE" />
+<MOVELINK id="mvl0" fromID="se0" fromText="his" toID="e30" toText="task" trigger="m0" source="pl4" goal="pl4" mover="se2" landmark="pl4" goal_reached="YES" />
+<MOVELINK id="mvl1" fromID="se1" fromText="his" toID="pl0" toText="mountain" trigger="m1" source="pl4" goal="pl4" mover="se2" landmark="pl4" goal_reached="YES" />
+<MOVELINK id="mvl2" fromID="pl4" fromText="room" toID="se7" toText="them" trigger="m2" source="se6" goal="se6" mover="se6" landmark="pl4" goal_reached="YES" />
+<METALINK id="metal0" fromID="se0" fromText="his" toID="se2" toText="Ethan" objectID1="se0" objectID2="se2" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se1" fromText="his" toID="se2" toText="Ethan" objectID2="se2" objectID1="se0" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se3" fromText="his" toID="se2" toText="Ethan" objectID1="se3" objectID2="se2" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se4" fromText="He" toID="se2" toText="Ethan" objectID1="se4" objectID2="se2" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se4" fromText="He" toID="se55" toText=" " objectID1="se4" objectID2="se55" relType="SUBCOREFERENCE" />
+<METALINK id="metal5" fromID="se5" fromText="Zeena" toID="se55" toText=" " objectID1="se5" objectID2="se55" relType="SUBCOREFERENCE" />
+<METALINK id="metal6" fromID="se55" fromText=" " toID="se7" toText="them" objectID1="se55" objectID2="se7" relType="SPLITCOREFERENCE" />
+<METALINK id="metal7" fromID="se8" fromText="She" toID="se5" toText="Zeena" objectID1="se8" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se12" fromText="them" toID="se56" toText="drops" objectID1="se12" objectID2="se56" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se13" fromText="her" toID="se5" toText="Zeena" objectID1="se13" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se16" fromText="he" toID="se15" toText="Ethan" objectID1="se16" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se17" fromText="her" toID="se5" toText="Zeena" objectID1="se17" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se18" fromText="he" toID="se15" toText="Ethan" objectID1="se18" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se15" fromText="Ethan" toID="se2" toText="Ethan" objectID1="se15" objectID2="se2" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se19" fromText="his" toID="se15" toText="Ethan" objectID1="se19" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal15" fromID="se20" fromText="her" toID="se5" toText="Zeena" objectID1="se20" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se21" fromText="he" toID="se15" toText="Ethan" objectID1="se21" objectID2="se21" relType="COREFERENCE" />
+<METALINK id="metal17" fromID="se22" fromText="he" toID="se15" toText="Ethan" objectID1="se22" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal18" fromID="se24" fromText="her" toID="se5" toText="Zeena" objectID1="se24" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se28" fromText="He" toID="se15" toText="Ethan" objectID1="se28" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se30" fromText="Zeena" toID="se5" toText="Zeena" objectID1="se30" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal21" fromID="se31" fromText="Ethan" toID="se15" toText="Ethan" objectID1="se31" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal22" fromID="se32" fromText="he" toID="se31" toText="Ethan" objectID1="se32" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal23" fromID="se34" fromText="Mattie" toID="se23" toText="Mattie" objectID1="se34" objectID2="se23" relType="COREFERENCE" />
+<METALINK id="metal24" fromID="se35" fromText="he" toID="se31" toText="Ethan" objectID1="se35" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal25" fromID="se36" fromText="her" toID="se34" toText="Mattie" objectID1="se36" objectID2="se34" relType="COREFERENCE" />
+<METALINK id="metal26" fromID="se37" fromText="he" toID="se31" toText="Ethan" objectID1="se37" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal27" fromID="se38" fromText="her" toID="se34" toText="Mattie" objectID1="se38" objectID2="se34" relType="COREFERENCE" />
+<METALINK id="metal28" fromID="se39" fromText="he" toID="se31" toText="Ethan" objectID1="se39" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal29" fromID="se40" fromText="himself" toID="se31" toText="Ethan" objectID1="se40" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal30" fromID="se31" fromText="Ethan" toID="se57" toText=" " objectID1="se31" objectID2="se57" relType="SUBCOREFERENCE" />
+<METALINK id="metal31" fromID="se34" fromText="Mattie" toID="se57" toText=" " objectID1="se34" objectID2="se57" relType="SUBCOREFERENCE" />
+<METALINK id="metal32" fromID="se41" fromText="they" toID="se57" toText=" " objectID1="se41" objectID2="se57" relType="SPLITCOREFERENCE" />
+<METALINK id="metal33" fromID="se42" fromText="he" toID="se31" toText="Ethan" objectID1="se42" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal34" fromID="se43" fromText="her" toID="se34" toText="Mattie" objectID1="se43" objectID2="se34" relType="COREFERENCE" />
+<METALINK id="metal35" fromID="se44" fromText="he" toID="se31" toText="Ethan" objectID1="se44" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal36" fromID="se45" fromText="her" toID="se34" toText="Mattie" objectID1="se45" objectID2="se34" relType="COREFERENCE" />
+<METALINK id="metal37" fromID="se29" fromText="her" toID="se34" toText="Mattie" objectID1="se29" objectID2="se34" relType="COREFERENCE" />
+<METALINK id="metal38" fromID="se48" fromText="him" toID="se31" toText="Ethan" objectID1="se48" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal39" fromID="se49" fromText="girl" toID="se34" toText="Mattie" objectID1="se49" objectID2="se34" relType="COREFERENCE" />
+<METALINK id="metal40" fromID="se50" fromText="she" toID="se49" toText="girl" objectID1="se50" objectID2="se49" relType="COREFERENCE" />
+<METALINK id="metal41" fromID="se51" fromText="He" toID="se31" toText="Ethan" objectID1="se51" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal42" fromID="se52" fromText="she" toID="se34" toText="Mattie" objectID1="se52" objectID2="se34" relType="COREFERENCE" />
+<METALINK id="metal43" fromID="se53" fromText="he" toID="se31" toText="Ethan" objectID1="se53" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal44" fromID="se54" fromText="her" toID="se34" toText="Mattie" objectID1="se54" objectID2="se34" relType="COREFERENCE" />
+<METALINK id="metal45" toID="pl4" toText="room" fromID="pl3" fromText="room" objectID1="pl2" objectID2="pl4" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

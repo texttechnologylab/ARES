@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle: https://standardebooks.org/ebooks/f-scott-fitzgerald/the-great-gatsby/text/single-page
+
+We walked through a high hallway into a bright rosy-coloured space, fragilely bound into the house by French windows at either end. The windows were ajar and gleaming white against the fresh grass outside that seemed to grow a little way into the house. A breeze blew through the room, blew curtains in at one end and out the other like pale flags, twisting them up toward the frosted wedding-cake of the ceiling, and then rippled over the wine-coloured rug, making a shadow on it as wind does on the sea.
+
+The only completely stationary object in the room was an enormous couch on which two young women were buoyed up as though upon an anchored balloon. They were both in white, and their dresses were rippling and fluttering as if they had just been blown back in after a short flight around the house. I must have stood for a few moments listening to the whip and snap of the curtains and the groan of a picture on the wall. Then there was a boom as Tom Buchanan shut the rear windows and the caught wind died out about the room, and the curtains and the rugs and the two young women ballooned slowly to the floor.
+
+The younger of the two was a stranger to me. She was extended full length at her end of the divan, completely motionless, and with her chin raised a little, as if she were balancing something on it which was quite likely to fall. If she saw me out of the corner of her eyes she gave no hint of it⁠—indeed, I was almost surprised into murmuring an apology for having disturbed her by coming in.
+
+The other girl, Daisy, made an attempt to rise⁠—she leaned slightly forward with a conscientious expression⁠—then she laughed, an absurd, charming little laugh, and I laughed too and came forward into the room.]]></TEXT>
+<TAGS>
+<PLACE id="pl7" spans="1029~1034" text="there" type="CIVIL" dcl="FALSE" />
+<PLACE id="pl8" spans="1123~1127" text="room" type="CIVIL" form="NOM" dcl="FALSE" />
+<PLACE id="pl9" spans="1207~1212" text="floor" type="CIVIL" dcl="FALSE" />
+<PLACE id="pl0" spans="157~162" text="space" type="CIVIL" form="NOM" mod="bright rosy coloured" dcl="FALSE" comment="DEFAULT" />
+<PLACE id="pl10" spans="1815~1819" text="room" type="CIVIL" form="NOM" dcl="FALSE" />
+<PLACE id="pl1" spans="189~194" text="house" type="CIVIL" form="NOM" dcl="FALSE" comment="dimesion" />
+<PLACE id="pl2" spans="343~348" text="house" type="CIVIL" form="NOM" dcl="FALSE" />
+<PLACE id="pl3" spans="376~380" text="room" type="CIVIL" dcl="FALSE" />
+<PLACE id="pl4" spans="597~600" text="sea" type="BODYOFWATER" dcl="FALSE" />
+<PLACE id="pl5" spans="648~652" text="room" type="CIVIL" dcl="FALSE" />
+<PLACE id="pl6" spans="894~899" text="house" type="CIVIL" dcl="FALSE" />
+<PLACE id="pl11" spans="293~300" text="outside" dcl="FALSE" type="CIVIL" />
+<PATH id="p0" spans="121~128" text="hallway" dcl="FALSE" />
+<SPATIAL_ENTITY id="se26" spans="1000~1010" text=" a picture" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se27" spans="1014~1022" text="the wall" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se49" spans="1049~1061" text="Tom Buchanan" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se50" spans="1076~1083" text="windows" type="ARTIFACT" form="NOM" mod="rear" dcl="FALSE" />
+<SPATIAL_ENTITY id="se54" spans="1137~1145" text="curtains" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se53" spans="1150~1158" text="the rugs" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se51" spans="1177~1182" text="women" type="PERSON" form="NOM" mod="young" dcl="FALSE" />
+<SPATIAL_ENTITY id="se28" spans="1219~1226" text="younger" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se30" spans="1256~1258" text="me" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se31" spans="1260~1263" text="She" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se32" spans="1307~1312" text="divan" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se33" spans="1350~1354" text="chin" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se34" spans="1378~1381" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se35" spans="1397~1406" text="something" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se36" spans="1410~1412" text="it" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se37" spans="1448~1451" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se38" spans="1456~1458" text="me" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se39" spans="1484~1488" text="eyes" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se40" spans="1489~1492" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se41" spans="1521~1522" text="I" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se42" spans="1591~1594" text="her" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se43" spans="1620~1624" text="girl" type="PERSON" form="NOM" mod="other" dcl="FALSE" />
+<SPATIAL_ENTITY id="se44" spans="1626~1631" text="Daisy" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se45" spans="1658~1661" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se46" spans="1724~1727" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se47" spans="1764~1769" text="laugh" type="DYNAMIC_EVENT" mod=" absurd, charming" dcl="FALSE" />
+<SPATIAL_ENTITY id="se48" spans="1775~1776" text="I" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="198~212" text="French windows" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se2" spans="232~239" text="windows" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se3" spans="287~292" text="grass" type="ARTIFACT" form="NOM" mod="fresh" dcl="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="301~305" text="that" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se5" spans="352~358" text="breeze" dcl="FALSE" />
+<SPATIAL_ENTITY id="se6" spans="387~395" text="curtains" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se7" spans="438~443" text="flags" type="ARTIFACT" form="NOM" mod="pale" dcl="FALSE" />
+<SPATIAL_ENTITY id="se8" spans="454~458" text="them" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="481~493" text="wedding-cake" type="ARTIFACT" form="NOM" mod="frosted" dcl="FALSE" />
+<SPATIAL_ENTITY id="se10" spans="501~508" text="ceiling" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se11" spans="550~553" text="rug" type="ARTIFACT" form="NOM" mod="wine-coloured" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="574~576" text="it" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="580~584" text="wind" type="DYNAMIC_EVENT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se14" spans="634~640" text="object" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se15" spans="669~674" text="couch" type="ARTIFACT" form="NOM" mod="enormous" dcl="FALSE" />
+<SPATIAL_ENTITY id="se16" spans="678~683" text="which" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se17" spans="694~699" text="women" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se18" spans="742~749" text="balloon" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se19" spans="751~755" text="They" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se21" spans="780~785" text="their" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se22" spans="786~793" text="dresses" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se23" spans="829~833" text="they" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se24" spans="901~902" text="I" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="96~98" text="We" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se25" spans="971~983" text="the curtains" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se52" spans="-1~-1" text="" dcl="FALSE" comment="rug and--" />
+<NONMOTION_EVENT id="e9" spans="1104~1112" text="died out"  />
+<NONMOTION_EVENT id="e10" spans="1264~1276" text="was extended" mod="full length" />
+<NONMOTION_EVENT id="e11" spans="1355~1361" text="raised" mod="a little, as if" />
+<NONMOTION_EVENT id="e12" spans="1387~1396" text="balancing"  />
+<NONMOTION_EVENT id="e13" spans="1452~1455" text="saw" mod="out of the corner" />
+<NONMOTION_EVENT id="e14" spans="1493~1497" text="gave" mod="nohint of it" />
+<NONMOTION_EVENT id="e15" spans="1534~1543" text="surprised" mod="almost" />
+<NONMOTION_EVENT id="e16" spans="1549~1558" text="murmuring" mod="an apology" />
+<NONMOTION_EVENT id="e17" spans="1581~1590" text="disturbed"  />
+<NONMOTION_EVENT id="e18" spans="1728~1735" text="laughed" mod="an absurd,..." />
+<NONMOTION_EVENT id="e19" spans="1777~1784" text="laughed" mod="too" />
+<NONMOTION_EVENT id="e0" spans="240~244" text="were" mod="ajar and gleaming" />
+<NONMOTION_EVENT id="e1" spans="316~320" text="grow"  />
+<NONMOTION_EVENT id="e2" spans="359~363" text="blew"  />
+<NONMOTION_EVENT id="e3" spans="382~386" text="blew"  />
+<NONMOTION_EVENT id="e4" spans="555~561" text="making"  />
+<NONMOTION_EVENT id="e5" spans="585~589" text="does"  />
+<NONMOTION_EVENT id="e20" spans="799~807" text="rippling"  />
+<NONMOTION_EVENT id="e21" spans="812~822" text="fluttering"  />
+<NONMOTION_EVENT id="e6" spans="913~918" text="stood" mod="for a few moments" />
+<NONMOTION_EVENT id="e7" spans="937~946" text="listening" mod="to" />
+<NONMOTION_EVENT id="e8" spans="992~997" text="groan"  />
+<NONMOTION_EVENT id="e23" spans="1062~1066" text="shut"  />
+<NONMOTION_EVENT id="e24" spans="1183~1192" text="ballooned"  />
+<NONMOTION_EVENT id="e25" spans="1652~1656" text="rise"  />
+<MOTION id="m9" spans="1598~1604" text="coming" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m11" spans="1662~1668" text="leaned" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m12" spans="1793~1797" text="came" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="445~453" text="twisting" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="519~526" text="rippled" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m4" spans="848~853" text="blown" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m0" spans="99~105" text="walked" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr14" spans="1011~1013" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr15" spans="1200~1202" text="to" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr0" spans="129~133" text="into" semantic_type="DIR_TOP" />
+<S_RELATION id="sr16" spans="1300~1302" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr17" spans="1407~1409" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr18" spans="1605~1607" text="in" semantic_type="DIR_TOP" />
+<S_RELATION id="sr1" spans="174~184" text="bound into" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr19" spans="1798~1810" text="forward into" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr3" spans="334~338" text="into" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr4" spans="396~398" text="in" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr5" spans="414~417" text="out" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr6" spans="459~461" text="up" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr7" spans="494~496" text="of" semantic_type="DIR_TOP" />
+<S_RELATION id="sr8" spans="527~531" text="over" semantic_type="DIR_TOP" />
+<S_RELATION id="sr9" spans="571~573" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr10" spans="590~592" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr11" spans="641~643" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr12" spans="675~677" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr13" spans="854~858" text="back" semantic_type="PATH_DEFINING" />
+<EVENT_PATH id="ep0" spans="-1~-1" text="" trigger="m0" midIDs="p0" endID="pl0" beginID="pl11" />
+<EVENT_PATH id="ep1" spans="-1~-1" text="" beginID="pl3" endID="se11" midIDs="se9" trigger="e3" />
+<EVENT_PATH id="ep2" spans="-1~-1" text="" trigger="e23" endID="se50" beginID="pl5" />
+<EVENT_PATH id="ep3" spans="-1~-1" text="" trigger="m9" beginID="pl11" endID="pl5" />
+<EVENT_PATH id="ep4" spans="-1~-1" text="" trigger="m12" beginID="pl11" />
+<MEASURE id="me1" spans="1167~1170" text="two" value="2" />
+<MEASURE id="me0" spans="684~687" text="two" value="2" />
+<QSLINK id="qsl0" fromID="pl1" fromText="house" toID="pl0" toText="space" relType="NTPP" trajector="pl3" landmark="pl1" trigger="sr1" />
+<QSLINK id="qsl1" fromID="se0" fromText="We" toID="pl0" toText="space" relType="IN" trajector="se0" landmark="pl0" trigger="sr0" />
+<QSLINK id="qsl2" fromID="se13" fromText="wind" toID="pl4" toText="sea" trigger="sr10" relType="DC" trajector="se13" landmark="pl4" />
+<QSLINK id="qsl3" fromID="se14" fromText="object" toID="pl5" toText="room" trigger="sr11" relType="IN" trajector="se14" landmark="pl5" />
+<QSLINK id="qsl4" fromID="se15" fromText="couch" toID="se17" toText="women" relType="EC" trajector="se17" landmark="se15" trigger="sr12" />
+<QSLINK id="qsl5" fromID="se26" fromText=" a picture" toID="se27" toText="the wall" trigger="sr14" landmark="se27" trajector="se26" relType="EC" />
+<QSLINK id="qsl6" fromID="se31" fromText="She" toID="se32" toText="divan" relType="EC" trajector="se31" landmark="se32" trigger="sr16" />
+<QSLINK id="qsl7" fromID="se33" fromText="chin" toID="se35" toText="something" relType="DC" trajector="se33" landmark="se35" trigger="sr17" />
+<QSLINK id="qsl8" fromID="se41" fromText="I" toID="pl5" toText="room" trajector="se41" landmark="pl5" trigger="sr18" relType="IN" />
+<QSLINK id="qsl9" fromID="se9" fromText="wedding-cake" toID="se10" toText="ceiling" relType="EC" trajector="se9" landmark="pl5" trigger="sr7" />
+<QSLINK id="qsl10" fromID="se6" fromText="curtains" toID="se11" toText="rug" relType="DC" trajector="se6" landmark="se11" trigger="sr8" />
+<QSLINK id="qsl11" fromID="pl1" fromText="house" toID="pl11" toText="outside" relType="DC" trajector="pl1" landmark="pl11" />
+<QSLINK id="qsl12" fromID="pl1" fromText="house" toID="se1" toText="French windows" relType="EC" trajector="se1" landmark="pl1" />
+<QSLINK id="qsl13" fromID="se3" fromText="grass" toID="pl11" toText="outside" relType="IN" trajector="se3" landmark="pl11" />
+<QSLINK id="qsl14" toID="pl5" toText="room" fromID="se6" fromText="curtains" landmark="pl5" trajector="se6" relType="IN" />
+<QSLINK id="qsl15" fromID="se10" fromText="ceiling" toID="pl5" toText="room" relType="IN" trajector="se10" landmark="pl5" />
+<QSLINK id="qsl16" fromID="se11" fromText="rug" toID="pl5" toText="room" relType="IN" trajector="se11" landmark="pl5" />
+<QSLINK id="qsl17" fromID="se49" fromText="Tom Buchanan" toID="pl1" toText="house" trajector="se49" landmark="pl1" relType="IN" />
+<QSLINK id="qsl18" fromID="se24" fromText="I" toID="pl1" toText="house" trajector="se24" landmark="pl1" relType="IN" />
+<QSLINK id="qsl19" fromID="se1" fromText="French windows" toID="pl1" toText="house" relType="EC" trajector="se1" landmark="pl1" />
+<QSLINK id="qsl20" fromID="se51" fromText="women" toID="pl1" toText="house" relType="IN" trajector="se51" landmark="pl1" />
+<QSLINK id="qsl21" fromID="ep0" fromText="" toID="pl5" toText="room" trajector="ep0" landmark="pl5" relType="IN" />
+<QSLINK id="qsl22" fromID="ep1" fromText="" toID="pl5" toText="room" trajector="ep1" landmark="pl5" relType="IN" />
+<QSLINK id="qsl23" fromID="ep2" fromText="" toID="pl5" toText="room" trajector="ep2" landmark="pl5" relType="IN" />
+<QSLINK id="qsl24" fromID="ep3" fromText="" toID="pl5" toText="room" trajector="ep3" landmark="pl5" relType="IN" />
+<OLINK id="ol0" fromID="se0" fromText="We" toID="pl0" toText="space" relType="into" trajector="se0" landmark="pl1" trigger="sr0" frame_type="ABSOLUTE" referencePt="se0" />
+<OLINK id="ol1" fromID="se26" fromText=" a picture" toID="se27" toText="the wall" relType="on" trajector="se26" landmark="se27" trigger="sr14" frame_type="ABSOLUTE" />
+<OLINK id="ol2" fromID="se51" fromText="women" toID="pl9" toText="floor" trajector="se51" relType="to" landmark="pl5" trigger="sr15" frame_type="ABSOLUTE" />
+<OLINK id="ol3" toID="pl5" toText="room" fromID="se41" fromText="I" trajector="se41" landmark="pl5" relType="in" trigger="sr18" frame_type="ABSOLUTE" />
+<OLINK id="ol4" fromID="se3" fromText="grass" toID="pl11" toText="outside" trigger="sr3" relType="into" trajector="se3" landmark="pl11" frame_type="ABSOLUTE" />
+<OLINK id="ol6" fromID="se13" fromText="wind" toID="pl4" toText="sea" relType="on" trajector="se12" landmark="pl4" trigger="sr10" frame_type="ABSOLUTE" />
+<OLINK id="ol7" fromID="se6" fromText="curtains" toID="se11" toText="rug" relType="on" trajector="se6" trigger="sr9" landmark="se11" frame_type="ABSOLUTE" />
+<OLINK id="ol8" fromID="se15" fromText="couch" toID="se17" toText="women" relType="on top" trajector="se17" landmark="se15" trigger="sr12" frame_type="ABSOLUTE" />
+<OLINK id="ol9" fromID="se33" fromText="chin" toID="se35" toText="something" trigger="sr17" relType="on " trajector="se35" landmark="se33" frame_type="ABSOLUTE" />
+<OLINK id="ol10" fromID="se6" fromText="curtains" toID="se7" toText="flags" relType="in" trigger="sr4" trajector="se6" frame_type="ABSOLUTE" landmark="pl5" />
+<OLINK id="ol11" fromID="se6" fromText="curtains" toID="se7" toText="flags" relType="out" trigger="sr5" trajector="de6" frame_type="ABSOLUTE" landmark="pl5" />
+<OLINK id="ol12" fromID="se9" fromText="wedding-cake" toID="se10" toText="ceiling" trigger="sr7" relType="under" trajector="se9" landmark="se10" frame_type="ABSOLUTE" />
+<OLINK id="ol13" fromID="se6" fromText="curtains" toID="se11" toText="rug" relType="over" trajector="se6" landmark="pl5" trigger="sr8" frame_type="ABSOLUTE" />
+<MOVELINK id="mvl0" fromID="se0" fromText="We" toID="pl0" toText="space" trigger="m0" source="se0" goal="pl0" midPoint="p0" mover="se0" landmark="pl1" goal_reached="YES" />
+<MOVELINK id="mvl1" fromID="se6" fromText="curtains" toID="se10" toText="ceiling" trigger="m1" source="se6" goal="se10" mover="se6" landmark="pl1" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl2" fromID="se6" fromText="curtains" toID="se11" toText="rug" trigger="m2" source="se6" goal="se11" mover="se6" landmark="pl1" goal_reached="YES" />
+<MOVELINK id="mvl3" fromID="se23" fromText="they" toID="pl6" toText="house" trigger="m4" source="se23" goal="0" midPoint="pl6" mover="se23" landmark="pl1" goal_reached="YES" />
+<MOVELINK id="mvl4" fromID="se41" fromText="I" toID="sr18" toText="in" trigger="m9" source="p0" landmark="pl1" goal="pl5" midPoint="0" mover="se41" goal_reached="YES" />
+<MOVELINK id="mvl6" fromID="se45" fromText="she" toID="m11" toText="leaned" trigger="m11" source="se15" mover="se45" landmark="pl1" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl7" fromID="se48" fromText="I" toID="pl10" toText="room" trigger="m12" source="p0" goal="pl10" mover="se48" landmark="pl1" goal_reached="YES" />
+<METALINK id="metal0" fromID="se1" fromText="French windows" toID="se2" toText="windows" relType="COREFERENCE" objectID2="se1" objectID1="se2" />
+<METALINK id="metal1" fromID="se3" fromText="grass" toID="se4" toText="that" relType="COREFERENCE" objectID2="se3" objectID1="se4" />
+<METALINK id="metal2" fromID="se6" fromText="curtains" toID="se8" toText="them" relType="COREFERENCE" objectID2="se6" objectID1="se8" />
+<METALINK id="metal3" fromID="se11" fromText="rug" toID="se12" toText="it" relType="COREFERENCE" objectID2="se11" objectID1="se12" />
+<METALINK id="metal4" fromID="se14" fromText="object" toID="se15" toText="couch" relType="COREFERENCE" objectID2="se15" objectID1="se14" />
+<METALINK id="metal5" fromID="se15" fromText="couch" toID="se16" toText="which" relType="COREFERENCE" objectID2="se15" objectID1="se16" />
+<METALINK id="metal6" toID="se19" toText="They" fromID="se17" fromText="women" relType="COREFERENCE" objectID2="se17" objectID1="se19" />
+<METALINK id="metal7" fromID="se17" fromText="women" toID="se23" toText="they" relType="COREFERENCE" objectID2="se17" objectID1="se23" />
+<METALINK id="metal8" fromID="se0" fromText="We" toID="se24" toText="I" relType="SPLITCOREFERENCE" objectID2="se0" objectID1="se24" />
+<METALINK id="metal9" fromID="se24" fromText="I" toID="se41" toText="I" relType="COREFERENCE" objectID2="se24" objectID1="se41" />
+<METALINK id="metal10" toID="se38" toText="me" fromID="se24" fromText="I" relType="COREFERENCE" objectID2="se24" objectID1="se38" />
+<METALINK id="metal11" fromID="se24" fromText="I" toID="se48" toText="I" relType="COREFERENCE" objectID2="se24" objectID1="se48" />
+<METALINK id="metal12" fromID="se6" fromText="curtains" toID="se25" toText="the curtains" relType="COREFERENCE" objectID2="se6" objectID1="se25" />
+<METALINK id="metal13" fromID="se0" fromText="We" toID="se49" toText="Tom Buchanan" relType="SPLITCOREFERENCE" objectID2="se0" objectID1="se49" />
+<METALINK id="metal14" toID="se30" toText="me" fromID="se24" fromText="I" relType="COREFERENCE" objectID2="se24" objectID1="se30" />
+<METALINK id="metal15" fromID="se50" fromText="windows" toID="se2" toText="windows" relType="COREFERENCE" objectID2="se50" objectID1="se2" />
+<METALINK id="metal16" fromID="se54" fromText="curtains" toID="se6" toText="curtains" relType="COREFERENCE" objectID2="se54" objectID1="se6" />
+<METALINK id="metal17" fromID="se53" fromText="the rugs" toID="se11" toText="rug" relType="COREFERENCE" objectID2="se53" objectID1="se11" />
+<METALINK id="metal18" fromID="se52" fromText="" toID="se53" toText="the rugs" relType="SUBCOREFERENCE" objectID2="se52" objectID1="se53" />
+<METALINK id="metal19" fromID="se52" fromText="" toID="se54" toText="curtains" relType="SUBCOREFERENCE" objectID2="se52" objectID1="se54" />
+<METALINK id="metal20" fromID="se51" fromText="women" toID="se17" toText="women" relType="COREFERENCE" objectID2="se51" objectID1="se17" />
+<METALINK id="metal21" fromID="se17" fromText="women" toID="se28" toText="younger" relType="SPLITCOREFERENCE" objectID2="se17" objectID1="se28" />
+<METALINK id="metal22" fromID="se28" fromText="younger" toID="se31" toText="She" relType="COREFERENCE" objectID2="se28" objectID1="se31" />
+<METALINK id="metal23" fromID="se28" fromText="younger" toID="se34" toText="she" relType="COREFERENCE" objectID2="se28" objectID1="se34" />
+<METALINK id="metal24" fromID="se32" fromText="divan" toID="se15" toText="couch" relType="COREFERENCE" objectID2="se15" objectID1="se32" />
+<METALINK id="metal25" fromID="se33" fromText="chin" toID="se36" toText="it" relType="COREFERENCE" objectID2="se33" objectID1="se36" />
+<METALINK id="metal26" fromID="se28" fromText="younger" toID="se37" toText="she" relType="COREFERENCE" objectID2="se28" objectID1="se37" />
+<METALINK id="metal27" fromID="se28" fromText="younger" toID="se40" toText="she" relType="COREFERENCE" objectID2="se28" objectID1="se40" />
+<METALINK id="metal28" fromID="se28" fromText="younger" toID="se42" toText="her" relType="COREFERENCE" objectID2="se28" objectID1="se42" />
+<METALINK id="metal29" fromID="se17" fromText="women" toID="se43" toText="girl" relType="SPLITCOREFERENCE" objectID2="se17" objectID1="se43" />
+<METALINK id="metal30" fromID="se43" fromText="girl" toID="se44" toText="Daisy" relType="COREFERENCE" objectID2="se43" objectID1="se44" />
+<METALINK id="metal31" fromID="se43" fromText="girl" toID="se45" toText="she" relType="COREFERENCE" objectID2="se43" objectID1="se45" />
+<METALINK id="metal32" fromID="se43" fromText="girl" toID="se46" toText="she" relType="COREFERENCE" objectID2="se43" objectID1="se46" />
+<METALINK id="metal34" fromID="pl1" fromText="house" toID="pl2" toText="house" objectID1="pl1" objectID2="pl2" relType="COREFERENCE" />
+<METALINK id="metal35" fromID="pl1" fromText="house" toID="pl6" toText="house" objectID1="pl1" objectID2="pl6" relType="COREFERENCE" />
+<METALINK id="metal36" fromID="pl3" fromText="room" toID="pl5" toText="room" objectID1="pl3" objectID2="pl5" relType="COREFERENCE" />
+<METALINK id="metal37" fromID="pl3" fromText="room" toID="pl8" toText="room" objectID1="pl3" objectID2="pl8" relType="COREFERENCE" />
+<METALINK id="metal38" toID="pl10" toText="room" fromID="pl3" fromText="room" objectID1="pl3" objectID2="pl10" relType="COREFERENCE" />
+<METALINK id="metal39" fromID="pl3" fromText="room" toID="pl7" toText="there" objectID1="pl3" objectID2="pl7" relType="COREFERENCE" />
+<METALINK id="metal40" fromID="pl3" fromText="room" toID="pl0" toText="space" objectID1="pl3" objectID2="pl0" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

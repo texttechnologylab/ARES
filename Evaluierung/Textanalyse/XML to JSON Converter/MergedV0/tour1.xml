@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Shkodër
+Nestled on the Mbishkodra Plain between the marshes surrounding Lake Shkodër and the foothills of the Albanian Alps is the northern city of Shkodër. This laid-back, historic city lies roughly 103 kilometers north of the Albanian capital, Tirana. It is sometimes referred to as Shkodra and was also known as Scodra and Scutari in its history. It serves as the gateway to the magnificent Albanian Alps and the expansive Lake Shkodër, but the things to do in Shkodër, Albania are all its own. The lands around Shkodër have been inhabited since at least the Bronze Age due to the lake and the fertile plain that the city was built upon. The city itself dates back to early antiquity, making it one of the most ancient cities in the Balkans. During its early history, Shkodër was home to the Ardiaei and the Labeates, two Illyrian tribes that ruled territories that included Albania, Kosovo, Montenegro, Croatia, and Bosnia and Herzegovina.  Later in its history, the Romans, Serbs, Byzantines, and Ottomans also ruled the region. Most of the city’s most prominent attractions take advantage of its long history and appealing geography. The city is also known as the cultural capital of northern Albania and is known for its rural, northern music. Easily the most well-known attraction in Shkodër is Rozafa Castle, a massive stronghold that stands guard over the city like an enormous sentry. It stands atop a steep, rocky hill that you can choose to hike if you want. When you’re compiling a list of the best things to do in Shkodër, Albania, a stop in the nearby village of Shiroka should be on it. This small village is located just a 10-minute drive from Shkodër and is located on the shores of Lake Shkodër. It’s also just a few kilometers from the Adriatic Sea, which helps explain why the village is known for its delicious local seafood.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="0~7" text="Shkodër" type="PPLA" form="NAM" dcl="FALSE" />
+<PLACE id="pl26" spans="1026~1032" text="region" type="RGN" form="NOM" dcl="FALSE" />
+<PLACE id="pl27" spans="1046~1050" text="city" type="PPL" form="NOM" dcl="FALSE" />
+<PLACE id="pl29" spans="110~123" text="Albanian Alps" type="MTS" form="NAM" dcl="FALSE" />
+<PLACE id="pl28" spans="1144~1148" text="city" type="PPL" form="NOM" dcl="FALSE" />
+<PLACE id="pl35" spans="1170~1186" text="cultural capital" type="PPL" form="NOM" dcl="FALSE" />
+<PLACE id="pl34" spans="1199~1206" text="Albania" type="COUNTRY" form="NAM" dcl="FALSE" mod="northern" />
+<PLACE id="pl30" spans="1292~1299" text="Shkodër" type="PPLA" form="NAM" dcl="FALSE" />
+<PLACE id="pl33" spans="1366~1370" text="city" type="PPL" form="NOM" dcl="FALSE" />
+<PLACE id="pl39" spans="148~155" text="Shkodër" type="PPLA" form="NAM" dcl="FALSE" />
+<PLACE id="pl32" spans="1529~1536" text="Shkodër" type="PPLA" form="NAM" dcl="FALSE" />
+<PLACE id="pl31" spans="1538~1545" text="Albania" type="COUNTRY" form="NAM" dcl="FALSE" />
+<PLACE id="pl36" spans="1579~1586" text="Shiroka" type="PPL" form="NAM" dcl="FALSE" />
+<PLACE id="pl37" spans="1615~1622" text="village" type="PPL" form="NOM" dcl="FALSE" />
+<PLACE id="pl38" spans="1662~1669" text="Shkodër" type="PPLA" form="NAM" dcl="FALSE" />
+<PLACE id="pl40" spans="1757~1769" text="Adriatic Sea" type="BODYOFWATER" form="NAM" dcl="FALSE" />
+<PLACE id="pl41" spans="1799~1806" text="village" type="PPL" form="NOM" dcl="FALSE" />
+<PLACE id="pl42" spans="182~186" text="city" type="PPL" form="NOM" dcl="FALSE" />
+<PLACE id="pl43" spans="228~244" text="Albanian capital" type="PPLC" form="NAM" dcl="FALSE" />
+<PLACE id="pl1" spans="23~39" text="Mbishkodra Plain" type="RGN" form="NAM" dcl="FALSE" />
+<PLACE id="pl44" spans="246~252" text="Tirana" type="PPLC" form="NAM" dcl="FALSE" />
+<PLACE id="pl2" spans="285~292" text="Shkodra" type="PPLA" form="NAM" dcl="FALSE" />
+<PLACE id="pl3" spans="315~321" text="Scodra" type="PPLA" form="NAM" dcl="FALSE" />
+<PLACE id="pl4" spans="326~333" text="Scutari" type="PPLA" form="NAM" dcl="FALSE" />
+<PLACE id="pl5" spans="394~407" text="Albanian Alps" type="MTS" form="NAM" dcl="FALSE" />
+<PLACE id="pl6" spans="426~438" text="Lake Shkodër" type="BODYOFWATER" form="NAM" dcl="FALSE" />
+<PLACE id="pl8" spans="473~480" text="Albania" type="COUNTRY" form="NAM" dcl="FALSE" />
+<PLACE id="pl9" spans="502~508" text="lands " type="RGN" form="NOM" dcl="FALSE" />
+<PLACE id="pl11" spans="515~522" text="Shkodër" type="PPLA" form="NAM" dcl="FALSE" />
+<PLACE id="pl10" spans="52~59" text="marshes" type="RGN" form="NOM" dcl="FALSE" />
+<PLACE id="pl12" spans="584~588" text="lake" type="BODYOFWATER" form="NOM" dcl="FALSE" />
+<PLACE id="pl13" spans="597~610" text="fertile plain" form="NOM" dcl="FALSE" />
+<PLACE id="pl14" spans="620~624" text="city" type="PPL" form="NOM" dcl="FALSE" />
+<PLACE id="pl15" spans="645~649" text="city" type="PPL" form="NOM" dcl="FALSE" />
+<PLACE id="pl16" spans="714~728" text="ancient cities" type="PPL" form="NOM" dcl="FALSE" />
+<PLACE id="pl18" spans="72~84" text="Lake Shkodër" type="BODYOFWATER" form="NAM" dcl="FALSE" />
+<PLACE id="pl17" spans="736~743" text="Balkans" type="RGN" form="NAM" dcl="FALSE" />
+<PLACE id="pl19" spans="771~778" text="Shkodër" type="PPLA" form="NAM" dcl="FALSE" />
+<PLACE id="pl20" spans="878~885" text="Albania" type="COUNTRY" form="NAM" dcl="FALSE" />
+<PLACE id="pl21" spans="887~893" text="Kosovo" type="COUNTRY" form="NAM" dcl="FALSE" />
+<PLACE id="pl25" spans="895~905" text="Montenegro" type="COUNTRY" form="NAM" dcl="FALSE" />
+<PLACE id="pl24" spans="907~914" text="Croatia" type="COUNTRY" form="NAM" dcl="FALSE" />
+<PLACE id="pl23" spans="920~926" text="Bosnia" type="COUNTRY" form="NAM" dcl="FALSE" />
+<PLACE id="pl22" spans="931~942" text="Herzegovina" type="COUNTRY" form="NAM" dcl="FALSE" />
+<PLACE id="pl45" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl46" spans="464~471" text="Shkodër" dcl="FALSE" type="PPLA" form="NAM" />
+<PLACE id="pl47" spans="337~340" text="its" dcl="FALSE" type="PPLA" />
+<PLACE id="pl48" spans="695~697" text="it" dcl="FALSE" type="PPLA" />
+<PLACE id="pl49" spans="650~656" text="itself" dcl="FALSE" type="PPLA" />
+<PLACE id="pl50" spans="954~957" text="its" dcl="FALSE" type="PPLA" />
+<PLACE id="pl51" spans="1702~1714" text="Lake Shkodër" dcl="FALSE" type="PPLA" />
+<PLACE id="pl52" spans="1716~1718" text="It" dcl="FALSE" type="PPLA" />
+<PLACE id="pl53" spans="1568~1575" text="village" dcl="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="1002~1010" text="Ottomans" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se5" spans="1068~1079" text="attractions" type="FAC" form="NOM" dcl="FALSE" mod="most prominent" />
+<SPATIAL_ENTITY id="se6" spans="1129~1138" text="geography" type="ARTIFACT" form="NOM" dcl="FALSE" mod="appealing" />
+<SPATIAL_ENTITY id="se10" spans="1244~1249" text="music" type="ARTIFACT" form="NOM" dcl="FALSE" mod="northern" />
+<SPATIAL_ENTITY id="se8" spans="1278~1288" text="attraction" type="FAC" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se7" spans="1303~1316" text="Rozafa Castle" type="FAC" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="1328~1338" text="stronghold" type="ARTIFACT" form="NOM" dcl="FALSE" mod="massive" />
+<SPATIAL_ENTITY id="se0" spans="1388~1394" text="sentry" type="PERSON" form="NOM" dcl="FALSE" mod="enormous" />
+<SPATIAL_ENTITY id="se11" spans="1396~1398" text="It" type="FAC" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="1426~1430" text="hill" type="ARTIFACT" form="NOM" dcl="FALSE" mod="rocky" />
+<SPATIAL_ENTITY id="se14" spans="1436~1439" text="you" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se15" spans="1462~1465" text="you" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se18" spans="1477~1480" text="you" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se17" spans="1496~1500" text="list" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se16" spans="1513~1519" text="things" type="DYNAMIC_EVENT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se19" spans="1549~1553" text="stop" type="FAC" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se20" spans="1600~1602" text="it" type="FAC" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se21" spans="1692~1698" text="shores" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se22" spans="1834~1847" text="local seafood" type="ARTIFACT" form="NOM" dcl="FALSE" mod="delicious" />
+<SPATIAL_ENTITY id="se12" spans="341~348" text="history" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se23" spans="367~374" text="gateway" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se24" spans="448~454" text="things" type="DYNAMIC_EVENT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se27" spans="783~787" text="home" type="FAC" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se25" spans="795~802" text="Ardiaei" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se26" spans="811~819" text="Labeates" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se28" spans="825~840" text="Illyrian tribes" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se29" spans="852~863" text="territories" type="FAC" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="93~102" text="foothills" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se30" spans="971~977" text="Romans" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se2" spans="979~984" text="Serbs" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se3" spans="986~996" text="Byzantines" type="PERSON" dcl="FALSE" form="NAM" />
+<SPATIAL_ENTITY id="se31" spans="350~352" text="It" dcl="FALSE" />
+<SPATIAL_ENTITY id="se32" spans="254~256" text="It" dcl="FALSE" />
+<SPATIAL_ENTITY id="se33" spans="562~572" text="Bronze Age" dcl="FALSE" type="ARTIFACT" form="NAM" />
+<SPATIAL_ENTITY id="se34" spans="1413~1418" text="steep" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se35" spans="657~686" text="dates back to early antiquity" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se37" spans="1107~1114" text="history" dcl="FALSE" mod="long" type="ARTIFACT" />
+<NONMOTION_EVENT id="e3" spans="1444~1450" text="choose"  />
+<NONMOTION_EVENT id="e4" spans="1466~1470" text="want"  />
+<NONMOTION_EVENT id="e5" spans="1484~1493" text="compiling"  />
+<NONMOTION_EVENT id="e6" spans="1523~1525" text="do"  />
+<NONMOTION_EVENT id="e7" spans="1677~1684" text="located"  />
+<NONMOTION_EVENT id="e2" spans="629~634" text="built"  />
+<NONMOTION_EVENT id="e0" spans="8~15" text="Nestled"  />
+<NONMOTION_EVENT id="e1" spans="270~278" text="referred"  />
+<NONMOTION_EVENT id="e8" spans="1783~1790" text="explain"  />
+<NONMOTION_EVENT id="e9" spans="688~694" text="making"  />
+<NONMOTION_EVENT id="e10" spans="1626~1633" text="located"  />
+<MOTION id="m1" spans="1344~1356" text="stands guard" motion_type="MANNER" motion_class="STAY" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m2" spans="1454~1458" text="hike" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m3" spans="1651~1656" text="drive" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr13" spans="1357~1361" text="over" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr14" spans="1406~1410" text="atop" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="1526~1528" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="1597~1599" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="1657~1661" text="from" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="1685~1687" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr0" spans="16~18" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="1748~1752" text="from" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="215~223" text="north of" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr10" spans="334~336" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="40~47" text="between" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="461~463" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="60~71" text="surrounding" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr15" spans="635~639" text="upon" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr12" spans="729~731" text="in" semantic_type="TOPOLOGICAL" />
+<MEASURE id="me1" spans="1561~1567" text="nearby"  />
+<MEASURE id="me2" spans="1609~1614" text="small"  />
+<MEASURE id="me4" spans="1641~1650" text="10-minute"  />
+<MEASURE id="me3" spans="1731~1748" text="a few kilometers "  />
+<MEASURE id="me0" spans="200~214" text="103 kilometers"  />
+<QSLINK id="qsl1" fromID="e0" fromText="Nestled" toID="pl1" toText="Mbishkodra Plain" relType="EC" trajector="e0" landmark="pl1" trigger="sr0" />
+<QSLINK id="qsl2" fromID="pl1" fromText="Mbishkodra Plain" toID="pl10" toText="marshes" relType="EC" trajector="pl1" landmark="pl10" trigger="sr1" />
+<QSLINK id="qsl3" fromID="pl4" fromText="Scutari" toID="se12" toText="history" relType="IN" trajector="pl4" landmark="se12" trigger="sr10" />
+<QSLINK id="qsl4" fromID="se24" fromText="things" toID="pl8" toText="Albania" trigger="sr11" relType="IN" trajector="se24" landmark="pl8" />
+<QSLINK id="qsl5" fromID="pl16" fromText="ancient cities" toID="pl17" toText="Balkans" relType="IN" trajector="pl16" landmark="pl17" trigger="sr12" />
+<QSLINK id="qsl6" fromID="m1" fromText="stands guard" toID="pl33" toText="city" relType="EC" trajector="m1" landmark="pl33" trigger="sr13" />
+<QSLINK id="qsl7" fromID="se11" fromText="It" toID="se34" toText="steep" relType="EC" trigger="sr14" trajector="se11" landmark="se34" />
+<QSLINK id="qsl8" fromID="se16" fromText="things" toID="pl32" toText="Shkodër" relType="EC" trigger="sr2" trajector="se16" landmark="pl32" />
+<QSLINK id="qsl9" fromID="pl36" fromText="Shiroka" toID="se20" toText="it" relType="EC" trajector="sr3" landmark="pl36" trigger="se20" />
+<QSLINK id="qsl10" fromID="pl37" fromText="village" toID="pl38" toText="Shkodër" trigger="sr4" relType="OUT" trajector="pl37" landmark="pl38" />
+<QSLINK id="qsl11" fromID="pl38" fromText="Shkodër" toID="se21" toText="shores" trigger="sr5" relType="EC" trajector="pl38" landmark="se21" />
+<QSLINK id="qsl12" fromID="me3" fromText="a few kilometers " toID="pl40" toText="Adriatic Sea" trigger="sr6" relType="DC" trajector="me3" landmark="pl40" />
+<OLINK id="ol0" fromID="pl10" fromText="marshes" toID="pl18" toText="Lake Shkodër" trigger="sr9" trajector="pl10" landmark="pl18" relType="north of" />
+<OLINK id="ol1" fromID="me0" fromText="103 kilometers" toID="pl43" toText="Albanian capital" trigger="sr8" relType="surrounding" trajector="me0" landmark="pl43" />
+<MOVELINK id="mvl1" fromID="se9" fromText="stronghold" toID="pl33" toText="city" />
+<MOVELINK id="mvl2" fromID="pl37" fromText="village" toID="pl38" toText="Shkodër" />
+<MOVELINK id="mvl3"  />
+<MEASURELINK id="ml0" fromID="se19" fromText="stop" toID="pl36" toText="Shiroka" trajector="se19" landmark="pl36" />
+<MEASURELINK id="ml1"  />
+<MEASURELINK id="ml2"  />
+<METALINK id="metal0" objectID1="se32" objectID2="pl44" />
+<METALINK id="metal1" objectID1="se31" objectID2="pl2" />
+<METALINK id="metal2" objectID1="se35" objectID2="pl48" />
+<METALINK id="metal3" objectID1="pl27" objectID2="pl50" />
+<METALINK id="metal4" objectID1="pl52" objectID2="pl51" />
+</TAGS>
+</SpaceEvalTaskv1.2>

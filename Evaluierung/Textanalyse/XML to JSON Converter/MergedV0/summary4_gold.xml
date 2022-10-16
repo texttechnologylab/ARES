@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Guy Montag is a fireman employed to burn houses containing outlawed books. He is married but has no children. One fall night while returning from work, he meets his new neighbour, a teenage girl named Clarisse McClellan, whose free-thinking ideals and liberating spirit cause him to question his life and his own perceived happiness. Montag returns home to find that his wife Mildred has overdosed on sleeping pills, and he calls for medical attention. Two uncaring EMTs pump Mildred's stomach, drain her poisoned blood, and fill her with new blood. After the EMTs leave to rescue another overdose victim, Montag goes outside and overhears Clarisse and her family talking about the way life is in this hedonistic, illiterate society.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="41~47" text="houses" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl1" spans="349~353" text="home" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl2" spans="618~625" text="outside" dcl="FALSE" type="CIVIL" dimensionality="POINT" form="NOM" />
+<PLACE id="pl3" spans="-1~-1" text="" dcl="FALSE" comment="stadt" />
+<SPATIAL_ENTITY id="se0" spans="0~10" text="Guy Montag" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se1" spans="16~23" text="fireman" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se2" spans="68~73" text="books" dcl="FALSE" type="ARTIFACT" form="NOM" mod="outlawed" />
+<SPATIAL_ENTITY id="se3" spans="75~77" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="100~108" text="children" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se5" spans="152~154" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se6" spans="169~178" text="neighbour" dcl="FALSE" mod="new" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se7" spans="182~194" text="teenage girl" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="201~219" text="Clarisse McClellan" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se9" spans="241~247" text="ideals" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="free-thinking" />
+<SPATIAL_ENTITY id="se10" spans="263~269" text="spirit" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="liberating" />
+<SPATIAL_ENTITY id="se11" spans="276~279" text="him" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se12" spans="296~300" text="life" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se13" spans="323~332" text="happiness" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se14" spans="334~340" text="Montag" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se15" spans="371~375" text="wife" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se16" spans="376~383" text="Mildred" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se17" spans="401~415" text="sleeping pills" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se18" spans="421~423" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="442~451" text="attention" dcl="FALSE" mod="medical" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se20" spans="466~470" text="EMTs" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se21" spans="476~483" text="Mildred" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se22" spans="486~493" text="stomach" dcl="FALSE" type="ARTIFACT" comment="type called &quot;organ&quot; is not available." mod="∅" />
+<SPATIAL_ENTITY id="se23" spans="514~519" text="blood" dcl="FALSE" mod="poisoned" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se24" spans="501~504" text="her" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se25" spans="530~533" text="her" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se26" spans="543~548" text="blood" dcl="FALSE" type="ARTIFACT" mod="new" form="NOM" />
+<SPATIAL_ENTITY id="se27" spans="560~564" text="EMTs" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se28" spans="598~604" text="victim" dcl="FALSE" type="PERSON" mod="overdose" form="NOM" />
+<SPATIAL_ENTITY id="se29" spans="606~612" text="Montag" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se30" spans="640~648" text="Clarisse" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se31" spans="653~656" text="her" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se32" spans="657~663" text="family" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se33" spans="725~732" text="society" dcl="FALSE" mod="hedonistic, illiterate" type="PERSON" />
+<SPATIAL_ENTITY id="se34" spans="686~690" text="life" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se35" spans="292~295" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se36" spans="305~308" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se37" spans="161~164" text="his" dcl="FALSE" type="PERSON" />
+<NONMOTION_EVENT id="e0" spans="146~150" text="work"  />
+<NONMOTION_EVENT id="e1" spans="24~32" text="employed"  />
+<NONMOTION_EVENT id="e2" spans="155~160" text="meets"  />
+<NONMOTION_EVENT id="e3" spans="270~275" text="cause"  />
+<NONMOTION_EVENT id="e4" spans="283~291" text="question"  />
+<NONMOTION_EVENT id="e5" spans="357~361" text="find"  />
+<NONMOTION_EVENT id="e6" spans="388~397" text="overdosed"  />
+<NONMOTION_EVENT id="e7" spans="424~429" text="calls"  />
+<NONMOTION_EVENT id="e8" spans="574~580" text="rescue"  />
+<NONMOTION_EVENT id="e9" spans="630~639" text="overhears"  />
+<NONMOTION_EVENT id="e10" spans="664~671" text="talking"  />
+<MOTION id="m0" spans="131~140" text="returning" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="341~348" text="returns" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="471~475" text="pump" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m3" spans="495~500" text="drain" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m4" spans="525~529" text="fill" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m5" spans="565~570" text="leave" motion_type="COMPOUND" motion_sense="LITERAL" motion_class="LEAVE" />
+<MOTION id="m6" spans="613~617" text="goes" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr1" spans="141~145" text="from" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr2" spans="341~348" text="returns" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr3" spans="398~400" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="534~538" text="with" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr5" spans="672~677" text="about" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="694~696" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="48~58" text="containing" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="430~433" text="for" semantic_type="GOAL_DEFINING" />
+<MEASURE id="me0" spans="453~456" text="Two" value="2" />
+<QSLINK id="qsl0" fromID="e6" fromText="overdosed" toID="se17" toText="sleeping pills" relType="IN" trajector="se17" landmark="se16" trigger="sr3" />
+<QSLINK id="qsl1" fromID="se32" fromText="family" toID="se33" toText="society" relType="TPP" trajector="se34" landmark="e10" trigger="sr5" comment="? talking about ist kein s_relation oder?" />
+<QSLINK id="qsl2" fromID="se34" fromText="life" toID="se33" toText="society" relType="IN" trajector="se34" landmark="se33" trigger="sr6" />
+<QSLINK id="qsl3" fromID="pl0" fromText="houses" toID="se2" toText="books" relType="IN" trajector="se2" landmark="pl0" trigger="sr7" />
+<QSLINK id="qsl4" fromID="pl0" fromText="houses" toID="pl3" toText="" relType="IN" />
+<QSLINK id="qsl5" fromID="se0" fromText="Guy Montag" toID="pl3" toText="" relType="IN" />
+<QSLINK id="qsl6" fromID="se6" fromText="neighbour" toID="pl3" toText="" relType="IN" />
+<QSLINK id="qsl7" fromID="se8" fromText="Clarisse McClellan" toID="pl3" toText="" relType="IN" />
+<QSLINK id="qsl8" fromID="pl1" fromText="home" toID="pl3" toText="" relType="IN" />
+<QSLINK id="qsl9" fromID="se16" fromText="Mildred" toID="pl3" toText="" relType="IN" />
+<QSLINK id="qsl10" fromID="se20" fromText="EMTs" toID="pl3" toText="" relType="IN" />
+<QSLINK id="qsl11" fromID="pl2" fromText="outside" toID="pl3" toText="" relType="IN" />
+<QSLINK id="qsl12" fromID="se32" fromText="family" toID="pl3" toText="" relType="IN" />
+<MEASURELINK id="ml0" fromID="me0" fromText="Two" toID="se20" toText="EMTs" trajector="se20" landmark="se20" relType="GENERAL_DIMENSION" val="me0" />
+<METALINK id="metal0" fromID="se0" fromText="Guy Montag" toID="se1" toText="fireman" objectID1="se1" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal1" toID="se0" toText="Guy Montag" fromID="se3" fromText="He" objectID2="se0" objectID1="se3" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se5" fromText="he" toID="se0" toText="Guy Montag" objectID2="se0" objectID1="se5" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se37" fromText="his" toID="se0" toText="Guy Montag" objectID2="se0" objectID1="se37" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se6" fromText="neighbour" toID="se8" toText="Clarisse McClellan" relType="SUBCOREFERENCE" objectID2="se6" objectID1="se8 " />
+<METALINK id="metal5" fromID="se7" fromText="teenage girl" toID="se8" toText="Clarisse McClellan" relType="SUBCOREFERENCE" objectID2="se7" objectID1="se8" />
+<METALINK id="metal6" fromID="se11" fromText="him" toID="se0" toText="Guy Montag" relType="COREFERENCE" objectID2="se0" objectID1="se11" />
+<METALINK id="metal7" toID="se0" toText="Guy Montag" fromID="se35" fromText="his" relType="COREFERENCE" objectID2="se0" objectID1="se35" />
+<METALINK id="metal8" fromID="se36" fromText="his" toID="se0" toText="Guy Montag" relType="COREFERENCE" objectID2="se0" objectID1="se36" />
+<METALINK id="metal9" fromID="se14" fromText="Montag" toID="se0" toText="Guy Montag" relType="COREFERENCE" objectID2="se0" objectID1="se14" />
+<METALINK id="metal10" fromID="se15" fromText="wife" toID="se16" toText="Mildred" relType="COREFERENCE" objectID2="se16" objectID1="se15" />
+<METALINK id="metal11" fromID="se18" fromText="he" toID="se0" toText="Guy Montag" relType="COREFERENCE" objectID2="se0" objectID1="se18" />
+<METALINK id="metal12" fromID="se21" fromText="Mildred" toID="se16" toText="Mildred" relType="COREFERENCE" objectID2="se16" objectID1="se221" />
+<METALINK id="metal13" fromID="se24" fromText="her" toID="se16" toText="Mildred" relType="COREFERENCE" objectID2="se16" objectID1="se24" />
+<METALINK id="metal14" fromID="se25" fromText="her" toID="se16" toText="Mildred" relType="COREFERENCE" objectID2="se16" objectID1="se25" />
+<METALINK id="metal15" fromID="se20" fromText="EMTs" toID="se27" toText="EMTs" relType="COREFERENCE" objectID2="se20" objectID1="se27" />
+<METALINK id="metal16" fromID="se29" fromText="Montag" toID="se0" toText="Guy Montag" relType="COREFERENCE" objectID2="se0" objectID1="se29" />
+<METALINK id="metal17" fromID="se30" fromText="Clarisse" toID="se8" toText="Clarisse McClellan" relType="COREFERENCE" objectID2="se8" objectID1="se30" />
+<METALINK id="metal18" fromID="se31" fromText="her" toID="se8" toText="Clarisse McClellan" relType="COREFERENCE" objectID2="se8" objectID1="se31" />
+<METALINK id="metal19" toID="se32" toText="family" fromID="se6" fromText="neighbour" relType="SUBCOREFERENCE" objectID2="se6" objectID1="se32" />
+</TAGS>
+</SpaceEvalTaskv1.2>

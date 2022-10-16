@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[“ACT II
+In the garden of Marke’s castle, Isolde waits impatiently for a rendezvous with Tristan, while distant horns signal the king’s departure on a hunting party. Isolde believes that the party is far off, but Brangäne warns her about spies, particularly Melot, a jealous knight whom she has noticed watching Tristan. Isolde replies that Melot is Tristan’s friend. She sends Brangäne off to stand watch and puts out the warning torch. When Tristan appears, she welcomes him passionately. They praise the darkness that shuts out the light of conventionality and false appearances and agree that they feel secure in the night’s embrace. Brangäne’s distant voice warns that it will be daylight soon, but the lovers are oblivious to any danger and compare the night to death, which will ultimately unite them. Kurwenal rushes in with a warning: the king and his followers have returned, led by Melot, who denounces the lovers. Moved and disturbed, Marke declares that it was Tristan himself who urged him to marry and choose the bride. He does not understand how someone so dear to him could dishonor him in such a way. Tristan cannot answer. He asks Isolde if she will follow him into the realm of death. When she accepts, Melot attacks Tristan, who falls wounded into Kurwenal’s arms.”]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="15~39" text="garden of Marke’s castle" dcl="FALSE" form="NAM" type="GRID" mod="∅" />
+<SPATIAL_ENTITY id="se0" spans="41~47" text="Isolde" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se1" spans="72~81" text="rendezvou" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se2" spans="88~95" text="Tristan" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se3" spans="111~116" text="horns" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se4" spans="128~144" text="king’s departure" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se6" spans="165~171" text="Isolde" dcl="FALSE" form="NAM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se8" spans="212~220" text="Brangäne" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se9" spans="227~230" text="her" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se10" spans="237~242" text="spies" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se11" spans="257~262" text="Melot" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se12" spans="274~280" text="knight" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se13" spans="286~289" text="she" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se14" spans="311~318" text="Tristan" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se15" spans="320~326" text="Isolde" dcl="FALSE" form="NAM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se16" spans="340~345" text="Melot" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se17" spans="349~365" text="Tristan’s friend" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se18" spans="367~370" text="She" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se19" spans="377~385" text="Brangäne" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se20" spans="422~435" text="warning torch" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se21" spans="442~449" text="Tristan" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se22" spans="459~462" text="she" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se23" spans="472~475" text="him" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se24" spans="490~494" text="They" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se25" spans="506~514" text="darkness" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se26" spans="596~600" text="they" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se28" spans="637~645" text="Brangäne" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se29" spans="656~661" text="voice" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se30" spans="707~713" text="lovers" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se31" spans="735~741" text="danger" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se32" spans="758~763" text="night" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se33" spans="767~772" text="death" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se34" spans="802~806" text="them" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se35" spans="808~816" text="Kurwenal" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se36" spans="847~851" text="king" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se38" spans="892~897" text="Melot" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se39" spans="917~923" text="lovers" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se40" spans="1027~1032" text="bride" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se42" spans="973~980" text="Tristan" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se43" spans="946~951" text="Marke" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se44" spans="1034~1036" text="He" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se45" spans="1061~1068" text="someone" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se47" spans="1099~1102" text="him" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se48" spans="1118~1125" text="Tristan" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se49" spans="1141~1143" text="He" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se50" spans="1149~1155" text="Isolde" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se51" spans="1159~1162" text="she" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se53" spans="1209~1212" text="she" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se54" spans="1222~1227" text="Melot" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se55" spans="1236~1243" text="Tristan" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se57" spans="834~841" text="warning" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se58" spans="860~869" text="followers" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se5" spans="158~163" text="party" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="hunting" />
+<SPATIAL_ENTITY id="se7" spans="628~635" text="embrace" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="night&apos;s" comment="I consider night as a adjective." />
+<SPATIAL_ENTITY id="se27" spans="673~675" text="it" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se37" spans="1188~1193" text="realm" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se41" spans="1245~1248" text="who" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se46" spans="1268~1283" text="Kurwenal’s arms" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se52" spans="1175~1178" text="him" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se56" spans="981~988" text="himself" dcl="FALSE" type="PERSON" form="NOM" />
+<NONMOTION_EVENT id="e0" spans="221~226" text="warns"  />
+<NONMOTION_EVENT id="e1" spans="294~301" text="noticed"  />
+<NONMOTION_EVENT id="e2" spans="327~334" text="replies"  />
+<NONMOTION_EVENT id="e3" spans="371~376" text="sends"  />
+<NONMOTION_EVENT id="e4" spans="117~123" text="signal"  />
+<NONMOTION_EVENT id="e5" spans="409~417" text="puts out"  />
+<NONMOTION_EVENT id="e7" spans="463~471" text="welcomes"  />
+<NONMOTION_EVENT id="e8" spans="495~501" text="praise"  />
+<NONMOTION_EVENT id="e9" spans="520~525" text="shuts"  />
+<NONMOTION_EVENT id="e11" spans="585~590" text="agree"  />
+<NONMOTION_EVENT id="e12" spans="601~605" text="feel"  />
+<NONMOTION_EVENT id="e14" spans="1006~1011" text="marry"  />
+<NONMOTION_EVENT id="e15" spans="1016~1022" text="choose"  />
+<NONMOTION_EVENT id="e16" spans="1133~1139" text="answer"  />
+<NONMOTION_EVENT id="e19" spans="117~123" text="signal"  />
+<NONMOTION_EVENT id="e6" spans="952~960" text="declares"  />
+<NONMOTION_EVENT id="e10" spans="1090~1098" text="dishonor"  />
+<NONMOTION_EVENT id="e13" spans="1213~1220" text="accepts"  />
+<NONMOTION_EVENT id="e17" spans="746~753" text="compare"  />
+<NONMOTION_EVENT id="e18" spans="885~888" text="led"  />
+<NONMOTION_EVENT id="e20" spans="903~912" text="denounces"  />
+<NONMOTION_EVENT id="e21" spans="1037~1045" text="does not"  />
+<NONMOTION_EVENT id="e22" spans="1046~1056" text="understand"  />
+<MOTION id="m0" spans="1249~1254" text="falls" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="48~53" text="waits" motion_type="MANNER" motion_class="STAY" motion_sense="LITERAL" />
+<MOTION id="m2" spans="875~883" text="returned" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m3" spans="393~398" text="stand" motion_type="MANNER" motion_sense="LITERAL" motion_class="STAY" />
+<MOTION id="m4" spans="450~457" text="appears" motion_type="MANNER" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m5" spans="1228~1235" text="attacks" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m6" spans="1168~1174" text="follow" motion_type="MANNER" motion_class="FOLLOW" motion_sense="FICTIVE" />
+<MOTION id="m8" spans="817~826" text="rushes in" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="8~10" text="In" semantic_type="DIR_TOP" />
+<S_RELATION id="sr1" spans="145~147" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="613~615" text="in" semantic_type="DIR_TOP" />
+<S_RELATION id="sr4" spans="1179~1183" text="into" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="1103~1105" text="in" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr7" spans="1263~1267" text="into" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="66~69" text="for" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr8" spans="231~236" text="about" semantic_type="DIRECTIONAL" />
+<MEASURE id="me0" spans="199~202" text="far" value="far" />
+<QSLINK id="qsl0" fromID="sr0" fromText="In" toID="se1" toText="rendezvou" trigger="sr2" relType="IN" trajector="se0" landmark="se1" />
+<QSLINK id="qsl1" fromID="se3" fromText="horns" toID="se5" toText="party" relType="IN" trajector="se3" landmark="se5" trigger="sr1" />
+<QSLINK id="qsl2" fromID="se8" fromText="Brangäne" toID="se10" toText="spies" relType="OUT" trajector="se8" landmark="se10" trigger="sr8" />
+<QSLINK id="qsl3" fromID="se26" fromText="they" toID="se7" toText="embrace" relType="TPP" trajector="se26" landmark="se7" trigger="sr3" />
+<QSLINK id="qsl4" fromID="se51" fromText="she" toID="se37" toText="realm" relType="TPP" trajector="se51" landmark="se37" trigger="sr4" />
+<QSLINK id="qsl5" fromID="se41" fromText="who" toID="se46" toText="Kurwenal’s arms" relType="TPP" trajector="se41" landmark="se46" trigger="sr7" />
+<OLINK id="ol0" fromID="se41" fromText="who" toID="se46" toText="Kurwenal’s arms" relType="into" trajector="se41" landmark="se46" trigger="sr7" />
+<MOVELINK id="mvl0" fromID="se0" fromText="Isolde" toID="m1" toText="waits" trigger="m1" source="∅" goal="se1" midPoint="∅" mover="se0" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl1" fromID="se19" fromText="Brangäne" toID="m3" toText="stand" trigger="m3" source="∅" goal="∅" midPoint="∅" mover="se19" goal_reached="YES" />
+<MOVELINK id="mvl3" fromID="se21" fromText="Tristan" toID="m4" toText="appears" trigger="m4" source="∅" goal="∅" midPoint="∅" mover="se21" goal_reached="YES" />
+<MOVELINK id="mvl4" fromID="se58" fromText="followers" toID="m2" toText="returned" trigger="m2" source="∅" goal="∅" midPoint="∅" mover="se58" goal_reached="YES" />
+<MOVELINK id="mvl5" fromID="se51" fromText="she" toID="m6" toText="follow" trigger="m6" source="∅" goal="∅" midPoint="∅" mover="se51" goal_reached="NO" />
+<MOVELINK id="mvl6" fromID="se54" fromText="Melot" toID="m5" toText="attacks" trigger="m5" source="∅" goal="∅" midPoint="∅" mover="se54" goal_reached="YES" />
+<MOVELINK id="mvl7" fromID="se55" fromText="Tristan" toID="m0" toText="falls" trigger="m0" source="∅" goal="∅" midPoint="∅" mover="se55" goal_reached="YES" />
+<METALINK id="metal0" fromID="se0" fromText="Isolde" toID="se6" toText="Isolde" objectID1="se0" objectID2="se6" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se0" fromText="Isolde" toID="se9" toText="her" objectID1="se0" objectID2="se9" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se0" fromText="Isolde" toID="se13" toText="she" objectID1="se0" relType="COREFERENCE" objectID2="se13" />
+<METALINK id="metal3" fromID="se0" fromText="Isolde" toID="se18" toText="She" objectID1="se0" relType="COREFERENCE" objectID2="se18" />
+<METALINK id="metal4" fromID="se0" fromText="Isolde" toID="se22" toText="she" objectID1="se0" relType="COREFERENCE" objectID2="se22" />
+<METALINK id="metal5" fromID="se0" fromText="Isolde" toID="se51" toText="she" objectID1="se0" relType="COREFERENCE" objectID2="se51" />
+<METALINK id="metal6" fromID="se0" fromText="Isolde" toID="se50" toText="Isolde" objectID1="se0" relType="COREFERENCE" objectID2="se50" />
+<METALINK id="metal7" fromID="se0" fromText="Isolde" toID="se24" toText="They" objectID1="se0" relType="SPLITCOREFERENCE" objectID2="se24" />
+<METALINK id="metal8" fromID="se0" fromText="Isolde" toID="se26" toText="they" objectID1="se0" relType="SPLITCOREFERENCE" objectID2="se26" />
+<METALINK id="metal9" fromID="se0" fromText="Isolde" toID="se34" toText="them" objectID1="se0" relType="SPLITCOREFERENCE" objectID2="se34" />
+<METALINK id="metal10" fromID="se0" fromText="Isolde" toID="se53" toText="she" objectID1="se0" relType="COREFERENCE" objectID2="se53" />
+<METALINK id="metal11" fromID="se0" fromText="Isolde" toID="se39" toText="lovers" objectID1="se0" objectID2="se39" relType="SPLITCOREFERENCE" />
+<METALINK id="metal12" fromID="se2" fromText="Tristan" toID="se14" toText="Tristan" objectID1="se2" objectID2="se14" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se2" fromText="Tristan" toID="se47" toText="him" objectID1="se2" relType="COREFERENCE" objectID2="se47" />
+<METALINK id="metal14" fromID="se2" fromText="Tristan" toID="se23" toText="him" objectID1="se2" relType="COREFERENCE" objectID2="se23" />
+<METALINK id="metal15" fromID="se2" fromText="Tristan" toID="se21" toText="Tristan" objectID1="se2" relType="COREFERENCE" objectID2="se21" />
+<METALINK id="metal16" fromID="se2" fromText="Tristan" toID="se39" toText="lovers" objectID1="se2" relType="SPLITCOREFERENCE" objectID2="se39" />
+<METALINK id="metal17" fromID="se2" fromText="Tristan" toID="se34" toText="them" objectID1="se2" relType="SPLITCOREFERENCE" objectID2="se34" />
+<METALINK id="metal18" fromID="se2" fromText="Tristan" toID="se26" toText="they" objectID1="se2" relType="SPLITCOREFERENCE" objectID2="se26" />
+<METALINK id="metal19" fromID="se2" fromText="Tristan" toID="se24" toText="They" objectID1="se2" relType="SPLITCOREFERENCE" objectID2="se24" />
+<METALINK id="metal20" fromID="se43" fromText="Marke" toID="se47" toText="him" objectID1="se43" relType="COREFERENCE" objectID2="se47" />
+<METALINK id="metal21" fromID="se16" fromText="Melot" toID="se17" toText="Tristan’s friend" objectID1="se16" relType="COREFERENCE" objectID2="se17" />
+<METALINK id="metal22" fromID="se2" fromText="Tristan" toID="se55" toText="Tristan" objectID1="se2" objectID2="se55" relType="COREFERENCE" />
+<METALINK id="metal24" fromID="se2" fromText="Tristan" toID="se49" toText="He" objectID1="se2" objectID2="se49" relType="COREFERENCE" />
+<METALINK id="metal25" fromID="se2" fromText="Tristan" toID="se48" toText="Tristan" objectID1="se2" objectID2="se48" relType="COREFERENCE" />
+<METALINK id="metal26" fromID="se2" fromText="Tristan" toID="se45" toText="someone" relType="COREFERENCE" objectID1="se2" objectID2="se45" />
+<METALINK id="metal27" fromID="se16" fromText="Melot" toID="se54" toText="Melot" relType="COREFERENCE" objectID1="se16" objectID2="se54" />
+<METALINK id="metal28" fromID="se16" fromText="Melot" toID="se38" toText="Melot" relType="COREFERENCE" objectID1="se16" objectID2="se38" />
+<METALINK id="metal36" fromID="se19" fromText="Brangäne" toID="se28" toText="Brangäne" objectID1="se19" objectID2="se28" relType="COREFERENCE" />
+<METALINK id="metal38" fromID="se43" fromText="Marke" toID="se44" toText="He" objectID1="se43" relType="COREFERENCE" objectID2="se44" />
+<METALINK id="metal23" fromID="se42" fromText="Tristan" toID="se56" toText="himself" objectID1="se56" objectID2="se42" relType="COREFERENCE" />
+<SRLINK id="srole0" fromID="se8" fromText="Brangäne" toID="e0" toText="warns" objectID2="e0" objectID1="se8" relType="ARGO0" />
+<SRLINK id="srole1" toID="e1" toText="noticed" fromID="se13" fromText="she" objectID2="e1" objectID1="se13" relType="ARGO0" />
+<SRLINK id="srole10" toID="e2" toText="replies" fromID="se15" fromText="Isolde" objectID2="e2" objectID1="se15" relType="ARGO0" />
+<SRLINK id="srole11" toID="e3" toText="sends" fromID="se18" fromText="She" objectID2="e3" objectID1="se18" relType="ARGO0" />
+<SRLINK id="srole13" toID="e5" toText="puts out" fromID="se19" fromText="Brangäne" objectID2="e5" objectID1="se19" relType="ARGO0" />
+<SRLINK id="srole14" toID="e7" toText="welcomes" fromID="se22" fromText="she" objectID2="e7" objectID1="se22" relType="ARGO0" />
+<SRLINK id="srole15" toID="e8" toText="praise" fromID="se24" fromText="They" objectID2="e8" objectID1="se24" relType="ARGO0" />
+<SRLINK id="srole16" toID="e9" toText="shuts" fromID="se25" fromText="darkness" objectID2="e9" objectID1="se25" relType="ARGO0" />
+<SRLINK id="srole17" toID="e11" toText="agree" fromID="se24" fromText="They" objectID2="e11" objectID1="se24" relType="ARGO0" />
+<SRLINK id="srole18" toID="e12" toText="feel" fromID="se26" fromText="they" objectID2="e12" objectID1="se26" relType="ARGO0" />
+<SRLINK id="srole20" toID="e16" toText="answer" fromID="se48" fromText="Tristan" objectID2="e16" objectID1="se48" relType="ARGO0" />
+<SRLINK id="srole23" toID="e19" toText="signal" fromID="se3" fromText="horns" objectID2="e19" objectID1="se3" relType="ARGO0" />
+<SRLINK id="srole27" toID="e6" toText="declares" fromID="se43" fromText="Marke" objectID2="e6" objectID1="se43" relType="ARGO0" />
+</TAGS>
+</SpaceEvalTaskv1.2>

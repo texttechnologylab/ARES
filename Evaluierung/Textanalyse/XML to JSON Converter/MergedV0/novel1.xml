@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[By then Melquíades had aged with surprising rapidity. On his first trips he seemed to be the same age as José Arcadio Buendía. But while the latter had preserved his extraordinary strength, which permitted him to pull down a horse by grabbing its ears, the gypsy seemed to have been worn dowse by some tenacious illness. It was, in reality, the result of multiple and rare diseases contracted on his innumerable trips around the world. According to what he himself said as he spoke to José Arcadio Buendía while helping him set up the laboratory, death followed him everywhere, sniffing at the cuffs of his pants, but never deciding to give him the final clutch of its claws. He was a fugitive from all the plagues and catastrophes that had ever lashed mankind. He had survived pellagra in Persia, scurvy in the Malayan archipelago, leprosy in Alexandria, beriberi in Japan, bubonic plague in Madagascar, an earthquake in Sicily, and a disastrous shipwreck in the Strait of Magellan. That prodigious creature, said to possess the keys of Nostradamus, was a gloomy man, enveloped in a sad aura, with an Asiatic look that seemed to know what there was on the other side of things. He wore a large black hat that looked like a raven with widespread wings, and a velvet vest across which the patina of the centuries had skated. But in spite of his immense wisdom and his mysterious breadth, he had a human burden, an earthly condition that kept him involved in the small problems of daily life. He would complain of the ailments of old age, he suffered from the most insignificant economic difficulties, and he had stopped laughing a long time back because scurvy had made his teeth drop out. ]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="429~434" text="world" dcl="FALSE" form="NOM" type="BODYOFWATER" dimensionality="VOLUME" />
+<PLACE id="pl1" spans="535~545" text="laboratory" dcl="FALSE" form="NOM" type="CIVIL" dimensionality="AREA" />
+<PLACE id="pl2" spans="790~796" text="Persia" dcl="FALSE" form="NAM" type="COUNTRY" dimensionality="VOLUME" />
+<PLACE id="pl3" spans="812~831" text="Malayan archipelago" dcl="FALSE" form="NAM" type="COUNTRY" dimensionality="VOLUME" comment="Inseln " />
+<PLACE id="pl4" spans="844~854" text="Alexandria" dcl="FALSE" form="NAM" type="COUNTRY" dimensionality="VOLUME" comment="ägyptische Hafenstadt am Mittelmeer" />
+<PLACE id="pl5" spans="868~873" text="Japan" dcl="FALSE" form="NAM" type="COUNTRY" dimensionality="VOLUME" />
+<PLACE id="pl6" spans="893~903" text="Madagascar" dcl="FALSE" form="NAM" type="CIVIL" dimensionality="VOLUME" comment="Insel" />
+<PLACE id="pl7" spans="922~928" text="Sicily" dcl="FALSE" form="NAM" type="CIVIL" dimensionality="VOLUME" comment="Insel" />
+<PLACE id="pl8" spans="964~982" text="Strait of Magellan" dcl="FALSE" form="NAM" dimensionality="VOLUME" comment="Meerenge mit zahlreichen Inseln" type="BODYOFWATER" />
+<PLACE id="pl9" spans="418~434" text="around the world" dcl="FALSE" form="NOM" dimensionality="VOLUME" type="BODYOFWATER" />
+<SPATIAL_ENTITY id="se0" spans="8~18" text="Melquíades" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se1" spans="105~125" text="José Arcadio Buendía" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se2" spans="225~230" text="horse" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se3" spans="247~251" text="ears" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="257~262" text="gypsy" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se5" spans="137~147" text="the latter" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se6" spans="454~456" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se7" spans="457~464" text="himself" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="485~505" text="José Arcadio Buendía" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se9" spans="607~612" text="pants" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se10" spans="594~599" text="cuffs" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se11" spans="669~674" text="claws" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se12" spans="685~693" text="fugitive" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se13" spans="676~678" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se14" spans="762~764" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se15" spans="1000~1008" text="creature" dcl="FALSE" type="PERSON" form="NOM" mod="prodigious" />
+<SPATIAL_ENTITY id="se16" spans="1038~1049" text="Nostradamus" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se17" spans="1030~1034" text="keys" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se18" spans="1064~1067" text="man" dcl="FALSE" type="PERSON" form="NOM" mod="gloomy" />
+<SPATIAL_ENTITY id="se19" spans="1201~1204" text="hat" dcl="FALSE" type="ARTIFACT" form="NOM" mod="large black" />
+<SPATIAL_ENTITY id="se20" spans="1179~1181" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se21" spans="1224~1229" text="raven" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se22" spans="1246~1251" text="wings" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se23" spans="1266~1270" text="vest" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se24" spans="1387~1389" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se25" spans="1491~1493" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se26" spans="1537~1539" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se27" spans="1604~1606" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se28" spans="1673~1678" text="teeth" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se29" spans="67~72" text="trips" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se30" spans="73~75" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se31" spans="180~188" text="strength" dcl="FALSE" mod="extraordinary" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se32" spans="412~417" text="trips" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se33" spans="655~661" text="clutch" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se34" spans="707~731" text="plagues and catastrophes" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se35" spans="778~786" text="pellagra" dcl="FALSE" type="DYNAMIC_EVENT" form="NAM" />
+<SPATIAL_ENTITY id="se36" spans="798~804" text="scurvy" dcl="FALSE" type="DYNAMIC_EVENT" form="NAM" />
+<SPATIAL_ENTITY id="se37" spans="833~840" text="leprosy" dcl="FALSE" type="DYNAMIC_EVENT" form="NAM" />
+<SPATIAL_ENTITY id="se38" spans="856~864" text="beriberi" dcl="FALSE" type="DYNAMIC_EVENT" form="NAM" />
+<SPATIAL_ENTITY id="se39" spans="875~889" text="bubonic plague" dcl="FALSE" form="NAM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se40" spans="908~918" text="earthquake" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se41" spans="936~956" text="disastrous shipwreck" dcl="FALSE" type="DYNAMIC_EVENT" form="NAM" />
+<SPATIAL_ENTITY id="se42" spans="473~475" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se43" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se44" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se45" spans="1653~1659" text="scurvy" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se46" spans="547~552" text="death" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se47" spans="562~565" text="him" dcl="FALSE" type="PERSON" form="NOM" />
+<NONMOTION_EVENT id="e0" spans="152~161" text="preserved"  />
+<NONMOTION_EVENT id="e1" spans="769~777" text="survived"  />
+<NONMOTION_EVENT id="e2" spans="1018~1025" text="possess"  />
+<NONMOTION_EVENT id="e4" spans="1182~1186" text="wore"  />
+<NONMOTION_EVENT id="e5" spans="1316~1322" text="skated"  />
+<NONMOTION_EVENT id="e6" spans="1500~1508" text="complain"  />
+<NONMOTION_EVENT id="e7" spans="1540~1548" text="suffered"  />
+<NONMOTION_EVENT id="e8" spans="1607~1627" text="had stopped laughing"  />
+<NONMOTION_EVENT id="e3" spans="263~269" text="seemed"  />
+<NONMOTION_EVENT id="e9" spans="76~82" text="seemed"  />
+<NONMOTION_EVENT id="e10" spans="196~205" text="permitted"  />
+<NONMOTION_EVENT id="e11" spans="278~287" text="been worn"  />
+<NONMOTION_EVENT id="e12" spans="382~392" text="contracted"  />
+<NONMOTION_EVENT id="e13" spans="465~469" text="said"  />
+<NONMOTION_EVENT id="e14" spans="476~481" text="spoke"  />
+<NONMOTION_EVENT id="e15" spans="624~632" text="deciding"  />
+<NONMOTION_EVENT id="e16" spans="1069~1078" text="enveloped"  />
+<NONMOTION_EVENT id="e17" spans="1120~1127" text="seemed "  />
+<NONMOTION_EVENT id="e18" spans="1664~1668" text="made"  />
+<NONMOTION_EVENT id="e19" spans="19~27" text="had aged"  />
+<MOTION id="m0" spans="213~222" text="pull down" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="524~530" text="set up" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="1679~1687" text="drop out" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m4" spans="234~242" text="grabbing" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m5" spans="553~561" text="followed" motion_type="MANNER" motion_class="FOLLOW" motion_sense="FICTIVE" />
+<MOTION id="m6" spans="578~586" text="sniffing" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="418~424" text="around" semantic_type="DIR_TOP" />
+<S_RELATION id="sr1" spans="787~789" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="805~807" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="841~843" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="865~867" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="890~892" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="919~921" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="957~959" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="587~589" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="600~602" text="of" semantic_type="TOPOLOGICAL" />
+<MEASURE id="me0" spans="400~411" text="innumerable" value=" innumerable" />
+<QSLINK id="qsl0" fromID="se2" fromText="horse" toID="se3" toText="ears" relType="INTPP" trajector="se2" landmark="-" trigger="-" />
+<QSLINK id="qsl1" fromID="se9" fromText="pants" toID="se10" toText="cuffs" relType="ITPP" trajector="se9" landmark="-" trigger="sr9" />
+<QSLINK id="qsl2" fromID="se20" fromText="He" toID="se19" toText="hat" relType="PO" trajector="se20" landmark="-" trigger="e4" />
+<QSLINK id="qsl3" fromID="se21" fromText="raven" toID="se22" toText="wings" relType="ITPP" trajector="se21" landmark="-" trigger="-" />
+<QSLINK id="qsl4" fromID="se35" fromText="pellagra" toID="pl2" toText="Persia" relType="IN" trajector="se35" landmark="pl2" trigger="sr7" />
+<QSLINK id="qsl5" fromID="se36" fromText="scurvy" toID="pl3" toText="Malayan archipelago" relType="IN" trajector="se36" landmark="pl3" trigger="sr2" />
+<QSLINK id="qsl6" fromID="se37" fromText="leprosy" toID="pl4" toText="Alexandria" relType="IN" trajector="se37" landmark="pl4" trigger="sr3" />
+<QSLINK id="qsl7" fromID="se38" fromText="beriberi" toID="pl5" toText="Japan" relType="IN" trajector="se38" landmark="pl5" trigger="sr4" />
+<QSLINK id="qsl8" fromID="se39" fromText="bubonic plague" toID="pl6" toText="Madagascar" relType="IN" trajector="se39" landmark="pl6" trigger="sr5" />
+<QSLINK id="qsl9" fromID="se40" fromText="earthquake" toID="pl7" toText="Sicily" relType="IN" trajector="se40" landmark="pl7" trigger="sr6" />
+<QSLINK id="qsl10" fromID="se41" fromText="disastrous shipwreck" toID="pl8" toText="Strait of Magellan" relType="IN" trajector="se41" landmark="pl8" trigger="sr7" />
+<QSLINK id="qsl11" fromID="se10" fromText="cuffs" toID="se9" toText="pants" trigger="sr8" landmark="-" trajector="se10" relType="NTPP" />
+<MOVELINK id="mvl0" fromID="se5" fromText="the latter" toID="se2" toText="horse" trigger="m0" mover="se5" goal_reached="YES" source="-" landmark="-" />
+<MOVELINK id="mvl1" fromID="se5" fromText="the latter" toID="se2" toText="horse" trigger="m4" source="-" mover="se5" landmark="-" goal_reached="YES" />
+<MOVELINK id="mvl2" fromID="se42" fromText="he" toID="se8" toText="José Arcadio Buendía" trigger="m1" source="pl1" mover="se42" landmark="pl1" goal_reached="YES" />
+<MOVELINK id="mvl4" toID="se47" toText="him" fromID="se46" fromText="death" trigger="m5" source="-" mover="se46" landmark="-" goal_reached="YES" />
+<MOVELINK id="mvl5" fromID="se46" fromText="death" toID="se47" toText="him" trigger="m6" source="-" mover="se46" landmark="-" goal_reached="YES" />
+<MOVELINK id="mvl6" fromID="se45" fromText="scurvy" toID="se28" toText="teeth" trigger="m2" source="-" mover="se45" landmark="-" goal_reached="YES" />
+<MEASURELINK id="ml0" fromID="me0" fromText="innumerable" toID="se32" toText="trips" relType="GENERAL_DIMENSION" landmark="pl9" />
+<METALINK id="metal0" fromID="se1" fromText="José Arcadio Buendía" toID="se5" toText="the latter" objectID1="se1" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se6" fromText="he" toID="se7" toText="himself" objectID1="se6" objectID2="se7" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se12" fromText="fugitive" toID="se13" toText="He" objectID1="se12" objectID2="se13" relType="COREFERENCE" />
+<METALINK id="metal3" toID="se18" toText="man" fromID="se15" fromText="creature" objectID1="se15" objectID2="se18" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se6" fromText="he" toID="se0" toText="Melquíades" objectID1="se6" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se42" fromText="he" toID="se0" toText="Melquíades" objectID1="se42" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se13" fromText="He" toID="se0" toText="Melquíades" objectID1="se13" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se13" fromText="He" toID="se12" toText="fugitive" objectID1="se13" objectID2="se12" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se35" fromText="pellagra" toID="se43" toText="" objectID1="se35" objectID2="se43" relType="SUBCOREFERENCE" />
+<METALINK id="metal9" fromID="se36" fromText="scurvy" toID="se43" toText="" objectID1="se36" objectID2="se43" relType="SUBCOREFERENCE" />
+<METALINK id="metal10" fromID="se37" fromText="leprosy" toID="se43" toText="" objectID1="se37" objectID2="se43" relType="SUBCOREFERENCE" />
+<METALINK id="metal11" fromID="se38" fromText="beriberi" toID="se43" toText="" objectID1="se38" objectID2="se43" relType="SUBCOREFERENCE" />
+<METALINK id="metal12" fromID="se39" fromText="bubonic plague" toID="se43" toText="" objectID1="se39" objectID2="se43" relType="SUBCOREFERENCE" />
+<METALINK id="metal13" fromID="se40" fromText="earthquake" toID="se43" toText="" objectID1="se40" objectID2="se43" relType="SUBCOREFERENCE" />
+<METALINK id="metal14" fromID="se41" fromText="disastrous shipwreck" toID="se43" toText="" objectID1="se41" objectID2="se43" relType="SUBCOREFERENCE" />
+<METALINK id="metal15" fromID="se43" fromText="" toID="se34" toText="plagues and catastrophes" objectID1="se43" objectID2="se34" relType="SPLITCOREFERENCE" />
+<METALINK id="metal16" fromID="se20" fromText="He" toID="se15" toText="creature" objectID1="se20" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal17" fromID="se24" fromText="he" toID="se20" toText="He" objectID1="se24" objectID2="se20" relType="COREFERENCE" />
+<METALINK id="metal18" fromID="se25" fromText="He" toID="se20" toText="He" objectID1="se25" objectID2="se20" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se21" fromText="raven" toID="se19" toText="hat" objectID1="se21" objectID2="se19" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se19" fromText="hat" toID="se44" toText="" objectID1="se19" objectID2="se44" relType="SUBCOREFERENCE" />
+<METALINK id="metal21" toID="se44" toText="" fromID="se23" fromText="vest" objectID1="se23" objectID2="se44" relType="SUBCOREFERENCE" />
+<METALINK id="metal22" fromID="se26" fromText="he" toID="se20" toText="He" objectID1="se26" objectID2="se20" relType="COREFERENCE" />
+<METALINK id="metal23" fromID="se27" fromText="he" toID="se20" toText="He" objectID1="se27" objectID2="se20" relType="COREFERENCE" />
+<METALINK id="metal24" fromID="se47" fromText="him" toID="se42" toText="he" objectID1="se47" objectID2="se42" relType="COREFERENCE" />
+<METALINK id="metal25"  />
+<METALINK id="metal26"  />
+<METALINK id="metal27"  />
+<SRLINK id="srole0" fromID="se14" fromText="He" toID="e1" toText="survived" relType="ARGO0" />
+<SRLINK id="srole1" fromID="se15" fromText="creature" toID="e2" toText="possess" relType="ARGO0" />
+<SRLINK id="srole2" fromID="se20" fromText="He" toID="e4" toText="wore" relType="ARGO0" />
+<SRLINK id="srole3" fromID="se25" fromText="He" toID="e6" toText="complain" relType="ARGO0" />
+<SRLINK id="srole4" fromID="se26" fromText="he" toID="e7" toText="suffered" relType="ARGO0" />
+<SRLINK id="srole5" fromID="se27" fromText="he" toID="e8" toText="had stopped laughing" relType="ARGO0" />
+</TAGS>
+</SpaceEvalTaskv1.2>

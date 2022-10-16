@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[“This made them giggle so delightedly that they were obliged to cover their mouths with their hands, remembering that they must not be heard. Colin had been instructed as to the law of whispers and low voices several days before. He liked the mysteriousness of it and did his best, but in the midst of excited enjoyment it is rather difficult never to laugh above a whisper.
+Every moment of the afternoon was full of new things and every hour the sunshine grew more golden. The wheeled chair had been drawn back under the canopy and Dickon had sat down on the grass and had just drawn out his pipe when Colin saw something he had not had time to notice before.
+"That's a very old tree over there, isn't it?" he said. Dickon looked across the grass at the tree and Mary looked and there was a brief moment of stillness.
+"Yes," answered Dickon, after it, and his low voice had a very gentle sound. Mary gazed at the tree and thought.
+"The branches are quite gray and there's not a single leaf anywhere," Colin went on. "It's quite dead, isn't it?"
+"Aye," admitted Dickon. "But them roses as has climbed all over it will near hide every bit o' th' dead wood when they're full o' leaves an' flowers. It won't look dead then. It'll be th' prettiest of all. Mary still gazed at the tree and thought.
+"It looks as if a big branch had been broken off," said Colin. "I wonder how it was done."
+"It's been done many a year," answered Dickon. "Eh!" with a sudden relieved start and laying his hand on Colin. "Look at that robin! There he is! He's been foragin' for his mate.”]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="690~695" text="there" dcl="FALSE" />
+<PLACE id="pl1" spans="991~999" text="anywhere" dcl="FALSE" />
+<SPATIAL_ENTITY id="se46" spans="1002~1007" text="Colin" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se47" spans="1018~1020" text="It" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se48" spans="1029~1033" text="dead" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se49" spans="1041~1043" text="it" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se50" spans="1062~1068" text="Dickon" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se56" spans="1080~1085" text="roses" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se57" spans="1110~1112" text="it" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se59" spans="1150~1154" text="wood" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se60" spans="1160~1164" text="they" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se61" spans="1176~1182" text="leaves" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se62" spans="1187~1194" text="flowers" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se8" spans="118~122" text="they" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se63" spans="1196~1198" text="It" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se1" spans="11~15" text="them" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se64" spans="1210~1214" text="dead" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se65" spans="1221~1223" text="It" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se67" spans="1252~1256" text="Mary" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se68" spans="1276~1280" text="tree" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se69" spans="1295~1297" text="It" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se70" spans="1316~1322" text="branch" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se71" spans="1350~1355" text="Colin" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se72" spans="1358~1359" text="I" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se73" spans="1371~1373" text="it" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se74" spans="1386~1388" text="It" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se75" spans="1424~1430" text="Dickon" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="142~147" text="Colin" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se82" spans="1461~1466" text="start" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se76" spans="1478~1486" text="his hand" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se77" spans="1490~1495" text="Colin" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se78" spans="1511~1516" text="robin" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se79" spans="1524~1526" text="he" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se80" spans="1531~1533" text="He" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se81" spans="1554~1562" text="his mate" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se11" spans="178~193" text="law of whispers" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se0" spans="1~5" text="This" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="230~232" text="He" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="243~257" text="mysteriousness" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se84" spans="261~263" text="it" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se14" spans="272~275" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se17" spans="310~319" text="enjoyment" dcl="FALSE" mod="excited" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se15" spans="320~322" text="it" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se16" spans="366~373" text="whisper" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se21" spans="381~387" text="moment" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se83" spans="38~42" text="that" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se20" spans="421~427" text="things" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se2" spans="43~47" text="they" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se18" spans="447~455" text="sunshine" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se19" spans="466~472" text="golden" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se22" spans="486~491" text="chair" dcl="FALSE" type="VEHICLE" />
+<SPATIAL_ENTITY id="se23" spans="522~528" text="canopy" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se24" spans="533~539" text="Dickon" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se25" spans="560~565" text="grass" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se52" spans="589~598" text="his pipe " type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se51" spans="603~608" text="Colin" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se53" spans="613~622" text="something" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se54" spans="623~625" text="he" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se55" spans="638~642" text="time" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se26" spans="662~666" text="That" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se27" spans="680~684" text="tree" dcl="FALSE" mod="very old" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se28" spans="703~705" text="it" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se29" spans="708~710" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="70~75" text="their" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se30" spans="717~723" text="Dickon" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se31" spans="742~747" text="grass" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se32" spans="755~759" text="tree" type="FAC" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se33" spans="764~768" text="Mary" form="NAM" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se5" spans="76~82" text="mouths" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se35" spans="792~817" text="brief moment of stillness" type="DYNAMIC_EVENT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se38" spans="835~841" text="Dickon" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se37" spans="849~851" text="it" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se39" spans="857~860" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se40" spans="865~870" text="voice" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se41" spans="889~894" text="sound" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se6" spans="88~93" text="their" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se42" spans="896~900" text="Mary" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se43" spans="914~918" text="tree" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se44" spans="937~945" text="branches" form="NOM" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se7" spans="94~99" text="hands" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se85" spans="956~960" text="gray" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se45" spans="986~990" text="leaf" form="NOM" dcl="FALSE" type="ARTIFACT" />
+<NONMOTION_EVENT id="e17" spans="1008~1015" text="went on"  />
+<NONMOTION_EVENT id="e4" spans="101~112" text="remembering"  />
+<NONMOTION_EVENT id="e18" spans="1053~1061" text="admitted"  />
+<NONMOTION_EVENT id="e19" spans="1123~1127" text="hide"  />
+<NONMOTION_EVENT id="e20" spans="1205~1209" text="look"  />
+<NONMOTION_EVENT id="e24" spans="1263~1268" text="gazed"  />
+<NONMOTION_EVENT id="e26" spans="1298~1303" text="looks"  />
+<NONMOTION_EVENT id="e21" spans="1345~1349" text="said"  />
+<NONMOTION_EVENT id="e5" spans="135~140" text="heard"  />
+<NONMOTION_EVENT id="e22" spans="1415~1423" text="answered"  />
+<NONMOTION_EVENT id="e28" spans="1498~1502" text="Look"  />
+<NONMOTION_EVENT id="e6" spans="157~167" text="instructed"  />
+<NONMOTION_EVENT id="e1" spans="16~22" text="giggle"  />
+<NONMOTION_EVENT id="e7" spans="233~238" text="liked"  />
+<NONMOTION_EVENT id="e8" spans="352~357" text="laugh"  />
+<NONMOTION_EVENT id="e2" spans="53~60" text="obliged"  />
+<NONMOTION_EVENT id="e9" spans="609~612" text="saw"  />
+<NONMOTION_EVENT id="e3" spans="64~69" text="cover"  />
+<NONMOTION_EVENT id="e0" spans="6~10" text="made"  />
+<NONMOTION_EVENT id="e11" spans="711~715" text="said"  />
+<NONMOTION_EVENT id="e12" spans="724~730" text="looked"  />
+<NONMOTION_EVENT id="e10" spans="769~775" text="looked"  />
+<NONMOTION_EVENT id="e13" spans="826~834" text="answered"  />
+<NONMOTION_EVENT id="e14" spans="901~906" text="gazed"  />
+<NONMOTION_EVENT id="e15" spans="923~930" text="thought"  />
+<NONMOTION_EVENT id="e16" spans="1285~1292" text="thought"  />
+<MOTION id="m4" spans="1093~1100" text="climbed" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m5" spans="1332~1342" text="broken off" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m6" spans="1471~1477" text="laying" motion_type="MANNER" motion_class="STAY" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m7" spans="1541~1548" text="foragin" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m0" spans="456~460" text="grew" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m1" spans="501~506" text="drawn" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m2" spans="544~552" text="sat down" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m3" spans="579~588" text="drawn out" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr8" spans="1269~1271" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="1487~1489" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="286~298" text="in the midst" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="512~517" text="under" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr0" spans="553~555" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="685~689" text="over" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr4" spans="731~737" text="across" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr5" spans="748~750" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="907~909" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="358~363" text="above" semantic_type="TOPOLOGICAL" />
+<QSLINK id="qsl1" fromID="se67" fromText="Mary" toID="e16" toText="thought" relType="EC" trajector="se67" landmark="e16" trigger="sr8" />
+<QSLINK id="qsl2" fromID="m6" fromText="laying" toID="se77" toText="Colin" relType="EC" trajector="m6" landmark="se77" trigger="sr9" />
+<QSLINK id="qsl3" fromID="se12" fromText="He" toID="se17" toText="enjoyment" relType="IN" trajector="se12" landmark="se17" trigger="sr1" />
+<QSLINK id="qsl4" fromID="se22" fromText="chair" toID="se23" toText="canopy" relType="EC" trigger="sr2" trajector="se22" landmark="se23" />
+<QSLINK id="qsl5" fromID="se24" fromText="Dickon" toID="se25" toText="grass" trigger="sr0" relType="EC" trajector="se24" landmark="se25" />
+<QSLINK id="qsl6" fromID="se27" fromText="tree" toID="pl0" toText="there" relType="EC" trajector="se27" landmark="pl0" trigger="sr3" />
+<QSLINK id="qsl7" fromID="se30" fromText="Dickon" toID="se31" toText="grass" trigger="sr4" relType="EC" trajector="se30" landmark="se31" />
+<QSLINK id="qsl8" fromID="se31" fromText="grass" toID="se32" toText="tree" relType="EC" trajector="se31" landmark="se32" trigger="sr5" />
+<QSLINK id="qsl9" fromID="se76" fromText="his hand" toID="se77" toText="Colin" relType="EC" trajector="se76" landmark="se77" trigger="sr9" />
+<OLINK id="ol0" fromID="se30" fromText="Dickon" toID="se31" toText="grass" relType="across" trajector="se30" landmark="se31" trigger="sr4" />
+<OLINK id="ol1" fromID="e8" fromText="laugh" toID="se16" toText="whisper" relType="above" trajector="e8" landmark="se16" trigger="sr11" />
+<MOVELINK id="mvl0" fromID="se18" fromText="sunshine" toID="se19" toText="golden" trigger="m0" source="se18" goal="se19" />
+<MOVELINK id="mvl1" fromID="se24" fromText="Dickon" toID="se25" toText="grass" trigger="m2" source="se24" goal="se25" />
+<MOVELINK id="mvl2" fromID="se22" fromText="chair" toID="se23" toText="canopy" trigger="m1" source="se22" goal="se23" />
+<MOVELINK id="mvl3" fromID="se56" fromText="roses" toID="se57" toText="it" trigger="m4" source="se56" goal="se57" />
+<MOVELINK id="mvl4" fromID="se70" fromText="branch" toID="se71" toText="Colin" trigger="m5" source="se70" goal="se71" />
+<MOVELINK id="mvl5" fromID="m6" fromText="laying" toID="se77" toText="Colin" trigger="m6" source="m6" goal="se77" />
+<MOVELINK id="mvl8" fromID="se80" fromText="He" toID="se81" toText="his mate" trigger="m7" source="se80" goal="se81" />
+<MOVELINK id="mvl9" fromID="se24" fromText="Dickon" toID="se52" toText="his pipe " trigger="m3" source="se24" goal="se52" />
+<MEASURELINK id="ml0"  />
+<MEASURELINK id="ml1"  />
+<METALINK id="metal0" fromID="se9" fromText="Colin" toID="se12" toText="He" objectID1="se9" objectID2="se12" />
+<METALINK id="metal1" fromID="se24" fromText="Dickon" toID="se52" toText="his pipe " objectID1="se24" objectID2="se52" />
+<METALINK id="metal2" fromID="se51" fromText="Colin" toID="se29" toText="he" objectID1="se51" objectID2="se29" />
+<METALINK id="metal3" fromID="se38" fromText="Dickon" toID="se39" toText="his" objectID1="se38" objectID2="se39" />
+</TAGS>
+</SpaceEvalTaskv1.2>

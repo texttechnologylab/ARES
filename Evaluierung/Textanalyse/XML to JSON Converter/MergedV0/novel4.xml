@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[The studio was filled with the rich odor of roses, and when the light summer wind stirred amidst the trees of the garden there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pinkflowering thorn. From the corner of the divan of Persian saddle-bags on which he was lying, smoking, as usual, innumerable cigarettes, Lord Henry Wotton could just catch the gleam of the honey-sweet and honey-colored blossoms of the laburnum, whose tremulous branches seemed hardly able to bear the burden of a beauty so flame-like as theirs; and now and then the fantastic shadows of birds in flight flitted across the long tussore-silk curtains that were stretched in front of the huge window, producing a kind of momentary Japanese effect, and making him think of those pallid jade-faced painters who, in an art that is necessarily immobile, seek to convey the sense of swiftness and motion. The sullen murmur of the bees shouldering their way through the long unmown grass, or circling with monotonous insistence round the black-crocketed spires of the early June hollyhocks, seemed to make the stillness more oppressive, and the dim roar of London was like the bourdon note of a distant organ. In the centre of the room, clamped to an upright easel, stood the full-length portrait of a young man of extraordinary personal beauty, and in front of it, some little distance away, was sitting the artist himself, Basil Hallward, whose sudden disappearance some years ago caused, at the time, such public excitement, and gave rise to so many strange conjectures. As he looked at the gracious and comely form he had so skilfully mirrored in his art, a smile of pleasure passed across his face, and seemed about to linger there. But he suddenly started up, and, closing his eyes, placed his fingers upon the lids, as though he sought to imprison within his brain some curious dream from which he feared he might awake.]]></TEXT>
+<TAGS>
+<PLACE id="pl1" spans="114~120" text="garden" type="CIVIL" form="NOM" dcl="FALSE" />
+<PLACE id="pl2" spans="1170~1176" text="London" type="STATE" form="NAM" dcl="FALSE" />
+<PLACE id="pl3" spans="1244~1248" text="room" type="CIVIL" form="NOM" dcl="FALSE" />
+<PLACE id="pl0" spans="4~10" text="studio" type="CIVIL" form="NOM" dcl="FALSE" />
+<PLACE id="pl4" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl6" spans="250~256" text="corner" dcl="FALSE" />
+<SPATIAL_ENTITY id="se2" spans="101~106" text="trees" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se26" spans="1067~1073" text="spires" type="ARTIFACT" mod="the black-crocketed...of the early June hollyhocks" dcl="FALSE" />
+<SPATIAL_ENTITY id="se27" spans="1216~1221" text="organ" type="ARTIFACT" mod="distant" dcl="FALSE" />
+<SPATIAL_ENTITY id="se28" spans="1261~1277" text="an upright easel" type="ARTIFACT" dcl="FALSE" />
+<SPATIAL_ENTITY id="se29" spans="1301~1324" text="portrait of a young man" type="ARTIFACT" dcl="FALSE" />
+<SPATIAL_ENTITY id="se30" spans="1422~1428" text="artist" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se31" spans="1429~1436" text="himself" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se32" spans="1438~1452" text="Basil Hallward" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se33" spans="1454~1459" text="whose" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se3" spans="149~153" text="door" type="ARTIFACT" mod="the open" dcl="FALSE" comment="=VOLUME" />
+<SPATIAL_ENTITY id="se34" spans="1590~1592" text="he" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se35" spans="1632~1634" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se36" spans="1664~1671" text="his art" dcl="FALSE" />
+<SPATIAL_ENTITY id="se37" spans="1711~1715" text="face" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se38" spans="1755~1757" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="177~182" text="lilac" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se39" spans="1796~1800" text="eyes" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se40" spans="1813~1820" text="fingers" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se41" spans="1830~1834" text="lids" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se42" spans="1846~1848" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se43" spans="1879~1884" text="brain" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se44" spans="1915~1917" text="he" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se45" spans="1925~1927" text="he" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se5" spans="205~239" text="perfume of the pinkflowering thorn" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se8" spans="260~292" text="the divan of Persian saddle-bags" type="ARTIFACT" dcl="FALSE" comment="countable " />
+<SPATIAL_ENTITY id="se46" spans="296~301" text="which" type="ARTIFACT" dcl="FALSE" comment="=TrUE" />
+<SPATIAL_ENTITY id="se9" spans="302~304" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se10" spans="347~357" text="cigarettes" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se11" spans="359~376" text="Lord Henry Wotton" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="441~449" text="blossoms" type="ARTIFACT" mod="honey colored" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="44~49" text="roses" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="457~465" text="laburnum" type="ARTIFACT" dcl="FALSE" />
+<SPATIAL_ENTITY id="se15" spans="467~472" text="whose" type="ARTIFACT" dcl="FALSE" />
+<SPATIAL_ENTITY id="se14" spans="483~491" text="branches" type="ARTIFACT" mod="tremulous" dcl="FALSE" />
+<SPATIAL_ENTITY id="se16" spans="559~565" text="theirs" dcl="FALSE" />
+<SPATIAL_ENTITY id="se17" spans="598~615" text="shadows of birds " type="ARTIFACT" dcl="FALSE" />
+<SPATIAL_ENTITY id="se18" spans="618~624" text="flight" type="DYNAMIC_EVENT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se19" spans="662~670" text="curtains" type="ARTIFACT" mod="long tussore silk" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="70~81" text="summer wind" type="DYNAMIC_EVENT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se20" spans="712~718" text="window" type="ARTIFACT" mod="huge" dcl="FALSE" />
+<SPATIAL_ENTITY id="se21" spans="778~781" text="him" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se22" spans="815~823" text="painters" type="PERSON" mod="pallid jade-faced" dcl="FALSE" />
+<SPATIAL_ENTITY id="se23" spans="824~827" text="who" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se24" spans="944~948" text="bees" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se25" spans="995~1000" text="grass" type="ARTIFACT" mod="the long unmown" dcl="FALSE" />
+<NONMOTION_EVENT id="e26" spans="1114~1118" text="make"  />
+<NONMOTION_EVENT id="e12" spans="1162~1166" text="roar"  />
+<NONMOTION_EVENT id="e13" spans="1279~1284" text="stood"  />
+<NONMOTION_EVENT id="e25" spans="127~131" text="came"  />
+<NONMOTION_EVENT id="e14" spans="1410~1417" text="sitting"  />
+<NONMOTION_EVENT id="e15" spans="1496~1502" text="caused"  />
+<NONMOTION_EVENT id="e23" spans="1550~1554" text="rise"  />
+<NONMOTION_EVENT id="e16" spans="1593~1599" text="looked"  />
+<NONMOTION_EVENT id="e0" spans="15~21" text="filled"  />
+<NONMOTION_EVENT id="e24" spans="1635~1638" text="had"  />
+<NONMOTION_EVENT id="e17" spans="1652~1660" text="mirrored" mod="o skilfully..in his art" />
+<NONMOTION_EVENT id="e18" spans="1767~1777" text="started up"  />
+<NONMOTION_EVENT id="e19" spans="1784~1791" text="closing"  />
+<NONMOTION_EVENT id="e20" spans="1802~1808" text="placed"  />
+<NONMOTION_EVENT id="e27" spans="1849~1855" text="sought"  />
+<NONMOTION_EVENT id="e21" spans="1898~1903" text="dream" mod="some curious" />
+<NONMOTION_EVENT id="e22" spans="1918~1924" text="feared"  />
+<NONMOTION_EVENT id="e2" spans="309~314" text="lying"  />
+<NONMOTION_EVENT id="e3" spans="316~323" text="smoking"  />
+<NONMOTION_EVENT id="e4" spans="388~393" text="catch"  />
+<NONMOTION_EVENT id="e5" spans="492~498" text="seemed" mod="hardly able to bear" />
+<NONMOTION_EVENT id="e6" spans="625~632" text="flitted"  />
+<NONMOTION_EVENT id="e7" spans="681~690" text="stretched"  />
+<NONMOTION_EVENT id="e8" spans="720~729" text="producing"  />
+<NONMOTION_EVENT id="e1" spans="82~89" text="stirred"  />
+<NONMOTION_EVENT id="e10" spans="869~873" text="seek"  />
+<NONMOTION_EVENT id="e11" spans="949~960" text="shouldering"  />
+<NONMOTION_EVENT id="e28" spans="771~777" text="making"  />
+<S_RELATION id="sr7" spans="1167~1169" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="1223~1236" text="In the centre" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="1258~1260" text="to" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr10" spans="1363~1374" text="in front of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr12" spans="1821~1825" text="upon" semantic_type="DIR_TOP" />
+<S_RELATION id="sr2" spans="293~295" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr3" spans="450~452" text="of" semantic_type="DIR_TOP" />
+<S_RELATION id="sr4" spans="615~617" text="in" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr5" spans="633~639" text="across" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr6" spans="691~702" text="in front of" semantic_type="DIR_TOP" />
+<S_RELATION id="sr13" spans="971~978" text="through" semantic_type="DIR_TOP" />
+<S_RELATION id="sr14" spans="257~259" text="of" semantic_type="DIRECTIONAL" />
+<MEASURE id="me0" spans="335~346" text="innumerable"  />
+<QSLINK id="qsl0" fromID="se29" fromText="portrait of a young man" toID="se28" toText="an upright easel" trigger="sr10" relType="DC" trajector="se29" landmark="se28" />
+<QSLINK id="qsl1" fromID="se40" fromText="fingers" toID="se41" toText="lids" trajector="se40" landmark="se41" trigger="sr12" relType="EC" />
+<QSLINK id="qsl2" fromID="se9" fromText="he" toID="se8" toText="the divan of Persian saddle-bags" trigger="sr2" relType="EC" trajector="se9" landmark="se8" />
+<QSLINK id="qsl3" fromID="se12" fromText="blossoms" toID="se13" toText="laburnum" trigger="sr3" relType="NTPP" trajector="se12" landmark="se13" />
+<QSLINK id="qsl4" fromID="se19" fromText="curtains" toID="se20" toText="window" trigger="sr6" trajector="se19" relType="DC" landmark="se20" />
+<QSLINK id="qsl5" fromID="se24" fromText="bees" toID="se25" toText="grass" trigger="sr13" trajector="se24" landmark="se25" relType="IN" />
+<QSLINK id="qsl6" fromID="e12" fromText="roar" toID="pl2" toText="London" trigger="sr7" relType="IN" trajector="e12" landmark="pl2" />
+<QSLINK id="qsl7" fromID="se28" fromText="an upright easel" toID="pl3" toText="room" trigger="sr8" landmark="pl3" trajector="se28" relType="IN" />
+<QSLINK id="qsl8" fromID="se29" fromText="portrait of a young man" toID="pl3" toText="room" trigger="sr8" landmark="pl3" trajector="se29" relType="IN" />
+<QSLINK id="qsl9" fromID="se0" fromText="roses" toID="pl1" toText="garden" relType="IN" trajector="se0" landmark="pl1" />
+<QSLINK id="qsl10" fromID="se2" fromText="trees" toID="pl1" toText="garden" relType="IN" trajector="se2" landmark="pl1" />
+<QSLINK id="qsl11" fromID="se4" fromText="lilac" toID="pl1" toText="garden" relType="IN" trajector="se4" landmark="pl1" />
+<QSLINK id="qsl12" fromID="se5" fromText="perfume of the pinkflowering thorn" toID="pl1" toText="garden" relType="IN" trajector="se5" landmark="pl1" />
+<QSLINK id="qsl13" fromID="se13" fromText="laburnum" toID="pl1" toText="garden" relType="IN" trajector="se13" landmark="pl1" />
+<QSLINK id="qsl14" fromID="se25" fromText="grass" toID="pl1" toText="garden" relType="IN" trajector="se25" landmark="pl1" />
+<QSLINK id="qsl15" fromID="se26" fromText="spires" toID="pl1" toText="garden" relType="IN" trajector="se26" landmark="pl1" />
+<QSLINK id="qsl16" fromID="se3" fromText="door" toID="pl0" toText="studio" landmark="pl0" relType="IN" trajector="se3" />
+<QSLINK id="qsl17" fromID="se1" fromText="summer wind" toID="pl1" toText="garden" relType="IN" trajector="se1" landmark="pl1" />
+<QSLINK id="qsl18" fromID="se8" fromText="the divan of Persian saddle-bags" toID="pl0" toText="studio" relType="IN" trajector="se8" landmark="pl0" />
+<QSLINK id="qsl19" fromID="se20" fromText="window" toID="pl0" toText="studio" relType="IN" trajector="se20" landmark="pl0" />
+<QSLINK id="qsl20" fromID="se11" fromText="Lord Henry Wotton" toID="pl0" toText="studio" relType="IN" trajector="se11" landmark="pl0" />
+<QSLINK id="qsl21" fromID="se19" fromText="curtains" toID="pl0" toText="studio" relType="IN" trajector="se19" landmark="pl0" />
+<QSLINK id="qsl22" fromID="se28" fromText="an upright easel" toID="pl3" toText="room" relType="IN" trajector="se28" landmark="pl3" />
+<QSLINK id="qsl23" fromID="se29" fromText="portrait of a young man" toID="pl3" toText="room" relType="IN" trajector="se29" landmark="pl3" />
+<QSLINK id="qsl24" fromID="se32" fromText="Basil Hallward" toID="pl3" toText="room" relType="IN" trajector="se32" landmark="pl3" />
+<QSLINK id="qsl25" fromID="se41" fromText="lids" toID="pl3" toText="room" relType="IN" trajector="se41" landmark="pl3" />
+<QSLINK id="qsl26"  />
+<QSLINK id="qsl27"  />
+<OLINK id="ol1" fromID="se9" fromText="he" toID="se8" toText="the divan of Persian saddle-bags" trigger="sr2" relType="on top " trajector="se9" landmark="se8" frame_type="ABSOLUTE" referencePt="se9" />
+<OLINK id="ol2" fromID="se12" fromText="blossoms" toID="se13" toText="laburnum" trigger="sr3" trajector="se12" landmark="se13" frame_type="ABSOLUTE" relType="on " referencePt="se13" />
+<OLINK id="ol3" fromID="se17" fromText="shadows of birds " toID="se18" toText="flight" trigger="sr4" relType="in" trajector="se17" landmark="se18" frame_type="ABSOLUTE" referencePt="se18" />
+<OLINK id="ol4" fromID="se19" fromText="curtains" toID="se20" toText="window" trigger="sr6" relType="in front " trajector="se19" landmark="se20" frame_type="ABSOLUTE" referencePt="se20" />
+<OLINK id="ol5" fromID="se28" fromText="an upright easel" toID="se29" toText="portrait of a young man" trigger="sr9" relType="on " trajector="se29" landmark="se28" frame_type="ABSOLUTE" referencePt="se28" />
+<OLINK id="ol6" fromID="se29" fromText="portrait of a young man" toID="se30" toText="artist" trigger="sr10" relType="in front " frame_type="ABSOLUTE" referencePt="se30" trajector="se29" landmark="se30" />
+<OLINK id="ol8" fromID="se40" fromText="fingers" toID="se41" toText="lids" trigger="sr13" relType="upon" trajector="se40" landmark="se41" frame_type="ABSOLUTE" referencePt="se32" />
+<OLINK id="ol9" fromID="pl6" fromText="corner" toID="se8" toText="the divan of Persian saddle-bags" trigger="sr14" relType="corner " trajector="pl6" landmark="se8" frame_type="ABSOLUTE" referencePt="se8" />
+<METALINK id="metal0" fromID="se11" fromText="Lord Henry Wotton" toID="se9" toText="he" objectID1="se9" objectID2="se11" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se13" fromText="laburnum" toID="se15" toText="whose" objectID1="se13" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se13" fromText="laburnum" toID="se2" toText="trees" objectID2="se2" objectID1="se13" relType="SPLITCOREFERENCE" />
+<METALINK id="metal3" fromID="se12" fromText="blossoms" toID="se16" toText="theirs" objectID2="se12" objectID1="se16" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se21" fromText="him" toID="se11" toText="Lord Henry Wotton" objectID1="se21" objectID2="se11" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se34" fromText="he" toID="se32" toText="Basil Hallward" objectID1="se34" objectID2="se32" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se35" fromText="he" toID="se32" toText="Basil Hallward" objectID1="se35" objectID2="se32" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se38" fromText="he" toID="se32" toText="Basil Hallward" objectID1="se38" objectID2="se32" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se42" fromText="he" toID="se32" toText="Basil Hallward" objectID1="se42" objectID2="se32" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se44" fromText="he" toID="se32" toText="Basil Hallward" objectID1="se44" objectID2="se32" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se45" fromText="he" toID="se32" toText="Basil Hallward" objectID1="se45" objectID2="se32" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se30" fromText="artist" toID="se32" toText="Basil Hallward" objectID1="se30" objectID2="se32" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se31" fromText="himself" toID="se32" toText="Basil Hallward" objectID1="se31" objectID2="se32" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se33" fromText="whose" toID="se32" toText="Basil Hallward" objectID1="se32" objectID2="se33" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="pl3" fromText="room" toID="pl0" toText="studio" objectID1="pl0" objectID2="pl3" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Kafka was born into a middle-class German-speaking Jewish family in Prague, the capital of the Kingdom of Bohemia, then part of the Austro-Hungarian Empire, today the capital of the Czech Republic. He trained as a lawyer and after completing his legal education was employed full-time by an insurance company, forcing him to relegate writing to his spare time. Over the course of his life, Kafka wrote hundreds of letters to family and close friends, including his father, with whom he had a strained and formal relationship. He became engaged to several women but never married. He died in 1924 at the age of 40 from tuberculosis. ]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="68~74" text="Prague" dcl="FALSE" type="PPLC" dimensionality="VOLUME" form="NAM" />
+<PLACE id="pl1" spans="80~87" text="capital" dcl="FALSE" type="PPLC" dimensionality="VOLUME" form="NOM" />
+<PLACE id="pl2" spans="95~113" text="Kingdom of Bohemia" dcl="FALSE" type="STATE" />
+<PLACE id="pl3" spans="120~124" text="part" dcl="FALSE" type="PPLC" />
+<PLACE id="pl4" spans="132~155" text="Austro-Hungarian Empire" dcl="FALSE" type="STATE" />
+<PLACE id="pl5" spans="167~174" text="capital" dcl="FALSE" type="PPLC" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl6" spans="182~196" text="Czech Republic" dcl="FALSE" dimensionality="VOLUME" form="NAM" type="COUNTRY" />
+<SPATIAL_ENTITY id="se0" spans="0~5" text="Kafka" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se1" spans="51~64" text="Jewish family" dcl="FALSE" type="PERSON" form="NOM" mod="middle-class German-speaking" />
+<SPATIAL_ENTITY id="se2" spans="198~200" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se3" spans="214~220" text="lawyer" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="252~261" text="education" dcl="FALSE" mod="legal" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se5" spans="301~308" text="company" dcl="FALSE" mod="insurance" type="FAC" />
+<SPATIAL_ENTITY id="se6" spans="318~321" text="him" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se8" spans="384~388" text="life" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se9" spans="380~383" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se10" spans="390~395" text="Kafka" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se11" spans="414~421" text="letters" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se12" spans="425~431" text="family" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se13" spans="442~449" text="friends" dcl="FALSE" mod="close" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se14" spans="465~471" text="father" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se15" spans="478~482" text="whom" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se16" spans="483~485" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se17" spans="512~524" text="relationship" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="strained and formal" />
+<SPATIAL_ENTITY id="se18" spans="526~528" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="555~560" text="women" dcl="FALSE" mod="several" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se20" spans="580~582" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se21" spans="618~630" text="tuberculosis" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<NONMOTION_EVENT id="e0" spans="6~14" text="was born"  />
+<NONMOTION_EVENT id="e1" spans="201~208" text="trained"  />
+<NONMOTION_EVENT id="e2" spans="231~241" text="completing"  />
+<NONMOTION_EVENT id="e3" spans="266~274" text="employed"  />
+<NONMOTION_EVENT id="e4" spans="334~341" text="writing"  />
+<NONMOTION_EVENT id="e5" spans="396~401" text="wrote"  />
+<NONMOTION_EVENT id="e6" spans="571~578" text="married"  />
+<MOTION id="m0" spans="529~543" text="became engaged" motion_class="MOVE_INTERNAL" motion_type="COMPOUND" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m1" spans="583~587" text="died" motion_type="COMPOUND" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<S_RELATION id="sr0" spans="15~19" text="into" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr1" spans="65~67" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="88~90" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="125~127" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="175~177" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="285~287" text="by" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr6" spans="361~365" text="Over" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr7" spans="422~424" text="to" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr8" spans="544~546" text="to" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr9" spans="588~590" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="596~598" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="613~617" text="from" semantic_type="TOPOLOGICAL" />
+<MEASURE id="me0" spans="402~410" text="hundreds"  />
+<MEASURE id="me1" spans="603~612" text="age of 40" value="40" unit="age" />
+<MEASURE id="me2" spans="547~554" text="several"  />
+<QSLINK id="qsl0" fromID="se0" fromText="Kafka" toID="se1" toText="Jewish family" relType="IN" trajector="se0" landmark="se1" trigger="sr0" />
+<QSLINK id="qsl1" fromID="se1" fromText="Jewish family" toID="pl0" toText="Prague" trigger="sr1" relType="IN" trajector="se1" landmark="pl0" />
+<QSLINK id="qsl2" fromID="pl1" fromText="capital" toID="pl2" toText="Kingdom of Bohemia" trigger="sr2" relType="TPP" trajector="pl1" landmark="pl2" />
+<QSLINK id="qsl3" fromID="pl3" fromText="part" toID="pl4" toText="Austro-Hungarian Empire" trigger="sr3" relType="TPP" trajector="pl3" landmark="pl4" />
+<QSLINK id="qsl4" fromID="pl5" fromText="capital" toID="pl6" toText="Czech Republic" trigger="sr4" relType="TPP" trajector="pl5" landmark="pl6" />
+<QSLINK id="qsl5" toID="m1" toText="died" fromID="se20" fromText="He" trigger="sr9" relType="IN" comment="died in 1924 -- isotime?" trajector="se20" landmark="se21" />
+<QSLINK id="qsl6" fromID="se20" fromText="He" toID="me1" toText="age of 40" trigger="sr10" comment="died at the age of 40" relType="EQ" trajector="se20" landmark="se21" />
+<QSLINK id="qsl7" fromID="se20" fromText="He" toID="se21" toText="tuberculosis" trigger="sr11" comment="died from tubeculosis" relType="DC" trajector="se20" landmark="se21" />
+<QSLINK id="qsl8" fromID="se5" fromText="company" relType="IN" trajector="pl6" />
+<QSLINK id="qsl9" fromID="se14" fromText="father" relType="IN" trajector="pl6" />
+<QSLINK id="qsl10" fromID="se19" fromText="women" relType="IN" trajector="pl6" />
+<QSLINK id="qsl11" fromID="se13" fromText="friends" relType="IN" trajector="pl6" />
+<OLINK id="ol0" fromID="se0" fromText="Kafka" toID="se1" toText="Jewish family" trajector="se0" landmark="se1" trigger="sr0" frame_type="ABSOLUTE" referencePt="Kafta" />
+<MEASURELINK id="ml0" fromID="me0" fromText="hundreds" toID="se11" toText="letters" val="me0" trajector="se11" landmark="se11" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml1" fromID="se20" fromText="He" toID="se21" toText="tuberculosis" val="me1" trajector="me1" landmark="se20" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml2" fromID="se18" fromText="He" toID="se19" toText="women" val="me2" trajector="m0" landmark="se19" relType="GENERAL_DIMENSION" />
+<METALINK id="metal0" fromID="se0" fromText="Kafka" toID="se1" toText="Jewish family" relType="SUBCOREFERENCE" objectID2="se0" objectID1="se1" />
+<METALINK id="metal1" toID="se2" toText="He" fromID="se0" fromText="Kafka" objectID2="se0" objectID1="se2" relType="COREFERENCE" />
+<METALINK id="metal2" toID="se3" toText="lawyer" fromID="se0" fromText="Kafka" objectID2="se0" objectID1="se3" relType="COREFERENCE" />
+<METALINK id="metal3" toID="se6" toText="him" fromID="se0" fromText="Kafka" objectID2="se0" objectID1="se6" relType="COREFERENCE" />
+<METALINK id="metal4" toID="se9" toText="his" fromID="se0" fromText="Kafka" objectID2="se0" objectID1="se9" relType="COREFERENCE" />
+<METALINK id="metal5" toID="se10" toText="Kafka" fromID="se0" fromText="Kafka" objectID2="se0" objectID1="se10" relType="COREFERENCE" />
+<METALINK id="metal6" toID="se16" toText="he" fromID="se0" fromText="Kafka" objectID2="se0" objectID1="se16" relType="COREFERENCE" />
+<METALINK id="metal7" toID="se18" toText="He" fromID="se0" fromText="Kafka" objectID2="se0" objectID1="se18" relType="COREFERENCE" />
+<METALINK id="metal8" toID="se20" toText="He" fromID="se0" fromText="Kafka" objectID2="se0" objectID1="se20" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se1" fromText="Jewish family" toID="se12" toText="family" relType="COREFERENCE" objectID1="se1" objectID2="se12" />
+<METALINK id="metal10" fromID="pl0" fromText="Prague" toID="pl1" toText="capital" relType="COREFERENCE" objectID1="pl0" objectID2="pl1" />
+<METALINK id="metal11" fromID="pl0" fromText="Prague" toID="pl5" toText="capital" relType="COREFERENCE" objectID1="pl0" objectID2="pl5" />
+<METALINK id="metal12" fromID="pl2" fromText="Kingdom of Bohemia" toID="pl3" toText="part" relType="COREFERENCE" objectID1="pl2" objectID2="pl3" />
+<METALINK id="metal13" fromID="pl2" fromText="Kingdom of Bohemia" toID="pl4" toText="Austro-Hungarian Empire" relType="SPLITCOREFERENCE" objectID1="pl2" objectID2="pl4" />
+<METALINK id="metal14" fromID="pl4" fromText="Austro-Hungarian Empire" toID="pl6" toText="Czech Republic" relType="SUBCOREFERENCE" objectID1="pl4" objectID2="pl6" />
+<METALINK id="metal15" fromID="pl0" fromText="Prague" toID="pl6" toText="Czech Republic" relType="SUBCOREFERENCE" objectID1="pl0" objectID2="pl6" />
+<METALINK id="metal16" fromID="se14" fromText="father" toID="se15" toText="whom" objectID1="se14" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal17" toID="se1" toText="Jewish family" fromID="se14" fromText="father" objectID1="se14" objectID2="se1" relType="SUBCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

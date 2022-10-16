@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle: https://en.m.wikisource.org/wiki/Basic_Law_for_the_Federal_Republic_of_Germany_(2010)
+
+Conscious of their responsibility before God and man, Inspired by the determination to promote world peace as an equal partner in a united Europe, the German people, in the exercise of their constituent power, have adopted this Basic Law. Germans in the Länder of Baden-Württemberg, Bavaria, Berlin, Brandenburg, Bremen, Hamburg, Hesse, Lower Saxony, Mecklenburg-Western Pomerania, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein and Thuringia have achieved the unity and freedom of Germany in free self-determination. This Basic Law thus applies to the entire German people.
+
+I. Basic Rights	Edit
+Article 1
+[Human dignity – Human rights – Legally binding force of basic rights]	Edit
+(1) Human dignity shall be inviolable. To respect and protect it shall be the duty of all state authority.
+
+(2) The German people therefore acknowledge inviolable and inalienable human rights as the basis of every community, of peace and of justice in the world.
+
+(3) The following basic rights shall bind the legislature, the executive and the judiciary as directly applicable law.
+
+Article 2
+[Personal freedoms]	Edit
+(1) Every person shall have the right to free development of his personality insofar as he does not violate the rights of others or offend against the constitutional order or the moral law.
+
+(2) Every person shall have the right to life and physical integrity. Freedom of the person shall be inviolable. These rights may be interfered with only pursuant to a law.
+
+Article 3
+[Equality before the law]	Edit
+(1) All persons shall be equal before the law.
+
+(2) Men and women shall have equal rights. The state shall promote the actual implementation of equal rights for women and men and take steps to eliminate disadvantages that now exist.
+
+(3) No person shall be favoured or disfavoured because of sex, parentage, race, language, homeland and origin, faith, or religious or political opinions. No person shall be dis­favoured because of disability.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="234~240" text="Europe" dcl="FALSE" form="NOM" mod="united" type="STATE" />
+<PLACE id="pl1" spans="359~376" text="Baden-Württemberg" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl2" spans="378~385" text="Bavaria" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl3" spans="387~393" text="Berlin" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl4" spans="395~406" text="Brandenburg" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl5" spans="408~414" text="Bremen" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl6" spans="416~423" text="Hamburg" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl7" spans="425~430" text="Hesse" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl8" spans="432~444" text="Lower Saxony" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl9" spans="446~475" text="Mecklenburg-Western Pomerania" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl10" spans="477~499" text="North Rhine-Westphalia" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl11" spans="501~521" text="Rhineland-Palatinate" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl12" spans="523~531" text="Saarland" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl13" spans="533~539" text="Saxony" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl14" spans="541~554" text="Saxony-Anhalt" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl15" spans="556~574" text="Schleswig-Holstein" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl16" spans="579~588" text="Thuringia" dcl="FALSE" form="NOM" mod="∅" type="STATE" />
+<PLACE id="pl17" spans="628~635" text="Germany" dcl="FALSE" form="NOM" mod="∅" type="COUNTRY" />
+<PLACE id="pl18" spans="1085~1090" text="world" dcl="FALSE" type="GRID" form="NOM" mod="∅" />
+<PLACE id="pl19" spans="1978~1986" text="homeland" dcl="FALSE" type="COUNTRY" form="NOM" mod="∅" />
+<PLACE id="pl20" spans="1991~1997" text="origin" dcl="FALSE" type="COUNTRY" form="NOM" />
+<SPATIAL_ENTITY id="se0" spans="246~259" text="German people" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se1" spans="334~341" text="Germans" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se2" spans="706~719" text="German people" dcl="FALSE" type="PERSON" form="NOM" mod="entire" />
+<SPATIAL_ENTITY id="se3" spans="941~958" text="The German people" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se4" spans="1258~1264" text="person" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se5" spans="1336~1338" text="he" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se6" spans="1370~1376" text="others" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se7" spans="1449~1455" text="person" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se8" spans="1524~1530" text="person" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se9" spans="1662~1669" text="persons" dcl="FALSE" type="PERSON" form="NOM" mod="all" />
+<SPATIAL_ENTITY id="se10" spans="1706~1709" text="Men" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se11" spans="1714~1719" text="women" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se12" spans="1815~1820" text="women" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se13" spans="1825~1828" text="men" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se14" spans="1895~1901" text="person" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se16" spans="2045~2051" text="person" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se15" spans="114~128" text="responsibility" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se17" spans="165~178" text="determination" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se18" spans="214~221" text="partner" dcl="FALSE" type="PERSON" form="NOM" mod="equal" />
+<SPATIAL_ENTITY id="se19" spans="298~303" text="power" dcl="FALSE" form="NOM" mod="constituent" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se20" spans="644~662" text="self-determination" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="free" />
+<SPATIAL_ENTITY id="se21" spans="607~612" text="unity" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se22" spans="617~624" text="freedom" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se23" spans="268~276" text="exercise" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se24" spans="833~846" text="Human dignity" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="inviolable" />
+<SPATIAL_ENTITY id="se25" spans="907~911" text="duty" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se26" spans="919~934" text="state authority" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se27" spans="1008~1020" text="human rights" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="inviolable and inalienable" />
+<SPATIAL_ENTITY id="se28" spans="1043~1052" text="community" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se29" spans="1070~1077" text="justice" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se30" spans="1280~1285" text="right" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se31" spans="1294~1305" text="development" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="free" />
+<SPATIAL_ENTITY id="se32" spans="1313~1324" text="personality" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se33" spans="1414~1419" text="order" dcl="FALSE" type="FAC" form="NOM" mod="constitutional" />
+<SPATIAL_ENTITY id="se34" spans="1427~1436" text="moral law" dcl="FALSE" type="DYNAMIC_EVENT" mod="∅" form="NOM" />
+<SPATIAL_ENTITY id="se35" spans="1946~1949" text="sex" dcl="FALSE" type="DYNAMIC_EVENT" mod="∅" form="NOM" />
+<SPATIAL_ENTITY id="se36" spans="1951~1960" text="parentage" dcl="FALSE" type="DYNAMIC_EVENT" mod="∅" form="NOM" />
+<SPATIAL_ENTITY id="se37" spans="1962~1966" text="race" dcl="FALSE" type="DYNAMIC_EVENT" mod="∅" form="NOM" />
+<SPATIAL_ENTITY id="se38" spans="1968~1976" text="language" dcl="FALSE" type="DYNAMIC_EVENT" mod="∅" form="NOM" />
+<SPATIAL_ENTITY id="se40" spans="1999~2004" text="faith" dcl="FALSE" type="DYNAMIC_EVENT" mod="∅" form="NOM" />
+<SPATIAL_ENTITY id="se41" spans="2032~2040" text="opinions" dcl="FALSE" type="DYNAMIC_EVENT" mod="religious and political" form="NOM" />
+<SPATIAL_ENTITY id="se42" spans="2085~2095" text="disability" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se39" spans="1558~1564" text="rights" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se43" spans="1780~1794" text="implementation" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="actual" />
+<SPATIAL_ENTITY id="se44" spans="1804~1810" text="rights" dcl="FALSE" type="ARTIFACT" form="NOM" mod="equal" />
+<SPATIAL_ENTITY id="se45" spans="891~893" text="it" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se46" spans="1156~1165" text="executive" dcl="FALSE" type="PERSON" mod="∅" form="NOM" />
+<SPATIAL_ENTITY id="se47" spans="1174~1183" text="judiciary" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se48" spans="1207~1210" text="law" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<NONMOTION_EVENT id="e0" spans="305~317" text="have adopted"  />
+<NONMOTION_EVENT id="e1" spans="594~602" text="achieved"  />
+<NONMOTION_EVENT id="e2" spans="969~980" text="acknowledge"  />
+<NONMOTION_EVENT id="e3" spans="1348~1355" text="violate"  />
+<NONMOTION_EVENT id="e4" spans="1380~1386" text="offend"  />
+<NONMOTION_EVENT id="e5" spans="1761~1768" text="promote"  />
+<NONMOTION_EVENT id="e6" spans="1847~1856" text="eliminate"  />
+<NONMOTION_EVENT id="e7" spans="1911~1919" text="favoured"  />
+<NONMOTION_EVENT id="e8" spans="1923~1934" text="disfavoured"  />
+<NONMOTION_EVENT id="e9" spans="2061~2073" text="dis­favoured"  />
+<NONMOTION_EVENT id="e10" spans="182~189" text="promote"  />
+<NONMOTION_EVENT id="e11" spans="149~157" text="Inspired"  />
+<NONMOTION_EVENT id="e12" spans="847~855" text="shall be"  />
+<NONMOTION_EVENT id="e13" spans="871~878" text="respect"  />
+<NONMOTION_EVENT id="e14" spans="883~890" text="protect"  />
+<NONMOTION_EVENT id="e15" spans="894~902" text="shall be"  />
+<NONMOTION_EVENT id="e16" spans="1271~1275" text="have"  />
+<NONMOTION_EVENT id="e17" spans="1462~1466" text="have"  />
+<NONMOTION_EVENT id="e18" spans="1572~1582" text="interfered"  />
+<NONMOTION_EVENT id="e19" spans="1130~1134" text="bind"  />
+<S_RELATION id="sr0" spans="158~160" text="by" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="222~224" text="in" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr2" spans="342~344" text="in" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr3" spans="636~638" text="in" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr4" spans="1078~1080" text="in" semantic_type="DIR_TOP" />
+<S_RELATION id="sr5" spans="1387~1394" text="against" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr6" spans="2082~2084" text="of" semantic_type="DIRECTIONAL" />
+<QSLINK id="qsl0" fromID="se16" fromText="person" toID="se42" toText="disability" relType="DC" trajector="se16" landmark="se42" trigger="sr6" />
+<OLINK id="ol0" fromID="se18" fromText="partner" toID="pl0" toText="Europe" relType="in" trajector="se18" landmark="pl0" trigger="sr1" />
+<METALINK id="metal0" fromID="se0" fromText="German people" toID="se1" toText="Germans" objectID1="se0" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se1" fromText="Germans" toID="se2" toText="German people" objectID1="se1" objectID2="se2" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se2" fromText="German people" toID="se3" toText="The German people" objectID2="se3" objectID1="se2" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se24" fromText="Human dignity" toID="se45" toText="it" objectID1="se45" objectID2="se24" relType="COREFERENCE" />
+<SRLINK id="srole0" fromID="se3" fromText="The German people" toID="e2" toText="acknowledge" relType="ARGO0" objectID1="e2" objectID2="se3" />
+<SRLINK id="srole1" fromID="se5" fromText="he" toID="e3" toText="violate" relType="ARGO0" objectID1="e3" objectID2="se5" />
+<SRLINK id="srole2" fromID="se5" fromText="he" toID="e4" toText="offend" relType="ARGO0" objectID1="e4" objectID2="se5" />
+</TAGS>
+</SpaceEvalTaskv1.2>

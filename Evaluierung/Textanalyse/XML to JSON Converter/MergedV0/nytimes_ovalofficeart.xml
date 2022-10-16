@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle: https://www.nytimes.com/interactive/2021/05/05/arts/design/oval-office-art.html
+
+This is a pretty standard White House photo, the sort of image you have probably noticed dozens of times since President Biden took office a little more than 100 days ago, from newspaper photographs to shots on cable news networks.
+
+But look just past the president and notice the bust of Robert F. Kennedy behind him.
+
+Kennedy crops up a lot these days, observing the scene here a few weeks ago, and nosing in here, as Winston Churchill did during the Trump administration, and as Abraham Lincoln did during the Obama administration.
+
+You will see the bust over and over because of its particular placement next to the fireplace, behind the chair where the president sits during many meetings. Biden has long cited R.F.K. as one of his political heroes, and sees his evolution from a hard-nosed attorney general into a liberal icon as a sign of the capacity to grow.
+
+But it is only one of the highly symbolic pieces of newly installed art that now saturate the images that come out of the White House.
+
+The art in the Oval Office is ever-present, carefully chosen and deliberately placed, adding historical weight, silently commenting on the moment, the present, now more than ever, in constant tension with the past.
+
+What if the paintings and sculptures could talk? What if they already do?
+
+Indeed, the paintings and the sculptures that are displayed in the Oval Office represent the choices of each American president — subtle and not so subtle signals every administration sends about its values and view of history.
+
+And so although the Oval Office is perhaps not often thought of as an ultra-high-profile rotating exhibition space, in one narrow sense, that is exactly what it is.
+
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="1080~1091" text="White House" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl2" spans="1109~1120" text="Oval Office" dcl="FALSE" form="NAM" />
+<PLACE id="pl3" spans="221~227" text="office" dcl="FALSE" form="NOM" />
+<PLACE id="pl4" spans="1634~1645" text="Oval Office" dcl="FALSE" form="NAM" />
+<PLACE id="pl5" spans="1712~1728" text="exhibition space" dcl="FALSE" form="NOM" />
+<PLACE id="pl6" spans="1452~1463" text="Oval Office" dcl="FALSE" form="NAM" />
+<PLACE id="pl7" spans="500~504" text="here" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="146~151" text="image" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se2" spans="152~155" text="you" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se3" spans="200~215" text="President Biden" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se5" spans="300~319" text="cable news networks" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se7" spans="291~296" text="shots" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se8" spans="345~354" text="president" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se9" spans="370~374" text="bust" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se10" spans="378~395" text="Robert F. Kennedy" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se11" spans="403~406" text="him" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se12" spans="409~416" text="Kennedy" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se13" spans="458~463" text="scene" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se14" spans="509~526" text="Winston Churchill" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se15" spans="542~562" text="Trump administration" dcl="FALSE" form="NAM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se16" spans="602~622" text="Obama administration" dcl="FALSE" form="NAM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se17" spans="571~586" text="Abraham Lincoln" dcl="FALSE" form="NAM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se18" spans="625~628" text="You" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se19" spans="642~646" text="bust" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se20" spans="687~696" text="placement" dcl="FALSE" form="NOM" type="FAC" mod="particular" />
+<SPATIAL_ENTITY id="se21" spans="672~675" text="its" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se22" spans="709~718" text="fireplace" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se23" spans="731~736" text="chair" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se24" spans="747~756" text="president" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se26" spans="784~789" text="Biden" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se27" spans="805~811" text="R.F.K." dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se28" spans="836~842" text="heroes" dcl="FALSE" form="NOM" type="PERSON" mod="political" />
+<SPATIAL_ENTITY id="se29" spans="885~901" text="attorney general" dcl="FALSE" form="NOM" type="PERSON" mod="hard-nosed" />
+<SPATIAL_ENTITY id="se30" spans="917~921" text="icon" dcl="FALSE" form="NOM" type="PERSON" mod="liberal" />
+<SPATIAL_ENTITY id="se31" spans="1026~1029" text="art" dcl="FALSE" form="NOM" type="ARTIFACT" mod="newly installed" />
+<SPATIAL_ENTITY id="se32" spans="1052~1058" text="images" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se34" spans="962~964" text="it" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se35" spans="1098~1101" text="art" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se36" spans="1772~1774" text="it" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se37" spans="1397~1406" text="paintings" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se38" spans="1415~1425" text="sculptures" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se39" spans="1494~1512" text="American president" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se40" spans="1554~1568" text="administration" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se41" spans="1581~1584" text="its" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se42" spans="1322~1331" text="paintings" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se43" spans="1336~1346" text="sculptures" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se44" spans="1367~1371" text="they" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se4" spans="1245~1252" text="present" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se25" spans="1303~1307" text="past" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se45" spans="1286~1293" text="tension" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se6" spans="266~287" text="newspaper photographs" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se46" spans="438~442" text="days" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se47" spans="774~782" text="meetings" dcl="FALSE" type="DYNAMIC_EVENT" mod="many" />
+<SPATIAL_ENTITY id="se48" spans="822~825" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se49" spans="853~856" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se50" spans="857~866" text="evolution" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se51" spans="1000~1006" text="pieces" dcl="FALSE" type="ARTIFACT" mod="highly symbolic " />
+<SPATIAL_ENTITY id="se52" spans="1540~1547" text="signals" dcl="FALSE" mod="subtle and not so subtle" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se53" spans="1585~1591" text="values" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se54" spans="1596~1611" text="view of history" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se55" spans="1744~1749" text="sense" dcl="FALSE" mod="narrow" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se0" spans="115~132" text="White House photo" dcl="FALSE" type="ARTIFACT" mod="pretty standard" />
+<SPATIAL_ENTITY id="se56" spans="251~255" text="days" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se57" spans="1198~1204" text="weight" dcl="FALSE" type="DYNAMIC_EVENT" mod="historical" />
+<SPATIAL_ENTITY id="se58" spans="1233~1239" text="moment" dcl="FALSE" type="DYNAMIC_EVENT" />
+<NONMOTION_EVENT id="e0" spans="326~330" text="look"  />
+<NONMOTION_EVENT id="e1" spans="359~365" text="notice"  />
+<NONMOTION_EVENT id="e3" spans="170~177" text="noticed"  />
+<NONMOTION_EVENT id="e4" spans="417~425" text="crops up"  />
+<NONMOTION_EVENT id="e5" spans="444~453" text="observing"  />
+<NONMOTION_EVENT id="e6" spans="490~496" text="nosing"  />
+<NONMOTION_EVENT id="e7" spans="757~761" text="sits"  />
+<NONMOTION_EVENT id="e8" spans="848~852" text="sees"  />
+<NONMOTION_EVENT id="e9" spans="1435~1444" text="displayed"  />
+<NONMOTION_EVENT id="e10" spans="1353~1357" text="talk"  />
+<NONMOTION_EVENT id="e2" spans="216~220" text="took"  />
+<NONMOTION_EVENT id="e11" spans="527~530" text="did"  />
+<NONMOTION_EVENT id="e12" spans="587~590" text="did"  />
+<NONMOTION_EVENT id="e13" spans="634~637" text="see"  />
+<NONMOTION_EVENT id="e14" spans="799~804" text="cited"  />
+<NONMOTION_EVENT id="e15" spans="965~967" text="is"  />
+<NONMOTION_EVENT id="e16" spans="1039~1047" text="saturate"  />
+<NONMOTION_EVENT id="e17" spans="1380~1382" text="do"  />
+<NONMOTION_EVENT id="e18" spans="1464~1473" text="represent"  />
+<NONMOTION_EVENT id="e19" spans="1569~1574" text="sends"  />
+<NONMOTION_EVENT id="e20" spans="1667~1674" text="thought"  />
+<NONMOTION_EVENT id="e21" spans="1756~1758" text="is"  />
+<NONMOTION_EVENT id="e22" spans="1775~1777" text="is"  />
+<NONMOTION_EVENT id="e23" spans="94~96" text="is"  />
+<NONMOTION_EVENT id="e24" spans="1148~1154" text="chosen"  />
+<NONMOTION_EVENT id="e25" spans="1172~1178" text="placed"  />
+<NONMOTION_EVENT id="e26" spans="1180~1186" text="adding"  />
+<NONMOTION_EVENT id="e27" spans="1215~1225" text="commenting"  />
+<MOTION id="m0" spans="1124~1136" text="ever-present" motion_type="MANNER" motion_class="STAY" motion_sense="LITERAL" />
+<MOTION id="m3" spans="1064~1068" text="come" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="396~402" text="behind" semantic_type="DIRECTIONAL" value="behind" />
+<S_RELATION id="sr1" spans="497~499" text="in" value="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="697~704" text="next to" semantic_type="DIRECTIONAL" value="next" />
+<S_RELATION id="sr3" spans="1069~1075" text="out of" semantic_type="GOAL_DEFINING" value="from" />
+<S_RELATION id="sr4" spans="1102~1104" text="in" semantic_type="TOPOLOGICAL" value="in" />
+<S_RELATION id="sr5" spans="902~906" text="into" semantic_type="GOAL_DEFINING" value="into" />
+<S_RELATION id="sr6" spans="1274~1276" text="in" semantic_type="TOPOLOGICAL" value="in" />
+<S_RELATION id="sr7" spans="297~299" text="on" semantic_type="TOPOLOGICAL" value="in" />
+<S_RELATION id="sr8" spans="720~726" text="behind" semantic_type="DIRECTIONAL" value="behind" />
+<S_RELATION id="sr9" spans="261~265" text="from" semantic_type="PATH_DEFINING" value="from" />
+<S_RELATION id="sr10" spans="288~290" text="to" semantic_type="PATH_DEFINING" value="to" />
+<S_RELATION id="sr11" spans="867~871" text="from" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr12" spans="1575~1580" text="about" semantic_type="TOPOLOGICAL" value="about" />
+<S_RELATION id="sr13" spans="1226~1228" text="on" semantic_type="DIR_TOP" value="on" />
+<EVENT_PATH id="ep0" spans="1068~1069" text=" " trigger="m3" mids="se32" />
+<EVENT_PATH id="ep1" spans="1137~1138" text=" " trigger="m0" />
+<MEASURE id="me0" spans="178~193" text="dozens of times" value="12" unit="times" />
+<MEASURE id="me2" spans="426~431" text="a lot" value="a lot" />
+<MEASURE id="me3" spans="469~484" text="a few weeks ago" value="a few" />
+<MEASURE id="me4" spans="247~250" text="100"  />
+<MEASURE id="me5" spans="1733~1736" text="one" value="one" />
+<QSLINK id="qsl0" toID="se13" toText="scene" fromID="se12" fromText="Kennedy" relType="IN" trigger="sr1" />
+<QSLINK id="qsl1" fromID="se35" fromText="art" toID="pl2" toText="Oval Office" trigger="sr4" relType="IN" />
+<QSLINK id="qsl2" fromID="se4" fromText="present" toID="se45" toText="tension" trigger="sr6" relType="IN" />
+<QSLINK id="qsl3" toID="se5" toText="cable news networks" fromID="se7" fromText="shots" relType="IN" />
+<QSLINK id="qsl4" fromID="e19" fromText="sends" toID="se53" toText="values" />
+<QSLINK id="qsl5" fromID="e19" fromText="sends" toID="se54" toText="view of history" trigger="sr12" />
+<QSLINK id="qsl6" fromID="e27" fromText="commenting" toID="se58" toText="moment" />
+<OLINK id="ol0" fromID="se10" fromText="Robert F. Kennedy" toID="se11" toText="him" trigger="sr0" frame_type="ABSOLUTE" referencePt="se11" trajector="s10" />
+<OLINK id="ol1" fromID="se20" fromText="placement" toID="se22" toText="fireplace" trigger="sr2" frame_type="ABSOLUTE" referencePt="se22" trajector="se20" />
+<OLINK id="ol2" toID="se23" toText="chair" fromID="se20" fromText="placement" trigger="sr8" frame_type="ABSOLUTE" referencePt="se23" trajector="se20" />
+<MOVELINK id="mvl0" fromID="se32" fromText="images" toID="m3" toText="come" trigger="m3" mover="se32" />
+<MOVELINK id="mvl1" fromID="se35" fromText="art" toID="m0" toText="ever-present" mover="se35" />
+<MEASURELINK id="ml1" fromID="e3" fromText="noticed" toID="me0" toText="dozens of times" val="me0" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml2" fromID="e4" fromText="crops up" toID="me2" toText="a lot" val="me2" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml3" fromID="se13" fromText="scene" toID="me3" toText="a few weeks ago" val="me3" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml4" toID="me4" toText="100" fromID="se56" fromText="days" val="me4" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml5" fromID="me5" fromText="one" toID="se55" toText="sense" relType="GENERAL_DIMENSION" />
+<METALINK id="metal0" fromID="se42" fromText="paintings" toID="se37" toText="paintings" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se43" fromText="sculptures" toID="se38" toText="sculptures" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se19" fromText="bust" toID="se21" toText="its" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se8" fromText="president" toID="se3" toText="President Biden" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se11" fromText="him" toID="se3" toText="President Biden" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se12" fromText="Kennedy" toID="se10" toText="Robert F. Kennedy" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se24" fromText="president" toID="se3" toText="President Biden" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se26" fromText="Biden" toID="se3" toText="President Biden" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se27" fromText="R.F.K." toID="se10" toText="Robert F. Kennedy" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se48" fromText="his" toID="se3" toText="President Biden" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se49" fromText="his" toID="se10" toText="Robert F. Kennedy" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se29" fromText="attorney general" toID="se10" toText="Robert F. Kennedy" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se30" fromText="icon" toID="se10" toText="Robert F. Kennedy" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se34" fromText="it" toID="se9" toText="bust" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se9" fromText="bust" toID="se51" toText="pieces" relType="SUBCOREFERENCE" />
+<METALINK id="metal15" fromID="se31" fromText="art" toID="se9" toText="bust" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se42" fromText="paintings" toID="se44" toText="they" relType="SPLITCOREFERENCE" />
+<METALINK id="metal17" fromID="se43" fromText="sculptures" toID="se44" toText="they" relType="SPLITCOREFERENCE" />
+<METALINK id="metal18" fromID="pl6" fromText="Oval Office" toID="pl2" toText="Oval Office" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="pl4" fromText="Oval Office" toID="pl2" toText="Oval Office" relType="COREFERENCE" />
+<METALINK id="metal20" toID="se39" toText="American president" fromID="se10" fromText="Robert F. Kennedy" relType="SUBCOREFERENCE" />
+<METALINK id="metal21" fromID="se3" fromText="President Biden" toID="se39" toText="American president" relType="SUBCOREFERENCE" />
+<METALINK id="metal22" fromID="se41" fromText="its" toID="se40" toText="administration" relType="COREFERENCE" />
+<METALINK id="metal23" fromID="se36" fromText="it" toID="pl4" toText="Oval Office" relType="COREFERENCE" />
+<METALINK id="metal24" fromID="se1" fromText="image" toID="se0" toText="White House photo" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

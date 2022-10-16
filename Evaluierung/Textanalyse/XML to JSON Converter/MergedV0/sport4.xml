@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[On Saturday the Los Angeles Dodgers hosted the San Diego Padres in what has become baseball’s hottest rivalry. To say the Padres’ Fernando Tatis Jr started it off with a bang would be putting it mildly. After taking a chest-high cutter from the Dodgers’ Trevor Bauer on the game’s first pitch for a strike, Tatis struck back on the very next throw, slapping essentially the exact same pitch over Dodger Stadium’s left-field fence to furnish the visitors with a 1-0 lead. It was your classic, cut-to-the-chase moment, one of baseball’s biggest bats getting over on its reigning Cy Young winner. But what came next was even more explosive. As Tatis was rounding first base, he slowed down, looked back and cupped a hand over his right eye. No doubt, for baseball purists, this – not the homer, his first of two on the day – was the real shot. In the unerring view of these righteous observers, baseball is a blessèd, sanctified thing that should only be played a certain way – the right way: Clinically. Deadpan. Repressed. And here was Tatis making a meme out of his home run and quite literally sticking a finger in the eye of everything good and virtuous about the game. What’s more, Tatis’s own father, Fernando Sr, was a big leaguer, too. Clearly, the kid should know better. But before these zealots could really hit back at Tatis, Bauer hurled more dynamite into the fire. After the first home-run pitch, Bauer gives Tatis high marks for calling back to the one-eyed stare that Bauer flashed at the Padres hitters he retired during spring training. After the second home-run pitch, which missed the outside of the plate by a foot, Bauer continues to give Tatis props for showing him up tastefully and directing his antics at the Padres dugout until Tatis drops into a Conor MacGregor-style strut after crossing home plate.]]></TEXT>
+<TAGS>
+<PLACE id="pl2" spans="1816~1826" text="home plate" dcl="FALSE" form="NOM" />
+<PLACE id="pl3" spans="1619~1624" text="plate" dcl="FALSE" form="NOM" />
+<PLACE id="pl1" spans="396~412" text="Dodger Stadium’s" dcl="FALSE" />
+<PLACE id="pl4" spans="666~670" text="base" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="16~35" text="Los Angeles Dodgers" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se1" spans="47~63" text="San Diego Padres" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se7" spans="307~312" text="Tatis" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se9" spans="287~292" text="pitch" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se10" spans="274~280" text="game’s" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se11" spans="299~305" text="strike" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se12" spans="385~391" text="pitch " dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="exact same" />
+<SPATIAL_ENTITY id="se13" spans="424~429" text="fence" dcl="FALSE" form="NOM" type="ARTIFACT" mod="left-field" />
+<SPATIAL_ENTITY id="se15" spans="445~453" text="visitors" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se16" spans="509~515" text="moment" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" mod="classic, cut-to-the-chase" />
+<SPATIAL_ENTITY id="se17" spans="577~592" text="Cy Young winner" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se18" spans="543~547" text="bats" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="641~646" text="Tatis" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se20" spans="672~674" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se22" spans="733~736" text="eye" dcl="FALSE" type="ARTIFACT" form="NOM" mod="right" />
+<SPATIAL_ENTITY id="se23" spans="752~768" text="baseball purists" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se24" spans="792~795" text="his" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se25" spans="835~839" text="shot" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="real" />
+<SPATIAL_ENTITY id="se26" spans="881~890" text="observers" dcl="FALSE" type="PERSON" form="NOM" mod="righteous" />
+<SPATIAL_ENTITY id="se27" spans="892~900" text="baseball" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se28" spans="926~931" text="thing" dcl="FALSE" form="NOM" type="ARTIFACT" mod="blessed, sanctified" />
+<SPATIAL_ENTITY id="se29" spans="1035~1040" text="Tatis" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se30" spans="1050~1054" text="meme" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se32" spans="1106~1112" text="finger" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se33" spans="1120~1137" text="eye of everything" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se34" spans="1166~1170" text="game" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se35" spans="1185~1190" text="Tatis" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se36" spans="1197~1203" text="father" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se37" spans="1205~1216" text="Fernando Sr" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se39" spans="1255~1258" text="kid" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se40" spans="1296~1303" text="zealots" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se42" spans="1754~1759" text="Tatis" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se43" spans="1329~1334" text="Tatis" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se44" spans="1336~1341" text="Bauer" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se45" spans="1372~1376" text="fire" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se46" spans="1394~1408" text="home-run pitch" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se47" spans="1410~1415" text="Bauer" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se48" spans="1422~1427" text="Tatis" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se50" spans="1483~1488" text="Bauer" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se51" spans="1504~1518" text="Padres hitters" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se52" spans="1519~1521" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se53" spans="1571~1585" text="home-run pitch" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se54" spans="1636~1641" text="Bauer" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se55" spans="1660~1665" text="Tatis" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se56" spans="1666~1671" text="props" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se57" spans="1684~1687" text="him" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se2" spans="713~717" text="hand" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se3" spans="816~819" text="day" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se14" spans="857~861" text="view" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="unerring" />
+<SPATIAL_ENTITY id="se61" spans="1537~1552" text="spring training" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se5" spans="83~93" text="baseball’s" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se21" spans="102~109" text="rivalry" dcl="FALSE" type="DYNAMIC_EVENT" mod="hottest" />
+<SPATIAL_ENTITY id="se31" spans="170~174" text="bang" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se62" spans="229~235" text="cutter" dcl="FALSE" mod="chest-high" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se63" spans="122~129" text="Padres’" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se64" spans="130~147" text="Fernando Tatis Jr" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se65" spans="245~253" text="Dodgers’" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se66" spans="254~266" text="Trevor Bauer" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se67" spans="524~534" text="baseball’s" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se68" spans="564~567" text="its" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se69" spans="342~347" text="throw" dcl="FALSE" type="ARTIFACT" mod="next" />
+<SPATIAL_ENTITY id="se70" spans="723~726" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se71" spans="969~972" text="way" dcl="FALSE" mod="certain" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se72" spans="985~988" text="way" dcl="FALSE" mod="right" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se73" spans="1066~1074" text="home run" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se74" spans="1062~1065" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se75" spans="1228~1235" text="leaguer" dcl="FALSE" type="ARTIFACT" mod="big" />
+<SPATIAL_ENTITY id="se76" spans="1354~1362" text="dynamite" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se77" spans="1433~1438" text="marks" dcl="FALSE" mod="high" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se78" spans="1472~1477" text="stare" dcl="FALSE" mod="one-eyed" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se79" spans="1795~1800" text="strut" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se80" spans="1716~1719" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se81" spans="1720~1726" text="antics" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se82" spans="1734~1747" text="Padres dugout" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se4" spans="3~11" text="Saturday" dcl="FALSE" type="DYNAMIC_EVENT" />
+<NONMOTION_EVENT id="e0" spans="36~42" text="hosted"  />
+<NONMOTION_EVENT id="e1" spans="1041~1047" text="making"  />
+<NONMOTION_EVENT id="e2" spans="76~82" text="become"  />
+<NONMOTION_EVENT id="e4" spans="184~191" text="putting"  />
+<NONMOTION_EVENT id="e5" spans="433~440" text="furnish"  />
+<NONMOTION_EVENT id="e6" spans="474~477" text="was"  />
+<NONMOTION_EVENT id="e7" spans="688~699" text="looked back"  />
+<NONMOTION_EVENT id="e8" spans="822~825" text="was"  />
+<NONMOTION_EVENT id="e9" spans="901~903" text="is"  />
+<NONMOTION_EVENT id="e10" spans="949~958" text="be played"  />
+<NONMOTION_EVENT id="e11" spans="1218~1221" text="was"  />
+<NONMOTION_EVENT id="e12" spans="1266~1270" text="know"  />
+<NONMOTION_EVENT id="e13" spans="1443~1455" text="calling back"  />
+<NONMOTION_EVENT id="e14" spans="1416~1421" text="gives"  />
+<NONMOTION_EVENT id="e15" spans="1489~1496" text="flashed"  />
+<NONMOTION_EVENT id="e16" spans="1522~1529" text="retired"  />
+<NONMOTION_EVENT id="e17" spans="1593~1599" text="missed"  />
+<NONMOTION_EVENT id="e18" spans="1642~1659" text="continues to give"  />
+<NONMOTION_EVENT id="e19" spans="1706~1715" text="directing"  />
+<MOTION id="m1" spans="1760~1765" text="drops" motion_class="MOVE" motion_sense="FICTIVE" motion_type="MANNER" />
+<MOTION id="m2" spans="1342~1348" text="hurled" motion_type="MANNER" motion_class="MOVE_EXTERNAL" motion_sense="FICTIVE" />
+<MOTION id="m3" spans="704~710" text="cupped" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m4" spans="1095~1103" text="sticking" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m5" spans="148~155" text="started" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m6" spans="313~324" text="struck back" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m7" spans="349~357" text="slapping" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m8" spans="209~215" text="taking" motion_class="MOVE" motion_sense="LITERAL" motion_type="MANNER" />
+<MOTION id="m10" spans="548~560" text="getting over" motion_class="MOVE" motion_type="MANNER" motion_sense="FICTIVE" />
+<MOTION id="m11" spans="651~659" text="rounding" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m12" spans="675~686" text="slowed down" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m15" spans="1317~1325" text="hit back" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m16" spans="1676~1683" text="showing" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m17" spans="1807~1815" text="crossing" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="64~66" text="in" semantic_type="TOPOLOGICAL" value="in" />
+<S_RELATION id="sr1" spans="236~240" text="from" value="from" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr2" spans="267~269" text="on" semantic_type="TOPOLOGICAL" value="on" />
+<S_RELATION id="sr3" spans="325~327" text="on" semantic_type="TOPOLOGICAL" value="on" />
+<S_RELATION id="sr4" spans="391~395" text="over" semantic_type="TOPOLOGICAL" value="over" />
+<S_RELATION id="sr5" spans="561~563" text="on" value="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="718~722" text="over" semantic_type="TOPOLOGICAL" value="over" />
+<S_RELATION id="sr7" spans="809~811" text="on" semantic_type="TOPOLOGICAL" value="on" />
+<S_RELATION id="sr10" spans="1055~1061" text="out of" semantic_type="PATH_DEFINING" value="out of" />
+<S_RELATION id="sr11" spans="1113~1115" text="in" semantic_type="TOPOLOGICAL" value="in" />
+<S_RELATION id="sr12" spans="1326~1328" text="at" semantic_type="TOPOLOGICAL" value="at" />
+<S_RELATION id="sr13" spans="1363~1367" text="into" value="into" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr14" spans="1604~1611" text="outside" semantic_type="DIRECTIONAL" value="outside" />
+<S_RELATION id="sr15" spans="1727~1729" text="at" semantic_type="TOPOLOGICAL" value="at" />
+<S_RELATION id="sr16" spans="1766~1770" text="into" semantic_type="GOAL_DEFINING" value="into" />
+<S_RELATION id="sr17" spans="1156~1161" text="about" semantic_type="TOPOLOGICAL" value="about" />
+<S_RELATION id="sr18" spans="1456~1458" text="to" semantic_type="TOPOLOGICAL" value="to" />
+<S_RELATION id="sr19" spans="1497~1499" text="at" semantic_type="TOPOLOGICAL" />
+<EVENT_PATH id="ep0" spans="155~156" text=" " trigger="m5" mids="se64" />
+<EVENT_PATH id="ep1" spans="324~325" text=" " trigger="m6" mids="se7" />
+<EVENT_PATH id="ep2" spans="215~216" text=" " trigger="m8" mids="se7" />
+<EVENT_PATH id="ep3" spans="357~358" text=" " trigger="m7" mids="se7" />
+<EVENT_PATH id="ep4" spans="659~660" text=" " trigger="m11" mids="se19" />
+<EVENT_PATH id="ep5" spans="687~688" text=" " trigger="m12" mids="se19" />
+<EVENT_PATH id="ep6" spans="710~711" text=" " trigger="m3" mids="se19" />
+<EVENT_PATH id="ep7" spans="1103~1104" text=" " trigger="m4" mids="se29" />
+<EVENT_PATH id="ep8" spans="1325~1326" text=" " trigger="m15" mids="se40" />
+<EVENT_PATH id="ep9" spans="1348~1349" text=" " trigger="m2" mids="se44" />
+<EVENT_PATH id="ep10" spans="1683~1684" text=" " trigger="m16" mids="se55" />
+<EVENT_PATH id="ep11" spans="1765~1766" text=" " trigger="m1" mids="se42" />
+<EVENT_PATH id="ep12" spans="1815~1816" text=" " trigger="m17" mids="se42" />
+<EVENT_PATH id="ep13" spans="560~561" text=" " trigger="m10" />
+<MEASURE id="me0" spans="281~286" text="first" value="1" />
+<MEASURE id="me1" spans="535~542" text="biggest" value="big" />
+<MEASURE id="me3" spans="796~808" text="first of two" value="1/2" />
+<MEASURE id="me4" spans="1388~1393" text="first" value="1" />
+<MEASURE id="me5" spans="1564~1570" text="second" value="2" />
+<MEASURE id="me6" spans="1628~1634" text="a foot" value="1" unit="foot" />
+<MEASURE id="me2" spans="517~520" text="one" value="1" />
+<QSLINK id="qsl4" fromID="se18" fromText="bats" toID="se17" toText="Cy Young winner" trigger="sr5" />
+<QSLINK id="qsl5" fromID="se2" fromText="hand" toID="se22" toText="eye" trigger="sr6" />
+<QSLINK id="qsl6" toID="se3" toText="day" fromID="se24" fromText="his" trigger="sr7" />
+<QSLINK id="qsl7" fromID="se14" fromText="view" toID="se27" toText="baseball" trigger="sr8" />
+<QSLINK id="qsl8" fromID="se14" fromText="view" toID="se26" toText="observers" trigger="sr9" />
+<QSLINK id="qsl9" fromID="se32" fromText="finger" toID="se33" toText="eye of everything" trigger="sr11" />
+<QSLINK id="qsl10" fromID="se40" fromText="zealots" toID="se43" toText="Tatis" trigger="sr12" />
+<QSLINK id="qsl1" fromID="se32" fromText="finger" toID="se33" toText="eye of everything" trigger="sr11" />
+<QSLINK id="qsl12" fromID="se33" fromText="eye of everything" toID="se34" toText="game" trigger="sr17" />
+<QSLINK id="qsl13" fromID="e13" fromText="calling back" toID="se78" toText="stare" />
+<OLINK id="ol0" fromID="se53" fromText="home-run pitch" toID="pl3" toText="plate" trigger="sr14" frame_type="RELATIVE" />
+<OLINK id="ol1" fromID="m7" fromText="slapping" toID="pl1" toText="Dodger Stadium’s" trigger="sr4" frame_type="ABSOLUTE" trajector="m7" landmark="pl1" referencePt="pl1" />
+<OLINK id="ol2" fromID="se9" fromText="pitch" toID="pl1" toText="Dodger Stadium’s" trajector="se9" landmark="pl1" trigger="sr4" frame_type="ABSOLUTE" referencePt="pl1" />
+<OLINK id="ol3" fromID="se2" fromText="hand" toID="se22" toText="eye" trajector="se2" landmark="se22" trigger="sr6" frame_type="ABSOLUTE" referencePt="se22" />
+<OLINK id="ol4" fromID="se76" fromText="dynamite" toID="se45" toText="fire" trajector="se76" landmark="se45" trigger="sr13" frame_type="INTRINSIC" referencePt="se45" />
+<OLINK id="ol5" fromID="e17" fromText="missed" toID="pl3" toText="plate" trajector="e17" landmark="pl3" trigger="sr14" frame_type="ABSOLUTE" />
+<MOVELINK id="mvl0" fromID="se64" fromText="Fernando Tatis Jr" toID="m5" toText="started" mover="se64" trigger="m5" />
+<MOVELINK id="mvl1" fromID="se7" fromText="Tatis" toID="m6" toText="struck back" trigger="m6" mover="se7" />
+<MOVELINK id="mvl2" fromID="se7" fromText="Tatis" toID="m7" toText="slapping" trigger="m7" mover="se7" />
+<MOVELINK id="mvl3" fromID="se66" fromText="Trevor Bauer" toID="se7" toText="Tatis" trigger="m8" mover="se7" />
+<MOVELINK id="mvl4" fromID="se19" fromText="Tatis" toID="m11" toText="rounding" trigger="m11" mover="se19" />
+<MOVELINK id="mvl5" fromID="se19" fromText="Tatis" toID="m12" toText="slowed down" trigger="m12" mover="se19" />
+<MOVELINK id="mvl6" fromID="se19" fromText="Tatis" toID="m3" toText="cupped" trigger="m3" mover="se19" />
+<MOVELINK id="mvl7" fromID="se29" fromText="Tatis" toID="m4" toText="sticking" trigger="m4" mover="se29" />
+<MOVELINK id="mvl8" fromID="se40" fromText="zealots" toID="m15" toText="hit back" mover="se40" trigger="m15" />
+<MOVELINK id="mvl9" fromID="se44" fromText="Bauer" toID="m2" toText="hurled" trigger="m2" mover="se44" />
+<MOVELINK id="mvl10" toID="m16" toText="showing" fromID="se55" fromText="Tatis" trigger="m16" mover="se55" />
+<MOVELINK id="mvl11" fromID="se42" fromText="Tatis" toID="se79" toText="strut" trigger="m1" mover="se42" />
+<MOVELINK id="mvl12" fromID="se42" fromText="Tatis" toID="pl2" toText="home plate" trigger="m17" mover="se42" />
+<MEASURELINK id="ml0" fromID="me0" fromText="first" toID="se9" toText="pitch" val="me0" />
+<MEASURELINK id="ml1" fromID="me1" fromText="biggest" toID="se18" toText="bats" val="me1" />
+<MEASURELINK id="ml3" fromID="me3" fromText="first of two" toID="se24" toText="his" val="me3" />
+<MEASURELINK id="ml4" fromID="me4" fromText="first" toID="se46" toText="home-run pitch" val="me4" />
+<MEASURELINK id="ml5" fromID="me5" fromText="second" toID="se53" toText="home-run pitch" val="me5" />
+<MEASURELINK id="ml6" fromID="me6" fromText="a foot" toID="sr14" toText="outside" />
+<METALINK id="metal0" fromID="se63" fromText="Padres’" toID="se1" toText="San Diego Padres" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se62" fromText="cutter" toID="se5" toText="baseball’s" relType="SUBCOREFERENCE" />
+<METALINK id="metal2" fromID="se65" fromText="Dodgers’" toID="se0" toText="Los Angeles Dodgers" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se9" fromText="pitch" toID="se5" toText="baseball’s" relType="SUBCOREFERENCE" />
+<METALINK id="metal4" fromID="se11" fromText="strike" toID="se5" toText="baseball’s" relType="SUBCOREFERENCE" />
+<METALINK id="metal5" fromID="se7" fromText="Tatis" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se12" fromText="pitch " toID="se5" toText="baseball’s" relType="SUBCOREFERENCE" />
+<METALINK id="metal7" fromID="pl1" fromText="Dodger Stadium’s" toID="se1" toText="San Diego Padres" relType="SUBCOREFERENCE" />
+<METALINK id="metal8" fromID="se13" fromText="fence" toID="se5" toText="baseball’s" relType="SUBCOREFERENCE" />
+<METALINK id="metal9" fromID="se67" fromText="baseball’s" toID="se5" toText="baseball’s" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se68" fromText="its" toID="se67" toText="baseball’s" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se19" fromText="Tatis" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se20" fromText="he" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se70" fromText="his" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se22" fromText="eye" toID="se64" toText="Fernando Tatis Jr" relType="SUBCOREFERENCE" />
+<METALINK id="metal15" fromID="se27" fromText="baseball" toID="se5" toText="baseball’s" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se23" fromText="baseball purists" toID="se5" toText="baseball’s" relType="SUBCOREFERENCE" />
+<METALINK id="metal17" fromID="se29" fromText="Tatis" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<METALINK id="metal18" fromID="se74" fromText="his" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se73" fromText="home run" toID="se5" toText="baseball’s" relType="SUBCOREFERENCE" />
+<METALINK id="metal20" fromID="se35" fromText="Tatis" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<METALINK id="metal21" fromID="se36" fromText="father" toID="se37" toText="Fernando Sr" relType="COREFERENCE" />
+<METALINK id="metal22" fromID="se44" fromText="Bauer" toID="se66" toText="Trevor Bauer" relType="COREFERENCE" />
+<METALINK id="metal23" fromID="se48" fromText="Tatis" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<METALINK id="metal24" fromID="se43" fromText="Tatis" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<METALINK id="metal25" fromID="se47" fromText="Bauer" toID="se66" toText="Trevor Bauer" relType="COREFERENCE" />
+<METALINK id="metal26" fromID="se50" fromText="Bauer" toID="se66" toText="Trevor Bauer" relType="COREFERENCE" />
+<METALINK id="metal27" fromID="se52" fromText="he" toID="se66" toText="Trevor Bauer" relType="COREFERENCE" />
+<METALINK id="metal28" fromID="se46" fromText="home-run pitch" toID="se46" toText="home-run pitch" relType="COREFERENCE" />
+<METALINK id="metal29" fromID="se54" fromText="Bauer" toID="se66" toText="Trevor Bauer" relType="COREFERENCE" />
+<METALINK id="metal30" fromID="se55" fromText="Tatis" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<METALINK id="metal31" fromID="se82" fromText="Padres dugout" toID="se1" toText="San Diego Padres" relType="SUBCOREFERENCE" />
+<METALINK id="metal32" fromID="se80" fromText="his" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<METALINK id="metal33" fromID="se42" fromText="Tatis" toID="se64" toText="Fernando Tatis Jr" relType="COREFERENCE" />
+<SRLINK id="srole0" fromID="se20" fromText="he" toID="m3" toText="cupped" />
+<SRLINK id="srole1" toID="m4" toText="sticking" fromID="se29" fromText="Tatis" />
+<SRLINK id="srole2" toID="e1" toText="making" fromID="se29" fromText="Tatis" />
+</TAGS>
+</SpaceEvalTaskv1.2>

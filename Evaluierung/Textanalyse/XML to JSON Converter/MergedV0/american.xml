@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle: https://en.wikisource.org/wiki/Constitution_of_the_United_States_of_America#Preamble
+
+Article. I.
+Section. 1.
+All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.
+
+
+Section. 2.
+The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.
+
+No Person shall be a Representative who shall not have attained to the age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen.
+
+Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons. The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct. The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.
+
+When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies.
+
+The House of Representatives shall chuse their Speaker and other Officers; and shall have the sole Power of Impeachment.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl11" spans="1228~1236" text="Congress" type="PPL" dimensionality="POINT" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl12" spans="1244~1257" text="United States" type="COUNTRY" dimensionality="AREA" form="NOM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl13" spans="1437~1442" text="State" type="PPL" dimensionality="AREA" form="NOM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl14" spans="1529~1551" text="State of New Hampshire" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl29" spans="1586~1599" text="Massachusetts" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl15" spans="1607~1619" text="Rhode-Island" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl16" spans="1624~1646" text="Providence Plantations" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl17" spans="1652~1663" text="Connecticut" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl18" spans="1670~1678" text="New-York" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl19" spans="1684~1694" text="New Jersey" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl20" spans="1701~1713" text="Pennsylvania" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl21" spans="1721~1729" text="Delaware" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl22" spans="1735~1743" text="Maryland" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl23" spans="1749~1757" text="Virginia" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl24" spans="1763~1777" text="North Carolina" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl1" spans="177~185" text="Congress" type="PPL" dimensionality="POINT" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl25" spans="1784~1798" text="South Carolina" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl26" spans="1809~1816" text="Georgia" type="PPLA" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl27" spans="1878~1883" text="State" type="PPL" dimensionality="AREA" form="NOM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl0" spans="193~206" text="United States" type="COUNTRY" dimensionality="AREA" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl28" spans="1976~2000" text="House of Representatives" type="PPL" dimensionality="POINT" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl2" spans="233~239" text="Senate" type="PPL" dimensionality="POINT" form="NOM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl3" spans="244~268" text="House of Representatives" type="PPL" dimensionality="POINT" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl4" spans="288~312" text="House of Representatives" type="PPL" dimensionality="POINT" form="NAM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl5" spans="396~402" text="States" type="PPL" dimensionality="AREA" form="NOM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl6" spans="429~434" text="State" type="PPL" dimensionality="AREA" form="NOM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl8" spans="751~756" text="State" type="PPL" dimensionality="AREA" form="NOM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl9" spans="760~765" text="which" type="PPL" dimensionality="AREA" form="NOM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl10" spans="859~865" text="States" type="PPL" dimensionality="AREA" form="NOM" continent="NA" country="USA" dcl="FALSE" />
+<PLACE id="pl30" spans="-1~-1" text="" dcl="FALSE" comment="congress" />
+<PLACE id="pl31" spans="-1~-1" text="" dcl="FALSE" comment="States" />
+<SPATIAL_ENTITY id="se15" spans="1010~1017" text="Persons" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se16" spans="1087~1094" text="Indians" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se17" spans="1132~1139" text="Persons" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="134~140" text="Powers" dcl="FALSE" />
+<SPATIAL_ENTITY id="se18" spans="1364~1379" text="Representatives" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se19" spans="1467~1481" text="Representative" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se21" spans="1853~1868" text=" Representation" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se22" spans="1889~1908" text="Executive Authority" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se23" spans="1929~1946" text="Writs of Election" type="ARTIFACT" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se24" spans="2019~2026" text="Speaker" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se25" spans="2037~2045" text="Officers" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="334~341" text="Members" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se2" spans="374~380" text="People" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se3" spans="412~420" text="Electors" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="479~487" text="Electors" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se5" spans="546~552" text="Person" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se6" spans="564~578" text="Representative" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="697~700" text="who" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se10" spans="732~742" text="Inhabitant" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se11" spans="766~768" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="787~802" text="Representatives" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="900~905" text="Union" type="FAC" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se14" spans="1029~1034" text="those" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se26" spans="1044~1051" text="Service" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se28" spans="1830~1839" text="vacancies" dcl="FALSE" />
+<NONMOTION_EVENT id="e6" spans="1077~1086" text="excluding"  />
+<NONMOTION_EVENT id="e7" spans="1164~1177" text="shall be made"  />
+<NONMOTION_EVENT id="e8" spans="1390~1396" text="exceed"  />
+<NONMOTION_EVENT id="e9" spans="1923~1928" text="issue"  />
+<NONMOTION_EVENT id="e10" spans="1950~1954" text="fill"  />
+<NONMOTION_EVENT id="e11" spans="2007~2012" text="chuse"  />
+<NONMOTION_EVENT id="e0" spans="322~330" text="composed"  />
+<NONMOTION_EVENT id="e1" spans="342~348" text="chosen"  />
+<NONMOTION_EVENT id="e2" spans="598~606" text="attained"  />
+<NONMOTION_EVENT id="e3" spans="644~648" text="been"  />
+<NONMOTION_EVENT id="e4" spans="717~724" text="elected"  />
+<NONMOTION_EVENT id="e5" spans="961~971" text="determined"  />
+<S_RELATION id="sr11" spans="1041~1043" text="to" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr13" spans="1263~1269" text="within" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr14" spans="1570~1572" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr0" spans="172~174" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr16" spans="1847~1849" text="in" semantic_type="TOPOLOGICAL" value="in" />
+<S_RELATION id="sr1" spans="228~230" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="331~333" text="of" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr4" spans="381~383" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="743~745" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="757~759" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="888~894" text="within" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="982~984" text="to" semantic_type="GOAL_DEFINING" />
+<MEASURE id="me0" spans="1106~1118" text="three fifths" value="3/5" />
+<MEASURE id="me1" spans="1207~1212" text="first" value="1" />
+<MEASURE id="me2" spans="1397~1426" text="one for every thirty Thousand" value="1/30000" />
+<MEASURE id="me3" spans="1579~1584" text="three" value="3" />
+<MEASURE id="me4" spans="1600~1605" text="eight" value="8" unit="persons" />
+<MEASURE id="me5" spans="1647~1650" text="one" value="1" unit="persons" />
+<MEASURE id="me6" spans="1664~1668" text="five" value="5" unit="persons" />
+<MEASURE id="me7" spans="1679~1682" text="six" value="6" unit="persons" />
+<MEASURE id="me8" spans="1695~1699" text="four" value="4" unit="persons" />
+<MEASURE id="me9" spans="1714~1719" text="eight" value="8" unit="persons" />
+<MEASURE id="me10" spans="1730~1733" text="one" value="1" unit="persons" />
+<MEASURE id="me11" spans="1744~1747" text="six" value="6" unit="persons" />
+<MEASURE id="me12" spans="1758~1761" text="ten" value="10" unit="persons" />
+<MEASURE id="me13" spans="1778~1782" text="five" value="5" unit="persons" />
+<MEASURE id="me14" spans="1799~1803" text="five" value="5" unit="persons" />
+<MEASURE id="me15" spans="1817~1822" text="three" value="3" unit="persons" />
+<QSLINK id="qsl0" fromID="se0" fromText="Powers" toID="pl1" toText="Congress" trigger="sr0" relType="IN" trajector="se0" landmark="pl1" />
+<QSLINK id="qsl1" fromID="pl30" fromText="" toID="pl1" toText="Congress" trigger="sr1" landmark="pl0" trajector="pl30" relType="EC" />
+<QSLINK id="qsl2" fromID="se14" fromText="those" toID="se26" toText="Service" trigger="sr11" relType="DC" trajector="se14" landmark="se26" />
+<QSLINK id="qsl3" fromID="se28" fromText="vacancies" toID="se21" toText=" Representation" trigger="sr16" relType="IN" trajector="se28" landmark="se21" />
+<QSLINK id="qsl4" toID="pl5" toText="States" fromID="se2" fromText="People" trigger="sr4" trajector="se2" landmark="pl5" relType="IN" />
+<QSLINK id="qsl5" fromID="se10" fromText="Inhabitant" toID="pl8" toText="State" trigger="sr5" landmark="pl8" trajector="se10" relType="IN" />
+<QSLINK id="qsl6" fromID="pl8" fromText="State" toID="se11" toText="he" trigger="sr7" trajector="se11" landmark="pl8" relType="IN" />
+<QSLINK id="qsl7" toID="se13" toText="Union" fromID="pl10" fromText="States" relType="IN" trigger="sr8" landmark="se13" trajector="pl10" />
+<QSLINK id="qsl8" fromID="se1" fromText="Members" toID="pl4" toText="House of Representatives" relType="IN" trajector="se1" landmark="pl4" />
+<QSLINK id="qsl9" fromID="pl1" fromText="Congress" toID="pl0" toText="United States" trajector="pl1" landmark="pl0" relType="IN" />
+<QSLINK id="qsl10" fromID="se6" fromText="Representative" toID="pl5" toText="States" relType="IN" trajector="se6" landmark="pl5" />
+<QSLINK id="qsl11" fromID="pl5" fromText="States" toID="pl0" toText="United States" relType="IN" trajector="pl5" landmark="pl0" />
+<QSLINK id="qsl12" toID="se24" toText="Speaker" fromID="pl28" fromText="House of Representatives" relType="IN" trajector="se24" landmark="pl28" />
+<QSLINK id="qsl13" toID="se25" toText="Officers" fromID="pl28" fromText="House of Representatives" relType="IN" trajector="se25" landmark="pl28" />
+<QSLINK id="qsl14" fromID="pl31" fromText="" toID="pl5" toText="States" relType="IN" trajector="pl31" landmark="pl5" />
+<METALINK id="metal0" fromID="se1" fromText="Members" toID="se3" toText="Electors" relType="COREFERENCE" objectID2="se1" objectID1="se3" />
+<METALINK id="metal1" fromID="se1" fromText="Members" toID="se6" toText="Representative" relType="COREFERENCE" objectID2="se1" objectID1="se6" />
+<METALINK id="metal2" fromID="se1" fromText="Members" toID="se5" toText="Person" relType="SUBCOREFERENCE" objectID2="se1" objectID1="se5" />
+<METALINK id="metal3" fromID="se1" fromText="Members" toID="se10" toText="Inhabitant" relType="SUBCOREFERENCE" objectID2="se1" objectID1="se10" />
+<METALINK id="metal4" toID="se9" toText="who" fromID="se1" fromText="Members" relType="SUBCOREFERENCE" objectID2="se1" objectID1="se9" />
+<METALINK id="metal5" fromID="se1" fromText="Members" toID="se11" toText="he" relType="SUBCOREFERENCE" objectID2="se1" objectID1="se11" />
+<METALINK id="metal6" fromID="se1" fromText="Members" toID="se12" toText="Representatives" relType="COREFERENCE" objectID2="se1" objectID1="se12" />
+<METALINK id="metal7" fromID="se1" fromText="Members" toID="se18" toText="Representatives" relType="COREFERENCE" objectID2="se1" objectID1="se18" />
+<METALINK id="metal8" toID="se19" toText="Representative" fromID="se1" fromText="Members" relType="COREFERENCE" objectID2="se1" objectID1="se19" />
+<METALINK id="metal9" fromID="se1" fromText="Members" toID="se21" toText=" Representation" relType="COREFERENCE" objectID2="se1" objectID1="se21" />
+<METALINK id="metal10" fromID="se1" fromText="Members" toID="se24" toText="Speaker" relType="SUBCOREFERENCE" objectID2="se1" objectID1="se24" />
+<METALINK id="metal11" fromID="se1" fromText="Members" toID="se25" toText="Officers" objectID2="se1" objectID1="se25" relType="SUBCOREFERENCE" />
+<METALINK id="metal13" fromID="pl30" fromText="" toID="pl3" toText="House of Representatives" relType="SUBCOREFERENCE" objectID1="pl3" objectID2="pl30" />
+<METALINK id="metal14" fromID="pl30" fromText="" toID="pl2" toText="Senate" relType="SUBCOREFERENCE" objectID1="pl2" objectID2="pl30" />
+<METALINK id="metal15" fromID="pl30" fromText="" toID="pl1" toText="Congress" relType="SPLITCOREFERENCE" objectID1="pl30" objectID2="pl1" />
+<METALINK id="metal16" fromID="pl3" fromText="House of Representatives" toID="pl4" toText="House of Representatives" objectID1="pl4" objectID2="pl3" relType="COREFERENCE" />
+<METALINK id="metal18" toID="pl28" toText="House of Representatives" fromID="pl3" fromText="House of Representatives" objectID1="pl28" objectID2="pl28" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="pl5" fromText="States" toID="pl6" toText="State" objectID1="pl6" objectID2="pl5" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="pl5" fromText="States" toID="pl8" toText="State" objectID1="pl8" objectID2="pl5" relType="COREFERENCE" />
+<METALINK id="metal21" fromID="pl5" fromText="States" toID="pl10" toText="States" objectID1="pl10" objectID2="pl5" relType="COREFERENCE" />
+<METALINK id="metal22" fromID="pl5" fromText="States" toID="pl27" toText="State" objectID1="pl27" objectID2="pl5" relType="COREFERENCE" />
+<METALINK id="metal23" fromID="pl8" fromText="State" toID="pl9" toText="which" objectID1="pl8" objectID2="pl9 " relType="COREFERENCE" />
+<METALINK id="metal24" fromID="pl0" fromText="United States" toID="pl12" toText="United States" objectID1="pl12" objectID2="pl0 " relType="COREFERENCE" />
+<METALINK id="metal25" fromID="pl0" fromText="United States" toID="pl31" toText="" objectID1="pl31" objectID2="pl0" relType="SPLITCOREFERENCE" />
+<METALINK id="metal26" fromID="pl1" fromText="Congress" toID="pl11" toText="Congress" objectID1="pl1" relType="COREFERENCE" objectID2="pl11" />
+<METALINK id="metal27" fromID="pl5" fromText="States" toID="pl0" toText="United States" objectID1="pl5" objectID2="pl0" relType="SPLITCOREFERENCE" />
+<METALINK id="metal28" fromID="pl5" fromText="States" toID="pl31" toText="" relType="SPLITCOREFERENCE" objectID1="pl5" objectID2="pl31" />
+<METALINK id="metal29" fromID="pl5" fromText="States" toID="pl14" toText="State of New Hampshire" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl14" />
+<METALINK id="metal30" fromID="pl5" fromText="States" toID="pl15" toText="Rhode-Island" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl15" />
+<METALINK id="metal31" fromID="pl5" fromText="States" toID="pl29" toText="Massachusetts" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl29" />
+<METALINK id="metal32" fromID="pl5" fromText="States" toID="pl16" toText="Providence Plantations" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl16" />
+<METALINK id="metal33" fromID="pl5" fromText="States" toID="pl17" toText="Connecticut" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl17" />
+<METALINK id="metal34" fromID="pl5" fromText="States" toID="pl18" toText="New-York" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl18" />
+<METALINK id="metal35" fromID="pl5" fromText="States" toID="pl19" toText="New Jersey" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl19" />
+<METALINK id="metal36" fromID="pl5" fromText="States" toID="pl20" toText="Pennsylvania" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl20" />
+<METALINK id="metal37" fromID="pl5" fromText="States" toID="pl21" toText="Delaware" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl21" />
+<METALINK id="metal38" fromID="pl5" fromText="States" toID="pl22" toText="Maryland" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl22" />
+<METALINK id="metal39" fromID="pl5" fromText="States" toID="pl23" toText="Virginia" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl23" />
+<METALINK id="metal40" fromID="pl5" fromText="States" toID="pl24" toText="North Carolina" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl24" />
+<METALINK id="metal41" fromID="pl5" fromText="States" toID="pl25" toText="South Carolina" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl25" />
+<METALINK id="metal42" fromID="pl5" fromText="States" toID="pl26" toText="Georgia" objectID2="pl5" relType="SUBCOREFERENCE" objectID1="pl26" />
+</TAGS>
+</SpaceEvalTaskv1.2>

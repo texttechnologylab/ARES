@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Erste Pläne für eine Universität in Frankfurt am Main gab es Ende des 14. Jahrhunderts, als sich der Rat der Stadt zeitweise bemühte, die Universität von Paris nach Frankfurt am Main umzusiedeln.[9] Nach der Zerstörung Heidelbergs am 22. Mai 1693 durch französische Truppen siedelten die Professoren der Universität Heidelberg nach Frankfurt am Main um und konstituierten sich dort 1694 unter dem Rektor Johann Ludwig Fabricius als Universität im Exil. Diese blieb aber nicht dauerhaft in Frankfurt am Main, sondern wurde 1698 nach Weinheim umgesiedelt, wo die zeitweilige Residenz des pfälzischen Kurfürsten Johann Wilhelm lag.[10]
+Den ersten ernsthaften Versuch einer Universitätsgründung unternahm Großherzog Karl Theodor von Dalberg 1812. Er plante für sein Großherzogtum Frankfurt eine Akademie nach französischem Vorbild und gründete dazu mehrere Lyzeen in Frankfurt, Aschaffenburg und Wetzlar:[11] Das Lyceum Carolinum in Frankfurt sollte die philosophische Fakultät der großherzoglichen Universität bilden und die Studenten durch ein allgemeinbildendes Studium auf das anschließende Fachstudium an einer spezialisierten Fakultät vorbereiten. Für die juristische Ausbildung war die Rechtsschule Wetzlar, am Sitz des ehemaligen Reichskammergerichtes, vorgesehen. Einen zentralen Standort mit theologischer, juristischer und philosophischer Fakultät bildete die Karls-Universität Aschaffenburg, wohin der verbliebene Rumpf der 1798 aufgehobenen Universität Mainz ausgewandert war. Eine medizinisch-chirurgische Spezialschule sollte an der 1763 gegründeten Senckenbergischen Stiftung in Frankfurt entstehen und mit dieser kooperieren.]]></TEXT>
+<TAGS>
+<PLACE id="pl18" spans="1189~1209" text="Rechtsschule Wetzlar" dcl="FALSE" />
+<PLACE id="pl21" spans="1214~1255" text="Sitz des ehemaligen Reichskammergerichtes" dcl="FALSE" />
+<PLACE id="pl22" spans="1285~1293" text="Standort" dcl="FALSE" mod="zentralen" />
+<PLACE id="pl27" spans="1298~1354" text="theologischer, juristischer und philosophischer Fakultät" dcl="FALSE" />
+<PLACE id="pl1" spans="1367~1398" text="Karls-Universität Aschaffenburg" dcl="FALSE" />
+<PLACE id="pl0" spans="1450~1467" text="Universität Mainz" dcl="FALSE" />
+<PLACE id="pl20" spans="1491~1529" text="medizinisch-chirurgische Spezialschule" dcl="FALSE" />
+<PLACE id="pl5" spans="154~159" text="Paris" dcl="FALSE" />
+<PLACE id="pl23" spans="1561~1587" text="Senckenbergischen Stiftung" dcl="FALSE" mod="1763 gegründete" />
+<PLACE id="pl3" spans="1591~1600" text="Frankfurt" dcl="FALSE" />
+<PLACE id="pl6" spans="165~182" text="Frankfurt am Main" dcl="FALSE" />
+<PLACE id="pl4" spans="219~230" text="Heidelbergs" dcl="FALSE" />
+<PLACE id="pl8" spans="304~326" text="Universität Heidelberg" dcl="FALSE" />
+<PLACE id="pl7" spans="332~349" text="Frankfurt am Main" dcl="FALSE" />
+<PLACE id="pl2" spans="36~53" text="Frankfurt am Main" dcl="FALSE" />
+<PLACE id="pl9" spans="489~506" text="Frankfurt am Main" dcl="FALSE" />
+<PLACE id="pl10" spans="532~540" text="Weinheim" dcl="FALSE" />
+<PLACE id="pl11" spans="863~872" text="Frankfurt" dcl="FALSE" />
+<PLACE id="pl13" spans="874~887" text="Aschaffenburg" dcl="FALSE" />
+<PLACE id="pl14" spans="892~899" text="Wetzlar" dcl="FALSE" />
+<PLACE id="pl16" spans="909~925" text="Lyceum Carolinum" dcl="FALSE" />
+<PLACE id="pl15" spans="929~938" text="Frankfurt" dcl="FALSE" />
+<PLACE id="pl12" spans="791~799" text="Akademie" dcl="FALSE" />
+<PLACE id="pl19" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl24" spans="598~623" text="Kurfürsten Johann Wilhelm" dcl="FALSE" mod="pfälzischen" />
+<PLACE id="pl25" spans="573~581" text="Residenz" dcl="FALSE" mod="zeitweilige" />
+<PLACE id="pl26" spans="21~32" text="Universität" dcl="FALSE" />
+<PLACE id="pl28" spans="965~973" text="Fakultät" dcl="FALSE" mod="philosophische" />
+<PLACE id="pl29" spans="995~1006" text="Universität" dcl="FALSE" mod="großherzoglichen" />
+<PLACE id="pl30" spans="1128~1136" text="Fakultät" dcl="FALSE" mod="spezialisierten" />
+<PLACE id="pl31" spans="138~149" text="Universität" dcl="FALSE" />
+<PLACE id="pl32" spans="853~859" text="Lyzeen" dcl="FALSE" />
+<PLACE id="pl33" spans="432~443" text="Universität" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="101~114" text="Rat der Stadt" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se19" spans="1022~1031" text="Studenten" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se20" spans="1061~1068" text="Studium" dcl="FALSE" mod="allgemeinbildendes" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se21" spans="1091~1102" text="Fachstudium" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se23" spans="1170~1180" text="Ausbildung" dcl="FALSE" mod="juristisch" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se24" spans="1422~1427" text="Rumpf" dcl="FALSE" mod="verbliebene" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se3" spans="266~273" text="Truppen" dcl="FALSE" mod="französische" type="PERSON" />
+<SPATIAL_ENTITY id="se4" spans="288~299" text="Professoren" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se5" spans="447~451" text="Exil" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se8" spans="656~663" text="Versuch" dcl="FALSE" mod="rsten ernsthaften" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se9" spans="670~690" text="Universitätsgründung" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se0" spans="6~11" text="Pläne" dcl="FALSE" mod="Erste" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se11" spans="701~736" text="Großherzog Karl Theodor von Dalberg" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se12" spans="743~745" text="Er" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se14" spans="762~785" text="Großherzogtum Frankfurt" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se16" spans="819~826" text="Vorbild" dcl="FALSE" mod="frazösisch" type="PERSON" />
+<SPATIAL_ENTITY id="se10" spans="397~427" text="Rektor Johann Ludwig Fabricius" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se26" spans="453~458" text="Diese" dcl="FALSE" type="PERSON" />
+<NONMOTION_EVENT id="e7" spans="1007~1013" text="bilden"  />
+<NONMOTION_EVENT id="e8" spans="1137~1148" text="vorbereiten"  />
+<NONMOTION_EVENT id="e9" spans="1257~1267" text="vorgesehen"  />
+<NONMOTION_EVENT id="e0" spans="125~132" text="bemühte"  />
+<NONMOTION_EVENT id="e10" spans="1355~1362" text="bildete"  />
+<NONMOTION_EVENT id="e11" spans="1601~1610" text="entstehen"  />
+<NONMOTION_EVENT id="e12" spans="1626~1637" text="kooperieren"  />
+<NONMOTION_EVENT id="e1" spans="357~371" text="konstituierten"  />
+<NONMOTION_EVENT id="e2" spans="459~464" text="blieb"  />
+<NONMOTION_EVENT id="e3" spans="624~627" text="lag"  />
+<NONMOTION_EVENT id="e4" spans="691~700" text="unternahm"  />
+<NONMOTION_EVENT id="e5" spans="746~752" text="plante"  />
+<NONMOTION_EVENT id="e6" spans="831~839" text="gründete"  />
+<MOTION id="m2" spans="1468~1480" text="ausgewandert" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" />
+<MOTION id="m0" spans="183~194" text="umzusiedeln" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m3" spans="274~283" text="siedelten" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="541~552" text="umgesiedelt" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr8" spans="1211~1213" text="am" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="150~153" text="von" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr9" spans="1537~1539" text="an" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="1588~1590" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="160~164" text="nach" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr3" spans="327~331" text="nach" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr0" spans="33~35" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="486~488" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="527~531" text="nach" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="860~862" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="926~928" text="in" semantic_type="TOPOLOGICAL" />
+<QSLINK id="qsl0" fromID="pl26" fromText="Universität" toID="pl2" toText="Frankfurt am Main" relType="IN" trajector="pl26" landmark="pl2" trigger="se0" />
+<QSLINK id="qsl1" fromID="pl31" fromText="Universität" toID="pl5" toText="Paris" relType="OUT" trajector="pl31" landmark="pl5" trigger="se1" />
+<QSLINK id="qsl2" fromID="pl31" fromText="Universität" toID="pl6" toText="Frankfurt am Main" relType="IN" trajector="pl31" landmark="pl6" trigger="se2" />
+<QSLINK id="qsl3" fromID="pl8" fromText="Universität Heidelberg" toID="pl7" toText="Frankfurt am Main" relType="IN" trajector="pl8" landmark="pl7" trigger="sr3" />
+<QSLINK id="qsl4" fromID="se26" fromText="Diese" toID="pl9" toText="Frankfurt am Main" relType="IN" trajector="se26" landmark="pl9" trigger="sr5" />
+<QSLINK id="qsl5" fromID="se26" fromText="Diese" toID="pl10" toText="Weinheim" relType="OUT" trajector="se26" landmark="pl10" trigger="sr4" />
+<QSLINK id="qsl6" fromID="pl32" fromText="Lyzeen" toID="pl11" toText="Frankfurt" relType="IN" trajector="pl32" landmark="pl11" trigger="sr6" />
+<QSLINK id="qsl7" toID="pl13" toText="Aschaffenburg" fromID="pl32" fromText="Lyzeen" relType="IN" trajector="pl32" landmark="pl13" trigger="sr6" />
+<QSLINK id="qsl8" toID="pl14" toText="Wetzlar" fromID="pl32" fromText="Lyzeen" relType="IN" trajector="pl32" landmark="pl14" trigger="sr6" />
+<QSLINK id="qsl9" fromID="pl16" fromText="Lyceum Carolinum" toID="pl15" toText="Frankfurt" trigger="sr7" relType="IN" trajector="pl16" landmark="pl15" />
+<QSLINK id="qsl10" fromID="pl18" fromText="Rechtsschule Wetzlar" toID="pl21" toText="Sitz des ehemaligen Reichskammergerichtes" relType="EC" trajector="pl18" landmark="pl21" trigger="sr8" />
+<QSLINK id="qsl11" fromID="pl20" fromText="medizinisch-chirurgische Spezialschule" toID="pl23" toText="Senckenbergischen Stiftung" relType="EC" trajector="pl20" landmark="pl23" trigger="sr9" />
+<QSLINK id="qsl12" fromID="pl23" fromText="Senckenbergischen Stiftung" toID="pl3" toText="Frankfurt" relType="IN" trajector="pl23" landmark="pl3" />
+<MOVELINK id="mvl0" fromID="se3" fromText="Truppen" toID="pl7" toText="Frankfurt am Main" trigger="m3" source="pl8" goal="pl7" mover="se4" landmark="pl7" goal_reached="YES" />
+<MOVELINK id="mvl1" fromID="pl31" fromText="Universität" toID="m0" toText="umzusiedeln" trigger="m0" source="pl31" goal="pl6" mover="pl31" landmark="pl6" goal_reached="YES" />
+<MOVELINK id="mvl2" fromID="se26" fromText="Diese" toID="m1" toText="umgesiedelt" trigger="m1" source="pl9" goal="pl10" mover="se26" />
+<MOVELINK id="mvl3" fromID="se24" fromText="Rumpf" toID="m2" toText="ausgewandert" trigger="m2" source="pl0" goal="-" mover="se24" landmark="pl0" goal_reached="YES" />
+<METALINK id="metal0" fromID="se3" fromText="Truppen" toID="se26" toText="Diese" objectID1="se3" objectID2="se26" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se11" fromText="Großherzog Karl Theodor von Dalberg" toID="se12" toText="Er" objectID1="se11" objectID2="se12" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[“ACT III
+Back at his castle, the mortally ill Tristan is tended by Kurwenal. A shepherd inquires about his master, and Kurwenal explains that only Isolde, with her magic arts, could save him. The shepherd agrees to play a cheerful tune on his pipe as soon as he sees a ship approaching. Hallucinating, Tristan imagines the realm of night where he will return with Isolde. He thanks Kurwenal for his devotion, then envisions Isolde’s ship approaching, but the shepherd’s mournful tune signals that the sea is still empty. Tristan recalls the melody, which he heard as a child. It reminds him of the duel with Morold, and he wishes Isolde’s medicine had killed him then instead of making him suffer now.The shepherd’s tune finally turns cheerful. Tristan gets up from his sickbed in growing agitation and tears off his bandages, letting his wounds bleed. Isolde rushes in, and he falls, dying, in her arms. Brangäne’s voice is heard from outside, trying to calm Kurwenal, but he will not listen and stabs Melot before he is killed himself by the king’s soldiers. Marke is overwhelmed with grief at the sight of the dead Tristan, while Brangäne explains to Isolde that the king has come to pardon the lovers. Isolde, transfigured, does not hear her, and with a vision of Tristan beckoning her to the world beyond, she sinks dying upon his body.”]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="21~27" text="castle" type="PPL" dimensionality="AREA" form="NOM" dcl="FALSE" />
+<PLACE id="pl2" spans="501~504" text="sea" dcl="FALSE" />
+<PLACE id="pl1" spans="936~943" text="outside" dcl="FALSE" />
+<SPATIAL_ENTITY id="se79" spans="1003~1008" text="Melot" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se53" spans="1016~1018" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se54" spans="1029~1036" text="himself" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se5" spans="103~106" text="his" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se55" spans="1044~1048" text="king" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se56" spans="1051~1059" text="soldiers" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se57" spans="1061~1066" text="Marke" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se6" spans="107~113" text="master" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se58" spans="1087~1092" text="grief" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se59" spans="1118~1125" text="Tristan" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se60" spans="1133~1141" text="Brangäne" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se61" spans="1154~1160" text="Isolde" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se62" spans="1170~1174" text="king" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se63" spans="1198~1204" text="lovers" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se7" spans="119~127" text="Kurwenal" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se64" spans="1206~1212" text="Isolde" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se65" spans="1242~1245" text="her" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se67" spans="1268~1275" text="Tristan" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se68" spans="1286~1289" text="her" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se69" spans="1311~1314" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se70" spans="1332~1335" text="his" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se71" spans="1336~1340" text="body" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se8" spans="147~153" text="Isolde" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="160~163" text="her" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se10" spans="164~174" text="magic arts" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se0" spans="17~20" text="his" type="PERSON" dcl="FALSE" form="NOM" />
+<SPATIAL_ENTITY id="se11" spans="187~190" text="him" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="196~204" text="shepherd" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="231~235" text="tune" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se14" spans="239~242" text="his" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se15" spans="243~247" text="pipe" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se16" spans="259~261" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se17" spans="269~273" text="ship" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se18" spans="302~309" text="Tristan" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se19" spans="344~346" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se20" spans="364~370" text="Isolde" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se21" spans="372~374" text="He" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se22" spans="382~390" text="Kurwenal" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se23" spans="395~398" text="his" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se24" spans="399~407" text="devotion" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se25" spans="424~430" text="Isolde" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se27" spans="433~437" text="ship" type="VEHICLE" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se31" spans="459~467" text="shepherd" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="46~53" text="Tristan" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se50" spans="484~491" text="signals" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se33" spans="501~504" text="sea" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se30" spans="521~528" text="Tristan" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se29" spans="555~557" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se28" spans="569~574" text="child" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se39" spans="587~590" text="him" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se40" spans="608~614" text="Morold" type="PERSON" form="NAM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se41" spans="620~622" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se42" spans="630~636" text="Isolde" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se43" spans="639~647" text="medicine" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se44" spans="659~662" text="him" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se2" spans="67~75" text="Kurwenal" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se45" spans="686~689" text="him" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se46" spans="690~696" text="suffer" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se47" spans="705~713" text="shepherd" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se48" spans="716~720" text="tune" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se52" spans="745~752" text="Tristan" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se34" spans="766~769" text="his" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se35" spans="770~777" text="sickbed" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se36" spans="789~798" text="agitation" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se3" spans="79~87" text="shepherd" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se38" spans="813~816" text="his" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se37" spans="817~825" text="bandages" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se77" spans="835~838" text="his" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se78" spans="839~845" text="wounds" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se80" spans="853~859" text="Isolde" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se75" spans="895~898" text="her" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se76" spans="899~903" text="arms" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se72" spans="905~913" text="Brangäne" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se73" spans="960~968" text="Kurwenal" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="875~877" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se32" spans="974~976" text="he" dcl="FALSE" />
+<NONMOTION_EVENT id="e8" spans="1070~1081" text="overwhelmed"  />
+<NONMOTION_EVENT id="e20" spans="1142~1150" text="explains"  />
+<NONMOTION_EVENT id="e21" spans="1187~1193" text="pardon"  />
+<NONMOTION_EVENT id="e9" spans="1237~1241" text="hear"  />
+<NONMOTION_EVENT id="e29" spans="1276~1285" text="beckoning"  />
+<NONMOTION_EVENT id="e2" spans="128~136" text="explains"  />
+<NONMOTION_EVENT id="e3" spans="182~186" text="save"  />
+<NONMOTION_EVENT id="e4" spans="205~211" text="agrees"  />
+<NONMOTION_EVENT id="e10" spans="205~211" text="agrees"  />
+<NONMOTION_EVENT id="e5" spans="215~219" text="play"  />
+<NONMOTION_EVENT id="e6" spans="262~266" text="sees"  />
+<NONMOTION_EVENT id="e11" spans="287~300" text="Hallucinating"  />
+<NONMOTION_EVENT id="e12" spans="310~318" text="imagines"  />
+<NONMOTION_EVENT id="e13" spans="375~381" text="thanks"  />
+<NONMOTION_EVENT id="e14" spans="414~423" text="envisions"  />
+<NONMOTION_EVENT id="e18" spans="479~483" text="tune"  />
+<NONMOTION_EVENT id="e15" spans="529~536" text="recalls"  />
+<NONMOTION_EVENT id="e0" spans="54~63" text="is tended"  />
+<NONMOTION_EVENT id="e16" spans="54~63" text="is tended"  />
+<NONMOTION_EVENT id="e27" spans="558~563" text="heard"  />
+<NONMOTION_EVENT id="e25" spans="579~586" text="reminds"  />
+<NONMOTION_EVENT id="e24" spans="623~629" text="wishes"  />
+<NONMOTION_EVENT id="e26" spans="827~834" text="letting"  />
+<NONMOTION_EVENT id="e1" spans="88~96" text="inquires"  />
+<NONMOTION_EVENT id="e17" spans="88~96" text="inquires"  />
+<NONMOTION_EVENT id="e7" spans="925~930" text="heard"  />
+<NONMOTION_EVENT id="e31" spans="955~959" text="calm"  />
+<NONMOTION_EVENT id="e22" spans="986~992" text="listen"  />
+<NONMOTION_EVENT id="e19" spans="729~734" text="turns"  />
+<MOTION id="m6" spans="1179~1183" text="come" motion_sense="LITERAL" motion_class="FOLLOW" motion_type="MANNER" />
+<MOTION id="m7" spans="1214~1226" text="transfigured" motion_type="MANNER" motion_class="DEVIATE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m10" spans="1315~1320" text="sinks" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m11" spans="1321~1326" text="dying" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m0" spans="274~285" text="approaching" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m12" spans="352~358" text="return" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m13" spans="438~449" text="approaching" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m14" spans="753~760" text="gets up" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="803~812" text="tears off" motion_type="MANNER" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m2" spans="846~851" text="bleed" motion_type="MANNER" motion_class="LEAVE" motion_sense="LITERAL" />
+<MOTION id="m3" spans="860~866" text="rushes" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m5" spans="878~883" text="falls" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" />
+<MOTION id="m9" spans="997~1002" text="stabs" motion_type="COMPOUND" motion_sense="LITERAL" motion_class="MOVE" />
+<MOTION id="m4" spans="9~13" text="Back" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr7" spans="1093~1095" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="1327~1331" text="upon" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr0" spans="14~16" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="236~238" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="761~765" text="from" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="892~894" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="931~935" text="from" semantic_type="TOPOLOGICAL" />
+<EVENT_PATH id="ep0" spans="274~285" text="approaching"  />
+<EVENT_PATH id="ep1" spans="352~358" text="return"  />
+<EVENT_PATH id="ep2" spans="438~449" text="approaching"  />
+<EVENT_PATH id="ep3" spans="860~866" text="rushes"  />
+<QSLINK id="qsl0" fromID="se57" fromText="Marke" toID="se59" toText="Tristan" relType="NTPP" trajector="se57" landmark="se59" trigger="sr7" />
+<QSLINK id="qsl2" fromID="se0" fromText="his" toID="pl0" toText="castle" trigger="sr0" relType="NTPP" trajector="se0" landmark="pl0" />
+<QSLINK id="qsl3" fromID="se12" fromText="shepherd" toID="se15" toText="pipe" relType="NTPP" trajector="se12" landmark="se15" trigger="sr8" />
+<QSLINK id="qsl4" fromID="se52" fromText="Tristan" toID="se36" toText="agitation" relType="NTPP" trajector="se52" landmark="se36" trigger="sr6" />
+<QSLINK id="qsl5" fromID="se72" fromText="Brangäne" toID="pl1" toText="outside" relType="NTPP" trajector="se72" landmark="pl1" trigger="sr9" />
+<QSLINK id="qsl6" fromID="se4" fromText="he" toID="se76" toText="arms" relType="NTPP" trajector="se4" landmark="se76" trigger="sr2" />
+<QSLINK id="qsl7" fromID="se69" fromText="she" toID="se71" toText="body" relType="NTPP" trajector="se69" landmark="se71" trigger="sr5" />
+<MOVELINK id="mvl0" fromID="m4" fromText="Back" toID="pl0" toText="castle" trigger="m4" source="m4" goal="pl0" />
+<MOVELINK id="mvl1" fromID="se16" fromText="he" toID="m0" toText="approaching" trigger="m0" source="se16" goal="m0" />
+<MOVELINK id="mvl2" fromID="se19" fromText="he" toID="se20" toText="Isolde" trigger="m12" source="se19" goal="se20" />
+<MOVELINK id="mvl3" fromID="se25" fromText="Isolde" toID="m13" toText="approaching" trigger="m13" source="se25" goal="m13" />
+<MOVELINK id="mvl4" fromID="se52" fromText="Tristan" toID="se36" toText="agitation" trigger="m14" source="se52" goal="se36" />
+<MOVELINK id="mvl5" fromID="se52" fromText="Tristan" toID="se37" toText="bandages" trigger="m1" source="se52" goal="se37" />
+<MOVELINK id="mvl7" fromID="se62" fromText="king" toID="se63" toText="lovers" trigger="m6" source="se62" goal="se63" />
+<MOVELINK id="mvl8" fromID="se32" fromText="he" toID="se79" toText="Melot" trigger="m9" source="se32" goal="se79" />
+<MOVELINK id="mvl9" fromID="se4" fromText="he" toID="m5" toText="falls" trigger="m5" source="se4" />
+<MOVELINK id="mvl10" fromID="se80" fromText="Isolde" toID="m3" toText="rushes" trigger="m3" source="se80" />
+<MOVELINK id="mvl11" fromID="e26" fromText="letting" toID="m2" toText="bleed" trigger="m2" source="e26" goal="m2" />
+<MOVELINK id="mvl12" fromID="se64" fromText="Isolde" toID="m7" toText="transfigured" trigger="m7" source="se64" goal="m7" />
+<MOVELINK id="mvl13" fromID="se69" fromText="she" toID="se71" toText="body" trigger="m10" source="se69" goal="se71" />
+<MOVELINK id="mvl14" fromID="e26" fromText="letting" toID="se70" toText="his" trigger="m11" source="e26" goal="se70" />
+<METALINK id="metal0" fromID="se0" fromText="his" toID="se1" toText="Tristan" objectID1="se0" objectID2="se1" />
+<METALINK id="metal1" objectID1="se5" objectID2="se1" />
+<METALINK id="metal2" objectID1="se9" objectID2="se8" />
+<METALINK id="metal3" objectID1="se11" objectID2="se1" />
+<METALINK id="metal4" objectID2="se1" objectID1="se14" />
+<METALINK id="metal5" objectID1="se19" objectID2="se18" />
+<METALINK id="metal6" objectID1="se16" objectID2="se1" />
+<METALINK id="metal7" objectID1="se29" objectID2="se30" />
+<METALINK id="metal8" objectID1="se39" objectID2="se30" />
+<METALINK id="metal9" objectID1="se41" objectID2="se30" />
+<METALINK id="metal10" objectID1="se34" objectID2="se52" />
+<METALINK id="metal11" objectID1="se32" objectID2="se72" />
+<METALINK id="metal12" objectID1="se80" objectID2="se75" />
+<METALINK id="metal13" objectID1="se65" objectID2="se61" />
+<METALINK id="metal14" objectID1="se67" objectID2="se64" />
+<METALINK id="metal15" objectID1="se68" objectID2="se64" />
+<METALINK id="metal16" objectID1="se70" objectID2="se67" />
+<METALINK id="metal17" objectID1="se68" objectID2="se64" />
+</TAGS>
+</SpaceEvalTaskv1.2>

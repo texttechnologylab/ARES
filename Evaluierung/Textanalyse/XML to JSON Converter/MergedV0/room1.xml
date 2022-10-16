@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[We were all sitting in the long, low room at Farthings, darker than usual because of the rain. The french windows gave very little light, chopped as they were in small square panes that added to the beauty of the house from without, but inside had all the appearance of prison bars, oddly depressing. The grandfather clock in the corner ticked slowly and unevenly; now and again it gave a little cough, hesitating momentarily, like an old man with asthma, then ploughed on again with quiet insistence. The fire in the basket grate had sunk rather low; the mixture of coke and coal had caked in a solid lump, giving no warmth; and the logs that had been flung carelessly on top earlier in the afternoon smouldered in dull fashion, needing the bellows to coax them into life. The papers were strewn about the floor, and the empty cardboard covers of gramophone records were amongst them, along with a cushion that had fallen from the sofa. These things may have added to Charles’s irritation. He was an orderly man, with a methodical mind.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="45~54" text="Farthings" dcl="FALSE" type="CIVIL" form="NAM" dimensionality="AREA" />
+<PLACE id="pl1" spans="37~41" text="room" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl2" spans="213~218" text="house" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl3" spans="807~812" text="floor" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl4" spans="330~336" text="corner" dcl="FALSE" type="CIVIL" dimensionality="POINT" form="NOM" />
+<PLACE id="pl5" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl6" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="0~2" text="We" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se1" spans="99~113" text="french windows" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se2" spans="149~153" text="they" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se4" spans="175~180" text="panes" dcl="FALSE" mod="square" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se5" spans="270~281" text="prison bars" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se6" spans="305~322" text="grandfather clock" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se7" spans="439~442" text="man" dcl="FALSE" type="PERSON" mod="old" />
+<SPATIAL_ENTITY id="se8" spans="518~530" text="basket grate" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se9" spans="506~510" text="fire" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se10" spans="567~571" text="coke" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se11" spans="576~580" text="coal" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se12" spans="602~606" text="lump" dcl="FALSE" mod="solid" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se13" spans="634~638" text="logs" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se14" spans="742~749" text="bellows" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se15" spans="778~784" text="papers" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se17" spans="828~844" text="cardboard covers" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se18" spans="848~866" text="gramophone records" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se19" spans="899~906" text="cushion" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se20" spans="932~936" text="sofa" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se21" spans="969~978" text="Charles’s" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se22" spans="1009~1012" text="man" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se24" spans="131~136" text="light" dcl="FALSE" type="DYNAMIC_EVENT" mod="little" />
+<SPATIAL_ENTITY id="se25" spans="168~180" text="square panes" dcl="FALSE" type="ARTIFACT" mod="small" />
+<SPATIAL_ENTITY id="se3" spans="89~93" text="rain" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se16" spans="944~950" text="things" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se23" spans="396~401" text="cough" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se27" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se28" spans="379~381" text="it" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se30" spans="880~884" text="them" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se31" spans="991~993" text="He" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se32" spans="-1~-1" text="" dcl="FALSE" />
+<NONMOTION_EVENT id="e0" spans="12~19" text="sitting"  />
+<NONMOTION_EVENT id="e1" spans="114~118" text="gave"  />
+<NONMOTION_EVENT id="e2" spans="138~145" text="chopped"  />
+<NONMOTION_EVENT id="e5" spans="535~539" text="sunk"  />
+<NONMOTION_EVENT id="e6" spans="585~590" text="caked"  />
+<NONMOTION_EVENT id="e8" spans="730~737" text="needing"  />
+<NONMOTION_EVENT id="e9" spans="790~796" text="strewn"  />
+<NONMOTION_EVENT id="e11" spans="403~413" text="hesitating"  />
+<NONMOTION_EVENT id="e3" spans="702~712" text="smouldered"  />
+<MOTION id="m1" spans="337~343" text="ticked" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" />
+<MOTION id="m4" spans="461~469" text="ploughed" motion_type="MANNER" motion_sense="FICTIVE" motion_class="MOVE" />
+<MOTION id="m0" spans="653~658" text="flung" motion_sense="LITERAL" motion_class="CROSS" motion_type="PATH" />
+<MOTION id="m2" spans="916~922" text="fallen" motion_sense="LITERAL" motion_class="MOVE" motion_type="PATH" />
+<S_RELATION id="sr0" spans="20~22" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="42~44" text="at" semantic_type="DIR_TOP" />
+<S_RELATION id="sr2" spans="323~325" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="511~513" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="670~676" text="on top" semantic_type="DIR_TOP" />
+<S_RELATION id="sr6" spans="797~802" text="about" semantic_type="DIR_TOP" />
+<S_RELATION id="sr3" spans="872~879" text="amongst" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="159~161" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="750~752" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr9" spans="966~968" text="to" semantic_type="GOAL_DEFINING" />
+<EVENT_PATH id="ep0" spans="-1~-1" text="" endID="se8" trigger="m0" beginID="pl5" />
+<EVENT_PATH id="ep1" spans="-1~-1" text="" trigger="e9" beginID="pl6" endID="pl3" />
+<EVENT_PATH id="ep2" spans="-1~-1" text="" beginID="se20" endID="pl3" trigger="m2" />
+<MEASURE id="me0" spans="162~167" text="small" value="small" />
+<MEASURE id="me1" spans="33~36" text="low" value="low" />
+<MEASURE id="me2" spans="27~31" text="long" value="long" />
+<MEASURE id="me3" spans="124~130" text="little" value="little" />
+<MEASURE id="me6" spans="822~827" text="empty" value="empty" />
+<MEASURE id="me7" spans="389~395" text="little" value="little" />
+<QSLINK id="qsl0" fromID="se0" fromText="We" toID="pl1" toText="room" relType="NTPP" trajector="se0" landmark="pl1" trigger="sr0" />
+<QSLINK id="qsl1" toID="pl0" toText="Farthings" fromID="pl1" fromText="room" relType="TPP" trajector="pl1" landmark="pl0" trigger="sr1" />
+<QSLINK id="qsl2" fromID="se6" fromText="grandfather clock" toID="pl4" toText="corner" relType="EC" trajector="se6" landmark="pl1" trigger="sr2" />
+<QSLINK id="qsl3" fromID="se9" fromText="fire" toID="se8" toText="basket grate" relType="EC" trajector="se9" landmark="pl1" trigger="sr4" />
+<QSLINK id="qsl4" fromID="se13" fromText="logs" toID="se8" toText="basket grate" relType="EC" trajector="se13" landmark="se8" trigger="sr5" />
+<QSLINK id="qsl5" fromID="se15" fromText="papers" toID="pl3" toText="floor" relType="EC" trajector="se15" landmark="pl3" trigger="sr6" />
+<QSLINK id="qsl6" fromID="se17" fromText="cardboard covers" toID="se30" toText="them" relType="EC" trajector="se17" landmark="pl3" trigger="sr3" />
+<QSLINK id="qsl7" fromID="se1" fromText="french windows" toID="se25" toText="square panes" relType="EC" trajector="se1" landmark="pl1" trigger="sr7" />
+<QSLINK id="qsl8" fromID="pl1" fromText="room" toID="pl2" toText="house" relType="IN" trajector="pl1" landmark="pl2" />
+<QSLINK id="qsl9" fromID="pl5" fromText="" toID="pl1" toText="room" relType="IN" trajector="pl5" landmark="pl1" />
+<QSLINK id="qsl10" fromID="pl6" fromText="" toID="pl1" toText="room" relType="IN" trajector="pl6" landmark="pl1" />
+<QSLINK id="qsl11" fromID="se1" fromText="french windows" toID="pl2" toText="house" relType="EC" trajector="se1" landmark="pl2" />
+<QSLINK id="qsl12" fromID="pl4" fromText="corner" toID="pl1" toText="room" relType="IN" trajector="pl4" landmark="pl1" />
+<QSLINK id="qsl13" fromID="pl3" fromText="floor" toID="pl1" toText="room" relType="IN" trajector="pl3" landmark="pl1" />
+<QSLINK id="qsl14" fromID="se20" fromText="sofa" toID="pl1" toText="room" relType="IN" trajector="se20" landmark="pl1" />
+<OLINK id="ol0" fromID="pl1" fromText="room" toID="pl0" toText="Farthings" trajector="pl1" landmark="pl0" trigger="sr1" frame_type="INTRINSIC" referencePt="Farthings" />
+<OLINK id="ol1" fromID="se13" fromText="logs" toID="se8" toText="basket grate" trajector="se13" landmark="pl1" trigger="sr5" referencePt="basket grate" frame_type="INTRINSIC" />
+<OLINK id="ol2" fromID="se15" fromText="papers" toID="pl3" toText="floor" trajector="se15" landmark="pl3" trigger="sr6" frame_type="INTRINSIC" referencePt="floor" />
+<MOVELINK id="mvl0" trigger="m1" source="se6" mover="se6" landmark="pl4" goal_reached="UNCERTAIN" midPoint="?" goal="?" />
+<MOVELINK id="mvl1" trigger="m4" source="se6" mover="se6" landmark="pl4" goal_reached="UNCERTAIN" goal="?" midPoint="?" />
+<MOVELINK id="mvl2" trigger="m0" source="se13" goal="se9" midPoint="?" mover="se13" landmark="pl1" goal_reached="YES" />
+<MOVELINK id="mvl3" trigger="m2" source="se20" goal="pl3" midPoint="se20" mover="se19" landmark="pl3" goal_reached="YES" />
+<MEASURELINK id="ml0" fromID="me2" fromText="long" toID="pl1" toText="room" val="me2" trajector="pl1" landmark="pl0" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml1" fromID="me1" fromText="low" toID="pl1" toText="room" trajector="pl1" landmark="pl0" relType="GENERAL_DIMENSION" val="me1" />
+<MEASURELINK id="ml2" fromID="me3" fromText="little" toID="se24" toText="light" trajector="se24" landmark="pl1" relType="GENERAL_DIMENSION" val="me3" />
+<MEASURELINK id="ml3" fromID="me0" fromText="small" toID="se4" toText="panes" trajector="se4" landmark="pl0" relType="GENERAL_DIMENSION" val="me0" />
+<MEASURELINK id="ml4" fromID="me7" fromText="little" toID="se23" toText="cough" trajector="se23" landmark="pl1" relType="GENERAL_DIMENSION" val="me7" />
+<MEASURELINK id="ml5" fromID="me6" fromText="empty" toID="se17" toText="cardboard covers" trajector="se17" landmark="pl3" relType="GENERAL_DIMENSION" val="me6" />
+<METALINK id="metal0" fromID="pl3" fromText="floor" toID="pl1" toText="room" objectID1="pl3" objectID2="pl1" relType="SUBCOREFERENCE" />
+<METALINK id="metal1" fromID="pl4" fromText="corner" toID="pl1" toText="room" objectID1="pl4" objectID2="pl1" relType="SUBCOREFERENCE" />
+<METALINK id="metal2" fromID="pl1" fromText="room" toID="pl2" toText="house" objectID1="pl1" objectID2="pl2" relType="SUBCOREFERENCE" />
+<METALINK id="metal3" fromID="pl0" fromText="Farthings" toID="pl2" toText="house" objectID1="pl0" objectID2="pl2" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se2" fromText="they" toID="se1" toText="french windows" objectID1="se2" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se25" fromText="square panes" toID="se1" toText="french windows" objectID1="se25" objectID2="se1" relType="SUBCOREFERENCE" />
+<METALINK id="metal8" fromID="se5" fromText="prison bars" toID="se1" toText="french windows" objectID1="se5" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se7" fromText="man" toID="se6" toText="grandfather clock" objectID1="se7" objectID2="se6" relType="COREFERENCE" />
+<METALINK id="metal10" toID="se27" toText="" fromID="se10" fromText="coke" objectID1="se10" objectID2="se27" relType="SUBCOREFERENCE" />
+<METALINK id="metal11" fromID="se28" fromText="it" toID="se6" toText="grandfather clock" objectID1="se28" objectID2="se6" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se11" fromText="coal" toID="se27" toText="" objectID1="se11" objectID2="se27" relType="SUBCOREFERENCE" />
+<METALINK id="metal13" fromID="se27" fromText="" toID="se12" toText="lump" objectID1="se27" objectID2="se12" relType="COREFERENCE" />
+<METALINK id="metal16" toID="se30" toText="them" fromID="se15" fromText="papers" relType="COREFERENCE" objectID1="se15" objectID2="se30" />
+<METALINK id="metal17" fromID="se17" fromText="cardboard covers" toID="se18" toText="gramophone records" objectID1="se17" objectID2="se18" relType="SUBCOREFERENCE" />
+<METALINK id="metal18" fromID="se22" fromText="man" toID="se21" toText="Charles’s" objectID1="se22" objectID2="se21" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se31" fromText="He" toID="se21" toText="Charles’s" objectID1="se31" objectID2="se21" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se19" fromText="cushion" toID="se20" toText="sofa" objectID1="se19" objectID2="se20" relType="SUBCOREFERENCE" />
+<METALINK id="metal21" fromID="se15" fromText="papers" toID="se32" toText="" relType="SUBCOREFERENCE" objectID1="se15" objectID2="se32" />
+<METALINK id="metal22" fromID="se17" fromText="cardboard covers" toID="se32" toText="" relType="SUBCOREFERENCE" objectID2="se32" objectID1="se17" />
+<METALINK id="metal23" fromID="se18" fromText="gramophone records" toID="se32" toText="" relType="SUBCOREFERENCE" objectID2="se32" objectID1="se18" />
+<METALINK id="metal24" fromID="se19" fromText="cushion" toID="se32" toText="" relType="SUBCOREFERENCE" objectID2="se32" objectID1="se19" />
+<METALINK id="metal25" fromID="se32" fromText="" toID="se16" toText="things" relType="SPLITCOREFERENCE" objectID1="se32" objectID2="se16" />
+<METALINK id="metal26" fromID="se1" fromText="french windows" toID="se32" toText="" relType="SUBCOREFERENCE" objectID1="se1" objectID2="se32" />
+<METALINK id="metal27" fromID="se6" fromText="grandfather clock" toID="se32" toText="" relType="SUBCOREFERENCE" objectID1="se6" objectID2="se32" />
+<METALINK id="metal28" fromID="se12" fromText="lump" toID="se32" toText="" relType="SUBCOREFERENCE" objectID2="se32" objectID1="se12" />
+<METALINK id="metal29" fromID="se9" fromText="fire" toID="se32" toText="" relType="SUBCOREFERENCE" objectID2="se32" objectID1="se9" />
+<METALINK id="metal30" fromID="se14" fromText="bellows" toID="se32" toText="" relType="SUBCOREFERENCE" objectID2="se32" objectID1="se14" />
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Follow the Moskva
+Down to Gorky Park
+Listening to the wind of change
+An August summer night
+Soldiers passing by
+Listening to the wind of change
+The world is closing in
+Did you ever think
+That we could be so close, like brothers
+The future's in the air
+Can feel it everywhere
+Blowing with the wind of change
+Take me to the magic of the moment
+On a glory night
+Where the children of tomorrow dream away
+In the wind of change
+Walking down the street
+Distant memories
+Are buried in the past, forever
+Blows straight into the face of time
+Like a storm wind that will ring the freedom bell
+For peace of mind
+Let your balalaika sing
+What my guitar wants to say]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="11~17" text="Moskva" type="BODYOFWATER" dimensionality="LINE" form="NAM" dcl="FALSE" countable="TRUE" />
+<PLACE id="pl2" spans="148~153" text="world" type="PPL" dimensionality="AREA" form="NOM" dcl="FALSE" />
+<PLACE id="pl1" spans="26~36" text="Gorky Park" type="PPL" dimensionality="AREA" form="NAM" dcl="FALSE" countable="TRUE" />
+<PLACE id="pl3" spans="440~446" text="street" type="PPL" dimensionality="LINE" form="NOM" dcl="FALSE" />
+<PLACE id="pl4" spans="6~7" text=" " dcl="FALSE" comment="from somewhere" />
+<PLACE id="pl5" spans="167~168" text=" " dcl="FALSE" />
+<PLACE id="pl6" spans="-1~-1" text="" dcl="FALSE" comment="for the soldiers" />
+<PATH id="p0" spans="11~17" text="Moskva" form="NAM" dcl="FALSE" type="WATERWAY" />
+<PATH id="p1" spans="440~446" text="street" type="ROAD" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se3" spans="172~175" text="you" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="192~194" text="we" type="PERSON" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se5" spans="219~227" text="brothers" type="PERSON" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se8" spans="312~314" text="me" type="PERSON" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="369~377" text="children" type="PERSON" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se15" spans="546~550" text="wind" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se13" spans="578~582" text="bell" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="610~619" text="balalaika" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se11" spans="633~639" text="guitar" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="92~100" text="Soldiers" type="PERSON" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se0" spans="-1~-1" text="" dcl="FALSE" comment="I?" />
+<SPATIAL_ENTITY id="se2" spans="-1~-1" text="" dcl="FALSE" comment="listener" />
+<NONMOTION_EVENT id="e0" spans="37~46" text="Listening"  />
+<NONMOTION_EVENT id="e1" spans="112~121" text="Listening"  />
+<NONMOTION_EVENT id="e2" spans="157~164" text="closing"  />
+<NONMOTION_EVENT id="e3" spans="181~186" text="think"  />
+<NONMOTION_EVENT id="e4" spans="256~260" text="feel"  />
+<NONMOTION_EVENT id="e5" spans="275~282" text="Blowing"  />
+<NONMOTION_EVENT id="e6" spans="390~395" text="dream"  />
+<NONMOTION_EVENT id="e7" spans="468~474" text="buried"  />
+<NONMOTION_EVENT id="e8" spans="496~501" text="Blows"  />
+<MOTION id="m0" spans="0~6" text="Follow" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="101~108" text="passing" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="423~430" text="Walking" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="23~25" text="to" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr1" spans="47~49" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr2" spans="122~124" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr3" spans="241~243" text="in" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr4" spans="401~403" text="In" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="475~477" text="in" semantic_type="TOPOLOGICAL" />
+<QSLINK id="qsl0" fromID="sr4" fromText="In" toID="m2" toText="Walking" relType="IN" trajector="se0" landmark="pl5" trigger="sr4" />
+<QSLINK id="qsl1" fromID="pl1" fromText="Gorky Park" toID="pl0" toText="Moskva" relType="EC" />
+<QSLINK id="qsl2" fromID="pl3" fromText="street" toID="pl1" toText="Gorky Park" relType="IN" />
+<MOVELINK id="mvl0" fromID="m0" fromText="Follow" toID="pl1" toText="Gorky Park" trigger="m0" source="pl4" goal="pl1" mover="se0" landmark="pl5" goal_reached="YES" />
+<MOVELINK id="mvl1" fromID="se1" fromText="Soldiers" toID="m1" toText="passing" trigger="m1" source="se1" goal="pl6" mover="se1" landmark="pl5" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl2" fromID="m2" fromText="Walking" toID="pl3" toText="street" trigger="m2" source="pl5" goal="pl6" landmark="pl5" goal_reached="YES" midPoint="p1" mover="se4" />
+<METALINK id="metal0" fromID="se3" fromText="you" toID="se4" toText="we" objectID1="se3" objectID2="se4" relType="SUBCOREFERENCE" />
+<METALINK id="metal1" fromID="se0" fromText="" toID="se4" toText="we" objectID1="se0" objectID2="se4" relType="SUBCOREFERENCE" />
+<METALINK id="metal2" fromID="se4" fromText="we" toID="se5" toText="brothers" objectID1="se4" objectID2="se5" relType="SPLITCOREFERENCE" />
+<METALINK id="metal3" fromID="se8" fromText="me" toID="se0" toText="" objectID1="se8" objectID2="se0" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

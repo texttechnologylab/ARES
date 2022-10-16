@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[The town of Ancón, Peru is a colourful community nestled into the coastline approximately 50 kilometers north of Lima. With evidence of settlements that have relied on food from the ocean going back at least 4,000 years - and locals say as far as 5,000 or even 8,000 years - Ancón is the site of one of the oldest societies in Peruvian history. Today, Ancón is still the home to an active and vibrant fishing community made up of about 300 small-scale, independent nearshore and artisanal fishermen. Through The Nature Conservancy, I connected with Mayumi and his son Avel, divers who fish the nearby Pescadore Islands for black rock snail, octopus, crabs, and the miscellaneous fin fish they can spear.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="4~8" text="town" dcl="FALSE" type="PPL" />
+<PLACE id="pl1" spans="12~17" text="Ancón" dcl="FALSE" type="PPL" />
+<PLACE id="pl2" spans="19~23" text="Peru" dcl="FALSE" type="COUNTRY" />
+<PLACE id="pl3" spans="113~117" text="Lima" dcl="FALSE" type="PPLC" comment="Hauptstadt Perus" dimensionality="VOLUME" form="NAM" />
+<PLACE id="pl4" spans="136~147" text="settlements" dcl="FALSE" type="PPL" dimensionality="VOLUME" form="NOM" />
+<PLACE id="pl5" spans="182~187" text="ocean" dcl="FALSE" type="BODYOFWATER" />
+<PLACE id="pl6" spans="275~280" text="Ancón" dcl="FALSE" type="PPL" dimensionality="VOLUME" form="NAM" />
+<PLACE id="pl7" spans="288~292" text="site" dcl="FALSE" type="PPL" />
+<PLACE id="pl8" spans="352~357" text="Ancón" dcl="FALSE" type="PPL" dimensionality="VOLUME" form="NAM" />
+<PLACE id="pl9" spans="371~375" text="home" dcl="FALSE" type="PPL" />
+<PLACE id="pl10" spans="371~375" text="home" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl12" spans="601~618" text="Pescadore Islands" dcl="FALSE" type="RGN" />
+<PATH id="p0" spans="66~75" text="coastline" dcl="FALSE" />
+<PATH id="p1" spans="465~474" text="nearshore" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="39~48" text="community" dcl="FALSE" mod="colourful" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se1" spans="124~132" text="evidence" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se2" spans="168~172" text="food" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se3" spans="226~232" text="locals" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="314~323" text="societies" dcl="FALSE" mod="oldest " type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se5" spans="327~343" text="Peruvian history" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se6" spans="401~418" text="fishing community" dcl="FALSE" mod="active and vibrant" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se7" spans="489~498" text="fishermen" dcl="FALSE" type="PERSON" form="NOM" mod="small-scale, independent nearshore and artisanal" />
+<SPATIAL_ENTITY id="se8" spans="508~530" text="The Nature Conservancy" dcl="FALSE" type="FAC" form="NAM" />
+<SPATIAL_ENTITY id="se9" spans="532~533" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se10" spans="549~555" text="Mayumi" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se11" spans="560~563" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se12" spans="564~567" text="son" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se13" spans="568~572" text="Avel" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se14" spans="574~580" text="divers" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se15" spans="629~639" text="rock snail" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se16" spans="641~648" text="octopus" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se17" spans="650~655" text="crabs" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se18" spans="679~687" text="fin fish" dcl="FALSE" type="ARTIFACT" form="NAM" mod="miscellaneous" />
+<SPATIAL_ENTITY id="se19" spans="688~692" text="they" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se20" spans="-1~-1" text="" dcl="FALSE" comment="animals" />
+<NONMOTION_EVENT id="e0" spans="49~56" text="nestled"  />
+<NONMOTION_EVENT id="e1" spans="158~167" text="relied on"  />
+<NONMOTION_EVENT id="e2" spans="233~236" text="say"  />
+<NONMOTION_EVENT id="e3" spans="419~426" text="made up"  />
+<NONMOTION_EVENT id="e4" spans="534~543" text="connected"  />
+<NONMOTION_EVENT id="e5" spans="585~589" text="fish"  />
+<NONMOTION_EVENT id="e6" spans="697~702" text="spear"  />
+<MOTION id="m0" spans="188~193" text="going" mod="back" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="9~11" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="57~61" text="into" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="104~112" text="north of" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr3" spans="133~135" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="173~177" text="from" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="324~326" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="293~295" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="300~302" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="376~378" text="to" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="427~429" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="594~600" text="nearby" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="619~622" text="for" semantic_type="DIR_TOP" />
+<MEASURE id="me0" spans="90~103" text="50 kilometers" value="50" unit="kilometers" />
+<MEASURE id="me1" spans="208~219" text="4,000 years" value="4,000 " unit="years" />
+<MEASURE id="me3" spans="247~272" text="5,000 or even 8,000 years" value="5,000 or even 8,000" unit="years" />
+<QSLINK id="qsl0" fromID="pl0" fromText="town" toID="pl1" toText="Ancón" trigger="sr0" relType="EQ" trajector="pl0" landmark="pl1" />
+<QSLINK id="qsl1" fromID="pl2" fromText="Peru" toID="p0" toText="coastline" trigger="sr1" relType="NTPP" trajector="pl2" landmark="p0" />
+<QSLINK id="qsl2" fromID="se1" fromText="evidence" toID="pl4" toText="settlements" trigger="sr3" trajector="se1" landmark="pl4" />
+<QSLINK id="qsl3" fromID="se2" fromText="food" toID="pl5" toText="ocean" trigger="sr4" relType="IN" trajector="se2" landmark="pl5" />
+<QSLINK id="qsl4" fromID="se4" fromText="societies" toID="se5" toText="Peruvian history" relType="IN" trajector="se4" landmark="se5" trigger="sr5" />
+<QSLINK id="qsl5" fromID="pl6" fromText="Ancón" toID="se5" toText="Peruvian history" trajector="pl7" landmark="se4" trigger="sr6" relType="IN" />
+<QSLINK id="qsl6" toID="se5" toText="Peruvian history" fromID="pl6" fromText="Ancón" trajector="pl7" landmark="se4" trigger="sr7" relType="IN" />
+<QSLINK id="qsl7" fromID="pl8" fromText="Ancón" toID="se6" toText="fishing community" relType="INTPP" trajector="se6" landmark="pl8" trigger="sr8" />
+<QSLINK id="qsl8" fromID="se6" fromText="fishing community" toID="se7" toText="fishermen" relType="EQ" trigger="sr9" trajector="se6" landmark="se7" />
+<QSLINK id="qsl9" fromID="se14" fromText="divers" toID="pl12" toText="Pescadore Islands" trigger="sr10" relType="EC" trajector="se14" landmark="pl12" />
+<QSLINK id="qsl10" fromID="se14" fromText="divers" toID="se20" toText="" trigger="sr11" trajector="se14" relType="DC" landmark="se20" />
+<QSLINK id="qsl11" relType="IN" trajector="pl1" landmark="pl2" />
+<QSLINK id="qsl12" trajector="pl4" landmark="pl2" relType="IN" />
+<QSLINK id="qsl13" trajector="se3" landmark="pl1" relType="IN" />
+<QSLINK id="qsl14" trajector="se9" landmark="pl1" relType="IN" />
+<QSLINK id="qsl15" trajector="se10" landmark="pl1" relType="IN" />
+<QSLINK id="qsl16" trajector="se13" landmark="pl1" relType="IN" />
+<OLINK id="ol0" fromID="pl0" fromText="town" toID="pl3" toText="Lima" trigger="sr2" trajector="pl2" landmark="pl3" frame_type="ABSOLUTE" referencePt="north" />
+<OLINK id="ol1" fromID="se14" fromText="divers" toID="se19" toText="they" trajector="se14" landmark="pl12" trigger="sr11" referencePt="s" frame_type="RELATIVE" />
+<MEASURELINK id="ml0" fromID="pl0" fromText="town" toID="pl3" toText="Lima" val="me0" trajector="pl2" relType="DISTANCE" landmark="pl3" />
+<MEASURELINK id="ml1" fromID="pl4" fromText="settlements" toID="me1" toText="4,000 years" val="me1" trajector="pl4" landmark="pl4" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml2" fromID="se2" fromText="food" toID="me3" toText="5,000 or even 8,000 years" val="me3" trajector="se2" landmark="se2" relType="GENERAL_DIMENSION" />
+<METALINK id="metal0" fromID="pl0" fromText="town" toID="pl1" toText="Ancón" objectID1="pl0" objectID2="pl1" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="pl6" fromText="Ancón" toID="pl1" toText="Ancón" objectID1="pl6" objectID2="pl6" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="pl8" fromText="Ancón" toID="pl1" toText="Ancón" objectID1="pl8" objectID2="pl1" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="pl1" fromText="Ancón" toID="pl2" toText="Peru" objectID1="pl1" objectID2="pl2" relType="SUBCOREFERENCE" />
+<METALINK id="metal4" fromID="pl6" fromText="Ancón" toID="pl7" toText="site" objectID1="pl6" objectID2="pl7" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se6" fromText="fishing community" toID="se0" toText="community" objectID1="se6" objectID2="se0" relType="SUBCOREFERENCE" />
+<METALINK id="metal6" fromID="se15" fromText="rock snail" toID="se20" toText="" objectID1="se15" objectID2="se20" relType="SUBCOREFERENCE" />
+<METALINK id="metal7" fromID="se16" fromText="octopus" toID="se20" toText="" objectID1="se16" objectID2="se20" relType="SUBCOREFERENCE" />
+<METALINK id="metal8" fromID="se17" fromText="crabs" toID="se20" toText="" objectID1="se17" objectID2="se20" relType="SUBCOREFERENCE" />
+<METALINK id="metal9" fromID="se18" fromText="fin fish" toID="se20" toText="" objectID1="se18" objectID2="se20" relType="SUBCOREFERENCE" />
+<METALINK id="metal10" fromID="se20" fromText="" toID="se2" toText="food" objectID1="se20" objectID2="se2" relType="SPLITCOREFERENCE" />
+<METALINK id="metal11" fromID="se3" fromText="locals" toID="se0" toText="community" objectID1="se3" objectID2="se0" relType="SUBCOREFERENCE" />
+<METALINK id="metal12" fromID="se10" fromText="Mayumi" toID="se11" toText="his" objectID1="se10" objectID2="se11" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se12" fromText="son" toID="se13" toText="Avel" objectID1="se12" objectID2="se13" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se10" fromText="Mayumi" toID="se14" toText="divers" objectID1="se10" objectID2="se14" relType="SUBCOREFERENCE" />
+<METALINK id="metal15" fromID="se13" fromText="Avel" toID="se14" toText="divers" objectID1="se13" objectID2="se14" relType="SUBCOREFERENCE" />
+<METALINK id="metal16" fromID="se19" fromText="they" toID="se14" toText="divers" objectID1="se19" objectID2="se14" relType="SPLITCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

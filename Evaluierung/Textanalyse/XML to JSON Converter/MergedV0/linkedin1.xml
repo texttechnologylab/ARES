@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Unisys Technical Services provides services and solutions. The employees combine expertise in consulting, system integration, outsourcing, infrastructure and server technology with carefully thought-out ideas and with consistent, 
+committed implementation. This way, Unisys supports customers in more than 100 countries in taking advantage of the business opportunities quickly and effectively.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="310~319" text="countries" form="NOM" dcl="FALSE" type="COUNTRY" />
+<PLACE id="pl1" spans="-1~-1" text="" dcl="FALSE" comment="represents countries" />
+<SPATIAL_ENTITY id="se0" spans="0~25" text="Unisys Technical Services" form="NAM" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se5" spans="106~124" text="system integration" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se6" spans="126~137" text="outsourcing" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se7" spans="139~153" text="infrastructure" form="NOM" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se8" spans="158~175" text="server technology" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se10" spans="203~208" text="ideas" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se11" spans="241~255" text="implementation" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="267~273" text="Unisys" form="NAM" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se13" spans="283~292" text="customers" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se15" spans="356~369" text="opportunities" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se1" spans="35~43" text="services" form="NOM" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se2" spans="48~57" text="solutions" form="NOM" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se3" spans="63~72" text="employees" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="81~90" text="expertise" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="94~104" text="consulting" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se14" spans="-1~-1" text="" dcl="FALSE" comment="expertise" />
+<SPATIAL_ENTITY id="se16" spans="-1~-1" text="" dcl="FALSE" comment="services and solutions" />
+<NONMOTION_EVENT id="e0" spans="26~34" text="provides"  />
+<NONMOTION_EVENT id="e2" spans="274~282" text="supports"  />
+<NONMOTION_EVENT id="e1" spans="73~80" text="combine"  />
+<NONMOTION_EVENT id="e3" spans="323~329" text="taking"  />
+<S_RELATION id="sr0" spans="293~295" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="320~322" text="in" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr3" spans="340~342" text="of" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr2" spans="91~93" text="in" semantic_type="PATH_DEFINING" />
+<QSLINK id="qsl0" fromID="se13" fromText="customers" toID="pl0" toText="countries" relType="IN" trigger="sr0" trajector="se13" landmark="pl1" />
+<METALINK id="metal0" fromID="se14" fromText="" toID="se4" toText="consulting" objectID1="se4" objectID2="se14" relType="SUBCOREFERENCE" />
+<METALINK id="metal1" fromID="se14" fromText="" toID="se5" toText="system integration" objectID2="se14" objectID1="se5" relType="SUBCOREFERENCE" />
+<METALINK id="metal2" fromID="se14" fromText="" toID="se6" toText="outsourcing" objectID2="se14" objectID1="se6" relType="SUBCOREFERENCE" />
+<METALINK id="metal3" fromID="se14" fromText="" toID="se7" toText="infrastructure" objectID2="se14" objectID1="se7" relType="SUBCOREFERENCE" />
+<METALINK id="metal4" fromID="se14" fromText="" toID="se8" toText="server technology" objectID2="se14" objectID1="se8" relType="SUBCOREFERENCE" />
+<METALINK id="metal5" fromID="se14" fromText="" toID="se9" toText="expertise" objectID1="se9" objectID2="se14" relType="SPLITCOREFERENCE" />
+<METALINK id="metal6" fromID="se16" fromText="" toID="se1" toText="services" objectID1="se1" objectID2="se16" relType="SUBCOREFERENCE" />
+<METALINK id="metal7" fromID="se16" fromText="" toID="se2" toText="solutions" objectID1="se1" objectID2="se16" relType="SUBCOREFERENCE" />
+<METALINK id="metal8" fromID="se12" fromText="Unisys" toID="se0" toText="Unisys Technical Services" objectID1="se12" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="pl0" fromText="countries" toID="pl1" toText="" objectID1="pl1" objectID2="pl0" relType="SUBCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

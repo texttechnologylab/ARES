@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[I started off in the bustling markets in the country’s capital, Kabul, a chaotic little jungle of trinket shops, carpet sellers and giant chunks of Lapis filling windows. Occasionally I felt uneasy under the stares of watchful eyes as I poked my way through the dusty streets. Mostly it felt like any other vibrant bazaar in Asia, people going about their busy day. I ate in smoke filled restaurants sitting cross-legged on cushions. Whole sheep carcasses are hung directly above the stove and the cook simply butchers off the bits he needs and throws them into a big black pot, along with fistfuls of fresh herbs and spices. Huge roundels of hot naan breads are piled high on the tables and you pay for what you eat. There is a genuine old-world feeling in Kabul that is rare to find these days.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="30~37" text="markets" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" mod="bustling" />
+<PLACE id="pl1" spans="45~62" text="country’s capital" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl2" spans="64~69" text="Kabul" dcl="FALSE" type="STATE" dimensionality="AREA" form="NAM" />
+<PLACE id="pl3" spans="98~111" text="trinket shops" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl4" spans="315~321" text="bazaar" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" mod="vibrant" />
+<PLACE id="pl5" spans="325~329" text="Asia" dcl="FALSE" comment="type=continent" dimensionality="AREA" form="NAM" />
+<PLACE id="pl6" spans="388~399" text="restaurants" dcl="FALSE" mod="smoke filled" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl7" spans="758~763" text="Kabul" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NAM" />
+<PATH id="p0" spans="268~275" text="streets" dcl="FALSE" type="ROAD" mod="dusty" />
+<SPATIAL_ENTITY id="se0" spans="0~1" text="I" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se1" spans="113~127" text="carpet sellers" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se2" spans="162~169" text="windows" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se3" spans="184~185" text="I" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se4" spans="235~236" text="I" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se5" spans="331~337" text="people" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se6" spans="366~367" text="I" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se7" spans="484~489" text="stove" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se8" spans="498~502" text="cook" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se9" spans="574~577" text="pot" dcl="FALSE" mod="black" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se10" spans="608~613" text="herbs" dcl="FALSE" type="ARTIFACT" mod="fresh" />
+<SPATIAL_ENTITY id="se11" spans="618~624" text="spices" dcl="FALSE" type="ARTIFACT" mod="fresh" />
+<SPATIAL_ENTITY id="se12" spans="631~639" text="roundels" dcl="FALSE" type="ARTIFACT" mod="Huge" />
+<SPATIAL_ENTITY id="se13" spans="647~658" text="naan breads" dcl="FALSE" type="ARTIFACT" mod="hot" />
+<SPATIAL_ENTITY id="se14" spans="681~687" text="tables" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se15" spans="692~695" text="you" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se16" spans="709~712" text="you" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se18" spans="424~432" text="cushions" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se19" spans="138~153" text="chunks of Lapis" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se20" spans="440~455" text="sheep carcasses" dcl="FALSE" type="ARTIFACT" mod="whole" />
+<SPATIAL_ENTITY id="se17" spans="527~531" text="bits" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se21" spans="532~534" text="he" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se22" spans="-1~-1" text="" dcl="FALSE" mod="herbs and spices" />
+<NONMOTION_EVENT id="e1" spans="2~13" text="started off"  />
+<NONMOTION_EVENT id="e4" spans="338~349" text="going about"  />
+<NONMOTION_EVENT id="e5" spans="460~464" text="hung"  />
+<NONMOTION_EVENT id="e6" spans="747~754" text="feeling"  />
+<NONMOTION_EVENT id="e7" spans="777~784" text="to find"  />
+<NONMOTION_EVENT id="e8" spans="663~668" text="piled"  />
+<NONMOTION_EVENT id="e9" spans="400~407" text="sitting"  />
+<NONMOTION_EVENT id="e10" spans="154~161" text="filling"  />
+<NONMOTION_EVENT id="e11" spans="186~190" text="felt"  />
+<NONMOTION_EVENT id="e12" spans="287~291" text="felt"  />
+<NONMOTION_EVENT id="e13" spans="381~387" text="filled"  />
+<NONMOTION_EVENT id="e14" spans="535~540" text="needs"  />
+<NONMOTION_EVENT id="e15" spans="191~197" text="uneasy"  />
+<NONMOTION_EVENT id="e16" spans="696~699" text="pay"  />
+<NONMOTION_EVENT id="e17" spans="713~716" text="eat"  />
+<NONMOTION_EVENT id="e0" spans="368~371" text="ate"  />
+<MOTION id="m0" spans="237~242" text="poked" motion_type="PATH" motion_sense="FICTIVE" motion_class="MOVE" />
+<MOTION id="m4" spans="510~522" text="butchers off" motion_type="MANNER" motion_class="DETACH" motion_sense="LITERAL" />
+<MOTION id="m5" spans="545~551" text="throws" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr2" spans="198~203" text="under" semantic_type="DIR_TOP" />
+<S_RELATION id="sr3" spans="14~16" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="38~40" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="322~324" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="372~374" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="421~423" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr8" spans="474~479" text="above" semantic_type="DIR_TOP" />
+<S_RELATION id="sr9" spans="557~561" text="into" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr10" spans="755~757" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="674~676" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr0" spans="250~257" text="through" semantic_type="DIRECTIONAL" />
+<EVENT_PATH id="ep0" spans="-1~-1" text="" beginID="pl0" endID="pl6" midIDs="p0" trigger="e1" />
+<MEASURE id="me1" spans="132~137" text="giant" value="giant" />
+<MEASURE id="me2" spans="590~598" text="fistfuls" value="fistfuls" />
+<MEASURE id="me3" spans="626~630" text="Huge" value="Huge" />
+<MEASURE id="me5" spans="81~94" text="little jungle" value="little" />
+<QSLINK id="qsl0" fromID="se0" fromText="I" toID="pl0" toText="markets" relType="IN" landmark="pl0" trajector="se0" trigger="sr3" />
+<QSLINK id="qsl1" toID="pl2" toText="Kabul" fromID="pl0" fromText="markets" relType="IN" trajector="se0" landmark="pl2" trigger="sr4" />
+<QSLINK id="qsl2" fromID="pl4" fromText="bazaar" toID="pl5" toText="Asia" relType="EC" trajector="pl4" landmark="pl5" trigger="sr5" />
+<QSLINK id="qsl3" fromID="se6" fromText="I" toID="pl6" toText="restaurants" relType="IN" trajector="se6" landmark="pl5" trigger="sr6" />
+<QSLINK id="qsl4" fromID="se6" fromText="I" toID="se18" toText="cushions" relType="EC" trajector="se6" landmark="se18" trigger="sr7" />
+<QSLINK id="qsl5" fromID="se20" fromText="sheep carcasses" toID="se7" toText="stove" trigger="sr8" relType="DC" trajector="se20" landmark="se7" />
+<QSLINK id="qsl6" fromID="se12" fromText="roundels" toID="se14" toText="tables" relType="EC" trajector="meta11" landmark="se14" trigger="sr11" />
+<QSLINK id="qsl7" fromID="ep0" fromText="" toID="pl2" toText="Kabul" relType="IN" trigger="ep0" trajector="se0" />
+<OLINK id="ol0" toID="se18" toText="cushions" fromID="se6" fromText="I" relType="ABOVE" trajector="se6" trigger="sr7" landmark="se18" referencePt="cushion" frame_type="INTRINSIC" />
+<OLINK id="ol1" fromID="se20" fromText="sheep carcasses" toID="se7" toText="stove" trajector="se20" landmark="se7" trigger="sr8" referencePt="stove" frame_type="INTRINSIC" />
+<OLINK id="ol2" fromID="se21" fromText="he" toID="se9" toText="pot" trajector="se21" landmark="se9" trigger="sr9" frame_type="INTRINSIC" referencePt="stove" />
+<OLINK id="ol3" fromID="se12" fromText="roundels" toID="se14" toText="tables" trajector="meta11" trigger="sr11" landmark="se14" referencePt="table" frame_type="INTRINSIC" />
+<OLINK id="ol4" fromID="se4" fromText="I" toID="p0" toText="streets" trajector="se4" landmark="p0" trigger="sr0" frame_type="RELATIVE" referencePt="se4" />
+<MOVELINK id="mvl1" fromID="se4" fromText="I" toID="p0" toText="streets" trigger="m0" source="p0" mover="se4" goal_reached="UNCERTAIN" landmark="p0" />
+<MOVELINK id="mvl3" fromID="se8" fromText="cook" toID="se17" toText="bits" trigger="m4" source="pl6" mover="se8" goal_reached="YES" landmark="pl6" goal="se9" />
+<MOVELINK id="mvl4" fromID="se21" fromText="he" toID="se9" toText="pot" trigger="m5" source="pl6" mover="se21" goal_reached="YES" landmark="pl6" />
+<MEASURELINK id="ml1" toID="se19" toText="chunks of Lapis" fromID="me1" fromText="giant" relType="GENERAL_DIMENSION" trajector="se19" landmark="se2" val="me1" />
+<MEASURELINK id="ml2" toID="pl3" toText="trinket shops" fromID="me5" fromText="little jungle" trajector="pl3" landmark="pl0" relType="GENERAL_DIMENSION" val="me5" />
+<MEASURELINK id="ml3" toID="se22" toText="" fromID="me2" fromText="fistfuls" trajector="se22" landmark="se7" relType="GENERAL_DIMENSION" val="me2" />
+<MEASURELINK id="ml4" toID="se13" toText="naan breads" fromID="me3" fromText="Huge" trajector="meta11" landmark="se14" relType="GENERAL_DIMENSION" val="me3" />
+<METALINK id="metal1" toID="se8" toText="cook" fromID="se21" fromText="he" objectID1="se21" objectID2="se8" relType="COREFERENCE" />
+<METALINK id="metal0" fromID="pl0" fromText="markets" toID="pl4" toText="bazaar" objectID1="pl0" objectID2="pl4" relType="SUBCOREFERENCE" />
+<METALINK id="metal2" fromID="pl3" fromText="trinket shops" toID="pl0" toText="markets" objectID1="pl3" objectID2="pl0" relType="SUBCOREFERENCE" />
+<METALINK id="metal3" fromID="pl6" fromText="restaurants" toID="pl4" toText="bazaar" objectID1="pl6" objectID2="pl4" relType="SUBCOREFERENCE" />
+<METALINK id="metal4" fromID="pl1" fromText="country’s capital" toID="pl2" toText="Kabul" objectID1="pl1" objectID2="pl2" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="pl2" fromText="Kabul" toID="pl5" toText="Asia" objectID1="pl2" objectID2="pl5" relType="SUBCOREFERENCE" />
+<METALINK id="metal6" fromID="pl7" fromText="Kabul" toID="pl5" toText="Asia" objectID1="pl7" objectID2="pl5" relType="SUBCOREFERENCE" />
+<METALINK id="metal7" fromID="pl4" fromText="bazaar" toID="pl5" toText="Asia" objectID1="pl4" objectID2="pl5" relType="SUBCOREFERENCE" />
+<METALINK id="metal8" fromID="se3" fromText="I" toID="se0" toText="I" objectID1="se3" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se4" fromText="I" toID="se0" toText="I" objectID1="se4" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se16" fromText="you" toID="se15" toText="you" objectID1="se16" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal11" toID="se13" toText="naan breads" fromID="se12" fromText="roundels" objectID1="se12" objectID2="se13" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se17" fromText="bits" toID="se20" toText="sheep carcasses" objectID1="se17" objectID2="se20" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se1" fromText="carpet sellers" toID="se5" toText="people" objectID1="se1" objectID2="se5" relType="SUBCOREFERENCE" />
+<METALINK id="metal15" toID="se22" toText="" fromID="se10" fromText="herbs" objectID1="se10" objectID2="se22" relType="SUBCOREFERENCE" />
+<METALINK id="metal16" fromID="se11" fromText="spices" toID="se22" toText="" objectID1="se11" objectID2="se22" relType="SUBCOREFERENCE" />
+<METALINK id="metal17" fromID="se6" fromText="I" toID="se0" toText="I" objectID1="se6" objectID2="se0" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

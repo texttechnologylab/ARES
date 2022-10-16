@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[When we put our to-do list and our  phone away to focus on the person in front of us, we are honoring that person in the deepest way. We're giving them our undivided attention. Notice when someone does this for you. 
+Notice when you do it for someone else. ]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="-1~-1" text="" dcl="FALSE" comment="für person und we" />
+<SPATIAL_ENTITY id="se8" spans="107~113" text="person" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se10" spans="134~136" text="We" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se11" spans="147~151" text="them" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="166~175" text="attention" type="DYNAMIC_EVENT" form="NOM" dcl="FALSE" mod="our " />
+<SPATIAL_ENTITY id="se2" spans="16~26" text="to-do list" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se14" spans="189~196" text="someone" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se15" spans="211~214" text="you" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se16" spans="229~232" text="you" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se17" spans="243~255" text="someone else" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="36~41" text="phone" type="ARTIFACT" form="NOM" dcl="FALSE" mod="our" />
+<SPATIAL_ENTITY id="se0" spans="5~7" text="we" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se5" spans="63~69" text="person" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se6" spans="82~84" text="us" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se7" spans="86~88" text="we" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="-1~-1" text="" dcl="FALSE" comment="to-do phone" />
+<NONMOTION_EVENT id="e2" spans="140~146" text="giving"  />
+<NONMOTION_EVENT id="e3" spans="197~201" text="does"  />
+<NONMOTION_EVENT id="e4" spans="217~223" text="Notice"  />
+<NONMOTION_EVENT id="e5" spans="233~238" text="do it"  />
+<NONMOTION_EVENT id="e0" spans="50~55" text="focus"  />
+<NONMOTION_EVENT id="e1" spans="93~101" text="honoring"  />
+<MOTION id="m3" spans="8~11" text="put" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<S_RELATION id="sr0" spans="42~46" text="away" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr1" spans="56~58" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="70~81" text="in front of" semantic_type="DIRECTIONAL" />
+<QSLINK id="qsl0" fromID="se5" fromText="person" toID="se6" toText="us" relType="DC" trajector="se5" landmark="pl0" trigger="sr2" />
+<QSLINK id="qsl1" fromID="se5" fromText="person" toID="pl0" toText="" relType="IN" trajector="se5" landmark="pl0" />
+<QSLINK id="qsl2" fromID="se6" fromText="us" toID="pl0" toText="" relType="IN" trajector="se6" />
+<OLINK id="ol0" fromID="se5" fromText="person" toID="se6" toText="us" trigger="sr2" landmark="pl0" trajector="se5" frame_type="ABSOLUTE" referencePt="se6" />
+<MOVELINK id="mvl0" fromID="se0" fromText="we" toID="sr0" toText="away" trigger="sr0" source="se9" goal="se0" mover="se0" landmark="se0" goal_reached="YES" />
+<METALINK id="metal0" fromID="se0" fromText="we" toID="se6" toText="us" objectID1="se6" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal1" toID="se7" toText="we" fromID="se0" fromText="we" objectID1="se7" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se0" fromText="we" toID="se10" toText="We" objectID1="se10" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se0" fromText="we" toID="se15" toText="you" objectID1="se15" objectID2="se0" relType="SPLITCOREFERENCE" />
+<METALINK id="metal4" fromID="se15" fromText="you" toID="se16" toText="you" objectID1="se16" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se5" fromText="person" toID="se8" toText="person" objectID1="se8" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se5" fromText="person" toID="se11" toText="them" objectID1="se11" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se9" fromText="" toID="se2" toText="to-do list" objectID2="se9" relType="SUBCOREFERENCE" objectID1="se2" />
+<METALINK id="metal10" fromID="se9" fromText="" toID="se4" toText="phone" objectID2="se9" relType="SUBCOREFERENCE" objectID1="se4" />
+</TAGS>
+</SpaceEvalTaskv1.2>

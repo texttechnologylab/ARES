@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[“Located in the heart of the city centre, the Gallery of Modern Art (GoMA) is the most visited gallery in the country; works from local and international artists are all housed within the striking Royal Exchange Square building, the former townhouse of a Glasgow tobacco merchant. On GoMA’s front doorstep you’ll encounter the statue of the Duke of Wellington – never seen without a traffic cone on his head – a landmark that has become almost as notable as the gallery itself.
+
+An oasis of calm in the middle of the city, Kelvingrove Park is Glasgow’s most popular green space. Surrounded by Kelvingrove Art Gallery and Museum and Glasgow University, the park offers raw beauty throughout every season of the year. Expect to be greeted by cheeky squirrels and dogs out for a stroll with their west end owners. Make your way north to Gibson Street for a fine row of coffee shops and restaurants including the superb Stravaigin.
+
+Replacing the much-loved transport museum at Kelvin Hall in 2011, Zaha Hadid’s fine feat of architecture has helped to transform the look of the Clyde, while reflecting the river’s storied shipbuilding past. Artefacts on display at the Riverside Museum – illustrating transport and travel through the ages – range from skateboards to stormtroopers, while the Tall Ship – saved from ruin and sailed back to Glasgow from Seville in 1990, over 100 years after its maiden voyage – remains a major draw. “]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="29~40" text="city centre" dcl="FALSE" type="PPLA" form="NOM" mod="∅" />
+<PLACE id="pl1" spans="110~117" text="country" dcl="FALSE" type="COUNTRY" form="NOM" mod="∅" />
+<PLACE id="pl2" spans="255~262" text="Glasgow" dcl="FALSE" type="PPLC" form="NAM" mod="∅" />
+<PLACE id="pl3" spans="503~521" text="middle of the city" dcl="FALSE" form="NOM" type="PPLA" mod="∅" />
+<PLACE id="pl4" spans="543~550" text="Glasgow" dcl="FALSE" type="PPLC" form="NAM" mod="∅" />
+<PLACE id="pl5" spans="974~985" text="Kelvin Hall" dcl="FALSE" type="PPL" form="NAM" mod="∅" />
+<PLACE id="pl6" spans="1335~1342" text="Glasgow" dcl="FALSE" type="PPLC" form="NAM" mod="∅" />
+<PLACE id="pl7" spans="1348~1355" text="Seville" dcl="FALSE" type="PPLC" form="NAM" mod="∅" />
+<PLACE id="pl8" spans="95~102" text="gallery" dcl="FALSE" type="PPLA" form="NOM" mod="most visited" />
+<PLACE id="pl9" spans="240~249" text="townhouse" dcl="FALSE" type="PPLA" form="NOM" mod="former" />
+<PLACE id="pl10" spans="462~469" text="gallery" dcl="FALSE" type="PPLA" form="NOM" mod="notable" />
+<PLACE id="pl11" spans="656~660" text="park" dcl="FALSE" type="PPLA" form="NOM" />
+<PATH id="p0" spans="834~847" text="Gibson Street" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="46~74" text="Gallery of Modern Art (GoMA)" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se1" spans="119~124" text="works" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se2" spans="130~161" text="local and international artists" dcl="FALSE" type="PERSON" form="NOM" mod="local and international" />
+<SPATIAL_ENTITY id="se3" spans="196~227" text=" Royal Exchange Square building" dcl="FALSE" type="FAC" form="NAM" mod="striking" />
+<SPATIAL_ENTITY id="se4" spans="263~279" text="tobacco merchant" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se5" spans="284~288" text="GoMA" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se6" spans="297~305" text="doorstep" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se7" spans="306~309" text="you" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se8" spans="327~359" text="statue of the Duke of Wellington" dcl="FALSE" form="NAM" type="ARTIFACT" mod="∅" />
+<SPATIAL_ENTITY id="se9" spans="383~395" text="traffic cone" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se10" spans="399~407" text="his head" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se11" spans="482~495" text="oasis of calm" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se12" spans="523~539" text="Kelvingrove Park" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se14" spans="593~627" text="Kelvingrove Art Gallery and Museum" dcl="FALSE" form="NAM" type="FAC" mod="∅" />
+<SPATIAL_ENTITY id="se15" spans="632~650" text="Glasgow University" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se16" spans="740~756" text="cheeky squirrels" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se17" spans="761~765" text="dogs" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se18" spans="883~894" text="restaurants" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se19" spans="803~809" text="owners" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se20" spans="816~820" text="your" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se21" spans="866~878" text="coffee shops" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se22" spans="916~926" text="Stravaigin" dcl="FALSE" type="FAC" form="NAM" mod="superb" />
+<SPATIAL_ENTITY id="se23" spans="954~970" text="transport museum" dcl="FALSE" type="FAC" form="NOM" mod="much-loved" />
+<SPATIAL_ENTITY id="se13" spans="1165~1181" text="Riverside Museum" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se24" spans="1150~1157" text="display" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se25" spans="1137~1146" text="Artefacts" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se29" spans="1288~1297" text="Tall Ship" dcl="FALSE" type="ARTIFACT" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se30" spans="1074~1079" text="Clyde" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se31" spans="995~1005" text="Zaha Hadid" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se32" spans="1248~1259" text="skateboards" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se33" spans="1263~1276" text="stormtroopers" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se26" spans="16~21" text="heart" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se27" spans="412~420" text="landmark" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se28" spans="672~678" text="beauty" dcl="FALSE" type="ARTIFACT" form="NAM" mod="raw " />
+<NONMOTION_EVENT id="e0" spans="313~322" text="encounter"  />
+<NONMOTION_EVENT id="e1" spans="729~736" text="greeted"  />
+<NONMOTION_EVENT id="e2" spans="1038~1044" text="helped"  />
+<NONMOTION_EVENT id="e3" spans="1~8" text="Located"  />
+<NONMOTION_EVENT id="e4" spans="426~436" text="has become"  />
+<NONMOTION_EVENT id="e5" spans="661~667" text="offers"  />
+<MOTION id="m0" spans="579~589" text="Surrounded" motion_type="MANNER" motion_sense="LITERAL" motion_class="DETACH" />
+<MOTION id="m1" spans="776~782" text="stroll" motion_type="PATH" motion_sense="LITERAL" motion_class="DEVIATE" />
+<MOTION id="m2" spans="1320~1326" text="sailed" motion_type="PATH" motion_sense="LITERAL" motion_class="MOVE" />
+<MOTION id="m3" spans="1048~1057" text="transform" motion_type="PATH" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<S_RELATION id="sr0" spans="9~11" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="103~105" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="177~183" text="within" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="291~296" text="front" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr5" spans="396~398" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="496~498" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="825~830" text="north" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr9" spans="971~973" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="1158~1160" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="1147~1149" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr12" spans="1343~1347" text="from" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr13" spans="1332~1334" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr2" spans="373~380" text="without" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr7" spans="679~689" text="throughout" semantic_type="TOPOLOGICAL" />
+<QSLINK id="qsl0" fromID="se0" fromText="Gallery of Modern Art (GoMA)" toID="pl0" toText="city centre" trigger="sr0" relType="IN" />
+<QSLINK id="qsl1" fromID="se0" fromText="Gallery of Modern Art (GoMA)" toID="pl1" toText="country" trigger="sr1" relType="IN" />
+<QSLINK id="qsl3" toID="se3" toText=" Royal Exchange Square building" fromID="se1" fromText="works" trigger="sr3" relType="IN" />
+<QSLINK id="qsl4" fromID="se9" fromText="traffic cone" toID="se10" toText="his head" trigger="sr5" relType="EC" />
+<QSLINK id="qsl5" fromID="se11" fromText="oasis of calm" toID="pl3" toText="middle of the city" trigger="sr6" relType="IN" />
+<QSLINK id="qsl6" fromID="se23" fromText="transport museum" toID="pl5" toText="Kelvin Hall" trigger="sr9" relType="NTPP" />
+<QSLINK id="qsl7" fromID="se24" fromText="display" toID="se13" toText="Riverside Museum" trigger="sr10" relType="NTPP" />
+<QSLINK id="qsl8" fromID="se25" fromText="Artefacts" toID="se24" toText="display" trigger="sr11" relType="EC" />
+<OLINK id="ol0" fromID="se6" fromText="doorstep" toID="se8" toText="statue of the Duke of Wellington" trigger="sr4" />
+<OLINK id="ol2" fromID="se21" fromText="coffee shops" toID="pl3" toText="middle of the city" trigger="sr8" />
+<MOVELINK id="mvl0" toID="m0" toText="Surrounded" fromID="se14" fromText="Kelvingrove Art Gallery and Museum" />
+<MOVELINK id="mvl1" toID="m1" toText="stroll" fromID="se17" fromText="dogs" />
+<MOVELINK id="mvl2" toID="m2" toText="sailed" fromID="se29" fromText="Tall Ship" />
+<MOVELINK id="mvl3" toID="m3" toText="transform" fromID="se30" fromText="Clyde" />
+<METALINK id="metal0" fromID="se0" fromText="Gallery of Modern Art (GoMA)" toID="se5" toText="GoMA" objectID1="se0" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="pl2" fromText="Glasgow" toID="pl4" toText="Glasgow" relType="COREFERENCE" objectID1="pl6" objectID2="pl2" />
+<METALINK id="metal2" fromID="pl2" fromText="Glasgow" toID="pl6" toText="Glasgow" objectID1="pl4" objectID2="pl2" relType="COREFERENCE" />
+<SRLINK id="srole0" toID="e0" toText="encounter" fromID="se7" fromText="you" objectID2="e0" relType="ARGO0" objectID1="se7" />
+<SRLINK id="srole1" toID="e1" toText="greeted" fromID="se16" fromText="cheeky squirrels" objectID2="e1" relType="ARGO0" objectID1="se6" />
+<SRLINK id="srole2" toID="e2" toText="helped" fromID="se31" fromText="Zaha Hadid" objectID2="e2" relType="ARGO0" objectID1="se31" />
+</TAGS>
+</SpaceEvalTaskv1.2>

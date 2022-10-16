@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[In the morning I would roll from my bed without turning on the light to put on my turquoise polka-dot girdle, my pantyhose, and my dress. In the bathroom my father ran water, coughed, blew his nose, rubbed the radio dial back and forth, spat into the sink, and flushed the unhappy old toilet. I finished my reluctant dressing ritual as he burst from the bathroom in a cloud of steam, and went to wash my face, brush my hair and pee. The toilet seat was moist with steam, the mirror fogged, the bath mat damply rumpled on the floor, and the sink blobbed with his thick discharges of toothpaste. I performed my toilet cocooned in my father’s smell of hair oil, Old Spice deodorant, sweat, and faded urine, and then went to sit at the breakfast table with him.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="36~39" text="bed" dcl="FALSE" type="RGN" />
+<PLACE id="pl1" spans="145~153" text="bathroom" dcl="FALSE" type="RGN" />
+<PLACE id="pl2" spans="251~255" text="sink" dcl="FALSE" type="RGN" />
+<PLACE id="pl3" spans="354~362" text="bathroom" dcl="FALSE" type="RGN" />
+<PLACE id="pl4" spans="525~530" text="floor" dcl="FALSE" type="RGN" />
+<PLACE id="pl5" spans="540~544" text="sink" dcl="FALSE" type="RGN" />
+<PLACE id="pl7" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl8" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl9" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="7~14" text="morning" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se1" spans="15~16" text="I" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se2" spans="63~68" text="light" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se3" spans="102~108" text="girdle" dcl="FALSE" mod="turquoise polka-dot" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se4" spans="113~122" text="pantyhose" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se5" spans="131~136" text="dress" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se6" spans="157~163" text="father" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se7" spans="168~173" text="water" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se8" spans="193~197" text="nose" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se9" spans="210~220" text="radio dial" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se10" spans="285~291" text="toilet" dcl="FALSE" mod="unhappy old" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se11" spans="326~332" text="ritual" dcl="FALSE" mod="reluctant dressing" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se12" spans="368~382" text="cloud of steam" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se13" spans="404~408" text="face" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se14" spans="419~423" text="hair" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se15" spans="428~431" text="pee" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se16" spans="437~448" text="toilet seat" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se17" spans="464~469" text="steam" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se18" spans="475~481" text="mirror" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se19" spans="494~502" text="bath mat" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se21" spans="568~592" text="discharges of toothpaste" dcl="FALSE" mod="thick" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se22" spans="594~595" text="I" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se23" spans="609~615" text="toilet" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se24" spans="649~657" text="hair oil" dcl="FALSE" mod="father’s smell" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se25" spans="669~678" text="deodorant" dcl="FALSE" mod="Old Spice" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se26" spans="680~685" text="sweat" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se27" spans="697~702" text="urine" dcl="FALSE" mod="faded" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se28" spans="640~645" text="smell" dcl="FALSE" mod="father’s" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se29" spans="742~747" text="table" dcl="FALSE" mod="breakfast" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se30" spans="753~756" text="him" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se20" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se31" spans="293~294" text="I" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se32" spans="336~338" text="he" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se33" spans="-1~-1" text="" dcl="FALSE" />
+<NONMOTION_EVENT id="e0" spans="48~58" text="turning on"  />
+<NONMOTION_EVENT id="e1" spans="175~182" text="coughed"  />
+<NONMOTION_EVENT id="e2" spans="184~188" text="blew"  />
+<NONMOTION_EVENT id="e3" spans="261~268" text="flushed"  />
+<NONMOTION_EVENT id="e4" spans="295~303" text="finished"  />
+<NONMOTION_EVENT id="e5" spans="482~488" text="fogged"  />
+<NONMOTION_EVENT id="e6" spans="453~458" text="moist"  />
+<NONMOTION_EVENT id="e7" spans="510~517" text="rumpled"  />
+<NONMOTION_EVENT id="e8" spans="545~552" text="blobbed"  />
+<NONMOTION_EVENT id="e9" spans="596~605" text="performed"  />
+<NONMOTION_EVENT id="e10" spans="616~624" text="cocooned"  />
+<NONMOTION_EVENT id="e11" spans="237~241" text="spat"  />
+<NONMOTION_EVENT id="e12" spans="164~167" text="ran"  />
+<NONMOTION_EVENT id="e13" spans="199~205" text="rubbed"  />
+<NONMOTION_EVENT id="e14" spans="396~400" text="wash"  />
+<NONMOTION_EVENT id="e15" spans="721~724" text="sit"  />
+<MOTION id="m0" spans="23~27" text="roll" motion_type="COMPOUND" motion_sense="FICTIVE" motion_class="LEAVE" />
+<MOTION id="m1" spans="72~78" text="put on" motion_type="COMPOUND" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m5" spans="339~344" text="burst" motion_type="COMPOUND" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m7" spans="388~392" text="went" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m9" spans="410~415" text="brush" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m10" spans="713~717" text="went" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr1" spans="363~365" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="725~727" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="518~520" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="625~627" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr0" spans="138~140" text="In" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="69~71" text="to" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr6" spans="242~246" text="into" semantic_type="DIRECTIONAL" />
+<EVENT_PATH id="ep0" spans="-1~-1" text="" trigger="m0" beginID="pl0" endID="se5" midIDs="se3,se4" />
+<EVENT_PATH id="ep1" spans="-1~-1" text="" beginID="pl1" trigger="m5" endID="pl8" midIDs="se7,e1,se8,se9,pl2,se10,se29" />
+<EVENT_PATH id="ep2" spans="-1~-1" text="" trigger="e4" beginID="se31" endID="pl3" />
+<EVENT_PATH id="ep3" spans="-1~-1" text="" trigger="m7" beginID="se13" endID="se22" midIDs="se14,se15" />
+<EVENT_PATH id="ep4" spans="-1~-1" text="" trigger="m10" beginID="pl3" endID="pl8" midIDs="se29" />
+<QSLINK id="qsl0" toID="se12" toText="cloud of steam" fromID="se32" fromText="he" relType="EQ" trajector="se32" landmark="pl3" trigger="sr1" />
+<QSLINK id="qsl1" fromID="se19" fromText="bath mat" toID="pl4" toText="floor" relType="EC" trajector="se19" landmark="pl4" trigger="sr3" />
+<QSLINK id="qsl2" fromID="se22" fromText="I" toID="se28" toText="smell" relType="EQ" trajector="se22" landmark="pl1" trigger="sr4" />
+<QSLINK id="qsl3" fromID="se22" fromText="I" toID="se30" toText="him" relType="EC" trajector="se22" trigger="sr2" />
+<QSLINK id="qsl4" fromID="sr0" fromText="In" toID="se7" toText="water" relType="IN" trajector="se6" landmark="pl1" trigger="sr0" />
+<QSLINK id="qsl5" fromID="se1" fromText="I" toID="pl0" toText="bed" relType="DC" trajector="se1" landmark="pl7" />
+<QSLINK id="qsl6" fromID="pl0" fromText="bed" toID="pl7" toText="" relType="IN" trajector="pl0" landmark="pl7" trigger="sr0" />
+<QSLINK id="qsl7" fromID="pl7" fromText="" toID="pl9" toText="" relType="IN" trajector="pl7" landmark="pl9" comment="im Haus" />
+<QSLINK id="qsl8" fromID="se3" fromText="girdle" toID="pl7" toText="" relType="IN" trajector="se3" landmark="pl7" />
+<QSLINK id="qsl9" fromID="se4" fromText="pantyhose" toID="pl7" toText="" relType="IN" trajector="se4" landmark="pl7" />
+<QSLINK id="qsl10" fromID="se5" fromText="dress" toID="pl7" toText="" relType="IN" trajector="se5" landmark="pl7" />
+<QSLINK id="qsl11" fromID="pl1" fromText="bathroom" toID="pl9" toText="" relType="IN" trajector="pl1" landmark="pl9" />
+<QSLINK id="qsl12" fromID="se7" fromText="water" toID="pl1" toText="bathroom" relType="IN" trajector="se7" landmark="pl1" />
+<QSLINK id="qsl13" fromID="se9" fromText="radio dial" toID="pl1" toText="bathroom" relType="IN" trajector="se9" landmark="pl1" />
+<QSLINK id="qsl14" fromID="pl2" fromText="sink" toID="pl1" toText="bathroom" relType="IN" trajector="pl2" landmark="pl1" />
+<QSLINK id="qsl15" fromID="se10" fromText="toilet" toID="pl1" toText="bathroom" relType="IN" trajector="se10" landmark="pl1" />
+<QSLINK id="qsl16" fromID="se21" fromText="discharges of toothpaste" toID="pl5" toText="sink" relType="IN" trajector="se21" landmark="pl2" />
+<QSLINK id="qsl17" fromID="se32" fromText="he" toID="pl9" toText="" relType="IN" trajector="se32" landmark="pl9" />
+<QSLINK id="qsl18" fromID="se16" fromText="toilet seat" toID="se10" toText="toilet" relType="EC" trajector="se16" landmark="se10" />
+<QSLINK id="qsl19" fromID="se19" fromText="bath mat" toID="pl1" toText="bathroom" relType="IN" trajector="se19" landmark="pl1" />
+<QSLINK id="qsl20" fromID="pl4" fromText="floor" toID="pl1" toText="bathroom" relType="EC" trajector="pl4" landmark="pl1" />
+<QSLINK id="qsl21" fromID="se22" fromText="I" toID="se29" toText="table" relType="EC" trajector="se22" landmark="se29" />
+<QSLINK id="qsl22" toID="pl8" toText="" fromID="se29" fromText="table" relType="IN" landmark="pl8" trajector="se29" />
+<QSLINK id="qsl23" toID="se29" toText="table" fromID="se30" fromText="him" relType="EC" landmark="se29" trajector="se30" />
+<QSLINK id="qsl24" fromID="ep0" fromText="" relType="IN" trajector="ep0" landmark="pl7" />
+<QSLINK id="qsl26" fromID="ep1" fromText="" relType="IN" trajector="ep1" landmark="pl8" />
+<QSLINK id="qsl27" fromID="ep2" fromText="" relType="IN" trajector="ep2" landmark="pl1" />
+<QSLINK id="qsl28" fromID="ep3" fromText="" trajector="ep3" landmark="pl1" relType="IN" />
+<QSLINK id="qsl29" fromID="ep4" fromText="" relType="IN" trajector="ep4" />
+<OLINK id="ol1" fromID="se1" fromText="I" toID="se3" toText="girdle" trajector="se1" landmark="pl7" trigger="sr5" frame_type="INTRINSIC" referencePt="se1" />
+<OLINK id="ol2" fromID="se6" fromText="father" toID="pl2" toText="sink" trajector="se6" landmark="pl1" trigger="sr6" referencePt="se6" frame_type="RELATIVE" />
+<MOVELINK id="mvl0" fromID="se0" fromText="morning" toID="pl0" toText="bed" trigger="m0" source="se1" mover="se1" goal_reached="YES" goal="pl7" landmark="pl7" />
+<MOVELINK id="mvl1" fromID="se0" fromText="morning" toID="se5" toText="dress" trigger="m1" goal="m1" mover="se1" goal_reached="YES" landmark="pl7" source="se1" />
+<MOVELINK id="mvl2" fromID="se31" fromText="I" toID="se12" toText="cloud of steam" trigger="m5" source="pl3" mover="se32" landmark="pl3" goal_reached="YES" />
+<MOVELINK id="mvl3" fromID="se31" fromText="I" toID="se15" toText="pee" trigger="m7" source="pl3" goal="pl3" mover="se31" landmark="pl3" goal_reached="YES" />
+<MOVELINK id="mvl4" fromID="se31" fromText="I" toID="se15" toText="pee" trigger="m9" source="pl3" mover="se31" landmark="pl3" goal_reached="YES" />
+<MOVELINK id="mvl5" fromID="se22" fromText="I" toID="se30" toText="him" trigger="m10" source="pl3" goal="e15" mover="se22" goal_reached="YES" />
+<METALINK id="metal0" objectID2="se20" objectID1="se24" relType="SUBCOREFERENCE" />
+<METALINK id="metal1" objectID1="se25" objectID2="se20" relType="SUBCOREFERENCE" />
+<METALINK id="metal2" objectID1="se26" objectID2="se20" relType="SUBCOREFERENCE" />
+<METALINK id="metal3" objectID1="se27" objectID2="se20" relType="SUBCOREFERENCE" />
+<METALINK id="metal4" objectID1="se31" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal5" objectID1="se22" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal6" objectID1="se32" objectID2="se6" relType="COREFERENCE" />
+<METALINK id="metal7" objectID1="se30" objectID2="se6" relType="COREFERENCE" />
+<METALINK id="metal8" objectID1="se14" objectID2="se33" relType="SUBCOREFERENCE" />
+<METALINK id="metal9" objectID1="se15" objectID2="se33" relType="SUBCOREFERENCE" />
+<METALINK id="metal10" objectID1="se16" objectID2="se23" relType="SUBCOREFERENCE" />
+<METALINK id="metal11" objectID1="se23" objectID2="se10" relType="COREFERENCE" />
+<METALINK id="metal12" objectID1="pl3" objectID2="pl1" relType="COREFERENCE" />
+<METALINK id="metal13" objectID1="pl5" objectID2="pl2" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

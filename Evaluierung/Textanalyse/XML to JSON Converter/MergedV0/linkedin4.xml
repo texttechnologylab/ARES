@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Maintains safety of Facility by following all safety standards, procedures, and guidelines including conducting safety sweeps, following proper forklift spotting procedures, following proper procedures for handling and 
+disposing of hazardous materials, following Company steel standard guidelines, and correcting/reporting unsafe situations to Management.]]></TEXT>
+<TAGS>
+<SPATIAL_ENTITY id="se1" spans="10~28" text="safety of Facility" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se7" spans="112~125" text="safety sweeps" form="NOM" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se9" spans="162~172" text="procedures" dcl="FALSE" type="ARTIFACT" form="NOM" mod="roper forklift spotting" />
+<SPATIAL_ENTITY id="se3" spans="331~355" text="situations to Management" dcl="FALSE" type="ARTIFACT" form="NOM" mod="correcting/reporting unsafe" />
+<SPATIAL_ENTITY id="se4" spans="46~62" text="safety standards" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se5" spans="64~74" text="procedures" form="NOM" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se6" spans="80~90" text="guidelines" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<NONMOTION_EVENT id="e1" spans="127~136" text="following"  />
+<NONMOTION_EVENT id="e2" spans="174~183" text="following"  />
+<NONMOTION_EVENT id="e3" spans="254~263" text="following"  />
+<NONMOTION_EVENT id="e0" spans="32~41" text="following"  />
+</TAGS>
+</SpaceEvalTaskv1.2>

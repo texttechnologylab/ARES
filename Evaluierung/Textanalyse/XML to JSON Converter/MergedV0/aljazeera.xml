@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle: https://www.aljazeera.com/news/2021/5/7/myanmar-anti-coup-cage-fighter-arrested-as-blasts-hit-main
+
+A popular mixed martial arts fighter who joined anti-coup protests in Myanmar has been wounded by a homemade bomb and later arrested following an alleged blast – among many others in at least three cities – as the military government struggles to assert control of the country amid a mounting death toll and defiant protests.
+
+Anti-coup protests were held on Friday across the country, including the city of Magway west of the capital, Naypyidaw. A pre-dawn strike was also held in the Natmouk district of Magway, with protesters carrying torches and the red banner of the National League of Democracy party of Aung San Suu Kyi.
+
+Young protesters also held “lightning strike” marches against the military in the Thamine and Thaketa districts of Yangon, while there have also been reports on social media of security forces carrying out a raid early on Friday in Yangon’s Hledan area. Authorities also detained several people, despite not having arrest warrants.
+
+The military’s Myawaddy TV reported on Thursday that the mixed martial arts fighter, Phoe Thaw, 36, was arrested in hospital while receiving treatment for leg wounds sustained while allegedly testing a homemade bomb late on Wednesday at a Yangon gym.
+
+Security forces claimed to have found bomb-making materials, arms and ammunition when they searched the gym. He was among four people detained and accused of colluding to commit violent acts, it said.
+
+Phoe Thaw is well-known in Myanmar and was caught on camera during the protests holding a sign that challenged coup leader, Min Aung Hlaing, to a cage fight.
+
+Images on Myawaddy TV on Thursday showed him on a stretcher, his legs covered in wounds and burns.
+
+A former colleague, who spoke to the Reuters news agency on the condition of anonymity, said the homemade bomb had been left at the gym car park by a policeman posing as a civilian.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="178~185" text="Myanmar" dcl="FALSE" dimensionality="VOLUME" form="NAM" countable="TRUE" />
+<PLACE id="pl1" spans="306~312" text="cities" dcl="FALSE" mod="at least threee" dimensionality="VOLUME" form="NOM" countable="TRUE" />
+<PLACE id="pl2" spans="373~384" text="the country" dcl="FALSE" state="Thailand" dimensionality="VOLUME" type="COUNTRY" form="NOM" countable="TRUE" />
+<PLACE id="pl3" spans="481~492" text="the country" dcl="FALSE" state="Thailand" dimensionality="VOLUME" type="COUNTRY" form="NOM" countable="TRUE" />
+<PLACE id="pl4" spans="504~522" text="the city of Magway" dcl="FALSE" state="Thailand" country="Magway" dimensionality="VOLUME" type="PPLC" form="NAM" countable="TRUE" />
+<PLACE id="pl5" spans="531~542" text="the capital" dcl="FALSE" country="Myanmar" state="Thailand" dimensionality="VOLUME" type="PPLC" form="NOM" countable="TRUE" />
+<PLACE id="pl6" spans="544~553" text="Naypyidaw" dcl="FALSE" state="Thailand" country="Nypidaw" dimensionality="VOLUME" type="PPL" form="NAM" countable="TRUE" />
+<PLACE id="pl7" spans="590~620" text="the Natmouk district of Magway" dcl="FALSE" state="Thailand" dimensionality="VOLUME" type="PPL" form="NAM" countable="TRUE" />
+<PLACE id="pl8" spans="816~859" text="the Thamine and Thaketa districts of Yangon" dcl="FALSE" dimensionality="VOLUME" type="PPL" form="NAM" countable="TRUE" />
+<PLACE id="pl9" spans="970~990" text="Yangon’s Hledan area" dcl="FALSE" dimensionality="VOLUME" type="RGN" form="NAM" countable="TRUE" />
+<PLACE id="pl10" spans="1187~1195" text="hospital" dcl="FALSE" dimensionality="VOLUME" type="PPL" form="NOM" countable="TRUE" />
+<PLACE id="pl11" spans="1427~1430" text="gym" dcl="FALSE" dimensionality="VOLUME" type="PPL" form="NOM" countable="TRUE" />
+<PLACE id="pl12" spans="1310~1320" text="Yangon gym" dcl="FALSE" dimensionality="VOLUME" type="PPL" form="NAM" countable="TRUE" />
+<PLACE id="pl13" spans="1552~1559" text="Myanmar" dcl="FALSE" type="STATE" dimensionality="VOLUME" form="NAM" countable="TRUE" />
+<PLACE id="pl14" spans="1912~1928" text="the gym car park" dcl="FALSE" dimensionality="VOLUME" type="PPL" form="NOM" countable="TRUE" />
+<PLACE id="pl15" spans="820~827" text="Thamine" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl16" spans="832~839" text="Thaketa" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl17" spans="853~859" text="Yangon" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl18" spans="867~872" text="there" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl19" spans="-1~-1" text="" dcl="FALSE" dimensionality="VOLUME" type="CIVIL" form="NOM" />
+<SPATIAL_ENTITY id="se0" spans="137~144" text="fighter" dcl="FALSE" mod="popular mixed martial arts" dimensionality="VOLUME" form="NOM" comment="DEFAULT:" type="PERSON" />
+<SPATIAL_ENTITY id="se1" spans="217~221" text="bomb" dcl="FALSE" dimensionality="VOLUME" form="NOM" comment="VOLUME" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se4" spans="627~637" text="protesters" dcl="FALSE" form="NOM" comment="TRUE" type="PERSON" />
+<SPATIAL_ENTITY id="se5" spans="659~673" text="the red banner" dcl="FALSE" mod="red" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se6" spans="677~715" text="the National League of Democracy party" dcl="FALSE" mod="of Aung" form="NAM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se7" spans="719~735" text="Aung San Suu Kyi" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se8" spans="744~754" text="protesters" dcl="FALSE" mod="young" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se9" spans="800~812" text="the military" dcl="FALSE" form="NOM" countable="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se10" spans="915~930" text="security forces" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se11" spans="992~1003" text="Authorities" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se12" spans="1026~1032" text="people" dcl="FALSE" form="NOM" countable="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se13" spans="1086~1097" text="Myawaddy TV" dcl="FALSE" mod="the military&apos;s" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se15" spans="1156~1165" text="Phoe Thaw" dcl="FALSE" mod="the mixed martial arts fighter, 36" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se16" spans="1323~1339" text="Security forces " dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se17" spans="1373~1382" text="materials" dcl="FALSE" mod="bomb-making" countable="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se18" spans="1384~1388" text="arms" dcl="FALSE" countable="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="1393~1403" text="ammunition" dcl="FALSE" countable="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se20" spans="1409~1413" text="they" dcl="FALSE" mod="Security " countable="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se21" spans="1432~1434" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se22" spans="1226~1236" text="leg wounds" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se23" spans="1282~1286" text="bomb" dcl="FALSE" mod="homemade" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se24" spans="1450~1456" text="people" dcl="FALSE" countable="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se25" spans="1525~1534" text="Phoe Thaw" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se27" spans="1649~1664" text="Min Aung Hlaing" dcl="FALSE" mod="coup leader" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se28" spans="1684~1690" text="Images" dcl="FALSE" dimensionality="AREA" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se29" spans="1694~1705" text="Myawaddy TV" dcl="FALSE" dimensionality="AREA" countable="FALSE" type="ARTIFACT" form="NAM" />
+<SPATIAL_ENTITY id="se30" spans="1725~1728" text="him" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se31" spans="1734~1743" text="stretcher" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se33" spans="1793~1802" text="colleague" dcl="FALSE" mod="former (of author)" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se34" spans="1804~1807" text="who" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se35" spans="1817~1840" text="the Reuters news agency" dcl="FALSE" mod="on the condition of aunonymity" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se36" spans="1890~1894" text="bomb" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se37" spans="1934~1943" text="policeman" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se14" spans="899~911" text="social media" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se26" spans="1128~1154" text="mixed martial arts fighter" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se38" spans="322~341" text="military government" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se39" spans="1501~1513" text="violent acts" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se40" spans="1578~1584" text="camera" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se41" spans="1596~1604" text="protests" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se43" spans="1636~1647" text="coup leader" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se44" spans="1749~1753" text="legs" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se45" spans="1765~1771" text="wounds" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se46" spans="1776~1781" text="burns" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se47" spans="1669~1681" text="a cage fight" dcl="FALSE" type="DYNAMIC_EVENT" form="NAM" />
+<SPATIAL_ENTITY id="se48" spans="1956~1964" text="civilian" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se49" spans="156~174" text="anti-coup protests" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se50" spans="424~432" text="protests" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="defiant" />
+<SPATIAL_ENTITY id="se51" spans="445~453" text="protests" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se52" spans="557~572" text="pre-dawn strike" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se53" spans="1212~1221" text="treatment" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se54" spans="281~287" text="others" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se55" spans="946~950" text="raid" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se2" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se3" spans="145~148" text="who" dcl="FALSE" form="NOM" type="PERSON" />
+<NONMOTION_EVENT id="e1" spans="149~155" text="joined"  />
+<NONMOTION_EVENT id="e2" spans="195~202" text="wounded"  />
+<NONMOTION_EVENT id="e3" spans="232~240" text="arrested" mod="later... following an alleged blast" />
+<NONMOTION_EVENT id="e4" spans="262~267" text="blast"  />
+<NONMOTION_EVENT id="e7" spans="390~411" text="a mounting death toll"  />
+<NONMOTION_EVENT id="e10" spans="454~463" text="were held" mod="on friday" />
+<NONMOTION_EVENT id="e12" spans="573~576" text="was"  />
+<NONMOTION_EVENT id="e13" spans="582~586" text="held" mod="also" />
+<NONMOTION_EVENT id="e14" spans="638~654" text="carrying torches"  />
+<NONMOTION_EVENT id="e15" spans="760~764" text="held"  />
+<NONMOTION_EVENT id="e16" spans="765~791" text="“lightning strike” marches"  />
+<NONMOTION_EVENT id="e17" spans="883~895" text="been reports" mod="on media" />
+<NONMOTION_EVENT id="e18" spans="931~950" text="carrying out a raid" mod="early on Friday" />
+<NONMOTION_EVENT id="e19" spans="1009~1017" text="detained" mod="despite not having arrest warrents" />
+<NONMOTION_EVENT id="e20" spans="1042~1068" text="not having arrest warrants"  />
+<NONMOTION_EVENT id="e21" spans="1098~1106" text="reported" mod="on thursday" />
+<NONMOTION_EVENT id="e22" spans="1171~1183" text="was arrested"  />
+<NONMOTION_EVENT id="e24" spans="1339~1349" text="claimed to"  />
+<NONMOTION_EVENT id="e25" spans="1350~1360" text="have found"  />
+<NONMOTION_EVENT id="e26" spans="1414~1422" text="searched"  />
+<NONMOTION_EVENT id="e27" spans="1263~1270" text="testing" mod="allegedly.. on Wendsedaiiiiii" />
+<NONMOTION_EVENT id="e28" spans="1435~1438" text="was"  />
+<NONMOTION_EVENT id="e29" spans="1457~1465" text="detained"  />
+<NONMOTION_EVENT id="e30" spans="1470~1480" text="accused of"  />
+<NONMOTION_EVENT id="e31" spans="1481~1493" text="colluding to" mod="commit violent acts" />
+<NONMOTION_EVENT id="e32" spans="1515~1522" text="it said"  />
+<NONMOTION_EVENT id="e33" spans="1535~1537" text="is" mod="well known" />
+<NONMOTION_EVENT id="e34" spans="1564~1574" text="was caught" mod="on camera during the protests" />
+<NONMOTION_EVENT id="e35" spans="1605~1619" text="holding a sign" mod="that challenged coup leader" />
+<NONMOTION_EVENT id="e37" spans="1718~1724" text="showed" mod="on thursday" />
+<NONMOTION_EVENT id="e40" spans="1872~1876" text="said"  />
+<NONMOTION_EVENT id="e41" spans="1895~1903" text="had been"  />
+<NONMOTION_EVENT id="e42" spans="1904~1908" text="left"  />
+<NONMOTION_EVENT id="e45" spans="1625~1635" text="challenged"  />
+<NONMOTION_EVENT id="e46" spans="1754~1761" text="covered"  />
+<NONMOTION_EVENT id="e47" spans="1202~1211" text="receiving"  />
+<NONMOTION_EVENT id="e48" spans="1237~1246" text="sustained"  />
+<NONMOTION_EVENT id="e49" spans="1808~1813" text="spoke"  />
+<NONMOTION_EVENT id="e50" spans="342~351" text="struggles"  />
+<NONMOTION_EVENT id="e51" spans="355~361" text="assert"  />
+<NONMOTION_EVENT id="e0" spans="1944~1951" text="posing "  />
+<S_RELATION id="sr0" spans="175~177" text="in"  />
+<S_RELATION id="sr1" spans="288~290" text="in"  />
+<S_RELATION id="sr2" spans="474~480" text="across"  />
+<S_RELATION id="sr3" spans="494~503" text="including"  />
+<S_RELATION id="sr4" spans="523~530" text="west of"  />
+<S_RELATION id="sr5" spans="587~589" text="in"  />
+<S_RELATION id="sr6" spans="813~815" text="in"  />
+<S_RELATION id="sr7" spans="967~969" text="in"  />
+<S_RELATION id="sr8" spans="1184~1187" text="in "  />
+<S_RELATION id="sr9" spans="1305~1307" text="at"  />
+<S_RELATION id="sr10" spans="1549~1551" text="in"  />
+<S_RELATION id="sr11" spans="1691~1693" text="on"  />
+<S_RELATION id="sr12" spans="1729~1731" text="on"  />
+<S_RELATION id="sr13" spans="1909~1911" text="at"  />
+<S_RELATION id="sr14" spans="1575~1577" text="on"  />
+<S_RELATION id="sr15" spans="1706~1708" text="on"  />
+<S_RELATION id="sr16" spans="1762~1764" text="in"  />
+<S_RELATION id="sr17" spans="1841~1843" text="on"  />
+<S_RELATION id="sr19" spans="370~372" text="of"  />
+<S_RELATION id="sr20" spans="850~852" text="of"  />
+<MEASURE id="me1" spans="1018~1025" text="several"  />
+<MEASURE id="me2" spans="1445~1449" text="four"  />
+<MEASURE id="me3" spans="300~305" text="three"  />
+<MEASURE id="me4" spans="275~280" text=" many"  />
+<QSLINK id="qsl3" fromID="pl3" fromText="the country" toID="pl4" toText="the city of Magway" trigger="sr3" comment="including" relType="IN" />
+<QSLINK id="qsl5" fromID="e16" fromText="“lightning strike” marches" toID="pl8" toText="the Thamine and Thaketa districts of Yangon" relType="IN" comment="in" trigger="sr6" />
+<QSLINK id="qsl6" fromID="se10" fromText="security forces" toID="pl9" toText="Yangon’s Hledan area" trigger="sr7" relType="IN" comment="in" />
+<QSLINK id="qsl7" fromID="se15" fromText="Phoe Thaw" toID="pl10" toText="hospital" trigger="sr8" relType="IN" comment="in" />
+<QSLINK id="qsl8" fromID="se23" fromText="bomb" toID="pl12" toText="Yangon gym" trigger="sr9" comment="at" relType="IN" />
+<QSLINK id="qsl9" fromID="se25" fromText="Phoe Thaw" toID="pl13" toText="Myanmar" trigger="sr10" relType="IN" comment="in" />
+<QSLINK id="qsl10" fromID="se28" fromText="Images" toID="se31" toText="stretcher" trigger="sr11" comment="on" relType="EC" />
+<QSLINK id="qsl11" fromID="pl15" fromText="Thamine" toID="pl17" toText="Yangon" relType="NTPP" trigger="sr20" />
+<QSLINK id="qsl12" fromID="pl16" fromText="Thaketa" toID="pl17" toText="Yangon" relType="NTPP" trigger="sr20" />
+<QSLINK id="qsl14" fromID="se49" fromText="anti-coup protests" toID="pl0" toText="Myanmar" relType="IN" trigger="sr0" />
+<QSLINK id="qsl15" fromID="se54" fromText="others" toID="pl1" toText="cities" relType="IN" trigger="sr1" />
+<QSLINK id="qsl16" fromID="se8" fromText="protesters" toID="pl8" toText="the Thamine and Thaketa districts of Yangon" relType="IN" trigger="sr6" />
+<QSLINK id="qsl17" fromID="se52" fromText="pre-dawn strike" toID="pl7" toText="the Natmouk district of Magway" relType="IN" trigger="sr5" />
+<QSLINK id="qsl18" fromID="se44" fromText="legs" toID="se45" toText="wounds" relType="IN" trigger="sr16" />
+<QSLINK id="qsl19" fromID="se55" fromText="raid" toID="pl9" toText="Yangon’s Hledan area" relType="IN" trigger="sr7" />
+<QSLINK id="qsl20" fromID="se15" fromText="Phoe Thaw" toID="pl10" toText="hospital" relType="IN" trigger="sr8" />
+<QSLINK id="qsl21" fromID="se36" fromText="bomb" toID="pl14" toText="the gym car park" relType="IN" trigger="sr13" />
+<QSLINK id="qsl22" fromID="se44" fromText="legs" toID="se46" toText="burns" relType="IN" trigger="sr16" />
+<OLINK id="ol0" fromID="pl4" fromText="the city of Magway" toID="pl5" toText="the capital" trigger="sr4" frame_type="RELATIVE" comment="west of" />
+<MEASURELINK id="ml0" fromID="me1" fromText="several" toID="se12" toText="people" trajector="se12" landmark="pl9" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml1" fromID="me2" fromText="four" toID="se24" toText="people" trajector="se24" landmark="pl11" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml2" fromID="me3" fromText="three" toID="pl1" toText="cities" trajector="pl1" landmark="pl19" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml3" fromID="me4" fromText=" many" toID="se54" toText="others" trajector="se54" landmark="pl1" relType="GENERAL_DIMENSION" />
+<METALINK id="metal0" fromID="pl2" fromText="the country" toID="pl0" toText="Myanmar" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="pl0" fromText="Myanmar" toID="pl1" toText="cities" relType="SUBCOREFERENCE" />
+<METALINK id="metal2" fromID="se21" fromText="He" toID="se15" toText="Phoe Thaw" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se21" fromText="He" toID="se24" toText="people" relType="SUBCOREFERENCE" />
+<METALINK id="metal4" fromID="se21" fromText="He" toID="se25" toText="Phoe Thaw" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="pl0" fromText="Myanmar" toID="pl13" toText="Myanmar" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se30" fromText="him" toID="se15" toText="Phoe Thaw" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se34" fromText="who" toID="se33" toText="colleague" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se20" fromText="they" toID="se16" toText="Security forces " relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se26" fromText="mixed martial arts fighter" toID="se15" toText="Phoe Thaw" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se43" fromText="coup leader" toID="se27" toText="Min Aung Hlaing" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se16" fromText="Security forces " toID="se20" toText="they" relType="COREFERENCE" />
+<METALINK id="metal15" fromID="pl8" fromText="the Thamine and Thaketa districts of Yangon" toID="pl18" toText="there" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se18" fromText="arms" toID="se2" toText="" relType="SUBCOREFERENCE" />
+<METALINK id="metal9" fromID="se19" fromText="ammunition" toID="se2" toText="" relType="SUBCOREFERENCE" />
+<METALINK id="metal10" fromID="se2" fromText="" toID="se17" toText="materials" relType="SPLITCOREFERENCE" />
+<METALINK id="metal16" fromID="se34" fromText="who" toID="se33" toText="colleague" relType="COREFERENCE" />
+<METALINK id="metal17" fromID="se3" fromText="who" toID="se0" toText="fighter" relType="COREFERENCE" />
+<SRLINK id="srole0" fromID="se0" fromText="fighter" toID="e1" toText="joined" relType="ARGO0" />
+<SRLINK id="srole1" fromID="se0" fromText="fighter" toID="e2" toText="wounded" relType="ARGO0" />
+<SRLINK id="srole2" fromID="se0" fromText="fighter" toID="e3" toText="arrested" relType="ARGO0" />
+<SRLINK id="srole5" fromID="se8" fromText="protesters" toID="e15" toText="held" relType="ARGO0" />
+<SRLINK id="srole6" fromID="se10" fromText="security forces" toID="e18" toText="carrying out a raid" relType="ARGO0" />
+<SRLINK id="srole7" fromID="se11" fromText="Authorities" toID="e19" toText="detained" relType="ARGO0" />
+<SRLINK id="srole8" fromID="se13" fromText="Myawaddy TV" toID="e21" toText="reported" relType="ARGO0" />
+<SRLINK id="srole9" fromID="se15" fromText="Phoe Thaw" toID="e22" toText="was arrested" relType="ARGO0" />
+<SRLINK id="srole11" fromID="se15" fromText="Phoe Thaw" toID="e27" toText="testing" relType="ARGO0" />
+<SRLINK id="srole12" fromID="se16" fromText="Security forces " toID="e24" toText="claimed to" relType="ARGO0" />
+<SRLINK id="srole13" fromID="se16" fromText="Security forces " toID="e26" toText="searched" relType="ARGO0" />
+<SRLINK id="srole14" fromID="se21" fromText="He" toID="e28" toText="was" relType="ARGO0" />
+<SRLINK id="srole15" fromID="se24" fromText="people" toID="e29" toText="detained" relType="ARGO0" />
+<SRLINK id="srole16" fromID="se25" fromText="Phoe Thaw" toID="e33" toText="is" relType="ARGO0" />
+<SRLINK id="srole17" fromID="se25" fromText="Phoe Thaw" toID="e34" toText="was caught" relType="ARGO0" />
+<SRLINK id="srole18" fromID="se25" fromText="Phoe Thaw" toID="e35" toText="holding a sign" relType="ARGO0" />
+<SRLINK id="srole19" fromID="se28" fromText="Images" toID="e37" toText="showed" relType="ARGO0" />
+<SRLINK id="srole22" fromID="se34" fromText="who" toID="e40" toText="said" relType="ARGO0" />
+<SRLINK id="srole24"  />
+<SRLINK id="srole25"  />
+<SRLINK id="srole26"  />
+<SRLINK id="srole27"  />
+<SRLINK id="srole28"  />
+<SRLINK id="srole29"  />
+<SRLINK id="srole30"  />
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[I don't take coffee, I take tea, my dear
+I like my toast done on one side
+And you can hear it in my accent when I talk
+I'm an Englishman in New York
+See me walking down Fifth Avenue
+A walking cane here at my side
+I take it everywhere I walk
+I'm an Englishman in New York
+Oh, I'm an alien, I'm a legal alien
+If "manners maketh man" as someone said
+He's the hero of the day
+It takes a man to suffer ignorance and smile
+Be yourself no matter what they say
+Modesty, propriety can lead to notoriety
+You could end up as the only one
+Gentleness, sobriety are rare in this society
+At night a candle's brighter than the sun
+Takes more than combat gear to make a man
+Takes more than a license for a gun
+Confront your enemies, avoid them when you can
+A gentleman will walk but never run]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="140~148" text="New York" dcl="FALSE" type="PPLA" dimensionality="VOLUME" form="NAM" state="New York" country="USA!" countable="TRUE" />
+<PLACE id="pl1" spans="169~181" text="Fifth Avenue" dcl="FALSE" type="PPL" dimensionality="VOLUME" form="NAM" state="New York" country="USA!" countable="TRUE" />
+<PLACE id="pl2" spans="223~233" text="everywhere" dcl="FALSE" type="CELESTIAL" dimensionality="VOLUME" form="NOM" state="New York" country="USA!" countable="TRUE" />
+<PLACE id="pl4" spans="262~270" text="New York" dcl="FALSE" type="PPLA" dimensionality="VOLUME" form="NAM" state="New York" country="USA!" countable="TRUE" />
+<PLACE id="pl5" spans="572~573" text=" " dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="0~1" text="I" dcl="FALSE" type="PERSON" form="NOM" comment="DEFAULT" />
+<SPATIAL_ENTITY id="se1" spans="13~19" text="coffee" dcl="FALSE" type="ARTIFACT" form="NOM" comment="dimension" />
+<SPATIAL_ENTITY id="se2" spans="21~22" text="I" dcl="FALSE" type="PERSON" form="NOM" comment="VOLUME" />
+<SPATIAL_ENTITY id="se3" spans="28~31" text="tea" dcl="FALSE" type="ARTIFACT" form="NOM" comment="countable" />
+<SPATIAL_ENTITY id="se5" spans="36~40" text="dear" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se6" spans="41~42" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="51~56" text="toast" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se9" spans="78~81" text="you" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se11" spans="112~113" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se12" spans="119~120" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se13" spans="123~136" text="an Englishman" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se15" spans="184~196" text="walking cane" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se17" spans="208~212" text="side" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se18" spans="213~214" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="220~222" text="it" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se20" spans="241~242" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se21" spans="245~258" text="an Englishman" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se22" spans="275~276" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se23" spans="282~287" text="alien" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se24" spans="289~290" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se25" spans="301~306" text="alien" dcl="FALSE" mod="a legal" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se26" spans="326~329" text="man" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se27" spans="334~341" text="someone" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se28" spans="347~349" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se29" spans="352~360" text="the hero" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se30" spans="381~386" text="a man" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se31" spans="420~428" text="yourself" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se32" spans="444~448" text="they" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se33" spans="494~497" text="You" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se34" spans="582~590" text="a candle" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se35" spans="611~614" text="sun" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se36" spans="631~642" text="combat gear" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se37" spans="651~656" text="a man" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se38" spans="673~682" text="a license" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se39" spans="687~692" text="a gun" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se40" spans="702~706" text="your" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se41" spans="707~714" text="enemies" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se42" spans="722~726" text="them" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se43" spans="732~735" text="you" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se44" spans="740~751" text="A gentleman" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se45" spans="234~235" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se46" spans="-1~-1" text="" dcl="FALSE" />
+<NONMOTION_EVENT id="e0" spans="8~12" text="take" mod="dont" />
+<NONMOTION_EVENT id="e1" spans="23~27" text="take"  />
+<NONMOTION_EVENT id="e2" spans="43~47" text="like"  />
+<NONMOTION_EVENT id="e3" spans="57~61" text="done"  />
+<NONMOTION_EVENT id="e4" spans="86~90" text="hear" mod="can in" />
+<NONMOTION_EVENT id="e5" spans="91~93" text="it"  />
+<NONMOTION_EVENT id="e6" spans="100~106" text="accent"  />
+<NONMOTION_EVENT id="e7" spans="114~118" text="talk" mod="when" />
+<NONMOTION_EVENT id="e8" spans="120~122" text="&apos;m"  />
+<NONMOTION_EVENT id="e9" spans="149~152" text="See"  />
+<NONMOTION_EVENT id="e10" spans="215~219" text="take"  />
+<NONMOTION_EVENT id="e11" spans="242~244" text="&apos;m"  />
+<NONMOTION_EVENT id="e12" spans="276~278" text="&apos;m"  />
+<NONMOTION_EVENT id="e13" spans="290~292" text="&apos;m"  />
+<NONMOTION_EVENT id="e14" spans="311~318" text="manners"  />
+<NONMOTION_EVENT id="e15" spans="319~325" text="maketh"  />
+<NONMOTION_EVENT id="e16" spans="372~374" text="It"  />
+<NONMOTION_EVENT id="e17" spans="375~380" text="takes"  />
+<NONMOTION_EVENT id="e18" spans="390~396" text="suffer" mod="ignorance" />
+<NONMOTION_EVENT id="e19" spans="411~416" text="smile"  />
+<NONMOTION_EVENT id="e20" spans="417~419" text="Be"  />
+<NONMOTION_EVENT id="e21" spans="449~452" text="say" mod="no matter" />
+<NONMOTION_EVENT id="e22" spans="439~443" text="what"  />
+<NONMOTION_EVENT id="e23" spans="453~460" text="Modesty"  />
+<NONMOTION_EVENT id="e24" spans="462~471" text="propriety"  />
+<NONMOTION_EVENT id="e25" spans="476~483" text="lead to" mod="can" />
+<NONMOTION_EVENT id="e26" spans="484~493" text="notoriety"  />
+<NONMOTION_EVENT id="e27" spans="504~510" text="end up" mod="could .. as the only one" />
+<NONMOTION_EVENT id="e28" spans="527~537" text="Gentleness"  />
+<NONMOTION_EVENT id="e29" spans="539~547" text="sobriety"  />
+<NONMOTION_EVENT id="e30" spans="548~551" text="are" mod="rare in this society" />
+<NONMOTION_EVENT id="e31" spans="573~581" text="At night"  />
+<NONMOTION_EVENT id="e32" spans="590~592" text="&apos;s" mod="brighter than the " />
+<NONMOTION_EVENT id="e33" spans="615~620" text="Takes" mod="more than" />
+<NONMOTION_EVENT id="e34" spans="646~650" text="make" mod="more than" />
+<NONMOTION_EVENT id="e35" spans="657~662" text="Takes" mod="more than" />
+<NONMOTION_EVENT id="e36" spans="693~701" text="Confront"  />
+<NONMOTION_EVENT id="e37" spans="716~721" text="avoid"  />
+<NONMOTION_EVENT id="e38" spans="736~739" text="can"  />
+<NONMOTION_EVENT id="e39" spans="342~346" text="said" mod="as" />
+<NONMOTION_EVENT id="e40" spans="349~351" text="&apos;s" mod="of the day " />
+<MOTION id="m0" spans="156~163" text="walking" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="236~240" text="walk" mod="will" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="772~775" text="run" mod="never" motion_type="PATH" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m3" spans="757~761" text="walk" motion_type="PATH" motion_class="MOVE" motion_sense="FICTIVE" />
+<S_RELATION id="sr0" spans="62~73" text="on one side" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="137~139" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="164~168" text="down" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr3" spans="197~204" text="here at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="259~261" text="in" semantic_type="TOPOLOGICAL" />
+<QSLINK id="qsl0" fromID="se21" fromText="an Englishman" toID="pl4" toText="New York" relType="IN" comment="in" trigger="sr5" trajector="se21" landmark="pl4" />
+<QSLINK id="qsl1" fromID="se15" fromText="walking cane" toID="se17" toText="side" relType="EC" comment="at my side" trigger="sr3" trajector="se15" landmark="pl1" />
+<QSLINK id="qsl2" fromID="se13" fromText="an Englishman" toID="pl0" toText="New York" relType="IN" trigger="sr1" trajector="se13" />
+<MOVELINK id="mvl1" toID="pl2" toText="everywhere" fromID="se45" fromText="I" source="se0" mover="se45" trigger="m1" landmark="pl0" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl2" fromID="se44" fromText="A gentleman" toID="pl5" toText=" " source="se44" mover="se44" trigger="m2" landmark="pl0" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl3" fromID="se44" fromText="A gentleman" toID="pl5" toText=" " mover="se44" trigger="m3" landmark="pl0" source="se44" goal_reached="UNCERTAIN" />
+<METALINK id="metal0" fromID="se2" fromText="I" toID="se0" toText="I" objectID1="se2" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se6" fromText="I" toID="se0" toText="I" objectID1="se6" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se9" fromText="you" toID="se5" toText="dear" objectID1="se9" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se11" fromText="I" toID="se0" toText="I" objectID1="se11" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se12" fromText="I" toID="se0" toText="I" objectID1="se12" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se13" fromText="an Englishman" toID="se0" toText="I" objectID1="se13" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se18" fromText="I" toID="se0" toText="I" objectID1="se18" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se45" fromText="I" toID="se0" toText="I" objectID1="se45" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se20" fromText="I" toID="se0" toText="I" objectID1="se20" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se21" fromText="an Englishman" toID="se0" toText="I" objectID1="se21" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se22" fromText="I" toID="se0" toText="I" objectID1="se22" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se24" fromText="I" toID="se0" toText="I" objectID1="se24" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se25" fromText="alien" toID="se24" toText="I" objectID1="se25" objectID2="se24" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se28" fromText="He" toID="se27" toText="someone" objectID1="se28" objectID2="se27" relType="COREFERENCE" />
+<METALINK id="metal15" fromID="se29" fromText="the hero" toID="se28" toText="He" objectID1="se29" objectID2="se28" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se33" fromText="You" toID="se5" toText="dear" objectID1="se33" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal17" fromID="se37" fromText="a man" toID="se30" toText="a man" objectID1="se37" objectID2="se30" relType="COREFERENCE" />
+<METALINK id="metal18" fromID="se36" fromText="combat gear" toID="se46" toText="" objectID1="se36" objectID2="s46" relType="SUBCOREFERENCE" />
+<METALINK id="metal19" fromID="se38" fromText="a license" toID="se46" toText="" objectID1="se38" objectID2="se46" relType="SUBCOREFERENCE" />
+<METALINK id="metal20" fromID="se40" fromText="your" toID="se5" toText="dear" objectID1="se40" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal21" fromID="se42" fromText="them" toID="se41" toText="enemies" objectID1="se42" objectID2="se41" relType="COREFERENCE" />
+<METALINK id="metal22" fromID="se43" fromText="you" toID="se5" toText="dear" objectID1="se43" objectID2="se5" relType="COREFERENCE" />
+<SRLINK id="srole0" fromID="se0" fromText="I" toID="e0" toText="take" />
+<SRLINK id="srole1" toID="e1" toText="take" fromID="se1" fromText="coffee" />
+<SRLINK id="srole2" fromID="se6" fromText="I" toID="e2" toText="like" />
+<SRLINK id="srole3" fromID="se9" fromText="you" toID="e4" toText="hear" />
+<SRLINK id="srole4" fromID="se11" fromText="I" toID="e7" toText="talk" />
+<SRLINK id="srole5" fromID="se12" fromText="I" toID="e8" toText="&apos;m" />
+<SRLINK id="srole6" toID="e9" toText="See" fromID="se9" fromText="you" />
+<SRLINK id="srole7" fromID="se0" fromText="I" toID="e10" toText="take" />
+<SRLINK id="srole8" fromID="se0" fromText="I" toID="e12" toText="&apos;m" />
+<SRLINK id="srole9" toID="e13" toText="&apos;m" fromID="se0" fromText="I" />
+<SRLINK id="srole10" fromID="se27" fromText="someone" toID="e39" toText="said" />
+<SRLINK id="srole11" fromID="se28" fromText="He" toID="e40" toText="&apos;s" />
+<SRLINK id="srole12" toID="e20" toText="Be" fromID="se9" fromText="you" />
+<SRLINK id="srole13" fromID="e28" fromText="Gentleness" toID="e30" toText="are" />
+<SRLINK id="srole14" fromID="se32" fromText="they" toID="e21" toText="say" />
+<SRLINK id="srole15" fromID="se33" fromText="You" toID="e27" toText="end up" />
+<SRLINK id="srole16" fromID="se34" fromText="a candle" toID="e32" toText="&apos;s" />
+<SRLINK id="srole17" fromID="e29" fromText="sobriety" toID="e30" toText="are" />
+<SRLINK id="srole18" fromID="se9" fromText="you" toID="e36" toText="Confront" />
+<SRLINK id="srole19" fromID="se9" fromText="you" toID="e37" toText="avoid" />
+<SRLINK id="srole20" fromID="se44" fromText="A gentleman" toID="m0" toText="walking" />
+</TAGS>
+</SpaceEvalTaskv1.2>

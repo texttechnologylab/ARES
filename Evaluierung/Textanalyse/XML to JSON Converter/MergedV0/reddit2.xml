@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[What is something you thought as a kid was a sign someone was rich, but now realize is something that everyone does?
+Kids who brought their lunch. For a while we got the discounted school lunch, so I assumed kids with lunch pails and homemade sandwiches and snacks were rich.
+That's interesting because I thought the opposite. Maybe it was because I wanted to eat school pizza, french fries, and chocolate milk every day. Parents always told me it was too expensive. Now realize they were just shit at money.
+EDIT: I should clarify that I recognize now as an adult that this was probably better in the long run. The comment about my parents ability to handle money had more to do with what they said versus the truth of the matter.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="-1~-1" text="" dcl="FALSE" comment="shool1" />
+<PLACE id="pl1" spans="-1~-1" text="" dcl="FALSE" comment="school2" />
+<SPATIAL_ENTITY id="se5" spans="102~110" text="everyone" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se6" spans="117~121" text="Kids" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se7" spans="140~145" text="lunch" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se8" spans="159~161" text="we" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="181~193" text="school lunch" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="18~21" text="you" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se10" spans="198~199" text="I" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se11" spans="208~212" text="kids" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se12" spans="218~229" text="lunch pails" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="234~253" text="homemade sandwiches" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se14" spans="258~264" text="snacks" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se15" spans="303~304" text="I" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se16" spans="348~349" text="I" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se2" spans="35~38" text="kid" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se17" spans="364~376" text="school pizza" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se18" spans="378~390" text="french fries" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se19" spans="396~410" text="chocolate milk" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se20" spans="422~429" text="Parents" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se21" spans="442~444" text="me" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se22" spans="479~483" text="they" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se24" spans="502~507" text="money" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se3" spans="50~57" text="someone" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se25" spans="515~516" text="I" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se26" spans="537~538" text="I" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se27" spans="559~564" text="adult" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se28" spans="570~574" text="this" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se29" spans="616~623" text="comment" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se30" spans="633~640" text="parents" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se31" spans="659~664" text="money" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se32" spans="690~694" text="they" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="87~96" text="something" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="8~17" text="something" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se23" spans="-1~-1" text="" dcl="FALSE" comment="lunch pails....." />
+<NONMOTION_EVENT id="e2" spans="200~207" text="assumed"  />
+<NONMOTION_EVENT id="e0" spans="22~29" text="thought"  />
+<NONMOTION_EVENT id="e3" spans="305~312" text="thought"  />
+<NONMOTION_EVENT id="e4" spans="350~356" text="wanted"  />
+<NONMOTION_EVENT id="e11" spans="360~363" text="eat"  />
+<NONMOTION_EVENT id="e5" spans="437~441" text="told"  />
+<NONMOTION_EVENT id="e6" spans="471~478" text="realize"  />
+<NONMOTION_EVENT id="e7" spans="524~531" text="clarify"  />
+<NONMOTION_EVENT id="e8" spans="539~548" text="recognize"  />
+<NONMOTION_EVENT id="e9" spans="652~658" text="handle"  />
+<NONMOTION_EVENT id="e10" spans="695~699" text="said"  />
+<NONMOTION_EVENT id="e1" spans="76~83" text="realize"  />
+<MOTION id="m0" spans="126~133" text="brought" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="162~165" text="got" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<QSLINK id="qsl0" fromID="pl0" fromText="" toID="se6" toText="Kids" relType="IN" trajector="se6" landmark="pl0" />
+<QSLINK id="qsl1" fromID="pl0" fromText="" toID="se8" toText="we" relType="IN" trajector="se8" landmark="pl0" />
+<QSLINK id="qsl2" fromID="pl0" fromText="" toID="se9" toText="school lunch" relType="IN" trajector="se9" landmark="pl0" />
+<QSLINK id="qsl3" fromID="pl1" fromText="" toID="se15" toText="I" relType="IN" trajector="se15" landmark="pl1" />
+<METALINK id="metal0" toID="se15" toText="I" fromID="se2" fromText="kid" objectID2="se15" objectID1="se2" relType="SUBCOREFERENCE" />
+<METALINK id="metal1" toID="se1" toText="you" fromID="se10" fromText="I" objectID2="se1" objectID1="se10" relType="SUBCOREFERENCE" />
+<METALINK id="metal2" toID="se1" toText="you" fromID="se15" fromText="I" objectID2="se1" objectID1="se15" relType="SUBCOREFERENCE" />
+<METALINK id="metal3" toID="se15" toText="I" fromID="se16" fromText="I" objectID2="se15" objectID1="se16" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se21" fromText="me" toID="se15" toText="I" objectID2="se15" objectID1="se21" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se25" fromText="I" toID="se15" toText="I" objectID2="se15" objectID1="se25" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se26" fromText="I" toID="se15" toText="I" objectID2="se15" objectID1="se26" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se27" fromText="adult" toID="se15" toText="I" objectID2="se15" objectID1="se27" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se3" fromText="someone" toID="se5" toText="everyone" objectID1="se3" objectID2="se5" relType="SUBCOREFERENCE" />
+<METALINK id="metal9" fromID="se0" fromText="something" toID="se4" toText="something" relType="SUBCOREFERENCE" objectID1="se0" objectID2="se4" />
+<METALINK id="metal10" fromID="se6" fromText="Kids" toID="se11" toText="kids" relType="SUBCOREFERENCE" objectID1="se6" objectID2="se11" />
+<METALINK id="metal11" fromID="se23" fromText="" toID="se14" toText="snacks" objectID1="se14" objectID2="se23" relType="SUBCOREFERENCE" />
+<METALINK id="metal12" fromID="se23" fromText="" toID="se12" toText="lunch pails" objectID1="se12" objectID2="se23" relType="SUBCOREFERENCE" />
+<METALINK id="metal13" fromID="se23" fromText="" toID="se13" toText="homemade sandwiches" objectID1="se13" objectID2="se23" relType="SUBCOREFERENCE" />
+<METALINK id="metal14" fromID="se23" fromText="" toID="se7" toText="lunch" relType="SPLITCOREFERENCE" objectID1="se23" objectID2="se7" />
+<METALINK id="metal15" fromID="se20" fromText="Parents" toID="se30" toText="parents" objectID1="se30" objectID2="se20" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se20" fromText="Parents" toID="se27" toText="adult" objectID1="se27" objectID2="se20" relType="COREFERENCE" />
+<METALINK id="metal17" toID="se32" toText="they" fromID="se20" fromText="Parents" objectID1="se32" objectID2="se20" relType="COREFERENCE" />
+<METALINK id="metal18" fromID="se24" fromText="money" toID="se31" toText="money" objectID1="se24" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se8" fromText="we" toID="se10" toText="I" objectID1="se10" objectID2="se8" relType="SPLITCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

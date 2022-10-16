@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Born in Bonn, Beethoven's musical talent was obvious at an early age, and he was initially harshly and intensively taught by his father Johann van Beethoven. Beethoven was later taught by the composer and conductor Christian Gottlob Neefe, under whose tutelage he published his first work, a set of keyboard variations, in 1783. He found relief from a dysfunctional home life with the family of Helene von Breuning, whose children he loved, befriended, and taught piano. At age 21, he moved to Vienna, which subsequently became his base, and studied composition with Haydn. Beethoven then gained a reputation as a virtuoso pianist, and he was soon courted by Karl Alois, Prince Lichnowsky for compositions, which resulted in his three Opus 1 piano trios (the earliest works to which he accorded an opus number) in 1795. ]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="8~12" text="Bonn" dcl="FALSE" dimensionality="VOLUME" form="NAM" type="PPL" />
+<PLACE id="pl1" spans="494~500" text="Vienna" dcl="FALSE" dimensionality="VOLUME" form="NAM" type="PPL" />
+<PLACE id="pl2" spans="502~507" text="which" dcl="FALSE" type="PPL" />
+<PLACE id="pl3" spans="532~536" text="base" dcl="FALSE" type="PPL" />
+<SPATIAL_ENTITY id="se0" spans="14~23" text="Beethoven" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se1" spans="34~40" text="talent" dcl="FALSE" type="DYNAMIC_EVENT" mod="musical" />
+<SPATIAL_ENTITY id="se2" spans="74~76" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se3" spans="129~135" text="father" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se4" spans="136~156" text="Johann van Beethoven" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se5" spans="158~167" text="Beethoven" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se6" spans="192~200" text="composer" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se7" spans="205~214" text="conductor" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="215~238" text="Christian Gottlob Neefe" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se9" spans="261~263" text="he" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se10" spans="252~260" text="tutelage" dcl="FALSE" type="DYNAMIC_EVENT" mod="∅" />
+<SPATIAL_ENTITY id="se11" spans="284~288" text="work" dcl="FALSE" type="ARTIFACT" form="NOM" mod="first" />
+<SPATIAL_ENTITY id="se12" spans="292~295" text="set" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se13" spans="299~318" text="keyboard variations" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se14" spans="329~331" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se15" spans="366~375" text="home life" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="dysfunctional" />
+<SPATIAL_ENTITY id="se16" spans="385~391" text="family" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se17" spans="395~414" text="Helene von Breuning" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se18" spans="422~430" text="children" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="431~433" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se20" spans="464~469" text="piano" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se21" spans="482~484" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se22" spans="550~561" text="composition" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se23" spans="567~572" text="Haydn" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se24" spans="574~583" text="Beethoven" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se25" spans="598~608" text="reputation" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se26" spans="623~630" text="pianist" dcl="FALSE" type="PERSON" form="NOM" mod="virtuoso" />
+<SPATIAL_ENTITY id="se27" spans="636~638" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se28" spans="659~669" text="Karl Alois" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se29" spans="671~688" text="Prince Lichnowsky" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se30" spans="693~705" text="compositions" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se31" spans="735~753" text="Opus 1 piano trios" dcl="FALSE" type="ARTIFACT" form="NAM" />
+<SPATIAL_ENTITY id="se32" spans="768~773" text="works" dcl="FALSE" type="ARTIFACT" form="NOM" mod="earliest" />
+<SPATIAL_ENTITY id="se33" spans="783~785" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se34" spans="798~809" text="opus number" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se35" spans="-1~-1" text="" dcl="FALSE" />
+<NONMOTION_EVENT id="e0" spans="115~121" text="taught" mod="initially harshly and intensively" />
+<NONMOTION_EVENT id="e1" spans="178~184" text="taught"  />
+<NONMOTION_EVENT id="e2" spans="332~337" text="found"  />
+<NONMOTION_EVENT id="e3" spans="434~439" text="loved"  />
+<NONMOTION_EVENT id="e4" spans="441~451" text="befriended"  />
+<NONMOTION_EVENT id="e5" spans="457~463" text="taught"  />
+<NONMOTION_EVENT id="e6" spans="542~549" text="studied"  />
+<NONMOTION_EVENT id="e7" spans="589~595" text="gained"  />
+<NONMOTION_EVENT id="e8" spans="648~655" text="courted"  />
+<MOTION id="m0" spans="264~273" text="published" motion_type="COMPOUND" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m1" spans="485~490" text="moved" motion_type="COMPOUND" motion_sense="LITERAL" motion_class="MOVE" />
+<MOTION id="m2" spans="713~721" text="resulted" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="5~7" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="53~55" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="122~124" text="by" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="185~187" text="by" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="240~245" text="under" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr6" spans="345~349" text="from" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr7" spans="392~394" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="471~473" text="At" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="491~493" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr10" spans="562~566" text="with" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="656~658" text="by" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr12" spans="722~724" text="in" semantic_type="GOAL_DEFINING" />
+<MEASURE id="me0" spans="729~734" text="three" value="three" />
+<MEASURE id="me1" spans="474~480" text="age 21" value="21" unit="age" />
+<MEASURE id="me2" spans="474~480" text="age 21" value="21" unit="age" />
+<QSLINK id="qsl0" fromID="se0" fromText="Beethoven" toID="pl0" toText="Bonn" trigger="sr0" trajector="se0" landmark="pl1" relType="IN" />
+<QSLINK id="qsl1" fromID="se0" fromText="Beethoven" toID="se2" toText="he" trigger="sr1" trajector="se0" landmark="se1" relType="EQ" />
+<QSLINK id="qsl2" fromID="e0" fromText="taught" toID="se3" toText="father" trigger="sr2" relType="DC" trajector="se2" landmark="se3" />
+<QSLINK id="qsl3" fromID="e1" fromText="taught" toID="se35" toText="" trigger="sr3" relType="DC" trajector="se2" landmark="se35" />
+<QSLINK id="qsl4" fromID="se16" fromText="family" toID="se17" toText="Helene von Breuning" trigger="sr7" relType="TPP" trajector="se17" landmark="se16" />
+<QSLINK id="qsl5" fromID="sr8" fromText="At" toID="pl1" toText="Vienna" trigger="sr8" relType="EQ" trajector="se21" landmark="me1" />
+<QSLINK id="qsl6" fromID="se22" fromText="composition" toID="se23" toText="Haydn" trigger="sr10" trajector="se21" landmark="se23" relType="DC" />
+<QSLINK id="qsl7" fromID="se27" fromText="he" toID="se28" toText="Karl Alois" trigger="sr11" relType="DC" trajector="se27" landmark="se28" />
+<QSLINK id="qsl8" fromID="se3" fromText="father" toID="pl0" toText="Bonn" relType="IN" trajector="se3" landmark="pl0" />
+<QSLINK id="qsl9" fromID="se8" fromText="Christian Gottlob Neefe" toID="pl0" toText="Bonn" relType="IN" trajector="se8" landmark="pl0" />
+<QSLINK id="qsl10" fromID="se16" fromText="family" toID="pl0" toText="Bonn" relType="IN" trajector="se16" landmark="pl0" />
+<QSLINK id="qsl11" fromID="se0" fromText="Beethoven" toID="pl1" toText="Vienna" relType="IN" trajector="se0" landmark="pl1" />
+<QSLINK id="qsl12" fromID="se23" fromText="Haydn" toID="pl1" toText="Vienna" relType="IN" trajector="se23" landmark="pl1" />
+<QSLINK id="qsl13" fromID="se28" fromText="Karl Alois" toID="pl1" toText="Vienna" relType="IN" trajector="se28" landmark="pl1" />
+<OLINK id="ol0" fromID="se8" fromText="Christian Gottlob Neefe" toID="se10" toText="tutelage" trigger="sr4" trajector="se5" landmark="se8" frame_type="INTRINSIC" referencePt="Christian" />
+<OLINK id="ol1" toID="se15" toText="home life" fromID="se14" fromText="He" trigger="sr6" trajector="se14" landmark="se15" frame_type="INTRINSIC" />
+<MEASURELINK id="ml0" fromID="se30" fromText="compositions" toID="se31" toText="Opus 1 piano trios" trajector="se31" landmark="se31" relType="GENERAL_DIMENSION" val="me0" />
+<MEASURELINK id="ml1" fromID="sr8" fromText="At" toID="pl1" toText="Vienna" trajector="se21" landmark="se21" relType="GENERAL_DIMENSION" val="me1" />
+<METALINK id="metal0" toID="se0" toText="Beethoven" fromID="se2" fromText="he" objectID2="se0" objectID1="se2" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se5" fromText="Beethoven" toID="se0" toText="Beethoven" objectID2="se0" objectID1="se5" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se9" fromText="he" toID="se0" toText="Beethoven" objectID2="se0" objectID1="se9" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se14" fromText="He" toID="se0" toText="Beethoven" objectID2="se0" objectID1="se14" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se19" fromText="he" toID="se0" toText="Beethoven" objectID2="se0" objectID1="se19" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se21" fromText="he" toID="se0" toText="Beethoven" objectID2="se0" objectID1="se21" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se24" fromText="Beethoven" toID="se0" toText="Beethoven" objectID2="se0" objectID1="se24" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se26" fromText="pianist" toID="se0" toText="Beethoven" objectID2="se0" objectID1="se26" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se27" fromText="he" toID="se0" toText="Beethoven" objectID2="se0" objectID1="se27" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se33" fromText="he" toID="se0" toText="Beethoven" objectID2="se0" objectID1="se33" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se3" fromText="father" toID="se4" toText="Johann van Beethoven" objectID1="se3" objectID2="se4" relType="COREFERENCE" />
+<METALINK id="metal11" toID="se35" toText="" fromID="se6" fromText="composer" objectID1="se6" objectID2="se35" relType="SUBCOREFERENCE" />
+<METALINK id="metal12" fromID="se7" fromText="conductor" toID="se35" toText="" objectID1="se7" objectID2="se35" relType="SUBCOREFERENCE" />
+<METALINK id="metal13" fromID="se8" fromText="Christian Gottlob Neefe" toID="se35" toText="" objectID1="se8" objectID2="se35" relType="SPLITCOREFERENCE" />
+<METALINK id="metal14" fromID="se13" fromText="keyboard variations" toID="se12" toText="set" objectID1="se13" objectID2="se12" relType="SPLITCOREFERENCE" />
+<METALINK id="metal15" fromID="se12" fromText="set" toID="se11" toText="work" objectID1="se12" objectID2="se11" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se17" fromText="Helene von Breuning" toID="se16" toText="family" objectID1="se17" objectID2="se16" relType="SUBCOREFERENCE" />
+<METALINK id="metal17" fromID="se18" fromText="children" toID="se16" toText="family" objectID1="se18" objectID2="se16" relType="SUBCOREFERENCE" />
+<METALINK id="metal18" fromID="pl1" fromText="Vienna" toID="pl2" toText="which" relType="COREFERENCE" objectID1="pl2" objectID2="pl1" />
+<METALINK id="metal19" toID="pl1" toText="Vienna" fromID="pl3" fromText="base" relType="SUBCOREFERENCE" objectID1="pl3" objectID2="pl1" />
+<METALINK id="metal20" fromID="se22" fromText="composition" toID="se30" toText="compositions" objectID1="se22" objectID2="se30" relType="COREFERENCE" />
+<METALINK id="metal21" toID="se28" toText="Karl Alois" fromID="se29" fromText="Prince Lichnowsky" objectID1="s29" objectID2="se28" relType="COREFERENCE" />
+<METALINK id="metal22" fromID="se32" fromText="works" toID="se31" toText="Opus 1 piano trios" objectID1="se31" objectID2="se32" relType="SUBCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Takeotech LLC is a leading next-generation IT products, platforms, and services company delivering guaranteed business outcomes, seamless customer experience, actionable insights and IP-led digital transformation. 
+We bring unparalleled knowledge of domains, markets, and technology platforms, to enable our clients realize their business goals. Role Jr. Python developer Location ndash New York ( Remote until Covid) Job-Type Contract-W2 
+Duration long term Job Description Need minimum 2-above experience candidates Understanding of general purpose coding languages and logic Experience in Python v3 Experience in using RESTful APIs Experience with JSON Familiar with CICD, code merging, and deployment strategies Developer that can assist in technical support and coding review. Skills Core python, Analytical Skills, Python v3, REST APIs, JSON If you're interested or know someone who is looking for new opportunities, please call me or send your resume to Thank you,Ashpa LawrenceSr. Associate-Talent development.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="387~395" text="New York" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="0~13" text="Takeotech LLC" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se4" spans="119~127" text="outcomes" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se5" spans="138~157" text="customer experience" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se6" spans="170~178" text="insights" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se7" spans="183~212" text="IP-led digital transformation" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se13" spans="215~217" text="We" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se8" spans="237~257" text="knowledge of domains" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se10" spans="259~266" text="markets" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se11" spans="272~292" text="technology platforms" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se14" spans="308~315" text="clients" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se15" spans="324~329" text="their" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se12" spans="330~344" text="business goals" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se16" spans="346~350" text="Role" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se23" spans="372~380" text="Location" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se24" spans="418~426" text="Job-Type" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se25" spans="427~438" text="Contract-W2" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se26" spans="440~448" text="Duration" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se27" spans="459~474" text="Job Description" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se20" spans="507~517" text="candidates" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se28" spans="578~588" text="Experience" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se29" spans="592~598" text="Python" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se30" spans="602~612" text="Experience" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se31" spans="622~634" text="RESTful APIs" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se32" spans="651~655" text="JSON" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se33" spans="670~674" text="CICD" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se34" spans="676~680" text="code" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se35" spans="694~715" text="deployment strategies" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se19" spans="716~725" text="Developer" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se36" spans="782~788" text="Skills" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se37" spans="789~793" text="Core" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se38" spans="794~800" text="python" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se3" spans="80~87" text="company" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se39" spans="813~819" text="Skills" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se40" spans="821~830" text="Python v3" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se41" spans="832~841" text="REST APIs" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se42" spans="843~847" text="JSON" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se18" spans="851~854" text="you" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se17" spans="877~884" text="someone" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se43" spans="908~921" text="opportunities" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se21" spans="967~970" text="you" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se22" spans="971~987" text="Ashpa LawrenceSr" type="PERSON" form="NAM" dcl="FALSE" />
+<NONMOTION_EVENT id="e3" spans="218~223" text="bring"  />
+<NONMOTION_EVENT id="e2" spans="316~323" text="realize"  />
+<NONMOTION_EVENT id="e10" spans="735~741" text="assist"  />
+<NONMOTION_EVENT id="e15" spans="745~762" text="technical support"  />
+<NONMOTION_EVENT id="e13" spans="767~780" text="coding review"  />
+<NONMOTION_EVENT id="e4" spans="872~876" text="know"  />
+<NONMOTION_EVENT id="e1" spans="88~98" text="delivering"  />
+<NONMOTION_EVENT id="e5" spans="892~899" text="looking"  />
+<NONMOTION_EVENT id="e6" spans="930~934" text="call"  />
+<NONMOTION_EVENT id="e7" spans="941~945" text="send"  />
+<NONMOTION_EVENT id="e8" spans="951~957" text="resume"  />
+<NONMOTION_EVENT id="e9" spans="961~966" text="Thank"  />
+<MEASURE id="me0" spans="449~458" text="long term"  />
+</TAGS>
+</SpaceEvalTaskv1.2>

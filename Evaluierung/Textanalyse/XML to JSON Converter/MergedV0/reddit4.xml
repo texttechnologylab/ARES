@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[A bar owner I used to work for set up the whole place in a way that made everything really difficult. The beer taps were in two seperate bars so the bartenders had to run back and forth. The computer was missing about half the buttons and a lot of the prices were wrong so ringing things up could take forever. We didn't have a water on the gun so we had to run to the back to fill up glasses and pitchers. I could go on, it was bad. When we tried to get him to fix these issues he said we could just work harder. As if that was the problem.]]></TEXT>
+<TAGS>
+<PLACE id="pl1" spans="369~373" text="back" dcl="FALSE" />
+<PLACE id="pl0" spans="48~53" text="place" dcl="FALSE" />
+<PLACE id="pl2" spans="171~175" text="back" dcl="FALSE" />
+<PLACE id="pl3" spans="180~185" text="forth" dcl="FALSE" />
+<PLACE id="pl4" spans="-1~-1" text="" dcl="FALSE" comment="back and forth" />
+<SPATIAL_ENTITY id="se2" spans="111~115" text="taps" dcl="FALSE" type="ARTIFACT" mod="beer" form="NOM" />
+<SPATIAL_ENTITY id="se1" spans="12~13" text="I" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se3" spans="137~141" text="bars" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="149~159" text="bartenders" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se5" spans="191~199" text="computer" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se6" spans="227~234" text="buttons" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se7" spans="252~258" text="prices" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="311~313" text="We" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se9" spans="328~333" text="water" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se10" spans="341~344" text="gun" type="ARTIFACT" dcl="FALSE" form="NOM" />
+<SPATIAL_ENTITY id="se11" spans="348~350" text="we" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="385~392" text="glasses" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="397~405" text="pitchers" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se14" spans="407~408" text="I" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se15" spans="439~441" text="we" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se16" spans="455~458" text="him" type="PERSON" dcl="FALSE" form="NOM" />
+<SPATIAL_ENTITY id="se17" spans="479~481" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se18" spans="487~489" text="we" form="NOM" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se19" spans="533~540" text="problem" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se0" spans="6~11" text="owner" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se20" spans="-1~-1" text="" dcl="FALSE" comment="glasses and pitchers" />
+<NONMOTION_EVENT id="e2" spans="116~120" text="were"  />
+<NONMOTION_EVENT id="e3" spans="204~211" text="missing"  />
+<NONMOTION_EVENT id="e0" spans="22~26" text="work"  />
+<NONMOTION_EVENT id="e4" spans="259~263" text="were"  />
+<NONMOTION_EVENT id="e5" spans="321~325" text="have"  />
+<NONMOTION_EVENT id="e6" spans="425~428" text="was"  />
+<NONMOTION_EVENT id="e7" spans="442~447" text="tried"  />
+<NONMOTION_EVENT id="e8" spans="462~465" text="fix"  />
+<NONMOTION_EVENT id="e9" spans="482~486" text="said"  />
+<NONMOTION_EVENT id="e10" spans="501~505" text="work"  />
+<NONMOTION_EVENT id="e11" spans="525~528" text="was"  />
+<NONMOTION_EVENT id="e1" spans="68~72" text="made"  />
+<MOTION id="m1" spans="167~170" text="run" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m3" spans="273~280" text="ringing" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m4" spans="31~34" text="set" motion_type="COMPOUND" motion_sense="INTRINSIC_CHANGE" motion_class="MOVE" />
+<MOTION id="m2" spans="358~361" text="run" motion_sense="LITERAL" motion_type="COMPOUND" motion_class="REACH" />
+<MOTION id="m6" spans="377~381" text="fill" motion_type="COMPOUND" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m5" spans="415~417" text="go" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<S_RELATION id="sr1" spans="121~123" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="334~336" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr0" spans="54~56" text="in" semantic_type="GOAL_DEFINING" />
+<EVENT_PATH id="ep0" spans="-1~-1" text="" beginID="pl2" endID="pl3" trigger="m1" />
+<EVENT_PATH id="ep1" spans="-1~-1" text="" trigger="m2" beginID="pl3" endID="pl1" />
+<MEASURE id="me2" spans="124~127" text="two" value="2" />
+<MEASURE id="me0" spans="218~222" text="half"  />
+<MEASURE id="me1" spans="241~244" text="lot"  />
+<QSLINK id="qsl0" fromID="se2" fromText="taps" toID="se3" toText="bars" relType="IN" trigger="sr1" landmark="pl0" />
+<QSLINK id="qsl1" fromID="se9" fromText="water" toID="se10" toText="gun" relType="EC" landmark="pl0" trigger="sr2" />
+<MOVELINK id="mvl0" toID="pl0" toText="place" fromID="se0" fromText="owner" trigger="m4" source="se0" goal="m4" mover="se0" landmark="pl0" goal_reached="YES" />
+<MOVELINK id="mvl1" fromID="se4" fromText="bartenders" toID="pl3" toText="forth" trigger="m1" source="pl2" goal="pl3" mover="se4" landmark="pl0" goal_reached="YES" />
+<MOVELINK id="mvl2" fromID="se11" fromText="we" toID="pl1" toText="back" trigger="m2" source="pl3" goal="pl1" mover="se11" landmark="pl0" goal_reached="YES" />
+<MEASURELINK id="ml0" fromID="me0" fromText="half" toID="se6" toText="buttons" landmark="pl0" />
+<MEASURELINK id="ml1" fromID="me1" fromText="lot" toID="se7" toText="prices" landmark="pl0" />
+<MEASURELINK id="ml2" fromID="me2" fromText="two" toID="se3" toText="bars" landmark="pl0" />
+<METALINK id="metal0" fromID="pl3" fromText="forth" toID="pl4" toText="" objectID1="pl3" objectID2="pl4" relType="SUBCOREFERENCE" />
+<METALINK id="metal1" fromID="pl2" fromText="back" toID="pl4" toText="" objectID1="pl2" objectID2="pl4" relType="SUBCOREFERENCE" />
+<METALINK id="metal2" fromID="se14" fromText="I" toID="se1" toText="I" objectID1="se14" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se4" fromText="bartenders" toID="se1" toText="I" objectID1="se4" objectID2="se1" relType="SUBCOREFERENCE" />
+<METALINK id="metal4" toID="se4" toText="bartenders" fromID="se8" fromText="We" objectID1="se8" objectID2="se4" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se11" fromText="we" toID="se4" toText="bartenders" objectID1="se11" objectID2="se4" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se15" fromText="we" toID="se4" toText="bartenders" objectID1="se15" objectID2="se4" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se16" fromText="him" toID="se0" toText="owner" objectID1="se16" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se17" fromText="he" toID="se0" toText="owner" objectID1="se17" objectID2="se9" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se18" fromText="we" toID="se4" toText="bartenders" objectID1="se18" objectID2="se4" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se12" fromText="glasses" toID="se20" toText="" objectID1="se12" objectID2="se20" relType="SUBCOREFERENCE" />
+<METALINK id="metal11" fromID="se13" fromText="pitchers" toID="se20" toText="" objectID1="se13" objectID2="se20" relType="SUBCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

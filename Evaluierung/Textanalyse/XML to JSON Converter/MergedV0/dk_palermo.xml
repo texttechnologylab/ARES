@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle:  https://learning.oreilly.com/library/view/top-10-sicily/9780756696733/
+
+Settled by the Phoenicians in the 8th century BC, Palermo fell first to the Romans, then the Arabs, who chose Palermo for their capital, making the city one of the most magnificent and powerful in the world. This splendour was compounded during the Norman reign. Today what remains of earlier ages coexists with modern life: laundry billows off balconies of 15th-century palaces; buses rumble past even older buildings displaying a mix of east and west. Buildings destroyed in World War II have been left open to the sky, but Sicilians are ever resourceful: restaurants seat diners in crumbling, yet romantic courtyards, while a once-crumbling church is used as an arts venue.
+
+1 NORMAN PALERMO
+The splendid Norman kingdom in Sicily was marked by an exotic mix of cultures as manifested in their administration and in the architecture of the civic and private structures they commissioned (For further details see
+
+2 QUATTRO CANTI
+The heart of town is marked by the intersection of Via Maqueda and Corso Vittorio Emanuele. Called the Quattro Canti (the four corners that divide Palermo into quadrants), each is swathed in sculptural decoration. The town hall is in the Piazza Pretoria just steps from the Quattro Canti, although the square is more commonly referred to as the Piazza della Vergogna (Square of Shame), after the shameless nudes perched around the edge of the elaborate fountain. Sculpted by Tuscan Francesco Camilliani around 1555, the fountain was originally intended for a Florentine garden.
+
+3 LA MARTORANA AND SAN CATALDO
+In Piazza Bellini are two splendid churches. The little, mid-12th-century San Cataldo has three Arab-style, bulbous red domes in a row, latticed windows and an elegantly bare interior. But it is the Santa Maria dell’Ammiraglio next door that is the real gem. It was later renamed La Martorana after the Spanish patron who established a convent nearby. ]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="131~138" text="Palermo" dcl="FALSE" form="NAM" type="PPL" />
+<PLACE id="pl1" spans="191~198" text="Palermo" dcl="FALSE" form="NAM" type="PPL" />
+<PLACE id="pl2" spans="807~813" text="Sicily" dcl="FALSE" form="NAM" type="COUNTRY" />
+<PLACE id="pl3" spans="1025~1029" text="town" dcl="FALSE" form="NOM" type="PPL" />
+<PLACE id="pl4" spans="1159~1166" text="Palermo" dcl="FALSE" form="NAM" type="PPL" />
+<PLACE id="pl6" spans="1250~1265" text="Piazza Pretoria" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl7" spans="1286~1299" text="Quattro Canti" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl8" spans="1314~1320" text="square" dcl="FALSE" form="NOM" type="CIVIL" />
+<PLACE id="pl9" spans="1357~1378" text="Piazza della Vergogna" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl10" spans="1380~1395" text="Square of Shame" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl13" spans="1571~1588" text="Florentine garden" dcl="FALSE" form="NOM" type="CIVIL" />
+<PLACE id="pl14" spans="1625~1639" text="Piazza Bellini" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl16" spans="768~775" text="PALERMO" dcl="FALSE" form="NAM" type="PPL" mod="NORMAN" />
+<PLACE id="pl17" spans="229~233" text="city" dcl="FALSE" form="NOM" type="PPL" />
+<PLACE id="pl18" spans="282~287" text="world" dcl="FALSE" form="NOM" />
+<PLACE id="pl19" spans="1696~1707" text="San Cataldo" dcl="FALSE" form="NAM" type="CIVIL" mod="little, mid-12th-century" />
+<PLACE id="pl20" spans="1821~1848" text="Santa Maria dell’Ammiraglio" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl21" spans="1610~1621" text="SAN CATALDO" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl22" spans="1115~1128" text="Quattro Canti" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl23" spans="998~1011" text="QUATTRO CANTI" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl24" spans="1902~1914" text="La Martorana" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl25" spans="1593~1605" text="LA MARTORANA" dcl="FALSE" form="NAM" type="CIVIL" />
+<PLACE id="pl26" spans="1958~1965" text="convent" dcl="FALSE" form="NOM" type="CIVIL" />
+<PLACE id="pl27" spans="690~700" text="courtyards" dcl="FALSE" form="NOM" type="CIVIL" mod="romantic" />
+<PLACE id="pl15" spans="209~216" text="capital" dcl="FALSE" type="PPL" />
+<PLACE id="pl28" spans="746~756" text="arts venue" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl29" spans="789~803" text="Norman kingdom" dcl="FALSE" type="COUNTRY" mod="splendid" />
+<PLACE id="pl30" spans="1047~1059" text="intersection" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl31" spans="1172~1181" text="quadrants" dcl="FALSE" type="PPL" />
+<PLACE id="pl32" spans="1184~1188" text="each" dcl="FALSE" type="PPL" />
+<PLACE id="pl33" spans="1230~1239" text="town hall" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl34" spans="1443~1447" text="edge" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl35" spans="1881~1883" text="It" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl36" spans="1657~1665" text="churches" dcl="FALSE" type="CIVIL" mod="splendid" />
+<PLACE id="pl37" spans="1742~1747" text="domes" dcl="FALSE" type="CIVIL" mod="Arab-style, bulbous red" />
+<PLACE id="pl38" spans="1797~1805" text="interior" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl5" spans="1139~1146" text="corners" dcl="FALSE" type="CIVIL" />
+<PATH id="p0" spans="1063~1074" text="Via Maqueda" dcl="FALSE" />
+<PATH id="p1" spans="1079~1102" text="Corso Vittorio Emanuele" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="96~107" text="Phoenicians" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se1" spans="157~163" text="Romans" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se2" spans="174~179" text="Arabs" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se6" spans="426~435" text="balconies" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se7" spans="452~459" text="palaces" dcl="FALSE" type="ARTIFACT" mod="15th-century" />
+<SPATIAL_ENTITY id="se8" spans="406~413" text="laundry" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se9" spans="461~466" text="buses" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se10" spans="490~499" text="buildings" dcl="FALSE" type="ARTIFACT" mod="older" />
+<SPATIAL_ENTITY id="se11" spans="535~544" text="Buildings" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se12" spans="607~616" text="Sicilians" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se16" spans="725~731" text="church" dcl="FALSE" type="FAC" mod="once-crumbling" />
+<SPATIAL_ENTITY id="se21" spans="1487~1514" text="Tuscan Francesco Camilliani" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se25" spans="1767~1774" text="windows" dcl="FALSE" type="ARTIFACT" mod="latticed " />
+<SPATIAL_ENTITY id="se30" spans="1933~1939" text="patron" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se3" spans="903~915" text="architecture" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se13" spans="1753~1756" text="row" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se14" spans="598~601" text="sky" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se19" spans="838~853" text="mix of cultures" dcl="FALSE" type="ARTIFACT" mod="exotic" />
+<SPATIAL_ENTITY id="se23" spans="119~129" text="century BC" dcl="FALSE" mod="8th" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se27" spans="203~208" text="their" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se28" spans="337~342" text="reign" dcl="FALSE" mod="Norman" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se29" spans="294~303" text="splendour" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se31" spans="374~378" text="ages" dcl="FALSE" type="DYNAMIC_EVENT" mod="earlier" />
+<SPATIAL_ENTITY id="se32" spans="400~404" text="life" dcl="FALSE" type="DYNAMIC_EVENT" mod="modern" />
+<SPATIAL_ENTITY id="se33" spans="558~570" text="World War II" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se34" spans="639~655" text="restaurants seat" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se37" spans="877~891" text="administration" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se38" spans="941~951" text="structures" dcl="FALSE" type="ARTIFACT" mod="civic and private" />
+<SPATIAL_ENTITY id="se39" spans="1214~1224" text="decoration" dcl="FALSE" type="ARTIFACT" mod="sculptural" />
+<SPATIAL_ENTITY id="se40" spans="1418~1423" text="nudes" dcl="FALSE" type="PERSON" mod="shameless" />
+<SPATIAL_ENTITY id="se41" spans="1465~1473" text="fountain" dcl="FALSE" type="ARTIFACT" mod="elobarate" />
+<SPATIAL_ENTITY id="se42" spans="1532~1540" text="fountain" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se44" spans="1876~1879" text="gem" dcl="FALSE" type="ARTIFACT" mod="real" />
+<NONMOTION_EVENT id="e1" spans="139~143" text="fell"  />
+<NONMOTION_EVENT id="e2" spans="185~190" text="chose"  />
+<NONMOTION_EVENT id="e3" spans="308~318" text="compounded"  />
+<NONMOTION_EVENT id="e5" spans="500~510" text="displaying"  />
+<NONMOTION_EVENT id="e6" spans="818~824" text="marked"  />
+<NONMOTION_EVENT id="e7" spans="1033~1039" text="marked"  />
+<NONMOTION_EVENT id="e8" spans="1152~1158" text="divide"  />
+<NONMOTION_EVENT id="e9" spans="1944~1955" text="established"  />
+<NONMOTION_EVENT id="e0" spans="379~387" text="coexists"  />
+<NONMOTION_EVENT id="e4" spans="355~362" text="remains"  />
+<NONMOTION_EVENT id="e10" spans="617~620" text="are"  />
+<NONMOTION_EVENT id="e11" spans="656~662" text="diners"  />
+<NONMOTION_EVENT id="e12" spans="735~739" text="used"  />
+<NONMOTION_EVENT id="e13" spans="1104~1110" text="Called"  />
+<NONMOTION_EVENT id="e14" spans="1192~1199" text="swathed"  />
+<NONMOTION_EVENT id="e15" spans="1240~1242" text="is"  />
+<NONMOTION_EVENT id="e17" spans="1338~1346" text="referred"  />
+<NONMOTION_EVENT id="e18" spans="1424~1431" text="perched"  />
+<NONMOTION_EVENT id="e19" spans="1556~1564" text="intended"  />
+<NONMOTION_EVENT id="e20" spans="1475~1483" text="Sculpted"  />
+<NONMOTION_EVENT id="e21" spans="1640~1643" text="are"  />
+<NONMOTION_EVENT id="e22" spans="1708~1711" text="has"  />
+<NONMOTION_EVENT id="e23" spans="1864~1866" text="is"  />
+<NONMOTION_EVENT id="e24" spans="1894~1901" text="renamed"  />
+<MOTION id="m0" spans="414~425" text="billows off" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m1" spans="467~473" text="rumble"  />
+<MOTION id="m2" spans="545~554" text="destroyed" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m4" spans="81~88" text="Settled" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m5" spans="576~585" text="been left" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<S_RELATION id="sr0" spans="275~277" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="804~806" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="1243~1245" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="1622~1624" text="In" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="1849~1858" text="next door" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr8" spans="1966~1972" text="nearby" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr10" spans="896~898" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr12" spans="1748~1750" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr13" spans="1277~1281" text="from" semantic_type="DIR_TOP" />
+<S_RELATION id="sr1" spans="89~91" text="by"  />
+<S_RELATION id="sr2" spans="108~110" text="in"  />
+<S_RELATION id="sr5" spans="150~152" text="to"  />
+<S_RELATION id="sr14" spans="555~557" text="in"  />
+<S_RELATION id="sr15" spans="591~593" text="to"  />
+<S_RELATION id="sr16" spans="663~665" text="in"  />
+<S_RELATION id="sr17" spans="825~827" text="by"  />
+<S_RELATION id="sr18" spans="1040~1042" text="by" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr19" spans="1167~1171" text="into"  />
+<S_RELATION id="sr20" spans="1200~1202" text="in"  />
+<S_RELATION id="sr21" spans="1432~1438" text="around"  />
+<S_RELATION id="sr22" spans="1484~1486" text="by"  />
+<EVENT_PATH id="ep0" spans="88~89" text=" " mids="se0" trigger="m4" />
+<EVENT_PATH id="ep1" spans="425~426" text=" " mids="se8" trigger="m0" />
+<EVENT_PATH id="ep2" spans="554~555" text=" " mids="se11" trigger="m2" />
+<EVENT_PATH id="ep3" spans="585~586" text=" " trigger="m5" mids="se11" />
+<MEASURE id="me1" spans="1644~1647" text="two"  />
+<MEASURE id="me2" spans="1712~1717" text="three"  />
+<MEASURE id="me3" spans="1266~1276" text="just steps"  />
+<MEASURE id="me4" spans="1134~1138" text="four"  />
+<QSLINK id="qsl0" fromID="pl17" fromText="city" toID="pl18" toText="world" relType="IN" trigger="sr0" trajector="pl17" landmark="pl18" />
+<QSLINK id="qsl4" fromID="se19" fromText="mix of cultures" toID="se3" toText="architecture" trigger="sr10" relType="IN" trajector="se19" landmark="se3" />
+<QSLINK id="qsl1" fromID="e1" fromText="fell" toID="se1" toText="Romans" trigger="sr5" trajector="e1" landmark="se1" />
+<QSLINK id="qsl5" fromID="e6" fromText="marked" toID="se19" toText="mix of cultures" trigger="se17" trajector="e6" landmark="se19" />
+<QSLINK id="qsl7" fromID="e7" fromText="marked" toID="pl30" toText="intersection" trajector="e7" landmark="pl30" trigger="sr18" />
+<QSLINK id="qsl8" fromID="e8" fromText="divide" toID="pl31" toText="quadrants" trigger="sr19" trajector="e8" landmark="pl31" />
+<QSLINK id="qsl9" fromID="e14" fromText="swathed" toID="se39" toText="decoration" trigger="sr20" landmark="se39" trajector="e14" />
+<QSLINK id="qsl10" fromID="e20" fromText="Sculpted" toID="se21" toText="Tuscan Francesco Camilliani" trajector="e20" landmark="se21" />
+<OLINK id="ol0" fromID="pl6" fromText="Piazza Pretoria" toID="pl7" toText="Quattro Canti" relType="next to" />
+<OLINK id="ol3" toID="pl20" toText="Santa Maria dell’Ammiraglio" fromID="pl19" fromText="San Cataldo" relType="next door" />
+<OLINK id="ol4" fromID="pl24" fromText="La Martorana" toID="pl26" toText="convent" relType="nearby" />
+<OLINK id="ol5" fromID="e11" fromText="diners" toID="pl27" toText="courtyards" trigger="sr16" trajector="e11" landmark="pl27" frame_type="INTRINSIC" referencePt="pl27" />
+<OLINK id="ol7" fromID="pl29" fromText="Norman kingdom" toID="pl2" toText="Sicily" trigger="sr3" trajector="pl29" landmark="pl2" frame_type="ABSOLUTE" referencePt="pl2" />
+<OLINK id="ol8" fromID="pl33" fromText="town hall" toID="pl6" toText="Piazza Pretoria" trigger="sr4" frame_type="ABSOLUTE" referencePt="pl6" trajector="pl33" landmark="pl6" />
+<OLINK id="ol9" fromID="e15" fromText="is" toID="pl6" toText="Piazza Pretoria" trajector="e15" landmark="pl6" trigger="sr4" frame_type="ABSOLUTE" referencePt="pl6" />
+<OLINK id="ol10" fromID="e18" fromText="perched" toID="pl34" toText="edge" trigger="sr21" trajector="e18" landmark="pl34" frame_type="INTRINSIC" referencePt="pl34" />
+<OLINK id="ol12" fromID="e21" fromText="are" toID="pl14" toText="Piazza Bellini" trajector="e21" landmark="pl14" trigger="sr6" frame_type="ABSOLUTE" referencePt="pl14" />
+<OLINK id="ol13" fromID="pl36" fromText="churches" toID="pl14" toText="Piazza Bellini" trajector="pl36" landmark="pl14" trigger="sr6" frame_type="ABSOLUTE" />
+<MOVELINK id="mvl1" fromID="se8" fromText="laundry" toID="se6" toText="balconies" trigger="m0" />
+<MOVELINK id="mvl2" fromID="se9" fromText="buses" toID="se10" toText="buildings" trigger="m1" />
+<MOVELINK id="mvl3" toID="pl0" toText="Palermo" fromID="se0" fromText="Phoenicians" trigger="m4" />
+<MOVELINK id="mvl4" fromID="se11" fromText="Buildings" mover="se11" trigger="m2" />
+<MOVELINK id="mvl5" toID="se14" toText="sky" trigger="m5" mover="se11" />
+<MOVELINK id="mvl6"  />
+<MEASURELINK id="ml0" fromID="pl5" fromText="corners" toID="pl4" toText="Palermo" trajector="pl5" landmark="pl4" relType="GENERAL_DIMENSION" val="me4" />
+<MEASURELINK id="ml1" toID="pl19" toText="San Cataldo" fromID="pl37" fromText="domes" landmark="pl19" trajector="pl37" relType="GENERAL_DIMENSION" val="me2" />
+<MEASURELINK id="ml2" fromID="pl6" fromText="Piazza Pretoria" toID="pl7" toText="Quattro Canti" landmark="pl7" relType="DISTANCE" val="me3" trajector="pl6" />
+<MEASURELINK id="ml3" fromID="pl36" fromText="churches" toID="pl14" toText="Piazza Bellini" trajector="pl36" landmark="pl14" relType="GENERAL_DIMENSION" />
+<METALINK id="metal0" fromID="pl9" fromText="Piazza della Vergogna" toID="pl10" toText="Square of Shame" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="pl20" fromText="Santa Maria dell’Ammiraglio" toID="pl24" toText="La Martorana" relType="COREFERENCE" />
+<METALINK id="metal2" toID="pl0" toText="Palermo" fromID="pl1" fromText="Palermo" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se27" fromText="their" toID="se2" toText="Arabs" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="pl15" fromText="capital" toID="pl1" toText="Palermo" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="pl17" fromText="city" toID="pl1" toText="Palermo" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="pl16" fromText="PALERMO" toID="pl0" toText="Palermo" relType="COREFERENCE" />
+<METALINK id="metal7" toID="pl29" toText="Norman kingdom" fromID="se28" fromText="reign" relType="SUBCOREFERENCE" />
+<METALINK id="metal8" fromID="pl32" fromText="each" toID="pl31" toText="quadrants" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="pl4" fromText="Palermo" toID="pl0" toText="Palermo" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="pl22" fromText="Quattro Canti" toID="pl23" toText="QUATTRO CANTI" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se42" fromText="fountain" toID="se41" toText="fountain" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="pl7" fromText="Quattro Canti" toID="pl23" toText="QUATTRO CANTI" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="pl35" fromText="It" toID="pl20" toText="Santa Maria dell’Ammiraglio" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="pl19" fromText="San Cataldo" toID="pl21" toText="SAN CATALDO" relType="COREFERENCE" />
+<METALINK id="metal15"  />
+<SRLINK id="srole1" fromID="se2" fromText="Arabs" toID="e2" toText="chose" relType="ARGO0" />
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Her name was Lola, she was a showgirl
+With yellow feathers in her hair and a dress cut down to there
+She would merengue and do the cha-cha
+And while she tried to be a star
+Tony always tended bar
+Across the crowded floor, they worked from eight til four
+They were young and they had each other
+Who could ask for more?
+At the copa (co) Copacabana (Copacabana)
+The hottest spot north of Havana (here)
+Music and passion were always the fashion
+At the copa they fell in love
+Copa, Copacabana
+His name was Rico
+He wore a diamond
+He was escorted to his chair, he saw Lola dancing there
+And when she finished, he called her over
+But Rico went a bit to far
+Tony sailed across the bar
+And then the punches flew and chairs were smashed in two
+There was blood and a single gun shot
+But just who shot who?
+Her name is Lola, she was a showgirl
+But that was thirty years ago, when they used to have a show
+Now it's a disco, but not for Lola
+Still in dress she used to wear
+Faded feathers in her hair
+She sits there so refined, and drinks herself half-blind
+She lost her youth and she lost her Tony
+Now she's lost her mind]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="324~328" text="copa" type="PPL" continent="SA" country="BR" dcl="FALSE" />
+<PLACE id="pl1" spans="334~344" text="Copacabana" continent="SA" country="BR" dcl="FALSE" type="STATE" />
+<PLACE id="pl2" spans="346~356" text="Copacabana" continent="SA" country="BR" dcl="FALSE" type="STATE" />
+<PLACE id="pl3" spans="370~374" text="spot" continent="SA" country="BR" dcl="FALSE" type="PPL" />
+<PLACE id="pl4" spans="384~390" text="Havana" form="NAM" dcl="FALSE" type="STATE" />
+<PLACE id="pl5" spans="447~451" text="copa" dcl="FALSE" type="STATE" />
+<PLACE id="pl6" spans="902~907" text="disco" dcl="FALSE" type="GRID" />
+<SPATIAL_ENTITY id="se2" spans="0~3" text="Her" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="101~104" text="She" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se61" spans="1023~1030" text="herself" dcl="FALSE" />
+<SPATIAL_ENTITY id="se63" spans="1042~1045" text="She" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se67" spans="1051~1054" text="her" dcl="FALSE" />
+<SPATIAL_ENTITY id="se68" spans="1055~1060" text="youth" dcl="FALSE" />
+<SPATIAL_ENTITY id="se64" spans="1065~1068" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se66" spans="1074~1077" text="her" dcl="FALSE" />
+<SPATIAL_ENTITY id="se65" spans="1078~1082" text="Tony" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se69" spans="1087~1090" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se70" spans="1098~1101" text="her" dcl="FALSE" />
+<SPATIAL_ENTITY id="se71" spans="1102~1106" text="mind" dcl="FALSE" />
+<SPATIAL_ENTITY id="se10" spans="111~119" text="merengue" dcl="FALSE" />
+<SPATIAL_ENTITY id="se3" spans="13~17" text="Lola" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se11" spans="149~152" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="167~171" text="star" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="172~176" text="Tony" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se14" spans="191~194" text="bar" dcl="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="19~22" text="she" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se15" spans="214~219" text="floor" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se16" spans="221~225" text="they" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se17" spans="253~257" text="They" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se18" spans="263~268" text="young" dcl="FALSE" />
+<SPATIAL_ENTITY id="se19" spans="273~277" text="they" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se5" spans="29~37" text="showgirl" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se20" spans="398~415" text="Music and passion" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se21" spans="432~439" text="fashion" dcl="FALSE" />
+<SPATIAL_ENTITY id="se22" spans="452~456" text="they" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se23" spans="465~469" text="love" dcl="FALSE" />
+<SPATIAL_ENTITY id="se24" spans="487~490" text="His" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="4~8" text="name" dcl="FALSE" />
+<SPATIAL_ENTITY id="se25" spans="500~504" text="Rico" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se26" spans="505~507" text="He" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="50~58" text="feathers" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se27" spans="515~522" text="diamond" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se28" spans="523~525" text="He" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se29" spans="542~545" text="his" dcl="FALSE" />
+<SPATIAL_ENTITY id="se30" spans="546~551" text="chair" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se32" spans="553~555" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se33" spans="560~564" text="Lola" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se34" spans="588~591" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se35" spans="602~604" text="he" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se36" spans="612~615" text="her" dcl="FALSE" />
+<SPATIAL_ENTITY id="se37" spans="625~629" text="Rico" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se7" spans="62~65" text="her" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se38" spans="644~647" text="far" dcl="FALSE" />
+<SPATIAL_ENTITY id="se39" spans="648~652" text="Tony" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se6" spans="66~70" text="hair" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se40" spans="671~674" text="bar" dcl="FALSE" />
+<SPATIAL_ENTITY id="se41" spans="688~695" text="punches" type="DYNAMIC_EVENT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se42" spans="705~711" text="chairs" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se43" spans="742~747" text="blood" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se45" spans="761~769" text="gun shot" dcl="FALSE" />
+<SPATIAL_ENTITY id="se8" spans="77~82" text="dress" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se46" spans="793~796" text="Her" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se47" spans="805~809" text="Lola" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se48" spans="811~814" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se49" spans="821~829" text="showgirl" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se50" spans="866~870" text="they" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se51" spans="886~890" text="show" dcl="FALSE" />
+<SPATIAL_ENTITY id="se52" spans="921~925" text="Lola" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se55" spans="935~940" text="dress" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se56" spans="941~944" text="she" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se57" spans="964~972" text="feathers" type="ARTIFACT" form="NOM" dcl="FALSE" mod="Faded" />
+<SPATIAL_ENTITY id="se58" spans="976~979" text="her" type="PERSON" form="NOM" dcl="FALSE" countable="FALSE" />
+<SPATIAL_ENTITY id="se59" spans="980~984" text="hair" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se60" spans="985~988" text="She" type="PERSON" form="NOM" dcl="FALSE" />
+<S_RELATION id="sr0" spans="317~319" text="At" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="375~383" text="north of" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr2" spans="440~442" text="At" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="660~666" text="across" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr4" spans="973~975" text="in" semantic_type="TOPOLOGICAL" />
+<MEASURE id="me1" spans="637~640" text="bit"  />
+<MEASURE id="me0" spans="754~760" text="single"  />
+<QSLINK id="qsl0" fromID="se17" fromText="They" toID="pl2" toText="Copacabana" trigger="sr0" relType="EC" trajector="sr0" landmark="se17" />
+<QSLINK id="qsl1" fromID="se22" fromText="they" toID="pl5" toText="copa" relType="EC" trajector="se22" landmark="pl5" trigger="sr2" />
+<QSLINK id="qsl3" fromID="se57" fromText="feathers" toID="se59" toText="hair" relType="IN" trigger="sr4" trajector="se57" landmark="se59" />
+<OLINK id="ol0" fromID="se39" fromText="Tony" toID="se40" toText="bar" relType="across" trajector="se39" landmark="se40" trigger="sr3" />
+</TAGS>
+</SpaceEvalTaskv1.2>

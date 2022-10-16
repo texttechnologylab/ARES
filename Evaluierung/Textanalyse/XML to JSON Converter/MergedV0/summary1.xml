@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[The central character in the series is Harry Potter, a boy who lives in the fictional town of Little Whinging, Surrey with his aunt, uncle, and cousin – the Dursleys – and discovers at the age of eleven that he is a wizard, though he lives in the ordinary world of non-magical people known as Muggles. The wizarding world exists parallel to the Muggle world, albeit hidden and in secrecy. His magical ability is inborn, and children with such abilities are invited to attend exclusive magic schools that teach the necessary skills to succeed in the wizarding world. Harry becomes a student at Hogwarts School of Witchcraft and Wizardry, a wizarding academy in Scotland, and it is here where most of the events in the series take place. As Harry develops through his adolescence, he learns to overcome the problems that face him: magical, social, and emotional, including ordinary teenage challenges such as friendships, infatuation, romantic relationships, schoolwork and exams, anxiety, depression, stress, and the greater test of preparing himself for the confrontation that lies ahead in wizarding Britain's increasingly-violent second wizarding war.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="86~90" text="town" dcl="FALSE" mod="fictional" type="PPLA" dimensionality="AREA" form="NOM" />
+<PLACE id="pl1" spans="94~109" text="Little Whinging" dcl="FALSE" dimensionality="AREA" type="PPLC" form="NAM" />
+<PLACE id="pl2" spans="111~117" text="Surrey" dcl="FALSE" dimensionality="AREA" type="PPLA" form="NAM" />
+<PLACE id="pl6" spans="306~321" text="wizarding world" dcl="FALSE" dimensionality="AREA" type="RGN" form="NOM" />
+<PLACE id="pl7" spans="345~357" text="Muggle world" dcl="FALSE" dimensionality="AREA" type="RGN" form="NOM" />
+<PLACE id="pl8" spans="491~498" text="schools" dcl="FALSE" dimensionality="AREA" mod="magic" type="PPL" form="NOM" />
+<PLACE id="pl9" spans="549~564" text="wizarding world" dcl="FALSE" dimensionality="AREA" type="RGN" form="NOM" />
+<PLACE id="pl10" spans="593~635" text="Hogwarts School of Witchcraft and Wizardry" dcl="FALSE" dimensionality="AREA" type="PPL" form="NAM" />
+<PLACE id="pl11" spans="649~656" text="academy" dcl="FALSE" dimensionality="AREA" mod="wizarding" type="PPL" form="NOM" />
+<PLACE id="pl12" spans="660~668" text="Scotland" dcl="FALSE" dimensionality="AREA" type="STATE" form="NAM" />
+<PLACE id="pl13" spans="1101~1110" text="Britain&apos;s" dcl="FALSE" dimensionality="AREA" mod="wizarding" type="RGN" form="NAM" />
+<PLACE id="pl16" spans="256~261" text="world" dcl="FALSE" dimensionality="AREA" mod="ordinary" type="RGN" form="NOM" />
+<SPATIAL_ENTITY id="se0" spans="12~21" text="character" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se1" spans="39~51" text="Harry Potter" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se2" spans="55~58" text="boy" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se3" spans="127~131" text="aunt" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="133~138" text="uncle" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se5" spans="144~150" text="cousin" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se6" spans="157~165" text="Dursleys" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se7" spans="216~222" text="wizard" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="208~210" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se9" spans="231~233" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se10" spans="277~283" text="people" dcl="FALSE" type="PERSON" form="NOM" mod="non-magical" />
+<SPATIAL_ENTITY id="se11" spans="293~300" text="Muggles" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se12" spans="424~432" text="children" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se13" spans="566~571" text="Harry" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se14" spans="582~589" text="student" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se15" spans="739~744" text="Harry" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se16" spans="779~781" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se17" spans="824~827" text="him" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se18" spans="1042~1049" text="himself" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="389~392" text="His" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se20" spans="123~126" text="his" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se21" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se22" spans="29~35" text="series" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se23" spans="703~709" text="events" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se24" spans="717~723" text="series" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<NONMOTION_EVENT id="e0" spans="63~68" text="lives"  />
+<NONMOTION_EVENT id="e1" spans="172~181" text="discovers"  />
+<NONMOTION_EVENT id="e2" spans="234~239" text="lives"  />
+<NONMOTION_EVENT id="e3" spans="322~328" text="exists"  />
+<NONMOTION_EVENT id="e4" spans="504~509" text="teach"  />
+<NONMOTION_EVENT id="e5" spans="457~464" text="invited"  />
+<NONMOTION_EVENT id="e6" spans="572~579" text="becomes"  />
+<NONMOTION_EVENT id="e7" spans="745~753" text="develops"  />
+<NONMOTION_EVENT id="e8" spans="782~788" text="learns"  />
+<NONMOTION_EVENT id="e9" spans="792~800" text="overcome"  />
+<S_RELATION id="sr0" spans="22~24" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="69~71" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="240~242" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="542~544" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="590~592" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="657~659" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="710~712" text="in" semantic_type="TOPOLOGICAL" />
+<QSLINK id="qsl0" fromID="se0" fromText="character" toID="se22" toText="series" relType="NTPP" trajector="se0" landmark="se22" trigger="sr0" />
+<QSLINK id="qsl2" fromID="pl2" fromText="Surrey" toID="pl1" toText="Little Whinging" relType="NTPP" trajector="pl2" landmark="pl1" />
+<QSLINK id="qsl3" fromID="se9" fromText="he" toID="pl16" toText="world" trigger="sr2" relType="NTPP" trajector="se9" landmark="pl16" />
+<QSLINK id="qsl4" fromID="pl8" fromText="schools" toID="pl9" toText="wizarding world" trigger="sr3" relType="NTPP" trajector="pl8" landmark="pl9" />
+<QSLINK id="qsl5" fromID="se14" fromText="student" toID="pl10" toText="Hogwarts School of Witchcraft and Wizardry" relType="NTPP" trajector="se14" landmark="pl10" trigger="sr4" />
+<QSLINK id="qsl6" fromID="pl11" fromText="academy" toID="pl12" toText="Scotland" relType="NTPP" trajector="pl11" landmark="pl12" trigger="sr5" />
+<QSLINK id="qsl7" fromID="se23" fromText="events" toID="se24" toText="series" relType="IN" trajector="se23" landmark="se24" trigger="sr6" />
+<QSLINK id="qsl8" fromID="pl1" fromText="Little Whinging" toID="pl16" toText="world" relType="IN" trajector="pl1" landmark="pl16" />
+<QSLINK id="qsl13" fromID="se9" fromText="he" toID="pl16" toText="world" relType="IN" trajector="se9" landmark="pl16" />
+<QSLINK id="qsl14" fromID="se10" fromText="people" toID="pl16" toText="world" relType="IN" trajector="se10" landmark="pl16" />
+<QSLINK id="qsl15" fromID="pl8" fromText="schools" toID="pl6" toText="wizarding world" relType="IN" trajector="pl8" landmark="pl6" />
+<QSLINK id="qsl16" fromID="pl10" fromText="Hogwarts School of Witchcraft and Wizardry" toID="pl6" toText="wizarding world" relType="IN" trajector="pl10" landmark="pl6" />
+<QSLINK id="qsl17" fromID="pl11" fromText="academy" toID="pl12" toText="Scotland" relType="IN" trajector="pl11" landmark="pl12" />
+<QSLINK id="qsl18" fromID="pl12" fromText="Scotland" toID="pl13" toText="Britain&apos;s" relType="EC" trajector="pl12" />
+<OLINK id="ol0" fromID="se14" fromText="student" toID="pl10" toText="Hogwarts School of Witchcraft and Wizardry" trajector="se14" landmark="pl10" trigger="sr4" frame_type="INTRINSIC" />
+<METALINK id="metal0" fromID="se0" fromText="character" toID="se1" toText="Harry Potter" objectID1="se0" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se2" fromText="boy" toID="se1" toText="Harry Potter" objectID1="se2" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="pl0" fromText="town" toID="pl1" toText="Little Whinging" objectID1="pl0" objectID2="pl1" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se20" fromText="his" toID="se1" toText="Harry Potter" objectID1="se20" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se3" fromText="aunt" toID="se21" toText="" objectID1="se3" objectID2="se21" relType="SUBCOREFERENCE" />
+<METALINK id="metal6" fromID="se4" fromText="uncle" toID="se21" toText="" objectID1="se4" objectID2="se21" relType="SUBCOREFERENCE" />
+<METALINK id="metal7" fromID="se5" fromText="cousin" toID="se21" toText="" objectID1="se5" objectID2="se21" relType="SUBCOREFERENCE" />
+<METALINK id="metal8" fromID="se21" fromText="" toID="se6" toText="Dursleys" objectID1="se21" objectID2="se6" relType="SPLITCOREFERENCE" />
+<METALINK id="metal9" fromID="se8" fromText="he" toID="se1" toText="Harry Potter" objectID1="se8" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se7" fromText="wizard" toID="se1" toText="Harry Potter" objectID1="se7" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se9" fromText="he" toID="se1" toText="Harry Potter" objectID1="se9" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se10" fromText="people" toID="se11" toText="Muggles" objectID1="se10" objectID2="se11" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se19" fromText="His" toID="se1" toText="Harry Potter" objectID1="se19" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se3" fromText="aunt" toID="se10" toText="people" objectID1="se3" objectID2="se10" relType="SUBCOREFERENCE" />
+<METALINK id="metal15" fromID="se4" fromText="uncle" toID="se10" toText="people" objectID1="se4" objectID2="se10" relType="SUBCOREFERENCE" />
+<METALINK id="metal16" toID="se10" toText="people" fromID="se5" fromText="cousin" objectID1="se5" objectID2="se10" relType="SUBCOREFERENCE" />
+<METALINK id="metal17" fromID="se21" fromText="" toID="se10" toText="people" objectID1="se21" objectID2="se10" relType="SPLITCOREFERENCE" />
+<METALINK id="metal18" fromID="pl10" fromText="Hogwarts School of Witchcraft and Wizardry" toID="pl11" toText="academy" objectID1="pl10" objectID2="pl11" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se15" fromText="Harry" toID="se1" toText="Harry Potter" objectID1="se15" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se16" fromText="he" toID="se1" toText="Harry Potter" objectID1="se16" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal21" fromID="se17" fromText="him" toID="se1" toText="Harry Potter" objectID1="se17" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal22" fromID="se18" fromText="himself" toID="se1" toText="Harry Potter" objectID1="se18" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal27" fromID="pl6" fromText="wizarding world" toID="pl9" toText="wizarding world" objectID1="pl6" objectID2="pl9" relType="COREFERENCE" />
+<METALINK id="metal30" fromID="se13" fromText="Harry" toID="se14" toText="student" relType="SUBCOREFERENCE" objectID2="se14" objectID1="se13" />
+<METALINK id="metal31" fromID="pl10" fromText="Hogwarts School of Witchcraft and Wizardry" toID="pl8" toText="schools" objectID1="pl10" objectID2="pl8" relType="SUBCOREFERENCE" />
+<METALINK id="metal32" fromID="pl11" fromText="academy" toID="pl8" toText="schools" objectID1="pl11" objectID2="pl8" relType="SUBCOREFERENCE" />
+<METALINK id="metal33" fromID="pl2" fromText="Surrey" toID="pl0" toText="town" objectID1="pl2" objectID2="pl0" relType="SUBCOREFERENCE" />
+<METALINK id="metal34" fromID="pl10" fromText="Hogwarts School of Witchcraft and Wizardry" toID="pl9" toText="wizarding world" objectID1="pl10" objectID2="pl9" relType="SUBCOREFERENCE" />
+<METALINK id="metal35" toID="pl16" toText="world" fromID="pl1" fromText="Little Whinging" objectID1="pl0" objectID2="pl16" relType="SUBCOREFERENCE" />
+<METALINK id="metal36" fromID="pl12" fromText="Scotland" toID="pl16" toText="world" objectID1="pl12" objectID2="pl16" relType="SUBCOREFERENCE" />
+<METALINK id="metal37" fromID="pl13" fromText="Britain&apos;s" toID="pl16" toText="world" objectID1="pl13" objectID2="pl16" relType="SUBCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[When was the moment in your life when you knew you were on the wrong path and needed to make a change?
+I was 35 working at Best Buy. Nothing against Best Buy, but I was just older than most of the other staff. Went to college and got an Associates Degree. I'm a Biomedical Technician now. To show some love to Best Buy, they gave over $6000 in tuition reimbursement in direct payments for going to school. It was needed and well appreciated.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="218~225" text="college" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl1" spans="398~404" text="school" dcl="FALSE" type="CIVIL" />
+<PATH id="p0" spans="69~73" text="path" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="38~41" text="you" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se1" spans="47~50" text="you" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se2" spans="103~104" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se3" spans="123~131" text="Best Buy" dcl="FALSE" type="FAC" form="NAM" />
+<SPATIAL_ENTITY id="se4" spans="149~157" text="Best Buy" dcl="FALSE" type="FAC" form="NAM" />
+<SPATIAL_ENTITY id="se5" spans="163~164" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se6" spans="203~208" text="staff" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="256~257" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se9" spans="262~283" text="Biomedical Technician" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se10" spans="310~318" text="Best Buy" dcl="FALSE" form="NAM" type="FAC" />
+<SPATIAL_ENTITY id="se11" spans="13~19" text="moment" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se12" spans="28~32" text="life" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se13" spans="237~254" text="Associates Degree" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se14" spans="302~306" text="love" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se15" spans="95~101" text="change" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se16" spans="320~324" text="they" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se17" spans="344~365" text="tuition reimbursement" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se18" spans="376~384" text="payments" dcl="FALSE" type="ARTIFACT" mod="direct" />
+<SPATIAL_ENTITY id="se19" spans="23~27" text="your" dcl="FALSE" type="PERSON" />
+<NONMOTION_EVENT id="e0" spans="42~46" text="knew"  />
+<NONMOTION_EVENT id="e2" spans="112~119" text="working"  />
+<NONMOTION_EVENT id="e3" spans="325~329" text="gave"  />
+<NONMOTION_EVENT id="e4" spans="230~233" text="got"  />
+<NONMOTION_EVENT id="e5" spans="51~55" text="were"  />
+<NONMOTION_EVENT id="e6" spans="78~92" text="needed to make"  />
+<NONMOTION_EVENT id="e7" spans="165~168" text="was"  />
+<NONMOTION_EVENT id="e8" spans="257~259" text="&apos;m"  />
+<NONMOTION_EVENT id="e9" spans="292~296" text="show"  />
+<NONMOTION_EVENT id="e10" spans="5~8" text="was"  />
+<NONMOTION_EVENT id="e12" spans="105~108" text="was"  />
+<NONMOTION_EVENT id="e1" spans="413~419" text="needed"  />
+<NONMOTION_EVENT id="e13" spans="429~440" text="appreciated"  />
+<MOTION id="m0" spans="210~214" text="Went" motion_type="COMPOUND" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m1" spans="389~394" text="going" motion_type="COMPOUND" motion_class="MOVE" motion_sense="FICTIVE" />
+<S_RELATION id="sr0" spans="120~122" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="20~22" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="56~58" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr3" spans="215~217" text="to" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr4" spans="307~309" text="to" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="341~343" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="366~368" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="395~397" text="to" semantic_type="TOPOLOGICAL" />
+<EVENT_PATH id="ep0" spans="214~215" text=" " trigger="m0" />
+<EVENT_PATH id="ep1" spans="394~395" text=" " trigger="m1" end="pl1" />
+<MEASURE id="me0" spans="335~340" text="$6000" value="6000" />
+<MEASURE id="me1" spans="109~111" text="35" value="35" />
+<QSLINK id="qsl0" fromID="se11" fromText="moment" toID="se12" toText="life" trigger="sr1" trajector="se11" landmark="se12" />
+<QSLINK id="qsl1" fromID="e10" fromText="was" toID="se12" toText="life" trajector="e10" landmark="se12" trigger="sr1" />
+<QSLINK id="qsl2" fromID="se14" fromText="love" toID="se10" toText="Best Buy" trajector="se14" landmark="se10" trigger="sr4" />
+<QSLINK id="qsl3" fromID="e9" fromText="show" toID="se10" toText="Best Buy" trajector="e9" landmark="se10" trigger="sr4" />
+<QSLINK id="qsl4" fromID="e5" fromText="were" toID="p0" toText="path" trigger="sr2" trajector="e5" landmark="p0" />
+<QSLINK id="qsl5" fromID="e3" fromText="gave" toID="se17" toText="tuition reimbursement" trigger="sr5" trajector="e3" landmark="se17" />
+<QSLINK id="qsl6" fromID="se17" fromText="tuition reimbursement" toID="se18" toText="payments" trigger="sr6" trajector="se17" />
+<OLINK id="ol0" fromID="e5" fromText="were" toID="p0" toText="path" trigger="sr2" trajector="e5" landmark="p0" referencePt="p0" frame_type="INTRINSIC" />
+<OLINK id="ol1" fromID="e2" fromText="working" toID="se3" toText="Best Buy" trigger="sr0" trajector="e2" landmark="se3" frame_type="ABSOLUTE" />
+<MOVELINK id="mvl0" fromID="m0" fromText="Went" toID="pl0" toText="college" trigger="sr3" />
+<MOVELINK id="mvl1" fromID="m1" fromText="going" toID="pl1" toText="school" />
+<MEASURELINK id="ml0" fromID="se2" fromText="I" toID="me1" toText="35" val="me1" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml1" fromID="se16" fromText="they" toID="me0" toText="$6000" val="me0" relType="GENERAL_DIMENSION" />
+<METALINK id="metal0" fromID="se2" fromText="I" toID="se5" toText="I" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se3" fromText="Best Buy" toID="se4" toText="Best Buy" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se5" fromText="I" toID="se2" toText="I" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se10" fromText="Best Buy" toID="se3" toText="Best Buy" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se16" fromText="they" toID="se3" toText="Best Buy" relType="SPLITCOREFERENCE" />
+<METALINK id="metal5" fromID="se6" fromText="staff" toID="se3" toText="Best Buy" relType="SUBCOREFERENCE" />
+<METALINK id="metal6" fromID="se19" fromText="your" toID="se0" toText="you" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se1" fromText="you" toID="se0" toText="you" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se8" fromText="I" toID="se2" toText="I" relType="COREFERENCE" />
+<METALINK id="metal9" toID="pl0" toText="college" fromID="se17" fromText="tuition reimbursement" relType="SUBCOREFERENCE" />
+<SRLINK id="srole0" fromID="se0" fromText="you" toID="e0" toText="knew" relType="ARGO0" />
+<SRLINK id="srole2" fromID="se2" fromText="I" toID="e2" toText="working" relType="ARGO0" />
+<SRLINK id="srole3"  />
+<SRLINK id="srole4"  />
+</TAGS>
+</SpaceEvalTaskv1.2>

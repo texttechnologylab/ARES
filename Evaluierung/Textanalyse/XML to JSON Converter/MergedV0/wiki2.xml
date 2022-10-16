@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Born in Maida Vale, London, Turing was raised in southern England. He graduated at King's College, Cambridge, with a degree in mathematics. Whilst he was a fellow at Cambridge, he published a proof demonstrating that some purely mathematical yes–no questions can never be answered by computation and defined a Turing machine, and went on to prove the halting problem for Turing machines is undecidable. In 1938, he obtained his PhD from the Department of Mathematics at Princeton University. During the Second World War, Turing worked for the Government Code and Cypher School (GC&CS) at Bletchley Park, Britain's codebreaking centre that produced Ultra intelligence. For a time he led Hut 8, the section that was responsible for German naval cryptanalysis. Here, he devised a number of techniques for speeding the breaking of German ciphers, including improvements to the pre-war Polish bombe method, an electromechanical machine that could find settings for the Enigma machine. Turing played a crucial role in cracking intercepted coded messages that enabled the Allies to defeat the Axis powers in many crucial engagements, including the Battle of the Atlantic. Official war historian Harry Hinsley estimated that this work shortened the war in Europe by more than two years and saved over 14 million lives.]]></TEXT>
+<TAGS>
+<PLACE id="pl14" spans="1248~1254" text="Europe" type="STATE" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<PLACE id="pl5" spans="166~175" text="Cambridge" type="PPL" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<PLACE id="pl1" spans="20~26" text="London" type="PPLC" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<PLACE id="pl6" spans="441~466" text="Department of Mathematics" dcl="FALSE" type="PPL" dimensionality="VOLUME" form="NOM" />
+<PLACE id="pl7" spans="470~490" text="Princeton University" type="PPL" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<PLACE id="pl8" spans="563~576" text="Cypher School" type="PPL" dimensionality="VOLUME" form="NOM" dcl="FALSE" />
+<PLACE id="pl9" spans="588~602" text="Bletchley Park" type="RGN" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<PLACE id="pl2" spans="58~65" text="England" type="STATE" dimensionality="VOLUME" form="NAM" mod="southern" dcl="FALSE" />
+<PLACE id="pl10" spans="604~611" text="Britain" type="STATE" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<PLACE id="pl11" spans="614~633" text="codebreaking centre" type="PPL" dimensionality="VOLUME" form="NOM" dcl="FALSE" />
+<PLACE id="pl12" spans="686~691" text="Hut 8" type="PPL" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<PLACE id="pl13" spans="693~704" text="the section" type="PPL" dimensionality="VOLUME" form="NOM" dcl="FALSE" />
+<PLACE id="pl3" spans="83~97" text="King&apos;s College" type="PPL" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<PLACE id="pl0" spans="8~18" text="Maida Vale" type="PPLA" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<PLACE id="pl4" spans="99~108" text="Cambridge" type="PPL" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se15" spans="1065~1071" text="Allies" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se16" spans="1086~1097" text="Axis powers" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se17" spans="1188~1201" text="Harry Hinsley" type="PERSON" dimensionality="VOLUME" form="NAM" mod="Official war historian" dcl="FALSE" />
+<SPATIAL_ENTITY id="se2" spans="147~149" text="he" type="PERSON" dimensionality="VOLUME" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se3" spans="156~162" text="fellow" type="PERSON" dimensionality="VOLUME" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se4" spans="177~179" text="he" type="PERSON" dimensionality="VOLUME" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se5" spans="192~197" text="proof" type="ARTIFACT" dimensionality="VOLUME" form="NOM" mod="demonstrating" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="28~34" text="Turing" type="PERSON" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se6" spans="310~324" text="Turing machine" type="ARTIFACT" dcl="FALSE" />
+<SPATIAL_ENTITY id="se7" spans="371~386" text="Turing machines" type="ARTIFACT" dcl="FALSE" />
+<SPATIAL_ENTITY id="se8" spans="412~414" text="he" type="PERSON" dcl="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="521~527" text="Turing" type="PERSON" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se10" spans="679~681" text="he" type="PERSON" dimensionality="VOLUME" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="67~69" text="He" type="PERSON" dimensionality="VOLUME" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se11" spans="764~766" text="he" type="PERSON" dimensionality="VOLUME" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="923~930" text="machine" type="ARTIFACT" mod="electromechanical" dcl="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="964~978" text="Enigma machine" type="ARTIFACT" dcl="FALSE" />
+<SPATIAL_ENTITY id="se14" spans="980~986" text="Turing" type="PERSON" dimensionality="VOLUME" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se18" spans="1039~1047" text="messages" dcl="FALSE" type="ARTIFACT" />
+<NONMOTION_EVENT id="e0" spans="0~4" text="Born"  />
+<NONMOTION_EVENT id="e12" spans="1012~1020" text="cracking"  />
+<NONMOTION_EVENT id="e13" spans="1053~1060" text="enabled"  />
+<NONMOTION_EVENT id="e14" spans="1202~1211" text="estimated"  />
+<NONMOTION_EVENT id="e15" spans="1227~1236" text="shortened"  />
+<NONMOTION_EVENT id="e16" spans="1282~1287" text="saved"  />
+<NONMOTION_EVENT id="e3" spans="180~189" text="published"  />
+<NONMOTION_EVENT id="e4" spans="300~307" text="defined"  />
+<NONMOTION_EVENT id="e5" spans="341~346" text="prove"  />
+<NONMOTION_EVENT id="e1" spans="39~45" text="raised"  />
+<NONMOTION_EVENT id="e6" spans="415~423" text="obtained"  />
+<NONMOTION_EVENT id="e7" spans="528~534" text="worked"  />
+<NONMOTION_EVENT id="e8" spans="639~647" text="produced"  />
+<NONMOTION_EVENT id="e9" spans="682~685" text="led"  />
+<NONMOTION_EVENT id="e2" spans="70~79" text="graduated"  />
+<NONMOTION_EVENT id="e10" spans="767~774" text="devised"  />
+<NONMOTION_EVENT id="e11" spans="942~946" text="find"  />
+<NONMOTION_EVENT id="e17" spans="1241~1244" text="war"  />
+<MOTION id="m1" spans="1021~1032" text="intercepted" motion_type="MANNER" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m0" spans="330~334" text="went" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m2" spans="802~810" text="speeding" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<S_RELATION id="sr5" spans="1245~1247" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="163~165" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="467~469" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="46~48" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="585~587" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr0" spans="5~7" text="in" semantic_type="TOPOLOGICAL" />
+<QSLINK id="qsl0" fromID="e0" fromText="Born" toID="pl0" toText="Maida Vale" relType="IN" trajector="se0" landmark="pl0" trigger="sr0" />
+<QSLINK id="qsl1" fromID="e1" fromText="raised" toID="pl2" toText="England" relType="IN" trajector="se0" landmark="pl2" trigger="sr1" />
+<QSLINK id="qsl2" fromID="se3" fromText="fellow" toID="pl5" toText="Cambridge" relType="IN" trajector="se3" landmark="pl5" trigger="sr2" />
+<QSLINK id="qsl3" fromID="pl6" fromText="Department of Mathematics" toID="pl7" toText="Princeton University" relType="IN" trajector="pl6" landmark="pl7" trigger="sr3" />
+<QSLINK id="qsl4" fromID="pl8" fromText="Cypher School" toID="pl9" toText="Bletchley Park" trajector="pl8" landmark="pl9" trigger="sr4" relType="IN" />
+<QSLINK id="qsl5" fromID="e17" fromText="war" toID="pl14" toText="Europe" relType="IN" trajector="e17" landmark="pl14" trigger="sr5" />
+<QSLINK id="qsl6" fromID="pl0" fromText="Maida Vale" toID="pl1" toText="London" relType="IN" />
+<QSLINK id="qsl7" fromID="pl1" fromText="London" toID="pl2" toText="England" relType="IN" />
+<QSLINK id="qsl8" fromID="pl2" fromText="England" toID="pl14" toText="Europe" relType="IN" />
+<QSLINK id="qsl9" fromID="pl3" fromText="King&apos;s College" toID="pl4" toText="Cambridge" relType="IN" />
+<MOVELINK id="mvl0" fromID="m0" fromText="went" toID="se7" toText="Turing machines" trigger="m0" source="pl5" goal="pl5" mover="se0" goal_reached="YES" />
+<MOVELINK id="mvl1" fromID="se11" fromText="he" toID="m2" toText="speeding" trigger="m2" source="pl12" goal_reached="YES" />
+<MOVELINK id="mvl2" fromID="se14" fromText="Turing" toID="se18" toText="messages" trigger="m1" goal="e12" goal_reached="YES" />
+<METALINK id="metal0" fromID="pl4" fromText="Cambridge" toID="pl5" toText="Cambridge" objectID1="pl4" objectID2="pl5" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="pl9" fromText="Bletchley Park" toID="pl11" toText="codebreaking centre" objectID1="pl9" objectID2="pl11" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="pl12" fromText="Hut 8" toID="pl13" toText="the section" objectID1="pl12" objectID2="pl13" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se1" fromText="He" toID="se0" toText="Turing" objectID1="se1" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se2" fromText="he" toID="se0" toText="Turing" objectID1="se2" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se4" fromText="he" toID="se0" toText="Turing" objectID1="se4" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se8" fromText="he" toID="se0" toText="Turing" objectID1="se8" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se9" fromText="Turing" toID="se0" toText="Turing" objectID1="se9" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se10" fromText="he" toID="se9" toText="Turing" objectID1="se10" objectID2="se9" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se11" fromText="he" toID="se9" toText="Turing" objectID1="se11" objectID2="se9" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se14" fromText="Turing" toID="se9" toText="Turing" objectID1="se14" objectID2="se9" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se6" fromText="Turing machine" toID="se7" toText="Turing machines" objectID1="se6" objectID2="se7" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

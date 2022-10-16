@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle: https://en.m.wikisource.org/wiki/Constitution_of_Egypt_of_2012
+
+We, the people of Egypt, In the name of the merciful God and with his aid, declare this to be our Constitution, the document of the 25th of January revolution, which was started by our youth, embraced by our people, supported by our Armed Forces;
+
+Having rejected, in Tahrir Square and all over the country all forms of injustice, oppression, tyranny, despotism, exclusion, plunder and monopoly;
+
+Proclaimed our full rights to “bread, freedom, social justice, and human dignity,” paid for by the blood of our martyrs, the pain of our injured, the dreams of our children, the strife of our men and women;
+
+Recovered the spirit of our great civilization and our luminous history, for on the banks of the timeless Nile we established the oldest state that has always known the meaning of citizenship and equality, gave humanity the first alphabet, opened the way to monotheism and the knowledge of the Creator, embraced God’s prophets and messages, and adorned the pages of history with parades of creativity;
+
+And in continuation of our virtuous revolution which has unified all Egyptians on the path of building a modern democratic state, we declare our adherence to the following principles:
+
+One — The people are the source of all authorities. Authorities are instituted by and derive their legitimacy from the people, and are subject to the people’s will. The responsibilities and competencies of authorities are a duty to bear, not a privilege or a source of immunity.
+
+Two — A democratic system of government, establishing the grounds for peaceful transfer of power, supporting political pluralism, ensuring fair elections and the people’s contribution in the decision-making process.
+
+Three — The individual’s dignity is an extension of the nation’s dignity. Further, there is no dignity for a country in which women are not honored; women are the sisters of men and partners in all national gains and responsibilities.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl7" spans="1203~1208" text="state" dcl="FALSE" type="STATE" dimensionality="AREA" continent="AF" country="EG" />
+<PLACE id="pl8" spans="1818~1824" text="nation" dcl="FALSE" type="COUNTRY" dimensionality="AREA" continent="AF" country="EG" />
+<PLACE id="pl9" spans="1871~1878" text="country" type="COUNTRY" dimensionality="AREA" continent="AF" country="EG" dcl="FALSE" />
+<PLACE id="pl1" spans="340~353" text="Tahrir Square" type="PPLA" dimensionality="AREA" continent="AF" country="EG" dcl="FALSE" />
+<PLACE id="pl2" spans="371~378" text="country" dimensionality="AREA" continent="AF" country="EG" dcl="FALSE" type="COUNTRY" />
+<PLACE id="pl4" spans="761~766" text="banks" dimensionality="AREA" continent="AF" country="EG" dcl="FALSE" type="RGN" />
+<PLACE id="pl5" spans="783~787" text="Nile" dimensionality="LINE" continent="AF" country="EG" dcl="FALSE" type="BODYOFWATER" />
+<PLACE id="pl6" spans="814~819" text="state" type="STATE" dimensionality="AREA" continent="AF" country="EG" dcl="FALSE" />
+<PLACE id="pl0" spans="90~95" text="Egypt" type="COUNTRY" dimensionality="AREA" continent="AF" country="EG" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="72~74" text="We" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se1" spans="80~86" text="people" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se2" spans="125~128" text="God" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se3" spans="138~141" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se4" spans="170~182" text="Constitution" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se5" spans="188~196" text="document" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se7" spans="257~262" text="youth" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se8" spans="280~286" text="people" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se9" spans="311~317" text="Forces" dcl="FALSE" mod="Armed" type="PERSON" />
+<SPATIAL_ENTITY id="se10" spans="568~573" text="blood" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se11" spans="581~588" text="martyrs" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se12" spans="606~613" text="injured" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se13" spans="633~641" text="children" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se14" spans="661~664" text="men" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se15" spans="669~674" text="women" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se16" spans="660~661" text=" " dcl="FALSE" comment="men and women" type="PERSON" />
+<SPATIAL_ENTITY id="se17" spans="691~697" text="spirit" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se18" spans="711~723" text="civilization" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se19" spans="907~915" text="alphabet" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se21" spans="995~1003" text="prophets" dcl="FALSE" mod="God&apos;s" type="PERSON" />
+<SPATIAL_ENTITY id="se22" spans="1008~1016" text="messages" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se23" spans="994~995" text=" " dcl="FALSE" comment="prophets and messages" />
+<SPATIAL_ENTITY id="se24" spans="1034~1039" text="pages" dcl="FALSE" mod="history&apos;s" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se6" spans="971~978" text="Creator" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se20" spans="888~896" text="humanity" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se25" spans="1149~1158" text="Egyptians" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se26" spans="1275~1281" text="people" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se27" spans="1384~1390" text="people" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se28" spans="1415~1421" text="people" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se29" spans="1707~1713" text="people" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se30" spans="1774~1784" text="individual" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se31" spans="1888~1893" text="women" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se32" spans="1911~1916" text="women" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se33" spans="1936~1939" text="men" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se34" spans="1925~1932" text="sisters" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se35" spans="1944~1952" text="partners" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se36" spans="1636~1641" text="power" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se37" spans="788~790" text="we" dcl="FALSE" type="PERSON" />
+<NONMOTION_EVENT id="e7" spans="147~154" text="declare"  />
+<NONMOTION_EVENT id="e8" spans="242~249" text="started"  />
+<NONMOTION_EVENT id="e9" spans="264~272" text="embraced"  />
+<NONMOTION_EVENT id="e10" spans="288~297" text="supported"  />
+<NONMOTION_EVENT id="e11" spans="327~335" text="rejected"  />
+<NONMOTION_EVENT id="e12" spans="469~479" text="Proclaimed"  />
+<NONMOTION_EVENT id="e20" spans="677~686" text="Recovered"  />
+<NONMOTION_EVENT id="e21" spans="791~802" text="established"  />
+<NONMOTION_EVENT id="e22" spans="836~841" text="known"  />
+<NONMOTION_EVENT id="e27" spans="980~988" text="embraced"  />
+<NONMOTION_EVENT id="e32" spans="1213~1220" text="declare"  />
+<NONMOTION_EVENT id="e34" spans="1736~1751" text="decision-making"  />
+<NONMOTION_EVENT id="e35" spans="1137~1144" text="unified"  />
+<NONMOTION_EVENT id="e36" spans="1333~1343" text="instituted"  />
+<NONMOTION_EVENT id="e37" spans="1400~1407" text="subject"  />
+<NONMOTION_EVENT id="e39" spans="1497~1501" text="bear"  />
+<NONMOTION_EVENT id="e40" spans="1586~1598" text="establishing"  />
+<NONMOTION_EVENT id="e42" spans="1643~1653" text="supporting"  />
+<NONMOTION_EVENT id="e43" spans="1675~1683" text="ensuring"  />
+<NONMOTION_EVENT id="e44" spans="392~401" text="injustice"  />
+<NONMOTION_EVENT id="e45" spans="403~413" text="oppression"  />
+<NONMOTION_EVENT id="e46" spans="415~422" text="tyranny"  />
+<NONMOTION_EVENT id="e47" spans="424~433" text="despotism"  />
+<NONMOTION_EVENT id="e48" spans="435~444" text="exclusion"  />
+<NONMOTION_EVENT id="e49" spans="446~453" text="plunder"  />
+<NONMOTION_EVENT id="e50" spans="458~466" text="monopoly"  />
+<NONMOTION_EVENT id="e51" spans="391~392" text=" " comment="injustice, oppression, tyranny, despotism, exclusion, plunder and monopoly" />
+<NONMOTION_EVENT id="e52" spans="500~505" text="bread"  />
+<NONMOTION_EVENT id="e53" spans="507~514" text="freedom"  />
+<NONMOTION_EVENT id="e54" spans="523~530" text="justice" comment="social" />
+<NONMOTION_EVENT id="e55" spans="542~549" text="dignity" comment="human" />
+<NONMOTION_EVENT id="e56" spans="498~499" text=" " comment="bread, freedom, social justice, and human dignity" />
+<NONMOTION_EVENT id="e57" spans="489~495" text="rights"  />
+<NONMOTION_EVENT id="e58" spans="1689~1698" text="elections"  />
+<NONMOTION_EVENT id="e0" spans="954~963" text="knowledge"  />
+<NONMOTION_EVENT id="e1" spans="1022~1029" text="adorned"  />
+<MOTION id="m0" spans="883~887" text="gave" motion_type="MANNER" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m1" spans="917~923" text="opened" motion_class="REACH" motion_sense="FICTIVE" motion_type="COMPOUND" />
+<MOTION id="m2" spans="1174~1182" text="building" motion_type="COMPOUND" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" comment="if you build something even a democracy you have to start from a concept and change it, here maybe monarchy or theocracy " />
+<MOTION id="m4" spans="1624~1632" text="transfer" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<S_RELATION id="sr0" spans="87~89" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="160~162" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr3" spans="337~339" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="496~498" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr5" spans="754~756" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="1084~1086" text="in" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr7" spans="1159~1161" text="on" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr8" spans="1235~1237" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr9" spans="1408~1410" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr10" spans="1494~1496" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr11" spans="1729~1731" text="in" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr12" spans="1879~1881" text="in" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr13" spans="1953~1955" text="in" semantic_type="GOAL_DEFINING" />
+<QSLINK id="qsl0" relType="IN" trajector="se8" landmark="pl1" trigger="sr3" comment="people in Tahrir Square rejected..." />
+<QSLINK id="qsl1" fromID="se1" fromText="people" toID="pl0" toText="Egypt" relType="IN" trajector="se1" landmark="pl0" trigger="sr0" />
+<QSLINK id="qsl2" fromID="se8" fromText="people" toID="pl1" toText="Tahrir Square" relType="IN" trajector="se8" landmark="pl1" />
+<QSLINK id="qsl3" fromID="sr5" fromText="on" toID="e21" toText="established" relType="IN" trajector="se37" landmark="pl4" trigger="sr5" />
+<QSLINK id="qsl4" fromID="pl4" fromText="banks" toID="pl5" toText="Nile" relType="EC" />
+<MOVELINK id="mvl0" fromID="e11" fromText="rejected" toID="e50" toText="monopoly" trigger="sr3" source="e11" goal="e51" landmark="pl0" goal_reached="YES" />
+<MOVELINK id="mvl1" fromID="e57" fromText="rights" toID="e55" toText="dignity" trigger="sr4" source="se8" goal="e56" landmark="pl0" goal_reached="YES" />
+<MOVELINK id="mvl2" fromID="m0" fromText="gave" toID="se19" toText="alphabet" trigger="m0" goal="m0" source="se37" mover="se37" landmark="pl6" goal_reached="YES" />
+<MOVELINK id="mvl3" fromID="m1" fromText="opened" toID="se6" toText="Creator" trigger="m1" source="se37" goal="e0" mover="se37" landmark="pl6" goal_reached="YES" />
+<MOVELINK id="mvl4" fromID="m2" fromText="building" toID="pl7" toText="state" />
+<MOVELINK id="mvl5" fromID="m4" fromText="transfer" toID="se36" toText="power" />
+<METALINK id="metal0" fromID="pl0" fromText="Egypt" toID="pl2" toText="country" objectID1="pl2" objectID2="pl0" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="pl8" fromText="nation" toID="pl0" toText="Egypt" objectID1="pl8" objectID2="pl0" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="pl6" fromText="state" toID="pl7" toText="state" objectID1="pl7" objectID2="pl6" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="pl9" fromText="country" toID="pl2" toText="country" objectID1="pl9" objectID2="pl2" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se0" fromText="We" toID="se1" toText="people" objectID1="se1" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se2" fromText="God" toID="se3" toText="his" objectID1="se3" objectID2="se2" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se4" fromText="Constitution" toID="se5" toText="document" objectID1="se5" objectID2="se4" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se8" fromText="people" toID="se1" toText="people" objectID1="se8" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se7" fromText="youth" toID="se8" toText="people" objectID1="se7" objectID2="se8" relType="SPLITCOREFERENCE" comment="youth ist ein Teil von people" />
+<METALINK id="metal9" fromID="se9" fromText="Forces" toID="se8" toText="people" objectID1="se9" objectID2="se8" relType="SPLITCOREFERENCE" comment="armed forces ist ein Teil von people" />
+<METALINK id="metal10" toID="e51" toText=" " fromID="e44" fromText="injustice" objectID1="e44" objectID2="e51" relType="SUBCOREFERENCE" />
+<METALINK id="metal11" fromID="e45" fromText="oppression" toID="e51" toText=" " objectID1="e45" objectID2="e51" relType="SUBCOREFERENCE" />
+<METALINK id="metal12" fromID="e46" fromText="tyranny" toID="e51" toText=" " objectID1="e46" objectID2="e51" relType="SUBCOREFERENCE" />
+<METALINK id="metal13" fromID="e47" fromText="despotism" toID="e51" toText=" " objectID1="e47" objectID2="e51" relType="SUBCOREFERENCE" />
+<METALINK id="metal14" fromID="e48" fromText="exclusion" toID="e51" toText=" " objectID1="e48" objectID2="e51" relType="SUBCOREFERENCE" />
+<METALINK id="metal15" fromID="e49" fromText="plunder" toID="e51" toText=" " objectID1="e49" objectID2="e51" relType="SUBCOREFERENCE" />
+<METALINK id="metal16" fromID="e50" fromText="monopoly" toID="e51" toText=" " objectID1="e50" objectID2="e51" relType="SUBCOREFERENCE" />
+<METALINK id="metal17" fromID="e52" fromText="bread" toID="e56" toText=" " objectID1="e52" objectID2="e56" relType="SUBCOREFERENCE" />
+<METALINK id="metal18" fromID="e53" fromText="freedom" toID="e56" toText=" " objectID1="e53" objectID2="e56" relType="SUBCOREFERENCE" />
+<METALINK id="metal19" fromID="e54" fromText="justice" toID="e56" toText=" " objectID1="e54" objectID2="e56" relType="SUBCOREFERENCE" />
+<METALINK id="metal20" fromID="e55" fromText="dignity" toID="e56" toText=" " objectID1="e55" objectID2="e56" relType="SUBCOREFERENCE" />
+<METALINK id="metal21" fromID="se11" fromText="martyrs" toID="se8" toText="people" objectID1="se11" objectID2="se8" relType="SPLITCOREFERENCE" />
+<METALINK id="metal22" fromID="se12" fromText="injured" toID="se8" toText="people" objectID1="se12" objectID2="se8" relType="SPLITCOREFERENCE" />
+<METALINK id="metal23" fromID="se13" fromText="children" toID="se8" toText="people" objectID1="se13" objectID2="se8" relType="SPLITCOREFERENCE" />
+<METALINK id="metal24" toID="se16" toText=" " fromID="se14" fromText="men" objectID1="se14" objectID2="se16" relType="SUBCOREFERENCE" />
+<METALINK id="metal25" toID="se16" toText=" " fromID="se15" fromText="women" objectID1="se15" objectID2="se16" relType="SUBCOREFERENCE" />
+<METALINK id="metal26" fromID="se16" fromText=" " toID="se8" toText="people" objectID1="se16" objectID2="se8" relType="SPLITCOREFERENCE" />
+<METALINK id="metal27" fromID="se37" fromText="we" toID="se8" toText="people" objectID1="se37" objectID2="se8" relType="COREFERENCE" />
+<METALINK id="metal28" fromID="se6" fromText="Creator" toID="se2" toText="God" objectID1="se6" objectID2="se2" relType="COREFERENCE" />
+<METALINK id="metal29" fromID="se25" fromText="Egyptians" toID="se8" toText="people" objectID1="se25" objectID2="se8" relType="COREFERENCE" />
+<METALINK id="metal30" fromID="se26" fromText="people" toID="se8" toText="people" objectID1="se26" objectID2="se8" relType="COREFERENCE" />
+<METALINK id="metal31" fromID="se28" fromText="people" toID="se27" toText="people" objectID1="se28" objectID2="se26" relType="COREFERENCE" />
+<METALINK id="metal32" fromID="se27" fromText="people" toID="se26" toText="people" objectID1="se27" objectID2="se26" relType="COREFERENCE" />
+<METALINK id="metal33" fromID="se29" fromText="people" toID="se27" toText="people" objectID1="se29" objectID2="se27" relType="COREFERENCE" />
+<METALINK id="metal34" fromID="se30" fromText="individual" toID="se8" toText="people" objectID1="se30" objectID2="se8" relType="SPLITCOREFERENCE" />
+<METALINK id="metal35" fromID="se32" fromText="women" toID="se31" toText="women" objectID1="se32" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal36" fromID="se31" fromText="women" toID="se8" toText="people" objectID1="se31" objectID2="se8" relType="SPLITCOREFERENCE" />
+<METALINK id="metal37" fromID="se34" fromText="sisters" toID="se8" toText="people" objectID1="se34" objectID2="se8" relType="SPLITCOREFERENCE" />
+<METALINK id="metal38" fromID="se33" fromText="men" toID="se8" toText="people" objectID1="se33" objectID2="se8" relType="SPLITCOREFERENCE" />
+<METALINK id="metal39" fromID="se35" fromText="partners" toID="se8" toText="people" objectID1="se35" objectID2="se8" relType="SPLITCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

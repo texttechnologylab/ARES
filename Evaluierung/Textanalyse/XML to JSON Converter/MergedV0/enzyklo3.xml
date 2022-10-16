@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Daneben gehört das Universitäts-Sportgelände („Sportcampus Ginnheim“) an der Ginnheimer Landstraße des Stadtteils Bockenheim zur Universität,[7] weiterhin gibt es in Oberursel das Institut für Bienenkunde.
+Der seit Mitte der 1990er Jahre verstärkt betriebene Standort-Umbau der Universität hat für die Zukunft de facto eine Drei-Campus-Universität zum Ziel. Hierzu sollen auch die derzeit noch im Stadtteil Bockenheim ansässigen Einheiten umziehen, nicht allerdings das Sportgelände.
+Der ehemals mit dem Biologiecampus (1956–2011) verbundene öffentliche Botanische Garten am Ende der Siesmayerstraße ist an die Stadt Frankfurt und in die Verantwortung des Palmengartens übergegangen.[8] Teile des bisherigen Campus Bockenheim, darunter das historische Jügelhaus, sind von der Senckenberg Gesellschaft für Naturforschung übernommen worden, andere Teile der lokalen Stadtentwicklung überlassen worden. Die ehemals zahlreichen sonstigen verstreuten universitär genutzten Gebäude im Stadtteil Bockenheim sind aufgegeben und teilweise abgerissen, teilweise einer anderweitigen Nutzung zugeführt worden.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="103~124" text="Stadtteils Bockenheim" dcl="FALSE" form="NAM" type="PPL" mod="∅" />
+<PLACE id="pl1" spans="166~175" text="Oberursel" dcl="FALSE" form="NAM" type="PPL" mod="∅" />
+<PLACE id="pl2" spans="19~44" text="Universitäts-Sportgelände" dcl="FALSE" form="NOM" mod="∅" />
+<PLACE id="pl3" spans="47~67" text="Sportcampus Ginnheim" dcl="FALSE" form="NAM" mod="∅" />
+<PLACE id="pl4" spans="397~417" text="Stadtteil Bockenheim" dcl="FALSE" form="NAM" type="PPL" mod="∅" />
+<PLACE id="pl5" spans="554~571" text="Botanische Garten" dcl="FALSE" form="NOM" mod="öffentliche" />
+<PLACE id="pl6" spans="979~999" text="Stadtteil Bockenheim" dcl="FALSE" form="NAM" type="PPL" mod="∅" />
+<PLACE id="pl7" spans="708~725" text="Campus Bockenheim" dcl="FALSE" form="NAM" mod="∅" />
+<PLACE id="pl8" spans="504~518" text="Biologiecampus" dcl="FALSE" form="NOM" mod="∅" />
+<PLACE id="pl9" spans="470~482" text="Sportgelände" dcl="FALSE" form="NOM" mod="∅" />
+<PLACE id="pl10" spans="611~626" text="Stadt Frankfurt" dcl="FALSE" type="PPLC" form="NAM" />
+<PATH id="p0" spans="77~98" text="Ginnheimer Landstraße" dcl="FALSE" mod="∅" />
+<PATH id="p1" spans="584~599" text="Siesmayerstraße" dcl="FALSE" mod="∅" />
+<PATH id="p2" spans="352~356" text="Ziel" dcl="FALSE" mod="∅" />
+<PATH id="p3" spans="575~579" text="Ende" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="180~204" text="Institut für Bienenkunde" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se1" spans="129~140" text="Universität" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se2" spans="259~289" text="Standort-Umbau der Universität" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se3" spans="324~347" text="Drei-Campus-Universität" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se4" spans="776~819" text="Senckenberg Gesellschaft für Naturforschung" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se7" spans="638~669" text="Verantwortung des Palmengartens" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se8" spans="968~975" text="Gebäude" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se9" spans="752~761" text="Jügelhaus" dcl="FALSE" type="FAC" form="NAM" mod="historische" />
+<SPATIAL_ENTITY id="se10" spans="429~438" text="Einheiten" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se5" spans="687~692" text="Teile" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se6" spans="1072~1079" text="Nutzung" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<NONMOTION_EVENT id="e0" spans="1005~1015" text="aufgegeben"  />
+<NONMOTION_EVENT id="e1" spans="1030~1040" text="abgerissen"  />
+<NONMOTION_EVENT id="e2" spans="365~371" text="sollen"  />
+<MOTION id="m0" spans="238~247" text="verstärkt" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m1" spans="439~447" text="umziehen" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="670~682" text="übergegangen" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m3" spans="820~830" text="übernommen" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<S_RELATION id="sr1" spans="163~165" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="70~72" text="an" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="348~351" text="zum" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr5" spans="394~396" text="im" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="572~574" text="am" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="604~606" text="an" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="631~633" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="976~978" text="im" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="727~735" text="darunter" semantic_type="DIRECTIONAL" />
+<QSLINK id="qsl1" fromID="se8" fromText="Gebäude" toID="pl6" toText="Stadtteil Bockenheim" trigger="sr9" relType="IN" />
+<QSLINK id="qsl2" fromID="pl2" fromText="Universitäts-Sportgelände" toID="p0" toText="Ginnheimer Landstraße" trigger="sr3" relType="EC" />
+<QSLINK id="qsl3" toID="pl1" toText="Oberursel" fromID="se0" fromText="Institut für Bienenkunde" trigger="sr1" relType="IN" />
+<QSLINK id="qsl4" fromID="se10" fromText="Einheiten" toID="pl4" toText="Stadtteil Bockenheim" trigger="sr5" relType="IN" />
+<QSLINK id="qsl5" fromID="pl5" fromText="Botanische Garten" toID="p1" toText="Siesmayerstraße" trigger="sr6" relType="EC" />
+<QSLINK id="qsl6" fromID="p1" fromText="Siesmayerstraße" toID="pl10" toText="Stadt Frankfurt" trigger="sr7" relType="IN" />
+<QSLINK id="qsl7" fromID="p1" fromText="Siesmayerstraße" toID="se7" toText="Verantwortung des Palmengartens" trigger="sr8" relType="IN" />
+<OLINK id="ol0" fromID="se9" fromText="Jügelhaus" toID="pl7" toText="Campus Bockenheim" trigger="o0" />
+<MOVELINK id="mvl0" toID="m0" toText="verstärkt" fromID="se2" fromText="Standort-Umbau der Universität" trigger="m0" goal="se3" />
+<MOVELINK id="mvl1" toID="m1" toText="umziehen" fromID="se10" fromText="Einheiten" trigger="m1" goal_reached="YES" goal="pl4" />
+<MOVELINK id="mvl2" toID="m2" toText="übergegangen" fromID="pl5" fromText="Botanische Garten" trigger="m2" mover="se7" goal_reached="YES" />
+<MOVELINK id="mvl3" toID="m3" toText="übernommen" fromID="se5" fromText="Teile" trigger="m3" mover="se4" goal_reached="YES" />
+<METALINK id="metal0" fromID="pl2" fromText="Universitäts-Sportgelände" toID="pl3" toText="Sportcampus Ginnheim" objectID1="pl2" objectID2="pl3" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="pl0" fromText="Stadtteils Bockenheim" toID="pl4" toText="Stadtteil Bockenheim" objectID1="pl0" objectID2="pl4" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="pl0" fromText="Stadtteils Bockenheim" toID="pl6" toText="Stadtteil Bockenheim" objectID1="pl0" relType="COREFERENCE" objectID2="pl6" />
+<METALINK id="metal3" fromID="se5" fromText="Teile" toID="se9" toText="Jügelhaus" objectID1="se5" objectID2="se9" relType="SPLITCOREFERENCE" />
+<SRLINK id="srole0" toID="e0" toText="aufgegeben" fromID="se8" fromText="Gebäude" relType="ARGO0" objectID1="se8" objectID2="e0" />
+<SRLINK id="srole1" toID="e1" toText="abgerissen" fromID="se8" fromText="Gebäude" objectID1="se8" objectID2="e1" relType="ARGO0" />
+</TAGS>
+</SpaceEvalTaskv1.2>

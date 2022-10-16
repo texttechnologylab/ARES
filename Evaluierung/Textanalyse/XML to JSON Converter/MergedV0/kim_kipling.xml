@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle:https://standardebooks.org/ebooks/rudyard-kipling/kim/text/single-page
+
+They entered the fort-like railway station, black in the end of night; the electrics sizzling over the goods-yard where they handle the heavy Northern grain-traffic.
+
+“This is the work of devils!” said the lama, recoiling from the hollow echoing darkness, the glimmer of rails between the masonry platforms, and the maze of girders above. He stood in a gigantic stone hall paved, it seemed, with the sheeted dead third-class passengers who had taken their tickets overnight and were sleeping in the waiting-rooms. All hours of the twenty-four are alike to Orientals, and their passenger traffic is regulated accordingly.
+
+“This is where the fire-carriages come. One stands behind that hole”—Kim pointed to the ticket-office⁠—“who will give thee a paper to take thee to Umballa.”
+
+“But we go to Benares,” he replied petulantly.
+
+“All one. Benares then. Quick: she comes!”
+
+“Take thou the purse.”
+
+The lama, not so well used to trains as he had pretended, started as the 3:25 a.m. southbound roared in. The sleepers sprang to life, and the station filled with clamour and shoutings, cries of water and sweetmeat vendors, shouts of native policemen, and shrill yells of women gathering up their baskets, their families, and their husbands.
+
+“It is the train⁠—only the te-rain. It will not come here. Wait!” Amazed at the lama’s immense simplicity (he had handed him a small bag full of rupees), Kim asked and paid for a ticket to Umballa. A sleepy clerk grunted and flung out a ticket to the next station, just six miles distant.
+
+“Nay,” said Kim, scanning it with a grin. “This may serve for farmers, but I live in the city of Lahore. It was cleverly done, Babu. Now give the ticket to Umballa.”
+
+The Babu scowled and dealt the proper ticket.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="1704~1710" text="Lahore" dcl="FALSE" type="PPL" form="NAM" mod="∅" />
+<PLACE id="pl1" spans="106~121" text="railway station" dcl="FALSE" form="NOM" type="PPL" mod="fort-like" />
+<PLACE id="pl2" spans="578~591" text="waiting-rooms" dcl="FALSE" form="NOM" type="PPL" mod="∅" />
+<PLACE id="pl3" spans="182~192" text="goods-yard" dcl="FALSE" form="NOM" type="PPL" mod="∅" />
+<PLACE id="pl4" spans="917~924" text="Benares" dcl="FALSE" type="PPL" form="NAM" mod="∅" />
+<PLACE id="pl5" spans="1506~1513" text="Umballa" dcl="FALSE" type="PPL" form="NAM" mod="∅" />
+<PLACE id="pl6" spans="1763~1770" text="Umballa" dcl="FALSE" type="PPL" form="NAM" mod="∅" />
+<PLACE id="pl7" spans="873~880" text="Benares" dcl="FALSE" type="PPL" form="NAM" mod="∅" />
+<PLACE id="pl8" spans="848~855" text="Umballa" dcl="FALSE" type="PPL" form="NAM" mod="∅" />
+<PLACE id="pl9" spans="789~802" text="ticket-office" dcl="FALSE" form="NOM" type="PPL" mod="∅" />
+<PLACE id="pl10" spans="764~768" text="hole" dcl="FALSE" form="NOM" type="PPL" mod="∅" />
+<PLACE id="pl11" spans="1117~1124" text="station" dcl="FALSE" form="NOM" type="PPL" mod="∅" />
+<PLACE id="pl12" spans="441~451" text="stone hall" dcl="FALSE" form="NOM" type="PPL" mod="gogantic" />
+<PLACE id="pl13" spans="1568~1580" text="next station" dcl="FALSE" form="NOM" type="PPL" mod="∅" />
+<PLACE id="pl14" spans="1696~1700" text="city" dcl="FALSE" type="PPLC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se0" spans="79~83" text="They" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se1" spans="154~163" text="electrics" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se2" spans="199~203" text="they" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se3" spans="267~273" text="devils" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se4" spans="285~289" text="lama" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se5" spans="325~333" text="darkness" dcl="FALSE" type="ARTIFACT" form="NOM" mod="echoing" />
+<SPATIAL_ENTITY id="se6" spans="350~355" text="rails" dcl="FALSE" type="VEHICLE" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se8" spans="395~410" text="maze of girders" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se9" spans="418~420" text="He" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se12" spans="535~542" text="tickets" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se13" spans="635~644" text="Orientals" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se15" spans="656~673" text="passenger traffic" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se16" spans="1778~1782" text="Babu" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se17" spans="1734~1738" text="Babu" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se18" spans="1753~1759" text="ticket" dcl="FALSE" form="NOM" type="ARTIFACT" mod="∅" />
+<SPATIAL_ENTITY id="se19" spans="1619~1622" text="Kim" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se20" spans="1669~1676" text="farmers" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se21" spans="1682~1683" text="I" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se22" spans="819~823" text="thee" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se23" spans="826~831" text="paper" dcl="FALSE" form="NOM" type="ARTIFACT" mod="∅" />
+<SPATIAL_ENTITY id="se24" spans="840~844" text="thee" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se25" spans="720~734" text="fire-carriages" dcl="FALSE" form="NOM" type="VEHICLE" mod="∅" />
+<SPATIAL_ENTITY id="se26" spans="741~744" text="One" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se27" spans="770~773" text="Kim" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se28" spans="957~961" text="thou" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se29" spans="966~971" text="purse" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se30" spans="979~983" text="lama" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se31" spans="864~866" text="we" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se32" spans="1005~1011" text="trains" dcl="FALSE" form="NOM" type="VEHICLE" mod="∅" />
+<SPATIAL_ENTITY id="se33" spans="1015~1017" text="he" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se34" spans="1084~1092" text="sleepers" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se37" spans="1246~1251" text="women" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se38" spans="1271~1278" text="baskets" dcl="FALSE" form="NOM" type="ARTIFACT" mod="∅" />
+<SPATIAL_ENTITY id="se39" spans="1286~1294" text="families" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se40" spans="1306~1314" text="husbands" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se41" spans="1328~1334" text="train⁠" dcl="FALSE" type="VEHICLE" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se42" spans="1344~1351" text="te-rain" dcl="FALSE" type="VEHICLE" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se43" spans="1318~1320" text="It" dcl="FALSE" form="NOM" type="VEHICLE" mod="∅" />
+<SPATIAL_ENTITY id="se44" spans="1353~1355" text="It" dcl="FALSE" form="NOM" type="VEHICLE" mod="∅" />
+<SPATIAL_ENTITY id="se45" spans="1397~1401" text="lama" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se46" spans="1424~1426" text="he" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se49" spans="1450~1453" text="bag" dcl="FALSE" form="NOM" type="ARTIFACT" mod="small" />
+<SPATIAL_ENTITY id="se50" spans="1462~1468" text="rupees" dcl="FALSE" form="NAM" type="ARTIFACT" mod="∅" />
+<SPATIAL_ENTITY id="se51" spans="1471~1474" text="Kim" dcl="FALSE" form="NAM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se52" spans="1496~1502" text="ticket" dcl="FALSE" form="NOM" type="ARTIFACT" mod="∅" />
+<SPATIAL_ENTITY id="se53" spans="1524~1529" text="clerk" dcl="FALSE" form="NOM" type="PERSON" mod="sleepy" />
+<SPATIAL_ENTITY id="se54" spans="1554~1560" text="ticket" dcl="FALSE" form="NOM" type="ARTIFACT" mod="∅" />
+<SPATIAL_ENTITY id="se56" spans="1812~1818" text="ticket" dcl="FALSE" form="NOM" type="ARTIFACT" mod="∅" />
+<SPATIAL_ENTITY id="se48" spans="376~385" text="platforms" dcl="FALSE" form="NOM" type="FAC" mod="∅" />
+<SPATIAL_ENTITY id="se57" spans="883~885" text="he" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se58" spans="938~941" text="she" dcl="FALSE" type="VEHICLE" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se7" spans="504~514" text="passengers" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se10" spans="1189~1196" text="vendors" dcl="FALSE" type="PERSON" form="NOM" mod="sweetmeat" />
+<SPATIAL_ENTITY id="se55" spans="1215~1224" text="policemen" dcl="FALSE" type="PERSON" form="NOM" mod="native" />
+<SPATIAL_ENTITY id="se11" spans="259~263" text="work" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se14" spans="1643~1647" text="grin" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<NONMOTION_EVENT id="e0" spans="562~570" text="sleeping"  />
+<NONMOTION_EVENT id="e2" spans="1149~1158" text="shoutings"  />
+<NONMOTION_EVENT id="e3" spans="1160~1165" text="cries"  />
+<NONMOTION_EVENT id="e5" spans="1485~1489" text="paid"  />
+<NONMOTION_EVENT id="e6" spans="1475~1480" text="asked"  />
+<NONMOTION_EVENT id="e7" spans="1624~1632" text="scanning"  />
+<NONMOTION_EVENT id="e8" spans="1795~1800" text="dealt"  />
+<NONMOTION_EVENT id="e9" spans="1783~1790" text="scowled"  />
+<NONMOTION_EVENT id="e10" spans="774~781" text="pointed"  />
+<NONMOTION_EVENT id="e11" spans="1728~1732" text="done"  />
+<NONMOTION_EVENT id="e12" spans="1744~1748" text="give"  />
+<NONMOTION_EVENT id="e13" spans="952~956" text="Take"  />
+<NONMOTION_EVENT id="e14" spans="1530~1537" text="grunted"  />
+<NONMOTION_EVENT id="e15" spans="1542~1547" text="flung"  />
+<NONMOTION_EVENT id="e16" spans="1069~1075" text="roared"  />
+<NONMOTION_EVENT id="e1" spans="677~686" text="regulated"  />
+<NONMOTION_EVENT id="e4" spans="814~818" text="give"  />
+<NONMOTION_EVENT id="e17" spans="276~280" text="said"  />
+<NONMOTION_EVENT id="e18" spans="1022~1031" text="pretended"  />
+<NONMOTION_EVENT id="e19" spans="1033~1040" text="started"  />
+<NONMOTION_EVENT id="e20" spans="1237~1242" text="yells"  />
+<NONMOTION_EVENT id="e21" spans="1252~1264" text="gathering up"  />
+<NONMOTION_EVENT id="e22" spans="1684~1688" text="live"  />
+<NONMOTION_EVENT id="e23" spans="452~457" text="paved"  />
+<NONMOTION_EVENT id="e24" spans="462~468" text="seemed"  />
+<NONMOTION_EVENT id="e25" spans="523~528" text="taken"  />
+<NONMOTION_EVENT id="e26" spans="622~625" text="are"  />
+<MOTION id="m0" spans="84~91" text="entered" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m1" spans="291~300" text="recoiling" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m2" spans="745~751" text="stands" motion_type="MANNER" motion_class="STAY" motion_sense="LITERAL" />
+<MOTION id="m3" spans="867~869" text="go" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m4" spans="1093~1099" text="sprang" motion_type="MANNER" motion_class="MOVE_EXTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m5" spans="1684~1688" text="live" motion_type="MANNER" motion_class="STAY" motion_sense="FICTIVE" />
+<MOTION id="m6" spans="421~426" text="stood" motion_class="STAY" motion_sense="LITERAL" motion_type="MANNER" />
+<MOTION id="m8" spans="942~947" text="comes" motion_type="MANNER" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m10" spans="1365~1369" text="come" motion_type="MANNER" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m11" spans="735~739" text="come" motion_type="MANNER" motion_class="CROSS" motion_sense="LITERAL" />
+<MOTION id="m7" spans="867~869" text="go" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="129~131" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="356~363" text="between" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr2" spans="411~416" text="above" semantic_type="DIR_TOP" />
+<S_RELATION id="sr3" spans="427~429" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="571~573" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="832~834" text="to" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr6" spans="870~872" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr8" spans="1503~1505" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr9" spans="1561~1563" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr10" spans="1689~1691" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="752~758" text="behind" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr7" spans="1636~1640" text="with" semantic_type="GOAL_DEFINING" />
+<MEASURE id="me0" spans="1587~1596" text="six miles" value="6" unit="miles" />
+<QSLINK id="qsl1" toID="pl12" toText="stone hall" fromID="se9" fromText="He" trigger="sr3" relType="IN" trajector="se9" landmark="pl12" />
+<QSLINK id="qsl3" toID="pl0" toText="Lahore" fromID="se21" fromText="I" trigger="sr10" relType="IN" trajector="se21" landmark="pl0" />
+<OLINK id="ol0" fromID="se6" fromText="rails" toID="se8" toText="maze of girders" trigger="sr1" relType="between" trajector="se6" landmark="se8" />
+<OLINK id="ol1" fromID="se51" fromText="Kim" toID="pl5" toText="Umballa" relType="to" trajector="se51" landmark="pl5" trigger="sr8" />
+<OLINK id="ol2" fromID="se21" fromText="I" toID="pl0" toText="Lahore" relType="in" trajector="se21" landmark="pl0" trigger="sr10" />
+<MOVELINK id="mvl0" fromID="se0" fromText="They" toID="m0" toText="entered" trigger="m0" source="pl1" goal="∅" midPoint="∅" mover="se0" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl1" fromID="se4" fromText="lama" toID="m1" toText="recoiling" trigger="m1" source="∅" goal="∅" midPoint="∅" mover="se4" goal_reached="UNCERTAIN" landmark="∅" />
+<MOVELINK id="mvl2" fromID="se25" fromText="fire-carriages" toID="m11" toText="come" trigger="m11" source="∅" goal="∅" midPoint="∅" mover="se25" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl3" fromID="se26" fromText="One" toID="m2" toText="stands" trigger="m2" source="pl10" goal="∅" midPoint="∅" mover="se26" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl4" toID="m8" toText="comes" fromID="se58" fromText="she" trigger="m8" source="∅" goal="∅" midPoint="∅" mover="se58" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl5" fromID="se31" fromText="we" toID="m3" toText="go" trigger="m3" source="pl7" goal="∅" midPoint="∅" mover="se31" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl6" fromID="se34" fromText="sleepers" toID="m4" toText="sprang" trigger="m4" source="∅" goal="∅" midPoint="∅" mover="se34" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl7" fromID="se44" fromText="It" toID="m10" toText="come" trigger="m10" source="∅" goal="∅" midPoint="∅" mover="se44" goal_reached="NO" landmark="∅" />
+<MOVELINK id="mvl8" fromID="se21" fromText="I" toID="m5" toText="live" trigger="m5" source="∅" goal="∅" midPoint="∅" mover="se21" goal_reached="YES" />
+<MEASURELINK id="ml0" fromID="pl13" fromText="next station" toID="me0" toText="six miles" relType="DISTANCE" />
+<METALINK id="metal0" fromID="se0" fromText="They" toID="se24" toText="thee" objectID1="se0" relType="COREFERENCE" objectID2="se2" />
+<METALINK id="metal2" fromID="se4" fromText="lama" toID="se9" toText="He" objectID1="se4" objectID2="se9" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se0" fromText="They" toID="se31" toText="we" relType="COREFERENCE" objectID1="se0" objectID2="se31" />
+<METALINK id="metal8" fromID="se4" fromText="lama" toID="se30" toText="lama" objectID1="se4" objectID2="se30" relType="COREFERENCE" />
+<METALINK id="metal9" toID="se33" toText="he" fromID="se4" fromText="lama" objectID1="se4" objectID2="se33" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se4" fromText="lama" toID="se45" toText="lama" objectID1="se4" objectID2="se45" relType="COREFERENCE" />
+<METALINK id="metal11" toID="se46" toText="he" fromID="se4" fromText="lama" objectID2="se46" objectID1="se4" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se27" fromText="Kim" toID="se19" toText="Kim" objectID1="se27" objectID2="se19" relType="COREFERENCE" />
+<METALINK id="metal15" toID="se21" toText="I" fromID="se27" fromText="Kim" objectID2="se21" objectID1="se27" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se25" fromText="fire-carriages" toID="se43" toText="It" objectID1="se25" objectID2="se43" relType="COREFERENCE" />
+<METALINK id="metal21" fromID="se25" fromText="fire-carriages" toID="se44" toText="It" objectID1="se25" objectID2="se44" relType="COREFERENCE" />
+<METALINK id="metal22" fromID="se53" fromText="clerk" toID="se17" toText="Babu" objectID1="se53" objectID2="se17" relType="COREFERENCE" />
+<METALINK id="metal23" fromID="se53" fromText="clerk" toID="se16" toText="Babu" objectID1="se53" objectID2="se16" relType="COREFERENCE" />
+<METALINK id="metal24" fromID="se54" fromText="ticket" toID="se18" toText="ticket" objectID1="se54" objectID2="se18" relType="COREFERENCE" />
+<METALINK id="metal25" fromID="se54" fromText="ticket" toID="se56" toText="ticket" objectID1="se54" objectID2="se56" relType="COREFERENCE" />
+<METALINK id="metal26" fromID="se54" fromText="ticket" toID="se52" toText="ticket" objectID1="se54" objectID2="se52" relType="COREFERENCE" />
+<METALINK id="metal27" fromID="se54" fromText="ticket" toID="se23" toText="paper" objectID1="se54" objectID2="se23" relType="COREFERENCE" />
+<METALINK id="metal28" fromID="pl9" fromText="ticket-office" toID="pl10" toText="hole" objectID1="pl9" objectID2="pl10" relType="COREFERENCE" />
+<METALINK id="metal29" fromID="pl8" fromText="Umballa" toID="pl5" toText="Umballa" objectID1="pl8" objectID2="pl5" relType="COREFERENCE" />
+<METALINK id="metal30" fromID="pl8" fromText="Umballa" toID="pl6" toText="Umballa" objectID1="pl8" objectID2="pl6" relType="COREFERENCE" />
+<METALINK id="metal31" fromID="pl7" fromText="Benares" toID="pl4" toText="Benares" objectID1="pl7" objectID2="pl4" relType="COREFERENCE" />
+<METALINK id="metal32" fromID="pl1" fromText="railway station" toID="pl11" toText="station" objectID1="pl1" objectID2="pl11" relType="COREFERENCE" />
+<METALINK id="metal33" fromID="se49" fromText="bag" toID="se29" toText="purse" objectID1="se49" objectID2="se29" relType="COREFERENCE" />
+<SRLINK id="srole11" toID="e10" toText="pointed" fromID="se27" fromText="Kim" relType="ARGO0" objectID2="e10" objectID1="se27" />
+<SRLINK id="srole12" toID="e13" toText="Take" fromID="se28" fromText="thou" objectID2="e13" objectID1="se28" relType="ARGO0" />
+<SRLINK id="srole16" toID="e5" toText="paid" fromID="se51" fromText="Kim" objectID2="e5" objectID1="se51" relType="ARGO0" />
+<SRLINK id="srole17" toID="e6" toText="asked" fromID="se51" fromText="Kim" objectID2="e6" objectID1="se51" relType="ARGO0" />
+<SRLINK id="srole19" toID="e7" toText="scanning" fromID="se19" fromText="Kim" objectID2="e7" relType="ARGO0" objectID1="se19" />
+<SRLINK id="srole20" toID="e8" toText="dealt" fromID="se16" fromText="Babu" objectID2="e8" relType="ARGO0" objectID1="se16" />
+<SRLINK id="srole21" toID="e9" toText="scowled" fromID="se16" fromText="Babu" objectID2="e9" relType="ARGO0" objectID1="se16" />
+<SRLINK id="srole22" toID="e11" toText="done" fromID="se17" fromText="Babu" objectID2="e11" relType="ARGO0" objectID1="se17" />
+<SRLINK id="srole23" toID="e12" toText="give" fromID="se17" fromText="Babu" objectID2="e12" relType="ARGO0" objectID1="se17" />
+<SRLINK id="srole24" toID="e14" toText="grunted" fromID="se53" fromText="clerk" objectID1="se53" objectID2="e14" relType="ARGO0" />
+<SRLINK id="srole25" toID="e15" toText="flung" fromID="se53" fromText="clerk" objectID1="se53" objectID2="e15" relType="ARGO0" />
+</TAGS>
+</SpaceEvalTaskv1.2>

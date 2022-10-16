@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[My father slept in what had been a pantry, off the kitchen. He had an iron bed and a broken-backed chair he kept his stack of old National Geographics on, to read when he couldn’t sleep. He turned the ceiling light off and on by a cord tied to the bed-frame. This whole arrangement seemed to me quite natural and proper for the man of the house, the father. He should sleep like a sentry with a coarse blanket for cover and an unhousebroken smell about him, of engines and tobacco. Reading and wakeful till all hours and alert all through his sleep.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="35~41" text="pantry" dcl="FALSE" dimensionality="AREA" form="NOM" type="CIVIL" />
+<PLACE id="pl1" spans="51~58" text="kitchen" dcl="FALSE" dimensionality="AREA" form="NOM" type="CIVIL" />
+<PLACE id="pl2" spans="339~344" text="house" dcl="FALSE" type="CIVIL" />
+<SPATIAL_ENTITY id="se0" spans="0~2" text="My" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se1" spans="3~9" text="father" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se2" spans="60~62" text="He" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se3" spans="75~78" text="bed" dcl="FALSE" mod="iron" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="99~104" text="chair" dcl="FALSE" mod="broken-backed" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se5" spans="105~107" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se6" spans="113~116" text="his" dcl="FALSE" />
+<SPATIAL_ENTITY id="se7" spans="117~122" text="stack" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se8" spans="130~150" text="National Geographics" dcl="FALSE" mod="old" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se9" spans="168~170" text="he" dcl="FALSE" />
+<SPATIAL_ENTITY id="se10" spans="187~189" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se11" spans="201~214" text="ceiling light" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se13" spans="231~235" text="cord" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se14" spans="248~257" text="bed-frame" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se15" spans="270~281" text="arrangement" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se16" spans="292~294" text="me" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se17" spans="328~331" text="man" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se18" spans="350~356" text="father" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="358~360" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se20" spans="381~387" text="sentry" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se21" spans="402~409" text="blanket" dcl="FALSE" mod="coarse" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se22" spans="441~446" text="smell" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se23" spans="453~456" text="him" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se24" spans="461~468" text="engines" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se25" spans="473~480" text="tobacco" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se26" spans="539~542" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se12" spans="-1~-1" text="" dcl="FALSE" comment="smell" />
+<NONMOTION_EVENT id="e0" spans="10~15" text="slept"  />
+<NONMOTION_EVENT id="e1" spans="108~112" text="kept"  />
+<NONMOTION_EVENT id="e2" spans="158~162" text="read"  />
+<NONMOTION_EVENT id="e3" spans="180~185" text="sleep"  />
+<NONMOTION_EVENT id="e4" spans="236~243" text="tied to"  />
+<NONMOTION_EVENT id="e5" spans="368~373" text="sleep"  />
+<NONMOTION_EVENT id="e6" spans="482~489" text="Reading"  />
+<NONMOTION_EVENT id="e7" spans="494~501" text="wakeful"  />
+<NONMOTION_EVENT id="e8" spans="521~526" text="alert"  />
+<NONMOTION_EVENT id="e9" spans="543~548" text="sleep"  />
+<MOTION id="m0" spans="190~196" text="turned" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<S_RELATION id="sr0" spans="16~18" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="43~46" text="off" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="123~125" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="151~153" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr4" spans="215~218" text="off" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr5" spans="223~225" text="on" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr6" spans="226~228" text="by" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="241~243" text="to" semantic_type="DIR_TOP" />
+<S_RELATION id="sr8" spans="332~334" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="447~452" text="about" semantic_type="DIR_TOP" />
+<S_RELATION id="sr10" spans="458~460" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="531~538" text="through" semantic_type="TOPOLOGICAL" />
+<QSLINK id="qsl0" fromID="se0" fromText="My" toID="pl0" toText="pantry" relType="IN" trajector="se1" landmark="pl0" trigger="sr0" />
+<QSLINK id="qsl1" fromID="se0" fromText="My" toID="pl1" toText="kitchen" relType="EC" trajector="pl0" landmark="pl1" trigger="sr1" />
+<QSLINK id="qsl2" fromID="se7" fromText="stack" toID="se8" toText="National Geographics" relType="EQ" trajector="se7" landmark="se8" trigger="sr2" />
+<QSLINK id="qsl3" fromID="se4" fromText="chair" toID="sr3" toText="on" trigger="sr3" relType="EC" trajector="se7" landmark="se4" />
+<QSLINK id="qsl4" toID="se14" toText="bed-frame" fromID="se13" fromText="cord" relType="PO" trajector="se13" landmark="se14" trigger="sr7" />
+<QSLINK id="qsl5" fromID="se11" fromText="ceiling light" toID="se13" toText="cord" relType="PO" trajector="se11" landmark="se13" trigger="sr6" />
+<QSLINK id="qsl6" fromID="se17" fromText="man" toID="pl2" toText="house" relType="EQ" trajector="se17" landmark="pl2" trigger="sr8" />
+<QSLINK id="qsl7" fromID="se22" fromText="smell" toID="se23" toText="him" relType="NTPP" trajector="se23" landmark="se22" trigger="sr9" />
+<QSLINK id="qsl8" fromID="se22" fromText="smell" toID="se12" toText="" relType="EQ" trajector="se12" landmark="se22" trigger="sr10" />
+<QSLINK id="qsl9" fromID="se3" fromText="bed" toID="pl0" toText="pantry" relType="IN" />
+<QSLINK id="qsl10" fromID="se4" fromText="chair" toID="pl0" toText="pantry" relType="IN" />
+<QSLINK id="qsl11" fromID="pl1" fromText="kitchen" toID="pl2" toText="house" relType="IN" />
+<QSLINK id="qsl12" fromID="se16" fromText="me" toID="pl2" toText="house" relType="IN" />
+<QSLINK id="qsl13" fromID="se11" fromText="ceiling light" toID="pl0" toText="pantry" relType="IN" />
+<QSLINK id="qsl14" fromID="se14" fromText="bed-frame" toID="pl0" toText="pantry" relType="IN" />
+<QSLINK id="qsl15" fromID="se13" fromText="cord" toID="pl0" toText="pantry" relType="IN" />
+<QSLINK id="qsl16" fromID="se21" fromText="blanket" toID="se3" toText="bed" relType="EC" />
+<OLINK id="ol0" toID="sr3" toText="on" fromID="se4" fromText="chair" trajector="se7" landmark="se4" trigger="sr3" frame_type="INTRINSIC" referencePt="chair" />
+<OLINK id="ol1" fromID="se10" fromText="He" toID="sr4" toText="off" trajector="se10" landmark="se11" trigger="sr4" frame_type="INTRINSIC" referencePt="ceiling light" />
+<OLINK id="ol2" toID="sr5" toText="on" fromID="se10" fromText="He" trajector="se10" landmark="se11" trigger="sr5" frame_type="INTRINSIC" referencePt="ceiling light" />
+<OLINK id="ol3" fromID="se13" fromText="cord" toID="se14" toText="bed-frame" trajector="se13" trigger="sr7" landmark="se14" frame_type="INTRINSIC" referencePt="bed frame" />
+<OLINK id="ol4" fromID="se22" fromText="smell" toID="se23" toText="him" trajector="se22" landmark="se23" trigger="sr9" frame_type="INTRINSIC" referencePt="him" />
+<METALINK id="metal0" fromID="se0" fromText="My" toID="se16" toText="me" relType="COREFERENCE" objectID1="se0" objectID2="se16" />
+<METALINK id="metal1" fromID="se1" fromText="father" toID="se2" toText="He" objectID2="se1" objectID1="se2" relType="COREFERENCE" />
+<METALINK id="metal2" toID="se5" toText="he" fromID="se1" fromText="father" objectID2="se1" objectID1="se5" relType="COREFERENCE" />
+<METALINK id="metal3" toID="se6" toText="his" fromID="se1" fromText="father" objectID2="se1" objectID1="se6" relType="COREFERENCE" />
+<METALINK id="metal4" toID="se9" toText="he" fromID="se1" fromText="father" objectID2="se1" objectID1="se9" relType="COREFERENCE" />
+<METALINK id="metal5" toID="se10" toText="He" fromID="se1" fromText="father" objectID2="se1" objectID1="se10" relType="COREFERENCE" />
+<METALINK id="metal6" toID="se17" toText="man" fromID="se1" fromText="father" objectID2="se1" objectID1="se17" relType="COREFERENCE" />
+<METALINK id="metal7" toID="se18" toText="father" fromID="se1" fromText="father" objectID2="se1" objectID1="se18" relType="COREFERENCE" />
+<METALINK id="metal8" toID="se19" toText="He" fromID="se1" fromText="father" objectID2="se1" objectID1="se19" relType="COREFERENCE" />
+<METALINK id="metal9" toID="se23" toText="him" fromID="se1" fromText="father" objectID2="se1" objectID1="se23" relType="COREFERENCE" />
+<METALINK id="metal10" toID="se26" toText="his" fromID="se1" fromText="father" objectID2="se1" objectID1="se26" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="pl0" fromText="pantry" toID="pl1" toText="kitchen" objectID1="pl0" objectID2="pl1" relType="SUBCOREFERENCE" />
+<METALINK id="metal12" fromID="se12" fromText="" toID="se24" toText="engines" relType="SUBCOREFERENCE" objectID1="se24" objectID2="se12" />
+<METALINK id="metal13" fromID="se12" fromText="" toID="se25" toText="tobacco" relType="SUBCOREFERENCE" objectID1="se25" objectID2="se12" />
+<METALINK id="metal14" fromID="se12" fromText="" toID="se22" toText="smell" relType="SPLITCOREFERENCE" objectID1="se12" objectID2="se22" />
+<METALINK id="metal15" fromID="se7" fromText="stack" toID="se8" toText="National Geographics" objectID1="se7" objectID2="se8" relType="COREFERENCE" />
+<METALINK id="metal17" fromID="se14" fromText="bed-frame" toID="se3" toText="bed" objectID1="se14" objectID2="se3" relType="SUBCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

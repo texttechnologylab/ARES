@@ -1,0 +1,14 @@
+Total Sentences: 511
+Total Tokens: 13605
+Total Entities: 2389
+Total Relations: 457
+
+Entity Recall: 0.7488488907492675
+Entity Precision: 0.6224773834377174
+Entity F1: 0.6798403952118564
+Relation Recall: 0.18818380743982493
+Relation Precision: 0.28859060402684567
+Relation F1: 0.22781456953642384
+
+Annotation Diff Relation Type Amount: 34
+Spacy Diff Relation Type Amount: 83

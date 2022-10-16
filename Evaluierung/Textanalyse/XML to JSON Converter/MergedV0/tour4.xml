@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Nagasaki
+Nagasaki, capital and largest city of Nagasaki ken (prefecture), western Kyushu, Japan, located at the mouth of the Urakami-gawa (Urakami River) where it empties into Nagasaki-kō (Nagasaki Harbour). The harbour is composed of a narrow, deep-cut bay, formed at the meeting point of Nomo-saki (Cape Nomo; south) and Nishisonoki-hantō (Nishisonoki Peninsula; northwest). The city is shaped like an amphitheatre, with its crooked streets and tiered houses clinging to the hillsides that enclose the inner bay. Reclaimed land at bayside and the Urakami Basin provide some level land. Although the perception is that the city is totally modern and rebuilt since 1945, actually Nagasaki has a number of areas where old buildings and temples remain. Nagasaki was Japan’s second oldest port open to foreign trade (after Hirado). It was the only Japanese port permitted by the Tokugawa shogunate (military government) between 1639 and 1859 when all other ports were closed. In the early 20th century the city became a major shipbuilding centre; it was this industry that led to Nagasaki’s being chosen as a target for the second atomic bomb dropped on Japan by the United States in World War II. Nagasaki is an important tourist centre; its industry is still based upon its large shipyards, which are grouped along the western and inner parts of the harbour. The city also contains numerous historic sites. The Sofuku-ji (Chinese Temple; 1629) is a fine example of Chinese Ming dynasty architecture, inhabited by Chinese Buddhist monks. A fine view of Nagasaki-kō is offered by the Glover Mansion, the home of a 19th-century British merchant and reputed to be the site of Giacomo Puccini’s opera Madama Butterfly. Peace Park, on the Urakami-gawa, was established under the point of detonation of the bomb. The Roman Catholic cathedral of Urakami (built in 1959 to replace the original 1914 cathedral that was destroyed by the bomb) overlooks the park.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="0~8" text="Nagasaki" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl1" spans="9~17" text="Nagasaki" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl2" spans="19~26" text="capital" dcl="FALSE" type="PPL" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl3" spans="31~43" text="largest city" dcl="FALSE" type="PPL" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl4" spans="47~59" text="Nagasaki ken" dcl="FALSE" type="PPLA" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl5" spans="74~88" text="western Kyushu" dcl="FALSE" type="PPLA" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl6" spans="90~95" text="Japan" dcl="FALSE" type="COUNTRY" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl7" spans="112~137" text="mouth of the Urakami-gawa" dcl="FALSE" type="PPLA" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl8" spans="139~152" text="Urakami River" dcl="FALSE" type="BODYOFWATER" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl9" spans="176~187" text="Nagasaki-kō" dcl="FALSE" type="PPLA" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl10" spans="189~205" text="Nagasaki Harbour" dcl="FALSE" type="PPLA" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl11" spans="212~219" text="harbour" dcl="FALSE" type="PPLA" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl12" spans="290~299" text="Nomo-saki" dcl="FALSE" type="PPLA" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl13" spans="301~310" text="Cape Nomo" dcl="FALSE" type="MTN" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl14" spans="323~340" text="Nishisonoki-hantō" dcl="FALSE" type="PPLA" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl15" spans="342~363" text="Nishisonoki Peninsula" dcl="FALSE" type="PPLA" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl16" spans="381~385" text="city" dcl="FALSE" type="PPL" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl17" spans="427~442" text="crooked streets" dcl="FALSE" type="PPL" dimensionality="LINE" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl18" spans="447~460" text="tiered houses" dcl="FALSE" type="PPL" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl19" spans="477~486" text="hillsides" dcl="FALSE" type="MTN" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl20" spans="504~513" text="inner bay" dcl="FALSE" dimensionality="AREA" type="PPL" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl21" spans="515~529" text="Reclaimed land" dcl="FALSE" type="PPL" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl22" spans="533~540" text="bayside" dcl="FALSE" type="PPL" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl23" spans="549~562" text="Urakami Basin" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl24" spans="680~688" text="Nagasaki" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl25" spans="705~710" text="areas" dcl="FALSE" type="PPLA" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl26" spans="751~759" text="Nagasaki" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl27" spans="764~769" text="Japan" dcl="FALSE" type="COUNTRY" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl28" spans="786~790" text="port" dcl="FALSE" type="PPL" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl29" spans="820~826" text="Hirado" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl30" spans="1003~1007" text="city" dcl="FALSE" type="PPL" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl32" spans="1077~1085" text="Nagasaki" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl33" spans="1151~1156" text="Japan" dcl="FALSE" type="COUNTRY" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl34" spans="1164~1177" text="United States" dcl="FALSE" type="COUNTRY" dimensionality="AREA" form="NAM" continent="NA" country="US" />
+<PLACE id="pl35" spans="1195~1203" text="Nagasaki" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl36" spans="1220~1234" text="tourist centre" dcl="FALSE" type="PPLA" dimensionality="AREA" form="NOM" continent="AN" country="JP" mod="important" />
+<PLACE id="pl37" spans="1362~1366" text="city" dcl="FALSE" type="PPL" dimensionality="AREA" form="NOM" continent="AN" country="JP" />
+<PLACE id="pl38" spans="1410~1419" text="Sofuku-ji" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl39" spans="1421~1435" text="Chinese Temple" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl40" spans="1551~1562" text="Nagasaki-kō" dcl="FALSE" dimensionality="AREA" form="NAM" continent="AN" country="JP" type="PPL" />
+<PLACE id="pl41" spans="1581~1595" text="Glover Mansion" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl42" spans="1713~1723" text="Peace Park" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl43" spans="1732~1744" text="Urakami-gawa" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" continent="AN" country="JP" />
+<PLACE id="pl44" spans="1809~1844" text="Roman Catholic cathedral of Urakami" dcl="FALSE" type="PPL" dimensionality="AREA" continent="AN" country="JP" form="NAM" />
+<PLACE id="pl31" spans="273~286" text="meeting point" dcl="FALSE" form="NOM" dimensionality="AREA" type="CIVIL" />
+<PLACE id="pl45" spans="582~586" text="land" dcl="FALSE" dimensionality="VOLUME" mod="level" form="NOM" type="CIVIL" />
+<PLACE id="pl46" spans="624~628" text="city" dcl="FALSE" type="PPL" dimensionality="VOLUME" form="NOM" />
+<PLACE id="pl47" spans="845~858" text="Japanese port" dcl="FALSE" type="PPL" form="NOM" dimensionality="AREA" />
+<PLACE id="pl48" spans="954~959" text="ports" dcl="FALSE" dimensionality="AREA" form="NOM" />
+<PLACE id="pl49" spans="1349~1356" text="harbour" dcl="FALSE" dimensionality="AREA" form="NOM" />
+<PLACE id="pl50" spans="1772~1803" text="point of detonation of the bomb" dcl="FALSE" dimensionality="POINT" form="NOM" />
+<PLACE id="pl51" spans="1945~1949" text="park" dcl="FALSE" dimensionality="AREA" form="NOM" />
+<PLACE id="pl52" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl53" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl54" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="876~894" text="Tokugawa shogunate" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se1" spans="896~915" text="military government" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se2" spans="1023~1042" text="shipbuilding centre" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" mod="major" />
+<SPATIAL_ENTITY id="se3" spans="1464~1484" text="Chinese Ming dynasty" dcl="FALSE" type="FAC" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se4" spans="1512~1534" text="Chinese Buddhist monks" dcl="FALSE" type="PERSON" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se5" spans="1624~1640" text="British merchant" dcl="FALSE" form="NOM" countable="TRUE" type="PERSON" />
+<SPATIAL_ENTITY id="se6" spans="1671~1686" text="Giacomo Puccini" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se7" spans="1695~1711" text="Madama Butterfly" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se8" spans="404~416" text="amphitheatre" dcl="FALSE" type="FAC" form="NAM" />
+<SPATIAL_ENTITY id="se10" spans="735~742" text="temples" dcl="FALSE" type="FAC" form="NOM" mod="old" />
+<SPATIAL_ENTITY id="se11" spans="721~730" text="buildings" dcl="FALSE" mod="old" type="FAC" form="NOM" />
+<SPATIAL_ENTITY id="se12" spans="799~812" text="foreign trade" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se13" spans="1128~1139" text="atomic bomb" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se14" spans="1181~1193" text="World War II" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se15" spans="1390~1404" text="historic sites" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se16" spans="1601~1605" text="home" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se17" spans="1799~1803" text="bomb" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se18" spans="1056~1064" text="industry" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="1875~1898" text="original 1914 cathedral" dcl="FALSE" type="FAC" form="NAM" />
+<SPATIAL_ENTITY id="se20" spans="1925~1929" text="bomb" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se9" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se21" spans="1240~1248" text="industry" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<NONMOTION_EVENT id="e0" spans="220~231" text="is composed"  />
+<NONMOTION_EVENT id="e1" spans="389~395" text="shaped"  />
+<NONMOTION_EVENT id="e2" spans="492~499" text="enclose"  />
+<NONMOTION_EVENT id="e3" spans="1008~1014" text="became"  />
+<NONMOTION_EVENT id="e4" spans="1094~1100" text="chosen"  />
+<NONMOTION_EVENT id="e5" spans="1846~1851" text="built"  />
+<NONMOTION_EVENT id="e6" spans="859~868" text="permitted"  />
+<NONMOTION_EVENT id="e7" spans="960~971" text="were closed"  />
+<NONMOTION_EVENT id="e8" spans="1070~1073" text="led"  />
+<NONMOTION_EVENT id="e9" spans="1300~1308" text="grouped "  />
+<NONMOTION_EVENT id="e10" spans="1372~1380" text="contains"  />
+<NONMOTION_EVENT id="e11" spans="1499~1508" text="inhabited"  />
+<NONMOTION_EVENT id="e12" spans="1566~1573" text="offered"  />
+<NONMOTION_EVENT id="e13" spans="1645~1652" text="reputed"  />
+<NONMOTION_EVENT id="e14" spans="1746~1761" text="was established"  />
+<MOTION id="m0" spans="1140~1147" text="dropped" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m1" spans="1931~1940" text="overlooks" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="1863~1870" text="replace" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m3" spans="1904~1917" text="was destroyed" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m4" spans="1846~1851" text="built" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<S_RELATION id="sr0" spans="44~46" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="105~107" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="312~317" text="south" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr3" spans="365~374" text="northwest" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr4" spans="470~472" text="to" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="530~532" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="1725~1727" text="on" semantic_type="TOPOLOGICAL" />
+<MEASURE id="me0" spans="571~575" text="some" value="some" />
+<MEASURE id="me1" spans="695~704" text="number of" value="number of" />
+<MEASURE id="me2" spans="840~844" text="only" value="1" />
+<MEASURE id="me3" spans="948~953" text="other" value="other" />
+<MEASURE id="me4" spans="1381~1389" text="numerous" value="numerous" />
+<QSLINK id="qsl0" fromID="pl3" fromText="largest city" toID="pl4" toText="Nagasaki ken" relType="NTPP" trigger="sr0" />
+<QSLINK id="qsl1" fromID="pl1" fromText="Nagasaki" toID="pl7" toText="mouth of the Urakami-gawa" relType="TPP" trigger="sr1" />
+<QSLINK id="qsl2" fromID="pl17" fromText="crooked streets" toID="pl19" toText="hillsides" relType="EC" trigger="sr2" />
+<QSLINK id="qsl3" fromID="pl19" fromText="hillsides" toID="pl20" toText="inner bay" relType="NTPP" />
+<QSLINK id="qsl4" fromID="pl21" fromText="Reclaimed land" toID="pl22" toText="bayside" relType="EC" trigger="sr5" />
+<QSLINK id="qsl5" fromID="pl24" fromText="Nagasaki" toID="pl25" toText="areas" relType="INTPP" />
+<QSLINK id="qsl6" fromID="pl26" fromText="Nagasaki" toID="pl27" toText="Japan" relType="NTPP" />
+<QSLINK id="qsl7" fromID="pl42" fromText="Peace Park" toID="pl43" toText="Urakami-gawa" relType="NTPP" trigger="sr6" />
+<OLINK id="ol0" fromID="pl14" fromText="Nishisonoki-hantō" toID="pl15" toText="Nishisonoki Peninsula" trigger="sr3" frame_type="RELATIVE" />
+<OLINK id="ol1" fromID="pl12" fromText="Nomo-saki" toID="pl12" toText="Nomo-saki" trigger="sr2" frame_type="RELATIVE" />
+<MOVELINK id="mvl0" fromID="se13" fromText="atomic bomb" toID="pl33" toText="Japan" trigger="m0" source="se13" mover="se18" landmark="pl33" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl1" fromID="pl44" fromText="Roman Catholic cathedral of Urakami" toID="pl51" toText="park" trigger="m1" source="pl44" mover="pl44" landmark="pl51" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl2" fromID="pl44" fromText="Roman Catholic cathedral of Urakami" toID="se19" toText="original 1914 cathedral" trigger="m2" source="pl44" mover="pl44" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl3" toID="se19" toText="original 1914 cathedral" fromID="se20" fromText="bomb" trigger="m3" source="se20" mover="se20" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl4" fromID="pl44" fromText="Roman Catholic cathedral of Urakami" toID="se19" toText="original 1914 cathedral" trigger="m4" source="pl44" mover="pl44" goal_reached="UNCERTAIN" />
+<MEASURELINK id="ml0" fromID="me0" fromText="some" toID="pl45" toText="land" trajector="pl45" relType="GENERAL_DIMENSION" val="me0" landmark="pl45" />
+<MEASURELINK id="ml1" fromID="me1" fromText="number of" toID="pl25" toText="areas" trajector="pl25" relType="GENERAL_DIMENSION" val="me1" landmark="pl24" />
+<MEASURELINK id="ml2" fromID="me2" fromText="only" toID="pl47" toText="Japanese port" trajector="pl47" relType="GENERAL_DIMENSION" val="me2" landmark="pl47" />
+<MEASURELINK id="ml3" fromID="me3" fromText="other" toID="pl48" toText="ports" trajector="pl48" relType="GENERAL_DIMENSION" val="me3" landmark="pl48" />
+<MEASURELINK id="ml4" fromID="me4" fromText="numerous" toID="se15" toText="historic sites" trajector="se15" relType="GENERAL_DIMENSION" val="me4" landmark="pl37" />
+<METALINK id="metal0" fromID="pl1" fromText="Nagasaki" toID="pl3" toText="largest city" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="pl1" fromText="Nagasaki" toID="pl2" toText="capital" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="pl12" fromText="Nomo-saki" toID="pl13" toText="Cape Nomo" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="pl7" fromText="mouth of the Urakami-gawa" toID="pl7" toText="mouth of the Urakami-gawa" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="pl15" fromText="Nishisonoki Peninsula" toID="pl14" toText="Nishisonoki-hantō" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="pl26" fromText="Nagasaki" toID="pl28" toText="port" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se0" fromText="Tokugawa shogunate" toID="se1" toText="military government" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="pl30" fromText="city" toID="se2" toText="shipbuilding centre" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="pl35" fromText="Nagasaki" toID="pl36" toText="tourist centre" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="pl38" fromText="Sofuku-ji" toID="pl39" toText="Chinese Temple" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="pl0" fromText="Nagasaki" toID="pl52" toText="" objectID1="pl0" objectID2="pl52" relType="SUBCOREFERENCE" />
+<METALINK id="metal11" fromID="pl1" fromText="Nagasaki" toID="pl52" toText="" objectID1="pl1" objectID2="pl52" relType="SUBCOREFERENCE" />
+<METALINK id="metal12" fromID="pl2" fromText="capital" toID="pl52" toText="" objectID1="pl2" objectID2="pl52" relType="SPLITCOREFERENCE" />
+<METALINK id="metal13" fromID="pl3" fromText="largest city" toID="pl52" toText="" objectID1="pl3" objectID2="pl52" relType="SUBCOREFERENCE" />
+<METALINK id="metal14" fromID="pl9" fromText="Nagasaki-kō" toID="pl52" toText="" objectID1="pl9" objectID2="pl52" relType="SUBCOREFERENCE" />
+<METALINK id="metal15" fromID="pl11" fromText="harbour" toID="pl52" toText="" objectID1="pl11" objectID2="pl52" relType="SUBCOREFERENCE" />
+<METALINK id="metal16" fromID="pl52" fromText="" toID="pl4" toText="Nagasaki ken" objectID1="pl52" objectID2="pl4" relType="SPLITCOREFERENCE" />
+<METALINK id="metal17" fromID="pl11" fromText="harbour" toID="pl10" toText="Nagasaki Harbour" objectID1="pl11" objectID2="pl10" relType="COREFERENCE" />
+<METALINK id="metal18" fromID="pl12" fromText="Nomo-saki" toID="pl53" toText="" objectID1="pl53" objectID2="pl31" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="pl13" fromText="Cape Nomo" toID="pl53" toText="" objectID1="pl53" objectID2="pl12" relType="SUBCOREFERENCE" />
+<METALINK id="metal20" fromID="pl12" fromText="Nomo-saki" toID="pl53" toText="" objectID1="pl53" objectID2="pl12" relType="SUBCOREFERENCE" />
+<METALINK id="metal21" fromID="pl14" fromText="Nishisonoki-hantō" toID="pl53" toText="" objectID1="pl53" objectID2="pl14" relType="SUBCOREFERENCE" />
+<METALINK id="metal22" fromID="pl15" fromText="Nishisonoki Peninsula" toID="pl53" toText="" objectID1="pl53" objectID2="pl15" relType="SUBCOREFERENCE" />
+<METALINK id="metal23" fromID="pl53" fromText="" toID="pl31" toText="meeting point" objectID1="pl53" objectID2="pl31" relType="SPLITCOREFERENCE" />
+<METALINK id="metal24" fromID="pl16" fromText="city" toID="pl0" toText="Nagasaki" objectID1="pl16" objectID2="pl0" relType="COREFERENCE" />
+<METALINK id="metal25" fromID="se8" fromText="amphitheatre" toID="pl16" toText="city" objectID1="se8" objectID2="pl16" relType="COREFERENCE" />
+<METALINK id="metal26" fromID="pl17" fromText="crooked streets" toID="pl54" toText="" objectID1="pl17" objectID2="pl54" relType="SUBCOREFERENCE" />
+<METALINK id="metal27" fromID="pl18" fromText="tiered houses" toID="pl54" toText="" objectID1="pl18" objectID2="pl54" relType="SUBCOREFERENCE" />
+<METALINK id="metal28" fromID="pl54" fromText="" toID="se8" toText="amphitheatre" objectID1="pl54" objectID2="se8" relType="SPLITCOREFERENCE" />
+<METALINK id="metal29" fromID="pl22" fromText="bayside" toID="pl20" toText="inner bay" objectID1="pl22" objectID2="pl20" relType="COREFERENCE" />
+<METALINK id="metal30" fromID="pl45" fromText="land" toID="pl21" toText="Reclaimed land" objectID1="pl45" objectID2="pl21" relType="SUBCOREFERENCE" />
+<METALINK id="metal31" fromID="pl46" fromText="city" toID="pl0" toText="Nagasaki" objectID1="pl46" objectID2="pl0" relType="COREFERENCE" />
+<METALINK id="metal32" fromID="pl24" fromText="Nagasaki" toID="pl0" toText="Nagasaki" objectID2="pl0" objectID1="pl24" relType="COREFERENCE" />
+<METALINK id="metal33" fromID="se11" fromText="buildings" toID="se9" toText="" objectID1="se11" objectID2="se9" relType="SUBCOREFERENCE" />
+<METALINK id="metal34" fromID="se10" fromText="temples" toID="se9" toText="" objectID1="se10" objectID2="se9" relType="SUBCOREFERENCE" />
+<METALINK id="metal35" fromID="se9" fromText="" toID="pl25" toText="areas" objectID1="se9" objectID2="pl25" relType="SPLITCOREFERENCE" />
+<METALINK id="metal36" fromID="pl6" fromText="Japan" toID="pl5" toText="western Kyushu" objectID1="pl6" objectID2="pl5" relType="COREFERENCE" />
+<METALINK id="metal37" fromID="pl26" fromText="Nagasaki" toID="pl0" toText="Nagasaki" objectID1="pl26" objectID2="pl0" relType="COREFERENCE" />
+<METALINK id="metal38" fromID="pl28" fromText="port" toID="pl26" toText="Nagasaki" objectID1="pl28" objectID2="pl26" relType="COREFERENCE" />
+<METALINK id="metal39" fromID="pl47" fromText="Japanese port" toID="pl28" toText="port" objectID1="pl47" objectID2="pl28" relType="COREFERENCE" />
+<METALINK id="metal40" fromID="se1" fromText="military government" toID="se0" toText="Tokugawa shogunate" objectID1="se1" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal41" fromID="pl30" fromText="city" toID="pl0" toText="Nagasaki" relType="COREFERENCE" objectID1="pl30" objectID2="pl0" />
+<METALINK id="metal42" fromID="se18" fromText="industry" toID="se2" toText="shipbuilding centre" objectID1="se18" objectID2="se2" relType="SUBCOREFERENCE" />
+<METALINK id="metal43" fromID="pl32" fromText="Nagasaki" toID="pl0" toText="Nagasaki" relType="COREFERENCE" objectID1="pl32" objectID2="pl0" />
+<METALINK id="metal44" fromID="pl33" fromText="Japan" toID="pl6" toText="Japan" objectID1="pl33" objectID2="pl6" relType="COREFERENCE" />
+<METALINK id="metal45" fromID="pl35" fromText="Nagasaki" toID="pl0" toText="Nagasaki" objectID1="pl35" objectID2="pl0" relType="COREFERENCE" />
+<METALINK id="metal46" fromID="pl36" fromText="tourist centre" toID="pl35" toText="Nagasaki" objectID1="pl36" objectID2="pl35" relType="COREFERENCE" />
+<METALINK id="metal47" fromID="se21" fromText="industry" toID="pl36" toText="tourist centre" objectID1="se21" objectID2="pl36" relType="COREFERENCE" />
+<METALINK id="metal48" fromID="pl49" fromText="harbour" toID="pl10" toText="Nagasaki Harbour" objectID1="pl49" objectID2="pl10" relType="COREFERENCE" />
+<METALINK id="metal49" fromID="pl37" fromText="city" toID="pl0" toText="Nagasaki" objectID1="pl37" objectID2="pl0" relType="COREFERENCE" />
+<METALINK id="metal50" fromID="pl39" fromText="Chinese Temple" toID="pl38" toText="Sofuku-ji" objectID1="pl39" objectID2="pl38" relType="COREFERENCE" />
+<METALINK id="metal51" toID="se3" toText="Chinese Ming dynasty" fromID="pl38" fromText="Sofuku-ji" objectID1="pl38" objectID2="se3" relType="SUBCOREFERENCE" />
+<METALINK id="metal52" fromID="se3" fromText="Chinese Ming dynasty" toID="se15" toText="historic sites" objectID1="se3" objectID2="se15" relType="SUBCOREFERENCE" />
+<METALINK id="metal53" fromID="se4" fromText="Chinese Buddhist monks" toID="se3" toText="Chinese Ming dynasty" objectID1="se4" objectID2="se3" relType="SUBCOREFERENCE" />
+<METALINK id="metal54" fromID="se16" fromText="home" toID="pl41" toText="Glover Mansion" objectID1="se16" objectID2="pl41" relType="COREFERENCE" />
+<METALINK id="metal55" fromID="se17" fromText="bomb" toID="se13" toText="atomic bomb" objectID1="se17" objectID2="se13" relType="COREFERENCE" />
+<METALINK id="metal56" fromID="se20" fromText="bomb" toID="se17" toText="bomb" objectID1="se20" objectID2="se17" relType="COREFERENCE" />
+<METALINK id="metal57" fromID="pl51" fromText="park" toID="pl42" toText="Peace Park" objectID1="pl51" objectID2="pl42" relType="COREFERENCE" />
+<SRLINK id="srole1" fromID="pl44" fromText="Roman Catholic cathedral of Urakami" toID="e5" toText="built" relType="ARGO0" />
+<SRLINK id="srole2" fromID="pl32" fromText="Nagasaki" toID="e4" toText="chosen" relType="ARGO0" />
+<SRLINK id="srole3" fromID="pl30" fromText="city" toID="e3" toText="became" relType="ARGO0" />
+<SRLINK id="srole4" fromID="pl19" fromText="hillsides" toID="e2" toText="enclose" relType="ARGO0" />
+<SRLINK id="srole5" fromID="pl16" fromText="city" toID="e1" toText="shaped" relType="ARGO0" />
+<SRLINK id="srole6" fromID="pl11" fromText="harbour" toID="e0" toText="is composed" relType="ARGO0" />
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Ghoramara is an island about 150 kilometers south of Kolkata, located in the Sunderban Delta. Since the 1960s, climate change has caused a dramatic increases in sea level, as glacial meltwater runs off the mighty Himalayas and pours into the Bay of Bengal. For decades, the inhabitants of Ghoramara have stood on the shores and watched as their lives and homes have been perpetually washed away. Today, the island has shrunk to under five square kilometers, and the territory has shrunk to less than half its size in 1969 due to increased erosion by the sea. More than two-thirds of the population have already been forced to move away from the island. Many of the people still living on the island are farmers and fishermen who depend on the island’s resources for their livelihoods.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="0~9" text="Ghoramara" dcl="FALSE" type="PPL" comment="indian island" dimensionality="VOLUME" />
+<PLACE id="pl1" spans="16~22" text="island" dcl="FALSE" type="PPL" dimensionality="VOLUME" />
+<PLACE id="pl2" spans="53~60" text="Kolkata" dcl="FALSE" type="PPLC" comment="Hauptstadt des indischen Bundesstaates Westbengalen" dimensionality="VOLUME" />
+<PLACE id="pl3" spans="77~92" text="Sunderban Delta" dcl="FALSE" type="RGN" comment="Mangrovengebiet" dimensionality="AREA" />
+<PLACE id="pl4" spans="213~222" text="Himalayas" dcl="FALSE" comment="Der Himalaya ist ein Hochgebirgs­system in Asien" type="MTN" dimensionality="AREA" />
+<PLACE id="pl5" spans="242~255" text="Bay of Bengal" dcl="FALSE" type="BODYOFWATER" />
+<PLACE id="pl6" spans="289~298" text="Ghoramara" dcl="FALSE" dimensionality="VOLUME" type="PPL" />
+<PLACE id="pl8" spans="355~360" text="homes" dcl="FALSE" type="PPL" />
+<PLACE id="pl9" spans="407~413" text="island" dcl="FALSE" type="PPL" dimensionality="VOLUME" />
+<PLACE id="pl10" spans="466~475" text="territory" dcl="FALSE" type="PPL" dimensionality="AREA" />
+<PLACE id="pl11" spans="554~557" text="sea" dcl="FALSE" type="BODYOFWATER" />
+<PLACE id="pl12" spans="645~651" text="island" dcl="FALSE" type="PPL" dimensionality="VOLUME" />
+<PLACE id="pl13" spans="692~698" text="island" dcl="FALSE" type="PPL" dimensionality="VOLUME" />
+<PLACE id="pl14" spans="743~749" text="island" dcl="FALSE" type="PPL" dimensionality="VOLUME" />
+<PLACE id="pl15" spans="505~508" text="its" dcl="FALSE" type="PPL" dimensionality="AREA" />
+<PLACE id="pl16" spans="509~513" text="size" dcl="FALSE" />
+<PATH id="p0" spans="317~323" text="shores" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="111~125" text="climate change" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se1" spans="148~157" text="increases" dcl="FALSE" type="DYNAMIC_EVENT" mod="dramatic" form="NOM" />
+<SPATIAL_ENTITY id="se2" spans="161~170" text="sea level" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se3" spans="175~192" text="glacial meltwater" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="274~285" text="inhabitants" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se5" spans="339~344" text="their" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se6" spans="345~350" text="lives" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se7" spans="539~546" text="erosion" dcl="FALSE" type="DYNAMIC_EVENT" mod="increased" />
+<SPATIAL_ENTITY id="se8" spans="587~597" text="population" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se9" spans="665~671" text="people" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se10" spans="703~710" text="farmers" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se11" spans="715~724" text="fishermen" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se12" spans="752~761" text="resources" dcl="FALSE" type="ARTIFACT" mod="island´s" />
+<SPATIAL_ENTITY id="se13" spans="772~783" text="livelihoods" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se14" spans="-1~-1" text="" dcl="FALSE" type="PERSON" comment="farmers and fisherman" />
+<NONMOTION_EVENT id="e0" spans="62~69" text="located"  />
+<NONMOTION_EVENT id="e1" spans="126~136" text="has caused"  />
+<NONMOTION_EVENT id="e2" spans="304~309" text="stood"  />
+<NONMOTION_EVENT id="e3" spans="328~335" text="watched"  />
+<NONMOTION_EVENT id="e4" spans="678~684" text="living"  />
+<NONMOTION_EVENT id="e5" spans="729~735" text="depend"  />
+<MOTION id="m0" spans="148~157" text="increases" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m1" spans="193~197" text="runs" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="227~232" text="pours" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m3" spans="383~389" text="washed" mod="away" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" />
+<MOTION id="m4" spans="418~424" text="shrunk" motion_type="COMPOUND" motion_sense="INTRINSIC_CHANGE" comment="gets smaller" motion_class="MOVE" />
+<MOTION id="m5" spans="480~486" text="shrunk" motion_type="COMPOUND" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m6" spans="626~630" text="move" motion_class="MOVE" motion_sense="LITERAL" motion_type="PATH" />
+<S_RELATION id="sr0" spans="44~52" text="south of" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr1" spans="70~72" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="158~160" text="in" semantic_type="PATH_DEFINING" comment="Sea level still on his way." />
+<S_RELATION id="sr4" spans="198~201" text="off" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr5" spans="233~237" text="into" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr6" spans="286~288" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="310~312" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr8" spans="547~549" text="by" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="580~582" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="636~640" text="from" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr11" spans="685~687" text="on" semantic_type="DIR_TOP" />
+<MEASURE id="me0" spans="29~43" text="150 kilometers" unit="km" value="150" />
+<MEASURE id="me1" spans="434~456" text="five square kilometers" value="5" unit="km^2" />
+<MEASURE id="me2" spans="490~504" text="less than half" value="&lt;1/2" />
+<MEASURE id="me3" spans="559~579" text="More than two-thirds" value="&gt;2/3" />
+<MEASURE id="me4" spans="653~657" text="Many" value="Many" />
+<QSLINK id="qsl0" fromID="pl0" fromText="Ghoramara" toID="pl3" toText="Sunderban Delta" relType="IN" trajector="pl0" trigger="sr1" landmark="pl3" />
+<QSLINK id="qsl1" toID="pl6" toText="Ghoramara" fromID="se4" fromText="inhabitants" relType="IN" trajector="se4" landmark="pl6" trigger="sr6" />
+<QSLINK id="qsl2" toID="p0" toText="shores" fromID="se4" fromText="inhabitants" relType="EC" trajector="se4" landmark="p0" trigger="sr7" />
+<QSLINK id="qsl3" toID="pl11" toText="sea" fromID="pl10" fromText="territory" relType="EC" trajector="pl10" landmark="pl11" trigger="sr8" />
+<QSLINK id="qsl4" fromID="me3" fromText="More than two-thirds" toID="se8" toText="population" relType="EC" trajector="se8" landmark="se8" trigger="sr9" />
+<QSLINK id="qsl5" fromID="se9" fromText="people" toID="pl13" toText="island" relType="IN" trajector="se9" landmark="pl13" trigger="sr11" />
+<QSLINK id="qsl6" relType="DC" trajector="pl2" landmark="pl0" />
+<QSLINK id="qsl7" relType="EC" trajector="pl11" landmark="pl1" />
+<QSLINK id="qsl8" relType="IN" trajector="pl8" landmark="pl1" />
+<QSLINK id="qsl9" relType="IN" trajector="p0" landmark="pl1" />
+<QSLINK id="qsl10" relType="DC" trajector="pl4" landmark="pl0" />
+<QSLINK id="qsl11" relType="PO" trajector="pl3" landmark="pl11" />
+<QSLINK id="qsl12" trajector="se12" relType="EC" landmark="pl1" />
+<OLINK id="ol0" fromID="pl0" fromText="Ghoramara" toID="pl2" toText="Kolkata" referencePt="south" frame_type="ABSOLUTE" trigger="sr0" landmark="pl2" trajector="pl0" />
+<OLINK id="ol1" fromID="se4" fromText="inhabitants" toID="pl8" toText="homes" trajector="se4" landmark="p0" frame_type="INTRINSIC" trigger="sr7" referencePt="shores" />
+<OLINK id="ol2" fromID="se8" fromText="population" toID="pl12" toText="island" trajector="se8" landmark="pl12" trigger="sr10" frame_type="RELATIVE" referencePt="island" />
+<OLINK id="ol3" fromID="se9" fromText="people" toID="se13" toText="livelihoods" trajector="se9" landmark="pl13" trigger="sr11" frame_type="RELATIVE" />
+<MEASURELINK id="ml0" toID="pl2" toText="Kolkata" fromID="pl0" fromText="Ghoramara" trajector="pl1" relType="DISTANCE" val="me0" landmark="pl2" />
+<MEASURELINK id="ml1" fromID="pl9" fromText="island" toID="me1" toText="five square kilometers" trajector="pl9" landmark="pl11" relType="GENERAL_DIMENSION" val="me1" />
+<MEASURELINK id="ml2" fromID="pl10" fromText="territory" toID="pl16" toText="size" trajector="pl16" landmark="pl10" relType="GENERAL_DIMENSION" val="me2" />
+<MEASURELINK id="ml3" fromID="me3" fromText="More than two-thirds" toID="se8" toText="population" trajector="se8" landmark="se8" val="me3" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml4" fromID="me4" fromText="Many" toID="se9" toText="people" trajector="se9" landmark="se9" relType="GENERAL_DIMENSION" val="me4" />
+<METALINK id="metal0" fromID="pl0" fromText="Ghoramara" toID="pl1" toText="island" objectID1="pl0" objectID2="pl1" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="pl6" fromText="Ghoramara" toID="pl0" toText="Ghoramara" objectID1="pl6" objectID2="pl0" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="pl9" fromText="island" toID="pl1" toText="island" objectID1="pl9" objectID2="pl1" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="pl12" fromText="island" toID="pl1" toText="island" objectID1="pl12" objectID2="pl1" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="pl13" fromText="island" toID="pl1" toText="island" objectID1="pl13" objectID2="pl1" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="pl14" fromText="island" toID="pl1" toText="island" objectID1="pl14" objectID2="pl1" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="pl10" fromText="territory" toID="pl15" toText="its" objectID1="pl11" objectID2="pl15" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se4" fromText="inhabitants" toID="se5" toText="their" relType="COREFERENCE" objectID1="se4" objectID2="se5" />
+<METALINK id="metal8" fromID="se4" fromText="inhabitants" toID="se8" toText="population" relType="COREFERENCE" objectID1="se4" objectID2="se8" />
+<METALINK id="metal9" fromID="se4" fromText="inhabitants" toID="se9" toText="people" relType="COREFERENCE" objectID1="se4" objectID2="se9" />
+<METALINK id="metal10" fromID="se10" fromText="farmers" toID="se14" toText="" objectID1="se10" objectID2="se14" relType="SUBCOREFERENCE" />
+<METALINK id="metal11" fromID="se11" fromText="fishermen" toID="se14" toText="" objectID1="se11" objectID2="se14" relType="SUBCOREFERENCE" />
+<METALINK id="metal12" fromID="se14" fromText="" toID="se9" toText="people" objectID1="se14" objectID2="se9" relType="SPLITCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

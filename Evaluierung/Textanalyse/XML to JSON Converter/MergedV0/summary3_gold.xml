@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[The poorly-run Manor Farm near Willingdon, England, is ripened for rebellion from its animal populace by neglect at the hands of the irresponsible and alcoholic farmer, Mr. Jones. One night, the exalted boar, Old Major, holds a conference, at which he calls for the overthrow of humans and teaches the animals a revolutionary song called "Beasts of England". When Old Major dies, two young pigs, Snowball and Napoleon, assume command and stage a revolt, driving Mr. Jones off the farm and renaming the property "Animal Farm". They adopt the Seven Commandments of Animalism, the most important of which is, "All animals are equal". The decree is painted in large letters on one side of the barn. Snowball teaches the animals to read and write, while Napoleon educates young puppies on the principles of Animalism. To commemorate the start of Animal Farm, Snowball raises a green flag with a white hoof and horn. Food is plentiful, and the farm runs smoothly.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="15~25" text="Manor Farm" dcl="FALSE" type="CIVIL" dimensionality="AREA" mod="poorly-run" form="NAM" />
+<PLACE id="pl1" spans="31~41" text="Willingdon" dcl="FALSE" type="PPL" dimensionality="VOLUME" form="NAM" />
+<PLACE id="pl2" spans="43~50" text="England" dcl="FALSE" type="COUNTRY" dimensionality="VOLUME" form="NAM" />
+<PLACE id="pl3" spans="480~484" text="farm" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl4" spans="502~510" text="property" dcl="FALSE" mod="Animal Farm" type="CIVIL" />
+<PLACE id="pl5" spans="512~523" text="Animal Farm" dcl="FALSE" mod="∅" />
+<PLACE id="pl6" spans="689~693" text="barn" dcl="FALSE" />
+<PLACE id="pl7" spans="841~852" text="Animal Farm" dcl="FALSE" />
+<PLACE id="pl8" spans="938~942" text="farm" dcl="FALSE" />
+<PLACE id="pl9" spans="677~681" text="side" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="86~101" text="animal populace" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="67~76" text="rebellion" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se2" spans="161~167" text="farmer" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se3" spans="169~178" text="Mr. Jones" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se4" spans="184~189" text="night" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se5" spans="203~207" text="boar" dcl="FALSE" />
+<SPATIAL_ENTITY id="se6" spans="209~218" text="Old Major" dcl="FALSE" form="NAM" />
+<SPATIAL_ENTITY id="se7" spans="228~238" text="conference" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="249~251" text="he" dcl="FALSE" />
+<SPATIAL_ENTITY id="se9" spans="279~285" text="humans" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se10" spans="302~309" text="animals" dcl="FALSE" comment="no type available" mod="∅" />
+<SPATIAL_ENTITY id="se11" spans="266~275" text="overthrow" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se12" spans="326~330" text="song" dcl="FALSE" type="ARTIFACT" form="NOM" mod="revolutionary" />
+<SPATIAL_ENTITY id="se13" spans="339~356" text="Beasts of England" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se14" spans="364~373" text="Old Major" dcl="FALSE" form="NAM" />
+<SPATIAL_ENTITY id="se15" spans="390~394" text="pigs" dcl="FALSE" mod="young" form="NOM" comment="animals" />
+<SPATIAL_ENTITY id="se16" spans="396~404" text="Snowball" dcl="FALSE" form="NAM" comment="animal" />
+<SPATIAL_ENTITY id="se17" spans="409~417" text="Napoleon" dcl="FALSE" form="NAM" comment="animal" />
+<SPATIAL_ENTITY id="se18" spans="426~433" text="command" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="446~452" text="revolt" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se20" spans="462~471" text="Mr. Jones" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se21" spans="526~530" text="They" dcl="FALSE" form="NOM" comment="animals" />
+<SPATIAL_ENTITY id="se22" spans="541~572" text="Seven Commandments of Animalism" dcl="FALSE" type="ARTIFACT" form="NAM" />
+<SPATIAL_ENTITY id="se23" spans="607~628" text="All animals are equal" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se24" spans="596~601" text="which" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se25" spans="635~641" text="decree" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se26" spans="662~669" text="letters" dcl="FALSE" type="ARTIFACT" form="NOM" mod="large" />
+<SPATIAL_ENTITY id="se28" spans="695~703" text="Snowball" dcl="FALSE" form="NAM" comment="animal" />
+<SPATIAL_ENTITY id="se29" spans="716~723" text="animals" dcl="FALSE" form="NOM" />
+<SPATIAL_ENTITY id="se30" spans="749~757" text="Napoleon" dcl="FALSE" form="NAM" comment="animal" />
+<SPATIAL_ENTITY id="se31" spans="773~780" text="puppies" dcl="FALSE" form="NOM" mod="young" />
+<SPATIAL_ENTITY id="se32" spans="788~811" text="principles of Animalism" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se33" spans="854~862" text="Snowball" dcl="FALSE" comment="animal" form="NAM" />
+<SPATIAL_ENTITY id="se34" spans="878~882" text="flag" dcl="FALSE" type="ARTIFACT" form="NOM" mod="green" />
+<SPATIAL_ENTITY id="se35" spans="896~900" text="hoof" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se36" spans="905~909" text="horn" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se37" spans="911~915" text="Food" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se27" spans="-1~-1" text="" dcl="FALSE" comment="animals" />
+<SPATIAL_ENTITY id="se38" spans="-1~-1" text="" dcl="FALSE" comment="pigs" />
+<SPATIAL_ENTITY id="se39" spans="-1~-1" text="" dcl="FALSE" comment="hoof and horn" />
+<NONMOTION_EVENT id="e0" spans="55~62" text="ripened"  />
+<NONMOTION_EVENT id="e1" spans="220~225" text="holds"  />
+<NONMOTION_EVENT id="e2" spans="252~257" text="calls"  />
+<NONMOTION_EVENT id="e3" spans="704~711" text="teaches"  />
+<NONMOTION_EVENT id="e4" spans="727~731" text="read"  />
+<NONMOTION_EVENT id="e5" spans="816~827" text="commemorate"  />
+<NONMOTION_EVENT id="e6" spans="290~297" text="teaches"  />
+<NONMOTION_EVENT id="e7" spans="489~497" text="renaming"  />
+<NONMOTION_EVENT id="e8" spans="531~536" text="adopt"  />
+<MOTION id="m0" spans="374~378" text="dies" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="438~443" text="stage" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m2" spans="419~425" text="assume" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m3" spans="645~652" text="painted" motion_type="COMPOUND" motion_sense="LITERAL" motion_class="MOVE" />
+<MOTION id="m4" spans="943~947" text="runs" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m5" spans="863~869" text="raises" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="682~684" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="331~337" text="called" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="26~30" text="near" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="77~81" text="from" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr4" spans="113~115" text="at" semantic_type="DIR_TOP" />
+<S_RELATION id="sr5" spans="126~128" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="240~242" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="276~278" text="of" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr8" spans="653~655" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="670~672" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr11" spans="781~783" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr12" spans="472~475" text="off" semantic_type="PATH_DEFINING" />
+<MEASURE id="me0" spans="380~383" text="two" value="2" />
+<MEASURE id="me1" spans="380~383" text="two" value="2" />
+<MEASURE id="me2" spans="919~928" text="plentiful"  />
+<QSLINK id="qsl0" fromID="pl0" fromText="Manor Farm" toID="pl1" toText="Willingdon" relType="DC" trajector="pl0" landmark="pl1" trigger="sr2" />
+<QSLINK id="qsl1" fromID="pl9" fromText="side" toID="pl6" toText="barn" relType="TPP" trajector="pl9" landmark="pl6" trigger="sr0" />
+<QSLINK id="qsl2" fromID="se0" fromText="animal populace" toID="se2" toText="farmer" trajector="se0" landmark="se2" trigger="sr4" />
+<QSLINK id="qsl3" fromID="se6" fromText="Old Major" toID="se7" toText="conference" trigger="sr6" relType="IN" trajector="se6" landmark="se7" />
+<QSLINK id="qsl4" fromID="m3" fromText="painted" toID="se26" toText="letters" relType="IN" trajector="se26" landmark="m3" trigger="sr8" comment="?" />
+<QSLINK id="qsl5" fromID="se31" fromText="puppies" toID="se32" toText="principles of Animalism" relType="PO" trajector="se31" landmark="se32" trigger="sr11" />
+<QSLINK id="qsl6" fromID="pl0" fromText="Manor Farm" toID="pl2" toText="England" relType="IN" />
+<QSLINK id="qsl7" fromID="pl1" fromText="Willingdon" toID="pl2" toText="England" relType="IN" />
+<QSLINK id="qsl8" fromID="se1" fromText="rebellion" toID="pl0" toText="Manor Farm" relType="IN" />
+<QSLINK id="qsl9" fromID="se0" fromText="animal populace" toID="pl0" toText="Manor Farm" relType="IN" />
+<QSLINK id="qsl10" fromID="se3" fromText="Mr. Jones" toID="pl0" toText="Manor Farm" relType="IN" />
+<QSLINK id="qsl11" fromID="se20" fromText="Mr. Jones" toID="pl0" toText="Manor Farm" relType="OUT" />
+<QSLINK id="qsl12" fromID="se34" fromText="flag" toID="pl0" toText="Manor Farm" relType="IN" />
+<QSLINK id="qsl13" fromID="se7" fromText="conference" toID="pl0" toText="Manor Farm" relType="IN" />
+<QSLINK id="qsl14" fromID="se9" fromText="humans" toID="pl0" toText="Manor Farm" relType="IN" />
+<QSLINK id="qsl15" fromID="se37" fromText="Food" toID="pl0" toText="Manor Farm" relType="IN" />
+<QSLINK id="qsl16" fromID="pl6" fromText="barn" toID="pl0" toText="Manor Farm" relType="IN" />
+<OLINK id="ol0" toID="se2" toText="farmer" fromID="se0" fromText="animal populace" trigger="sr4" trajector="se2" landmark="se0" frame_type="INTRINSIC" referencePt="farmer" />
+<OLINK id="ol1" fromID="se26" fromText="letters" toID="pl9" toText="side" trajector="se26" landmark="pl9" trigger="sr9" frame_type="RELATIVE" referencePt="side" />
+<OLINK id="ol2" fromID="se31" fromText="puppies" toID="se32" toText="principles of Animalism" trajector="se31" landmark="se32" trigger="sr11" frame_type="ABSOLUTE" />
+<MEASURELINK id="ml0" fromID="me0" fromText="two" toID="se15" toText="pigs" trajector="se15" landmark="se15" relType="GENERAL_DIMENSION" val="me0" />
+<MEASURELINK id="ml1" fromID="se37" fromText="Food" toID="me2" toText="plentiful" trajector="se37" landmark="se37" relType="GENERAL_DIMENSION" val="me2" />
+<METALINK id="metal0" fromID="pl0" fromText="Manor Farm" toID="pl3" toText="farm" relType="COREFERENCE" objectID1="pl0" objectID2="pl3" />
+<METALINK id="metal1" fromID="pl3" fromText="farm" toID="pl4" toText="property" relType="COREFERENCE" objectID1="pl3" objectID2="pl4" />
+<METALINK id="metal2" fromID="pl4" fromText="property" toID="pl5" toText="Animal Farm" relType="COREFERENCE" objectID1="pl4" objectID2="pl5" />
+<METALINK id="metal3" fromID="pl7" fromText="Animal Farm" toID="pl5" toText="Animal Farm" objectID1="pl7" objectID2="pl4" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="pl8" fromText="farm" toID="pl7" toText="Animal Farm" objectID1="pl8" objectID2="pl7" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="pl1" fromText="Willingdon" toID="pl2" toText="England" objectID1="pl1" objectID2="pl8" relType="SUBCOREFERENCE" />
+<METALINK id="metal6" fromID="se1" fromText="rebellion" toID="se19" toText="revolt" objectID1="se1" objectID2="se19" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se5" fromText="boar" toID="se27" toText="" objectID1="se5" objectID2="se27" relType="SUBCOREFERENCE" />
+<METALINK id="metal8" fromID="se10" fromText="animals" toID="se27" toText="" objectID1="se10" objectID2="se27" relType="SUBCOREFERENCE" />
+<METALINK id="metal9" fromID="se15" fromText="pigs" toID="se27" toText="" objectID1="se15" objectID2="se27" relType="SUBCOREFERENCE" />
+<METALINK id="metal10" fromID="se31" fromText="puppies" toID="se27" toText="" objectID1="se31" objectID2="se27" relType="SUBCOREFERENCE" />
+<METALINK id="metal11" fromID="se27" fromText="" toID="se29" toText="animals" objectID1="se27" objectID2="se29" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se16" fromText="Snowball" toID="se38" toText="" objectID1="se16" objectID2="se38" relType="SUBCOREFERENCE" />
+<METALINK id="metal13" fromID="se17" fromText="Napoleon" toID="se38" toText="" objectID1="se17" objectID2="se38" relType="SUBCOREFERENCE" />
+<METALINK id="metal14" fromID="se15" fromText="pigs" toID="se38" toText="" objectID1="se38" objectID2="se15" relType="SPLITCOREFERENCE" />
+<METALINK id="metal15" fromID="se2" fromText="farmer" toID="se3" toText="Mr. Jones" objectID1="se3" objectID2="se2" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se20" fromText="Mr. Jones" toID="se3" toText="Mr. Jones" objectID1="se20" objectID2="se2" relType="COREFERENCE" />
+<METALINK id="metal17" toID="se5" toText="boar" fromID="se6" fromText="Old Major" objectID1="se6" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal18" fromID="se8" fromText="he" toID="se5" toText="boar" objectID1="se8" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se14" fromText="Old Major" toID="se5" toText="boar" objectID1="se14" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se11" fromText="overthrow" toID="se1" toText="rebellion" objectID1="se11" objectID2="se1" relType="SUBCOREFERENCE" />
+<METALINK id="metal21" fromID="se2" fromText="farmer" toID="se9" toText="humans" objectID1="se2" objectID2="se9" relType="SUBCOREFERENCE" />
+<METALINK id="metal22" fromID="se13" fromText="Beasts of England" toID="se12" toText="song" objectID1="se13" objectID2="se12" relType="COREFERENCE" />
+<METALINK id="metal23" fromID="se16" fromText="Snowball" toID="se28" toText="Snowball" objectID2="se16" objectID1="se28" relType="COREFERENCE" />
+<METALINK id="metal24" fromID="se33" fromText="Snowball" toID="se16" toText="Snowball" objectID2="se16" objectID1="se33" relType="COREFERENCE" />
+<METALINK id="metal25" fromID="se17" fromText="Napoleon" toID="se30" toText="Napoleon" objectID1="se17" objectID2="se30" relType="COREFERENCE" />
+<METALINK id="metal26" fromID="se21" fromText="They" toID="se15" toText="pigs" objectID1="se21" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal27" fromID="se23" fromText="All animals are equal" toID="se22" toText="Seven Commandments of Animalism" objectID1="se23" objectID2="se23" relType="SPLITCOREFERENCE" />
+<METALINK id="metal28" toID="se24" toText="which" fromID="se23" fromText="All animals are equal" objectID1="se22" objectID2="se24" relType="COREFERENCE" />
+<METALINK id="metal29" fromID="se25" fromText="decree" toID="se23" toText="All animals are equal" objectID1="se25" objectID2="se23" relType="COREFERENCE" />
+<METALINK id="metal30" fromID="se32" fromText="principles of Animalism" toID="se22" toText="Seven Commandments of Animalism" objectID1="se32" objectID2="se22" relType="COREFERENCE" />
+<METALINK id="metal31" toID="se39" toText="" fromID="se35" fromText="hoof" objectID1="se35" objectID2="se39" relType="SUBCOREFERENCE" />
+<METALINK id="metal32" toID="se39" toText="" fromID="se36" fromText="horn" objectID1="se36" objectID2="se39" relType="SUBCOREFERENCE" />
+<METALINK id="metal33" fromID="se39" fromText="" toID="se34" toText="flag" objectID1="se39" objectID2="se34" relType="SPLITCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

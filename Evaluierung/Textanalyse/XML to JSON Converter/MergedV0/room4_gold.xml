@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[A couple of high-backed settles, facing each other on either side of the fire, gave further sitting accommodations for the sociably disposed. In the middle of the room stood a long table of plain boards placed on trestles, with benches down each side. At one end of it, where an arm-chair stood pushed back, were spread the remains of the Badger’s plain but ample supper. Rows of spotless plates winked from the shelves of the dresser at the far end of the room, and from the rafters overhead hung hams, bundles of dried herbs, nets of onions, and baskets of eggs. It seemed a place where heroes could fitly feast after victory, where weary harvesters could line up in scores along the table and keep their Harvest Home with mirth and song, or where two or three friends of simple tastes could sit about as they pleased and eat and smoke and talk in comfort and contentment. ]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="163~167" text="room" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl2" spans="54~65" text="either side" dcl="FALSE" />
+<PLACE id="pl3" spans="236~250" text="down each side" dcl="FALSE" />
+<PLACE id="pl4" spans="259~262" text="end" dcl="FALSE" />
+<PLACE id="pl5" spans="266~268" text="it" dcl="FALSE" />
+<PLACE id="pl6" spans="577~582" text="place" dcl="FALSE" />
+<PLACE id="pl7" spans="707~719" text="Harvest Home" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl8" spans="565~567" text="It" dcl="FALSE" />
+<PLACE id="pl1" spans="457~461" text="room" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PATH id="p0" spans="372~376" text="Rows" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="24~31" text="settles" dcl="FALSE" mod="high-backed" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se1" spans="73~77" text="fire" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se2" spans="100~114" text="accommodations" dcl="FALSE" mod="sitting" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se3" spans="132~140" text="disposed" dcl="FALSE" mod="sociably" type="PERSON" />
+<SPATIAL_ENTITY id="se4" spans="181~186" text="table" dcl="FALSE" mod="long" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se5" spans="196~202" text="boards" dcl="FALSE" type="ARTIFACT" mod="plain" />
+<SPATIAL_ENTITY id="se6" spans="279~288" text="arm-chair" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se7" spans="324~331" text="remains" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se8" spans="339~353" text="Badger’s plain" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se9" spans="364~370" text="supper" dcl="FALSE" mod="ample" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se10" spans="389~395" text="plates" dcl="FALSE" type="ARTIFACT" form="NOM" mod="spotless" />
+<SPATIAL_ENTITY id="se11" spans="412~419" text="shelves" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se12" spans="427~434" text="dresser" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se13" spans="476~483" text="rafters" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se14" spans="498~502" text="hams" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se16" spans="528~542" text="nets of onions" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se17" spans="504~511" text="bundles" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se18" spans="521~526" text="herbs" dcl="FALSE" mod="dried" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se19" spans="528~532" text="nets" dcl="FALSE" type="ARTIFACT" mod="∅" comment="Can be a place as well" />
+<SPATIAL_ENTITY id="se20" spans="536~542" text="onions" dcl="FALSE" type="ARTIFACT" mod="∅" />
+<SPATIAL_ENTITY id="se21" spans="548~555" text="baskets" dcl="FALSE" type="ARTIFACT" mod="∅" comment="can be a place as well." />
+<SPATIAL_ENTITY id="se22" spans="559~563" text="eggs" dcl="FALSE" />
+<SPATIAL_ENTITY id="se23" spans="589~595" text="heroes" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se24" spans="620~627" text="victory" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se25" spans="641~651" text="harvesters" dcl="FALSE" mod="weary" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se26" spans="686~691" text="table" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se27" spans="701~706" text="their" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se28" spans="725~730" text="mirth" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se29" spans="735~739" text="song" dcl="FALSE" type="DYNAMIC_EVENT" mod="∅" />
+<SPATIAL_ENTITY id="se30" spans="763~770" text="friends" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se31" spans="807~811" text="they" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se32" spans="850~857" text="comfort" dcl="FALSE" type="DYNAMIC_EVENT" mod="∅" />
+<SPATIAL_ENTITY id="se33" spans="862~873" text="contentment" dcl="FALSE" type="DYNAMIC_EVENT" mod="∅" />
+<SPATIAL_ENTITY id="se15" spans="213~221" text="trestles" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se34" spans="228~235" text="benches" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se35" spans="-1~-1" text="" dcl="FALSE" comment="hung " />
+<SPATIAL_ENTITY id="se36" spans="-1~-1" text="" dcl="FALSE" comment="mirth and songt" />
+<SPATIAL_ENTITY id="se37" spans="-1~-1" text="" dcl="FALSE" />
+<NONMOTION_EVENT id="e0" spans="289~294" text="stood"  />
+<NONMOTION_EVENT id="e1" spans="493~497" text="hung"  />
+<NONMOTION_EVENT id="e2" spans="696~700" text="keep"  />
+<NONMOTION_EVENT id="e3" spans="794~797" text="sit"  />
+<NONMOTION_EVENT id="e4" spans="824~827" text="eat"  />
+<NONMOTION_EVENT id="e5" spans="832~837" text="smoke"  />
+<NONMOTION_EVENT id="e6" spans="842~846" text="talk"  />
+<NONMOTION_EVENT id="e7" spans="608~613" text="feast"  />
+<MOTION id="m0" spans="203~209" text="placed" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="295~301" text="pushed" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="658~665" text="line up" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="187~189" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="142~155" text="In the middle" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="210~212" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr3" spans="223~227" text="with" semantic_type="DIR_TOP" />
+<S_RELATION id="sr4" spans="252~254" text="At" semantic_type="DIR_TOP" />
+<S_RELATION id="sr5" spans="263~265" text="of" semantic_type="DIR_TOP" />
+<S_RELATION id="sr6" spans="484~492" text="overhead" semantic_type="DIR_TOP" />
+<S_RELATION id="sr7" spans="512~514" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="533~535" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="556~558" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="435~437" text="at" semantic_type="DIR_TOP" />
+<S_RELATION id="sr11" spans="666~668" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr12" spans="676~681" text="along" semantic_type="DIR_TOP" />
+<S_RELATION id="sr13" spans="720~724" text="with" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr14" spans="847~849" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr15" spans="66~68" text="of" semantic_type="TOPOLOGICAL" />
+<MEASURE id="me0" spans="750~762" text="two or three"  />
+<MEASURE id="me1" spans="2~8" text="couple" value="couple" />
+<QSLINK id="qsl0" fromID="se4" fromText="table" toID="se5" toText="boards" trigger="sr0" relType="EQ" trajector="se4" landmark="se5" />
+<QSLINK id="qsl1" fromID="sr1" fromText="In the middle" toID="se4" toText="table" trigger="sr1" relType="IN" trajector="se4" landmark="pl0" />
+<QSLINK id="qsl2" fromID="se5" fromText="boards" toID="se15" toText="trestles" trigger="sr2" relType="EC" trajector="se5" landmark="se15" />
+<QSLINK id="qsl3" fromID="se4" fromText="table" toID="pl3" toText="down each side" trigger="sr3" relType="EC" trajector="se34" landmark="se4" />
+<QSLINK id="qsl4" fromID="sr4" fromText="At" toID="se6" toText="arm-chair" trigger="sr4" relType="DC" trajector="se6" landmark="pl5" />
+<QSLINK id="qsl5" fromID="pl4" fromText="end" toID="pl5" toText="it" trigger="sr5" relType="EQ" trajector="pl4" landmark="pl5" />
+<QSLINK id="qsl6" fromID="se11" fromText="shelves" toID="sr6" toText="overhead" trigger="sr6" trajector="se13" landmark="se11" relType="DC" />
+<QSLINK id="qsl7" fromID="se17" fromText="bundles" toID="se18" toText="herbs" trigger="sr7" relType="EQ" trajector="se17" landmark="se18" />
+<QSLINK id="qsl8" fromID="se19" fromText="nets" toID="se20" toText="onions" trigger="sr8" relType="IN" trajector="se20" landmark="se19" />
+<QSLINK id="qsl9" fromID="se21" fromText="baskets" toID="se22" toText="eggs" trigger="sr9" relType="IN" trajector="se22" landmark="se21" />
+<QSLINK id="qsl10" fromID="se12" fromText="dresser" toID="pl1" toText="room" trigger="sr10" relType="IN" trajector="se12" landmark="pl1" />
+<QSLINK id="qsl11" fromID="se25" fromText="harvesters" toID="se26" toText="table" trigger="sr11" relType="EQ" trajector="se25" landmark="scores" />
+<QSLINK id="qsl12" toID="se26" toText="table" fromID="se25" fromText="harvesters" trigger="sr12" relType="DC" trajector="scores" landmark="se26" />
+<QSLINK id="qsl13" fromID="pl7" fromText="Harvest Home" toID="se36" toText="" trigger="sr13" relType="TPP" trajector="se36" landmark="pl7" />
+<QSLINK id="qsl14" toID="se37" toText="" fromID="se31" fromText="they" trigger="sr14" relType="TPP" trajector="se31" landmark="se37" />
+<QSLINK id="qsl15" toID="se1" toText="fire" fromID="se0" fromText="settles" trigger="sr15" relType="DC" trajector="se0" landmark="se1" />
+<QSLINK id="qsl16" toID="pl0" toText="room" fromID="se0" fromText="settles" landmark="pl0" trajector="se0" relType="IN" />
+<QSLINK id="qsl17" toID="pl0" toText="room" fromID="se1" fromText="fire" landmark="pl0" trajector="se1" relType="IN" />
+<QSLINK id="qsl18" toID="pl0" toText="room" fromID="se34" fromText="benches" landmark="pl0" trajector="se34" relType="IN" />
+<QSLINK id="qsl19" toID="pl0" toText="room" fromID="se15" fromText="trestles" landmark="pl0" trajector="se15" relType="IN" />
+<QSLINK id="qsl20" toID="pl0" toText="room" fromID="se6" fromText="arm-chair" landmark="pl0" trajector="se6" relType="IN" />
+<QSLINK id="qsl22" toID="se11" toText="shelves" fromID="se10" fromText="plates" trajector="se10" landmark="se11" relType="IN" />
+<QSLINK id="qsl23" fromID="se11" fromText="shelves" toID="se12" toText="dresser" relType="TPP" trajector="se11" landmark="se12" />
+<QSLINK id="qsl24" fromID="se23" fromText="heroes" toID="pl0" toText="room" relType="IN" trajector="se23" landmark="pl0" />
+<QSLINK id="qsl25" fromID="se25" fromText="harvesters" toID="pl0" toText="room" relType="IN" landmark="pl0" trajector="se25" />
+<QSLINK id="qsl26" fromID="se30" fromText="friends" toID="pl0" toText="room" relType="IN" trajector="se30" landmark="pl0" />
+<OLINK id="ol0" fromID="se4" fromText="table" toID="se15" toText="trestles" trigger="sr2" trajector="se4" landmark="se15" frame_type="INTRINSIC" referencePt="trestles" />
+<OLINK id="ol1" fromID="se4" fromText="table" toID="se34" toText="benches" trigger="sr3" trajector="se4" landmark="se34" frame_type="INTRINSIC" referencePt="benches" />
+<OLINK id="ol2" fromID="sr4" fromText="At" toID="se6" toText="arm-chair" trigger="sr4" trajector="se6" landmark="pl5" frame_type="INTRINSIC" referencePt="table" />
+<OLINK id="ol3" fromID="se13" fromText="rafters" toID="se22" toText="eggs" trigger="sr6" frame_type="ABSOLUTE" referencePt="dresser" trajector="se13" landmark="se12" />
+<OLINK id="ol4" fromID="pl4" fromText="end" toID="pl5" toText="it" trigger="sr5" trajector="pl4" landmark="pl5" frame_type="RELATIVE" referencePt="table" />
+<OLINK id="ol5" fromID="se12" fromText="dresser" toID="pl1" toText="room" trigger="sr10" trajector="se12" landmark="pl1" frame_type="RELATIVE" referencePt="to viewer" />
+<OLINK id="ol6" fromID="se25" fromText="harvesters" toID="se26" toText="table" trigger="sr12" trajector="se25" landmark="se26" frame_type="RELATIVE" />
+<MEASURELINK id="ml0" fromID="me1" fromText="couple" toID="se0" toText="settles" trajector="se0" landmark="se0" relType="GENERAL_DIMENSION" val="me1" />
+<MEASURELINK id="ml1" fromID="me0" fromText="two or three" toID="se30" toText="friends" trajector="de30" landmark="se30" val="me0" relType="GENERAL_DIMENSION" />
+<METALINK id="metal0" fromID="se4" fromText="table" toID="pl5" toText="it" objectID1="pl5" objectID2="se4" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se4" fromText="table" toID="se26" toText="table" objectID1="se26" objectID2="se4" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="pl8" fromText="It" toID="pl1" toText="room" objectID1="pl8" objectID2="pl1" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se30" fromText="friends" toID="se31" toText="they" relType="COREFERENCE" objectID1="se30" objectID2="se31" />
+<METALINK id="metal4" fromID="se0" fromText="settles" toID="se2" toText="accommodations" objectID1="se0" objectID2="se2" relType="SPLITCOREFERENCE" />
+<METALINK id="metal5" fromID="pl0" fromText="room" toID="pl1" toText="room" relType="COREFERENCE" objectID1="pl1" objectID2="pl0" />
+<METALINK id="metal6" fromID="se7" fromText="remains" toID="se8" toText="Badger’s plain" objectID1="se7" objectID2="se8" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se35" fromText="" toID="se14" toText="hams" relType="SUBCOREFERENCE" objectID1="se14" objectID2="se35" />
+<METALINK id="metal8" fromID="se35" fromText="" toID="se18" toText="herbs" objectID1="se18" objectID2="se35" relType="SUBCOREFERENCE" />
+<METALINK id="metal9" fromID="se35" fromText="" toID="se16" toText="nets of onions" objectID1="se16" objectID2="se35" relType="SUBCOREFERENCE" />
+<METALINK id="metal10" fromID="se35" fromText="" toID="se22" toText="eggs" objectID1="se22" objectID2="se35" relType="SUBCOREFERENCE" />
+<METALINK id="metal11" fromID="se36" fromText="" toID="se28" toText="mirth" objectID1="se28" objectID2="se36 " relType="SUBCOREFERENCE" />
+<METALINK id="metal12" fromID="se36" fromText="" toID="se29" toText="song" objectID1="se29" objectID2="se36" relType="SUBCOREFERENCE" />
+<METALINK id="metal13" fromID="se37" fromText="" toID="se33" toText="contentment" objectID2="se37" objectID1="se33" relType="SUBCOREFERENCE" />
+<METALINK id="metal14" fromID="se37" fromText="" toID="se32" toText="comfort" objectID2="se37" objectID1="se32" relType="SUBCOREFERENCE" />
+<METALINK id="metal15" fromID="pl8" fromText="It" toID="pl6" toText="place" objectID1="pl8" objectID2="pl6" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

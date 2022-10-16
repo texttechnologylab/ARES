@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Santa Cruz del Islote
+From a distance, it's hard at first to determine what Santa Cruz del Islote actually is. Rising from the sea, the island -- one of the most densely populated in the world -- appears to be floating. In fact, Santa Cruz -- located in Colombia's San Bernardo Archipelago in the Gulf of Morrosquillo -- sits on a combination of raised sea bed and coral. It's one of 10 islands in the archipelago. Legend has it that fishermen from the nearby islands spent the night on Santa Cruz and decided to stay there permanently when they realized there were no mosquitoes. Locals attribute the mosquito-free environment to the absence of mangroves and beaches. Santa Cruz isn't a traditional island retreat. There's nowhere for visitors to stay. Tourists often spend the night at the neighboring Punta Faro hotel on Múcura Island, and travel to Santa Cruz by speed boat to explore for a few hours. It's like stepping into a Gabriel García Márquez novel. Santa Cruz features a dreamlike, innocent way of life (there are no police on the island), and the colorful houses are passed down through generations, so there are no non-native residents. Some estimates put about 1,200 inhabitants on the tiny island that's about the size of two soccer fields. But some say the community is smaller. Whatever the population (which is unknown as no census has been carried out for decades), Santa Cruz is a tight squeeze. About 115 houses are crammed higgledy-piggledy on top of one another, while elderly men with kind eyes and weathered faces sit out on their chairs sipping beer, teenage boys line the streets nodding their heads and swaying to champeta beats and young mothers chatter away at corner shops.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="0~21" text="Santa Cruz del Islote" dcl="FALSE" type="PPL" form="NAM" dimensionality="VOLUME" />
+<PLACE id="pl1" spans="76~97" text="Santa Cruz del Islote" dcl="FALSE" comment="DEFAULT:" type="PPL" form="NAM" dimensionality="VOLUME" />
+<PLACE id="pl2" spans="123~130" text="the sea" dcl="FALSE" comment="dimension" type="RGN" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl3" spans="132~142" text="the island" dcl="FALSE" mod="one of the most densely populated in the world" comment="=VOLUME" type="RGN" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl4" spans="229~239" text="Santa Cruz" dcl="FALSE" type="PPL" form="NAM" dimensionality="VOLUME" />
+<PLACE id="pl5" spans="254~289" text="Colombia&apos;s San Bernardo Archipelago" dcl="FALSE" type="PPL" form="NAM" dimensionality="VOLUME" />
+<PLACE id="pl6" spans="293~317" text="the Gulf of Morrosquillo" dcl="FALSE" comment="countable" type="RGN" form="NAM" dimensionality="VOLUME" />
+<PLACE id="pl7" spans="329~370" text="a combination of raised sea bed and coral" dcl="FALSE" comment="=TRUE" type="RGN" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl8" spans="372~376" text="It&apos;s" dcl="FALSE" type="RGN" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl10" spans="398~413" text="the archipelago" dcl="FALSE" type="RGN" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl11" spans="460~467" text="islands" dcl="FALSE" type="RGN" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl12" spans="616~627" text="environment" dcl="FALSE" mod="mosquitoe free" type="RGN" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl13" spans="669~679" text="Santa Cruz" dcl="FALSE" type="PPL" form="NAM" dimensionality="VOLUME" />
+<PLACE id="pl14" spans="716~723" text="There&apos;s" dcl="FALSE" type="PPL" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl15" spans="804~820" text="Punta Faro hotel" dcl="FALSE" type="PPL" form="NAM" dimensionality="VOLUME" />
+<PLACE id="pl16" spans="824~837" text="Múcura Island" dcl="FALSE" type="PPL" form="NAM" dimensionality="VOLUME" />
+<PLACE id="pl17" spans="853~863" text="Santa Cruz" dcl="FALSE" type="PPL" form="NAM" dimensionality="VOLUME" />
+<PLACE id="pl18" spans="962~972" text="Santa Cruz" dcl="FALSE" type="PPL" form="NAM" dimensionality="VOLUME" />
+<PLACE id="pl19" spans="1017~1022" text="there" dcl="FALSE" type="PPL" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl20" spans="1040~1050" text="the island" dcl="FALSE" type="RGN" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl21" spans="1070~1076" text="houses" dcl="FALSE" mod="the colorfol" form="NOM" type="PPL" dimensionality="AREA" />
+<PLACE id="pl22" spans="1117~1122" text="there" dcl="FALSE" type="PPL" form="NOM" dimensionality="AREA" />
+<PLACE id="pl23" spans="1207~1213" text="island" dcl="FALSE" mod="the tiny" type="PPL" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl25" spans="1387~1396" text="Santa Cru" dcl="FALSE" form="NAM" type="PPL" dimensionality="VOLUME" />
+<PLACE id="pl26" spans="1597~1608" text="the streets" dcl="FALSE" form="NOM" dimensionality="AREA" type="RGN" />
+<PLACE id="pl27" spans="1693~1705" text="corner shops" dcl="FALSE" type="RGN" form="NOM" dimensionality="POINT" />
+<PLACE id="pl9" spans="555~560" text="there" dcl="FALSE" type="RGN" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl28" spans="646~655" text="mangroves" dcl="FALSE" form="NOM" type="RGN" dimensionality="AREA" />
+<PLACE id="pl29" spans="660~667" text="beaches" dcl="FALSE" type="RGN" dimensionality="AREA" form="NOM" />
+<PLACE id="pl30" spans="930~960" text="a Gabriel García Márquez novel" dcl="FALSE" dimensionality="POINT" form="NOM" comment="fictive" />
+<PLACE id="pl31" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl32" spans="518~523" text="there" dcl="FALSE" type="PPL" dimensionality="VOLUME" form="NOM" />
+<SPATIAL_ENTITY id="se0" spans="434~443" text="fishermen" dcl="FALSE" comment="DEFAULT:" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se1" spans="541~545" text="they" dcl="FALSE" comment="dimesion" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se2" spans="569~579" text="mosquitoes" dcl="FALSE" comment="=VOLUME" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se3" spans="581~587" text="Locals" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="736~744" text="visitors" dcl="FALSE" comment="countable" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se5" spans="754~762" text="Tourists" dcl="FALSE" comment="=TRUE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se6" spans="867~877" text="speed boat" dcl="FALSE" type="VEHICLE" form="NOM" />
+<SPATIAL_ENTITY id="se7" spans="1030~1036" text="police" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="1141~1150" text="residents" dcl="FALSE" mod="non-native" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se9" spans="1183~1194" text="inhabitants" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se10" spans="1262~1266" text="some" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se11" spans="1271~1284" text="the community" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se12" spans="1307~1320" text="he population" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se13" spans="1322~1327" text="which" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se14" spans="1428~1434" text="houses" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se15" spans="1502~1505" text="men" dcl="FALSE" mod="elderly.. with kind eyes and weathered faces sit on their chairs sipping beers" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se16" spans="1552~1557" text="their" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se17" spans="1558~1564" text="chairs" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se18" spans="1573~1577" text="beer" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="1587~1591" text="boys" dcl="FALSE" mod="teenage" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se20" spans="1617~1622" text="their" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se21" spans="1623~1628" text="heads" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se22" spans="1669~1676" text="mothers" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se23" spans="899~904" text="hours" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se24" spans="1644~1658" text="champeta beats" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<NONMOTION_EVENT id="e0" spans="58~75" text="to determine what" mod="its hard at first fom a distance" />
+<NONMOTION_EVENT id="e1" spans="107~109" text="is" mod="actually" />
+<NONMOTION_EVENT id="e2" spans="196~218" text="appears to be floating"  />
+<NONMOTION_EVENT id="e4" spans="415~428" text="Legend has it"  />
+<NONMOTION_EVENT id="e5" spans="469~497" text="pent the night on Santa Cruz"  />
+<NONMOTION_EVENT id="e7" spans="502~509" text="decided"  />
+<NONMOTION_EVENT id="e9" spans="510~517" text="to stay" mod="permanently" />
+<NONMOTION_EVENT id="e10" spans="546~554" text="realized" mod="there were no mosquitoes" />
+<NONMOTION_EVENT id="e11" spans="588~597" text="attribute"  />
+<NONMOTION_EVENT id="e14" spans="635~642" text="absence" mod="of m" />
+<NONMOTION_EVENT id="e15" spans="680~685" text="isn&apos;t" mod="traditional island retreat" />
+<NONMOTION_EVENT id="e16" spans="748~752" text="stay" mod="nowhere for " />
+<NONMOTION_EVENT id="e17" spans="769~784" text="spend the night" mod="often" />
+<NONMOTION_EVENT id="e18" spans="878~888" text="to explore" mod="for a few hours" />
+<NONMOTION_EVENT id="e19" spans="906~910" text="It&apos;s" mod="like " />
+<NONMOTION_EVENT id="e21" spans="982~1015" text="a dreamlike, innocent way of life"  />
+<NONMOTION_EVENT id="e22" spans="1023~1029" text="are no"  />
+<NONMOTION_EVENT id="e23" spans="1077~1092" text="are passed down" mod="through generations" />
+<NONMOTION_EVENT id="e24" spans="1123~1129" text="are no"  />
+<NONMOTION_EVENT id="e25" spans="1153~1170" text="ome estimates put"  />
+<NONMOTION_EVENT id="e26" spans="1267~1270" text="say"  />
+<NONMOTION_EVENT id="e27" spans="1285~1287" text="is" mod="smaller" />
+<NONMOTION_EVENT id="e28" spans="1328~1338" text="is unknown" mod="as no.." />
+<NONMOTION_EVENT id="e29" spans="1345~1351" text="census" mod="has been carried out for decades" />
+<NONMOTION_EVENT id="e30" spans="1398~1400" text="is" mod="a T I G H T" />
+<NONMOTION_EVENT id="e31" spans="1409~1416" text="squeeze"  />
+<NONMOTION_EVENT id="e32" spans="1435~1446" text="are crammed" mod="higgledy-piggledy" />
+<NONMOTION_EVENT id="e33" spans="1541~1548" text="sit out" mod="on their " />
+<NONMOTION_EVENT id="e34" spans="1565~1572" text="sipping"  />
+<NONMOTION_EVENT id="e35" spans="1592~1596" text="line"  />
+<NONMOTION_EVENT id="e36" spans="1677~1689" text="chatter away"  />
+<MOTION id="m0" spans="111~117" text="Rising" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m1" spans="916~924" text="stepping" motion_type="PATH" motion_class="MOVE_EXTERNAL" motion_sense="FICTIVE" />
+<MOTION id="m2" spans="1609~1616" text="nodding" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m3" spans="1633~1640" text="swaying" mod="to campeta beats" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m4" spans="1541~1548" text="sit out" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m5" spans="878~888" text="to explore" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m6" spans="510~517" text="to stay" motion_type="MANNER" motion_class="STAY" motion_sense="LITERAL" />
+<MOTION id="m7" spans="843~849" text="travel" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="118~122" text="from" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr1" spans="243~253" text="located in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="290~292" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="321~328" text="sits on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr4" spans="453~459" text="nearby" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr6" spans="785~787" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="788~803" text="the neighboring" semantic_type="DIR_TOP" />
+<S_RELATION id="sr8" spans="821~823" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="850~852" text="to" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="925~929" text="into" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr12" spans="1037~1039" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr13" spans="1195~1197" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr14" spans="1465~1486" text="on top of one another" semantic_type="DIR_TOP" />
+<S_RELATION id="sr15" spans="1549~1551" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr16" spans="1690~1692" text="at" semantic_type="TOPOLOGICAL" />
+<EVENT_PATH id="ep1" spans="906~961" text="It&apos;s like stepping into a Gabriel García Márquez novel." trigger="m1" beginID="pl31" endID="pl30" />
+<EVENT_PATH id="ep2" spans="843~863" text="travel to Santa Cruz" trigger="m7" beginID="pl16" endID="pl17" />
+<MEASURE id="me0" spans="377~386" text="one of 10" value="1/10" />
+<MEASURE id="me1" spans="566~568" text="no" value="0" />
+<MEASURE id="me2" spans="1177~1182" text="1,200" value="1.200" />
+<MEASURE id="me4" spans="1231~1256" text="size of two soccer fields" value="2" />
+<MEASURE id="me5" spans="1202~1206" text="tiny" value="tiny" />
+<MEASURE id="me6" spans="1342~1344" text="no" value="0" />
+<MEASURE id="me7" spans="1418~1427" text="About 115" value="115" />
+<MEASURE id="me8" spans="1288~1295" text="smaller" value="smaller" />
+<MEASURE id="me9" spans="893~898" text="a few" value="a few" />
+<QSLINK id="qsl0" fromID="pl4" fromText="Santa Cruz" toID="pl5" toText="Colombia&apos;s San Bernardo Archipelago" relType="IN" comment="in" trajector="sr1" />
+<QSLINK id="qsl1" fromID="pl5" fromText="Colombia&apos;s San Bernardo Archipelago" toID="pl6" toText="the Gulf of Morrosquillo" trajector="sr2" comment="in" relType="IN" />
+<QSLINK id="qsl2" fromID="pl5" fromText="Colombia&apos;s San Bernardo Archipelago" toID="pl7" toText="a combination of raised sea bed and coral" trajector="sr3" comment="in" relType="IN" />
+<QSLINK id="qsl3" fromID="pl8" fromText="It&apos;s" toID="pl10" toText="the archipelago" comment="in" trajector="sr4" relType="IN" />
+<QSLINK id="qsl4" fromID="pl15" fromText="Punta Faro hotel" toID="pl16" toText="Múcura Island" trajector="sr8" relType="EC" comment="on" />
+<QSLINK id="qsl5" fromID="se7" fromText="police" toID="pl20" toText="the island" trajector="sr12" relType="EC" comment="on" />
+<QSLINK id="qsl6" fromID="se9" fromText="inhabitants" toID="pl20" toText="the island" comment="on" trajector="sr14" relType="EC" />
+<QSLINK id="qsl7" fromID="se15" fromText="men" toID="se17" toText="chairs" relType="EC" trajector="sr15" comment="on" />
+<QSLINK id="qsl8" fromID="se22" fromText="mothers" toID="pl27" toText="corner shops" relType="TPP" trajector="sr17" comment="at" />
+<MOVELINK id="mvl0" toID="pl3" toText="the island" fromID="pl2" fromText="the sea" trigger="m0" mover="pl2" source="pl2" landmark="pl3" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl2" toID="se21" toText="heads" fromID="se19" fromText="boys" trigger="m2" mover="se19" source="se19" landmark="pl26" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl3" fromID="se19" fromText="boys" toID="se24" toText="champeta beats" trigger="m3" mover="se19" source="se19" landmark="pl26" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl4" fromID="se15" fromText="men" toID="se16" toText="their" trigger="m4" mover="se15" source="se15" landmark="pl25" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl5" fromID="se5" fromText="Tourists" toID="pl17" toText="Santa Cruz" trigger="m7" mover="se5" source="se5" landmark="pl17" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl8" fromID="se0" fromText="fishermen" toID="pl32" toText="there" trigger="m6" mover="se0" source="se0" landmark="pl32" goal_reached="UNCERTAIN" />
+<MEASURELINK id="ml1" fromID="me1" fromText="no" toID="se2" toText="mosquitoes" trajector="m1" relType="GENERAL_DIMENSION" landmark="pl9" />
+<MEASURELINK id="ml2" fromID="me2" fromText="1,200" toID="se9" toText="inhabitants" trajector="m2" relType="GENERAL_DIMENSION" landmark="pl23" />
+<MEASURELINK id="ml4" fromID="me4" fromText="size of two soccer fields" toID="pl23" toText="island" trajector="m4" relType="GENERAL_DIMENSION" landmark="pl23" />
+<MEASURELINK id="ml5" fromID="me5" fromText="tiny" toID="pl23" toText="island" trajector="m5" relType="GENERAL_DIMENSION" landmark="pl23" />
+<MEASURELINK id="ml6" toID="e29" toText="census" fromID="me6" fromText="no" trajector="m6" relType="GENERAL_DIMENSION" landmark="pl0" />
+<MEASURELINK id="ml7" fromID="me7" fromText="About 115" toID="se14" toText="houses" relType="GENERAL_DIMENSION" trajector="se14" landmark="pl25" />
+<MEASURELINK id="ml8" fromID="me8" fromText="smaller" toID="se11" toText="the community" relType="GENERAL_DIMENSION" trajector="se11" landmark="pl0" />
+<MEASURELINK id="ml9" fromID="me9" fromText="a few" toID="se23" toText="hours" relType="GENERAL_DIMENSION" trajector="se23" landmark="pl7" />
+<METALINK id="metal7" fromID="pl0" fromText="Santa Cruz del Islote" toID="pl1" toText="Santa Cruz del Islote" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="pl3" fromText="the island" toID="pl0" toText="Santa Cruz del Islote" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="pl4" fromText="Santa Cruz" toID="pl0" toText="Santa Cruz del Islote" relType="COREFERENCE" />
+<METALINK id="metal10" toID="pl6" toText="the Gulf of Morrosquillo" fromID="pl5" fromText="Colombia&apos;s San Bernardo Archipelago" relType="SUBCOREFERENCE" />
+<METALINK id="metal11" fromID="pl13" fromText="Santa Cruz" toID="pl6" toText="the Gulf of Morrosquillo" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se0" fromText="fishermen" toID="se1" toText="they" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="pl17" fromText="Santa Cruz" toID="pl0" toText="Santa Cruz del Islote" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="e18" fromText="to explore" toID="e19" toText="It&apos;s" relType="COREFERENCE" />
+<METALINK id="metal15" fromID="pl18" fromText="Santa Cruz" toID="pl0" toText="Santa Cruz del Islote" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="pl23" fromText="island" toID="pl0" toText="Santa Cruz del Islote" relType="COREFERENCE" />
+<METALINK id="metal17" fromID="se11" fromText="the community" toID="se9" toText="inhabitants" relType="COREFERENCE" />
+<METALINK id="metal18" fromID="se12" fromText="he population" toID="se9" toText="inhabitants" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se13" fromText="which" toID="se9" toText="inhabitants" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="pl25" fromText="Santa Cru" toID="pl0" toText="Santa Cruz del Islote" relType="COREFERENCE" />
+<SRLINK id="srole0" relType="ARGO0" />
+<SRLINK id="srole1" relType="ARGO0" />
+<SRLINK id="srole2" relType="ARGO0" />
+<SRLINK id="srole3" relType="ARGO0" />
+<SRLINK id="srole4" relType="ARGO0" />
+<SRLINK id="srole5" relType="ARGO0" />
+<SRLINK id="srole6" relType="ARGO0" />
+<SRLINK id="srole7" relType="ARGO0" />
+<SRLINK id="srole8" relType="ARGO0" />
+<SRLINK id="srole9" relType="ARGO0" />
+<SRLINK id="srole10" relType="ARGO0" />
+<SRLINK id="srole11" relType="ARGO0" />
+<SRLINK id="srole12" relType="ARGO0" />
+<SRLINK id="srole13" relType="ARGO0" />
+<SRLINK id="srole14" fromID="pl1" fromText="Santa Cruz del Islote" toID="e1" toText="is" relType="ARGO0" />
+<SRLINK id="srole15" fromID="pl3" fromText="the island" toID="e2" toText="appears to be floating" relType="ARGO0" />
+<SRLINK id="srole16" fromID="se0" fromText="fishermen" toID="e5" toText="pent the night on Santa Cruz" relType="ARGO0" />
+<SRLINK id="srole17" fromID="se0" fromText="fishermen" toID="e7" toText="decided" relType="ARGO0" />
+<SRLINK id="srole18" fromID="se1" fromText="they" toID="e10" toText="realized" relType="ARGO0" />
+<SRLINK id="srole19" fromID="se3" fromText="Locals" toID="e11" toText="attribute" relType="ARGO0" />
+<SRLINK id="srole20" fromID="pl13" fromText="Santa Cruz" toID="e15" toText="isn&apos;t" relType="ARGO0" />
+<SRLINK id="srole21" fromID="se5" fromText="Tourists" toID="e17" toText="spend the night" relType="ARGO0" />
+<SRLINK id="srole23" fromID="se5" fromText="Tourists" toID="e18" toText="to explore" relType="ARGO0" />
+<SRLINK id="srole24" fromID="pl21" fromText="houses" toID="e23" toText="are passed down" relType="ARGO0" />
+<SRLINK id="srole25" fromID="se10" fromText="some" toID="e26" toText="say" relType="ARGO0" />
+<SRLINK id="srole26" fromID="pl25" fromText="Santa Cru" toID="e30" toText="is" relType="ARGO0" />
+<SRLINK id="srole27" fromID="se14" fromText="houses" toID="e32" toText="are crammed" relType="ARGO0" />
+<SRLINK id="srole28" fromID="se15" fromText="men" toID="e33" toText="sit out" relType="ARGO0" />
+<SRLINK id="srole29" fromID="se19" fromText="boys" toID="e35" toText="line" relType="ARGO0" />
+<SRLINK id="srole30" fromID="se22" fromText="mothers" toID="e36" toText="chatter away" relType="ARGO0" />
+<SRLINK id="srole31"  />
+<SRLINK id="srole32"  />
+<SRLINK id="srole33"  />
+<SRLINK id="srole34"  />
+<SRLINK id="srole35"  />
+<SRLINK id="srole36"  />
+<SRLINK id="srole37"  />
+</TAGS>
+</SpaceEvalTaskv1.2>

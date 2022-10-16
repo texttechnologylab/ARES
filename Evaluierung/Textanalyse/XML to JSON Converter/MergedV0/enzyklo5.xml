@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Die neuen wissenschaftlichen Gesellschaften, denen 1836 der Verein für Geographie und Statistik, 1845 der Ärztlicher Verein und 1855 der Mikroskopischer Verein[12] folgten, siedelten sich auf dem Gelände der Senckenbergischen Stiftung am Eschenheimer Tor an, das auf diese Weise zum ersten wissenschaftlichen Campus Frankfurts wurde. Ihre Buchbestände führen sie in einer gemeinsamen Sammlung zusammen, der Senckenbergischen Bibliothek, die mit rund 90.000 Bänden Anfang des 20. Jahrhunderts bereits eine der größten naturwissenschaftlichen und medizinischen Bibliotheken Deutschlands war.[13] Die Gründung der Universität geht wesentlich auf das Engagement des Frankfurter Oberbürgermeisters Franz Adickes zurück. Es war Adickes’ Wunsch, neben der Ansiedlung von Industrieunternehmen in Frankfurt auch Kultur- und Bildungsstätten zu fördern. Zu diesem Zweck unterstützte er alle Initiativen, die zielgerichtet auf eine Universität hinführen mussten. Einen Weggefährten fand er in Wilhelm Merton, dem Gründer der Metallgesellschaft, der ebenfalls davon überzeugt war, dass zwischen dem Handel und der Industrie, aber auch der sozialen Wohlfahrt und der Wissenschaft eine unzertrennliche Verbindung bestehe. So gründete Merton mit eigenen und fremden Mitteln 1890 das Institut für Gemeinwohl und 1901 die Akademie für Sozial- und Handelswissenschaften.Die Akademie bildete bei der Universitätsstiftung eine Keimzelle der ersten wirtschafts- und sozialwissenschaftlichen Fakultät in Deutschland. Auch die medizinische Fakultät geht wesentlich auf private Stiftungen zurück: Hannah Luise von Rothschild hatte 1890 eine Zahnklinik, das sogenannte Carolinum, gegründet. 1901 stiftete Johanna Stern, die Witwe des Bankiers Theodor Stern, eine halbe Million Mark für das Medizinische Institut zur Förderung der physiologischen Forschung. Franziska Speyer, die Witwe des Bankiers Georg Speyer, finanzierte die Errichtung eines Instituts zur Erforschung von Infektionskrankheiten, dessen Leitung 1906 dem Wissenschaftler, Arzt und späteren Nobelpreisträger Paul Ehrlich übertragen wurde. ]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="238~254" text="Eschenheimer Tor" dcl="FALSE" type="PPL" dimensionality="AREA" form="NAM" country="DE" />
+<PLACE id="pl1" spans="316~326" text="Frankfurts" dcl="FALSE" type="PPL" form="NAM" country="DE" dimensionality="VOLUME" />
+<PLACE id="pl2" spans="572~584" text="Deutschlands" dcl="FALSE" type="COUNTRY" form="NAM" country="DE" dimensionality="VOLUME" />
+<PLACE id="pl3" spans="788~797" text="Frankfurt" dcl="FALSE" type="PPL" form="NAM" country="DE" dimensionality="VOLUME" />
+<PLACE id="pl4" spans="1481~1492" text="Deutschland" dcl="FALSE" form="NAM" country="DE" type="COUNTRY" dimensionality="VOLUME" />
+<PLACE id="pl5" spans="196~203" text="Gelände" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl6" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="10~43" text="wissenschaftlichen Gesellschaften" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se1" spans="60~95" text="Verein für Geographie und Statistik" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se2" spans="106~123" text="Ärztlicher Verein" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se3" spans="137~159" text="Mikroskopischer Verein" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se4" spans="208~234" text="Senckenbergischen Stiftung" dcl="FALSE" type="FAC" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se5" spans="309~315" text="Campus" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se6" spans="359~362" text="sie" dcl="FALSE" type="PERSON" form="NOM" countable="FALSE" />
+<SPATIAL_ENTITY id="se7" spans="407~435" text="Senckenbergischen Bibliothek" dcl="FALSE" type="FAC" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se8" spans="559~571" text="Bibliotheken" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" mod="naturwissenschaftlichen und medizinischen" />
+<SPATIAL_ENTITY id="se9" spans="611~622" text="Universität" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se10" spans="674~692" text="Oberbürgermeisters" dcl="FALSE" type="PERSON" form="NOM" countable="TRUE" mod="Frankfurter" />
+<SPATIAL_ENTITY id="se11" spans="693~706" text="Franz Adickes" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se12" spans="722~729" text="Adickes" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se13" spans="872~874" text="er" dcl="FALSE" type="PERSON" form="NOM" countable="FALSE" />
+<SPATIAL_ENTITY id="se14" spans="920~931" text="Universität" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se15" spans="957~969" text="Weggefährten" dcl="FALSE" type="PERSON" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se16" spans="975~977" text="er" dcl="FALSE" type="PERSON" form="NOM" countable="FALSE" />
+<SPATIAL_ENTITY id="se17" spans="981~995" text="Wilhelm Merton" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se18" spans="1001~1008" text="Gründer" dcl="FALSE" type="PERSON" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se20" spans="1219~1225" text="Merton" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se21" spans="1267~1290" text="Institut für Gemeinwohl" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se22" spans="1304~1350" text="Akademie für Sozial- und Handelswissenschaften" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se23" spans="1355~1363" text="Akademie" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se24" spans="1427~1477" text="wirtschafts- und sozialwissenschaftlichen Fakultät" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se25" spans="1503~1524" text="medizinische Fakultät" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se27" spans="1572~1599" text="Hannah Luise von Rothschild" dcl="FALSE" type="FAC" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se28" spans="1616~1626" text="Zahnklinik" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se29" spans="1643~1652" text="Carolinum" dcl="FALSE" type="FAC" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se30" spans="1679~1692" text="Johanna Stern" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se31" spans="1698~1703" text="Witwe" dcl="FALSE" type="PERSON" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se32" spans="1717~1730" text="Theodor Stern" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se33" spans="1708~1716" text="Bankiers" dcl="FALSE" type="PERSON" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se34" spans="1764~1785" text="Medizinische Institut" dcl="FALSE" type="FAC" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se35" spans="1831~1847" text="Franziska Speyer" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se36" spans="1853~1858" text="Witwe" dcl="FALSE" type="PERSON" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se37" spans="1863~1871" text="Bankiers" dcl="FALSE" type="PERSON" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se38" spans="1872~1884" text="Georg Speyer" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se39" spans="1919~1970" text="Instituts zur Erforschung von Infektionskrankheiten" dcl="FALSE" form="NOM" countable="TRUE" type="FAC" />
+<SPATIAL_ENTITY id="se40" spans="1996~2011" text="Wissenschaftler" dcl="FALSE" type="PERSON" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se41" spans="2013~2017" text="Arzt" dcl="FALSE" type="PERSON" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se42" spans="2031~2047" text="Nobelpreisträger" dcl="FALSE" type="PERSON" form="NOM" countable="TRUE" />
+<SPATIAL_ENTITY id="se43" spans="2048~2060" text="Paul Ehrlich" dcl="FALSE" type="PERSON" form="NAM" countable="TRUE" />
+<SPATIAL_ENTITY id="se26" spans="764~784" text="Industrieunternehmen" dcl="FALSE" type="FAC" form="NOM" />
+<SPATIAL_ENTITY id="se44" spans="803~830" text="Kultur- und Bildungsstätten" dcl="FALSE" type="FAC" form="NOM" />
+<SPATIAL_ENTITY id="se45" spans="1406~1415" text="Keimzelle" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se46" spans="1820~1829" text="Forschung" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se47" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se48" spans="339~351" text="Buchbestände" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se49" spans="384~392" text="Sammlung" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se50" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se51" spans="-1~-1" text="" dcl="FALSE" />
+<NONMOTION_EVENT id="e0" spans="352~358" text="führen"  />
+<NONMOTION_EVENT id="e1" spans="834~841" text="fördern"  />
+<NONMOTION_EVENT id="e2" spans="859~871" text="unterstützte"  />
+<NONMOTION_EVENT id="e3" spans="970~974" text="fand"  />
+<NONMOTION_EVENT id="e4" spans="1053~1062" text="überzeugt"  />
+<NONMOTION_EVENT id="e5" spans="1364~1371" text="bildete"  />
+<NONMOTION_EVENT id="e6" spans="1654~1663" text="gegründet"  />
+<NONMOTION_EVENT id="e7" spans="1670~1678" text="stiftete"  />
+<NONMOTION_EVENT id="e8" spans="2061~2071" text="übertragen"  />
+<NONMOTION_EVENT id="e9" spans="1886~1897" text="finanzierte"  />
+<NONMOTION_EVENT id="e10" spans="173~182" text="siedelten"  />
+<S_RELATION id="sr0" spans="235~237" text="am" semantic_type="DIR_TOP" />
+<S_RELATION id="sr1" spans="188~191" text="auf" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="785~787" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="978~980" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="1478~1480" text="in" semantic_type="TOPOLOGICAL" />
+<MEASURE id="me0" spans="450~463" text="90.000 Bänden" value="90.000" unit="-" />
+<MEASURE id="me1" spans="1737~1755" text="halbe Million Mark" value="halbe Millionen " />
+<QSLINK id="qsl0" fromID="se4" fromText="Senckenbergischen Stiftung" toID="pl0" toText="Eschenheimer Tor" relType="EC" trigger="sr0" trajector="se4" landmark="pl0" />
+<QSLINK id="qsl1" fromID="se0" fromText="wissenschaftlichen Gesellschaften" toID="pl5" toText="Gelände" relType="NTPP" trajector="se0" landmark="pl5" trigger="sr1" />
+<QSLINK id="qsl2" toID="se7" toText="Senckenbergischen Bibliothek" fromID="se48" fromText="Buchbestände" relType="NTPP" trajector="se48" landmark="pl7" trigger="-" />
+<QSLINK id="qsl3" fromID="se26" fromText="Industrieunternehmen" toID="pl3" toText="Frankfurt" relType="NTPP" trajector="se26" landmark="pl3" trigger="sr3" />
+<QSLINK id="qsl4" fromID="se15" fromText="Weggefährten" toID="se17" toText="Wilhelm Merton" relType="EQ" trajector="se15" landmark="pl6" trigger="se17" />
+<QSLINK id="qsl5" toID="pl4" toText="Deutschland" fromID="se23" fromText="Akademie" relType="NTPP" trajector="se23" landmark="pl4" trigger="sr5" />
+<MEASURELINK id="ml0" trajector="me0" landmark="se7" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml1" trajector="me1" landmark="se34" relType="GENERAL_DIMENSION" />
+<METALINK id="metal0" fromID="se10" fromText="Oberbürgermeisters" toID="se11" toText="Franz Adickes" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se17" fromText="Wilhelm Merton" toID="se18" toText="Gründer" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se22" fromText="Akademie für Sozial- und Handelswissenschaften" toID="se23" toText="Akademie" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se28" fromText="Zahnklinik" toID="se29" toText="Carolinum" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se30" fromText="Johanna Stern" toID="se31" toText="Witwe" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se33" fromText="Bankiers" toID="se32" toText="Theodor Stern" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se37" fromText="Bankiers" toID="se38" toText="Georg Speyer" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se35" fromText="Franziska Speyer" toID="se36" toText="Witwe" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se42" fromText="Nobelpreisträger" toID="se43" toText="Paul Ehrlich" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se41" fromText="Arzt" toID="se43" toText="Paul Ehrlich" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se40" fromText="Wissenschaftler" toID="se43" toText="Paul Ehrlich" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se1" fromText="Verein für Geographie und Statistik" toID="se47" toText="" relType="SUBCOREFERENCE" />
+<METALINK id="metal12" fromID="se2" fromText="Ärztlicher Verein" toID="se47" toText="" relType="SUBCOREFERENCE" />
+<METALINK id="metal13" fromID="se3" fromText="Mikroskopischer Verein" toID="se47" toText="" relType="SUBCOREFERENCE" />
+<METALINK id="metal14" toID="se0" toText="wissenschaftlichen Gesellschaften" fromID="se47" fromText="" relType="SPLITCOREFERENCE" />
+<METALINK id="metal15" fromID="pl5" fromText="Gelände" toID="pl0" toText="Eschenheimer Tor" relType="SUBCOREFERENCE" />
+<METALINK id="metal16" fromID="se48" fromText="Buchbestände" toID="se49" toText="Sammlung" relType="COREFERENCE" />
+<METALINK id="metal17" fromID="se7" fromText="Senckenbergischen Bibliothek" toID="se8" toText="Bibliotheken" relType="SUBCOREFERENCE" />
+<METALINK id="metal18" fromID="se13" fromText="er" toID="se12" toText="Adickes" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se16" fromText="er" toID="se12" toText="Adickes" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se15" fromText="Weggefährten" toID="se17" toText="Wilhelm Merton" relType="COREFERENCE" />
+<METALINK id="metal21" fromID="se18" fromText="Gründer" toID="se17" toText="Wilhelm Merton" relType="COREFERENCE" />
+<METALINK id="metal22" fromID="se21" fromText="Institut für Gemeinwohl" toID="se50" toText="" relType="SUBCOREFERENCE" />
+<METALINK id="metal23" fromID="se22" fromText="Akademie für Sozial- und Handelswissenschaften" toID="se50" toText="" relType="SUBCOREFERENCE" />
+<METALINK id="metal24" fromID="se40" fromText="Wissenschaftler" toID="se51" toText="" relType="SUBCOREFERENCE" />
+<METALINK id="metal25" fromID="se41" fromText="Arzt" toID="se51" toText="" relType="SUBCOREFERENCE" />
+<METALINK id="metal26" fromID="se42" fromText="Nobelpreisträger" toID="se51" toText="" relType="SUBCOREFERENCE" />
+<METALINK id="metal27" toID="se43" toText="Paul Ehrlich" fromID="se51" fromText="" relType="SPLITCOREFERENCE" />
+<SRLINK id="srole0" fromID="se30" fromText="Johanna Stern" toID="e7" toText="stiftete" relType="ARGO0" />
+<SRLINK id="srole1" fromID="se27" fromText="Hannah Luise von Rothschild" toID="e6" toText="gegründet" relType="ARGO0" />
+<SRLINK id="srole2" fromID="se23" fromText="Akademie" toID="e5" toText="bildete" relType="ARGO0" />
+<SRLINK id="srole4" fromID="se12" fromText="Adickes" toID="e1" toText="fördern" relType="ARGO0" />
+<SRLINK id="srole5" fromID="se16" fromText="er" toID="e3" toText="fand" relType="ARGO0" />
+<SRLINK id="srole6" fromID="se13" fromText="er" toID="e2" toText="unterstützte" relType="ARGO0" />
+<SRLINK id="srole7" fromID="se6" fromText="sie" toID="e0" toText="führen" relType="ARGO0" />
+</TAGS>
+</SpaceEvalTaskv1.2>

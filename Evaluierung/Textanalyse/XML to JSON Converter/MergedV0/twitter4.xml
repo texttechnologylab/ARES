@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[David Cameron used 36.9% as a mandate for an EU referendum.
+Boris Johnson used 43.6% to plough ahead with Brexit during a pandemic.
+The SNP won 47.7% of the constituency vote - there is a clear mandate for an independence referendum. #bbcqt]]></TEXT>
+<TAGS>
+<SPATIAL_ENTITY id="se0" spans="0~13" text="David Cameron" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se1" spans="60~73" text="Boris Johnson" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se2" spans="30~37" text="mandate" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se4" spans="45~58" text="EU referendum" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se5" spans="106~112" text="Brexit" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se6" spans="122~130" text="pandemic" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se7" spans="136~139" text="SNP" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se8" spans="157~174" text="constituency vote" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se9" spans="194~201" text="mandate" dcl="FALSE" mod="clear" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se10" spans="209~232" text="independence referendum" dcl="FALSE" type="DYNAMIC_EVENT" />
+<NONMOTION_EVENT id="e0" spans="14~18" text="used"  />
+<NONMOTION_EVENT id="e1" spans="74~78" text="used"  />
+<NONMOTION_EVENT id="e2" spans="140~143" text="won"  />
+<NONMOTION_EVENT id="e4" spans="183~185" text="is"  />
+<NONMOTION_EVENT id="e5" spans="88~100" text="plough ahead"  />
+<MEASURE id="me0" spans="19~24" text="36.9%" value="36.9" unit="%" />
+<MEASURE id="me1" spans="79~84" text="43.6%" value="43.6" unit="%" />
+<MEASURE id="me2" spans="144~149" text="47.7%" value="47.7" />
+<MEASURELINK id="ml0" toID="me0" toText="36.9%" fromID="e0" fromText="used" val="me0" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml1" toID="me1" toText="43.6%" fromID="e1" fromText="used" val="me1" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml2" toID="me2" toText="47.7%" fromID="e2" fromText="won" val="me2" relType="GENERAL_DIMENSION" />
+<SRLINK id="srole0" fromID="se0" fromText="David Cameron" toID="e0" toText="used" relType="ARGO0" />
+<SRLINK id="srole1" fromID="se1" fromText="Boris Johnson" toID="e1" toText="used" relType="ARGO0" />
+</TAGS>
+</SpaceEvalTaskv1.2>

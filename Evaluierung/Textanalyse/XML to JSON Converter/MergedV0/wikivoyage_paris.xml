@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle: https://en.wikivoyage.org/wiki/Paris
+
+Paris, the cosmopolitan capital of France, is one of the largest agglomerations in Europe, with 2.2 million people living in the dense (105 km2) central city, 7 million people in the Métropole du Grand Paris (814 km2) and almost 12 million people living in the metropolitan area. In the centre-north of the country on the river Seine, Paris has the reputation of being the most beautiful and romantic of all cities, brimming with historic associations and remaining vastly influential in the realms of culture, art, fashion, food and design.
+
+Dubbed the City of Light (la Ville Lumière) and Capital of Fashion, it is home to some of the world's finest and most luxurious fashion designers and cosmetics, such as Chanel, Christian Dior, Yves Saint-Laurent, Guerlain, Lancôme, L'Oréal, and Clarins. A large part of the city, including the banks of the Seine, is a UNESCO World Heritage Site. The city has the second highest number of Michelin-starred restaurants in the world (after Tokyo, which is much larger) and contains numerous iconic landmarks such as the Eiffel Tower, the Arc de Triomphe, Notre-Dame de Paris, the Louvre, the Moulin Rouge and the Basilique du Sacré Cœur, making it one of the most popular international tourist destinations in the world, with around 14 million tourists annually.
+
+The city of Paris itself is officially divided into 20 districts called arrondissements, numbered from 1 to 20 in a clockwise spiral from the centre of the city (which is known as Kilomètre Zéro and is located at the front of Notre Dame). Arrondissements are named according to their number. You might, for example, stay in the "5th", which would be written as 5e in French. The 12th and 16th arrondissements include large parks: the Bois de Vincennes and the Bois de Boulogne respectively.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="46~51" text="Paris" dcl="FALSE" type="PPLC" form="NAM" mod="∅" />
+<PLACE id="pl1" spans="81~87" text="France" dcl="FALSE" type="COUNTRY" form="NAM" mod="∅" />
+<PLACE id="pl2" spans="129~135" text="Europe" dcl="FALSE" type="RGN" form="NAM" mod="∅" />
+<PLACE id="pl3" spans="381~386" text="Paris" dcl="FALSE" type="PPLC" form="NAM" mod="∅" />
+<PLACE id="pl4" spans="368~379" text="river Seine" dcl="FALSE" type="BODYOFWATER" form="NAM" mod="∅" />
+<PLACE id="pl5" spans="191~203" text="central city" dcl="FALSE" type="PPLA" form="NOM" mod="∅" />
+<PLACE id="pl6" spans="229~254" text="Métropole du Grand Paris " dcl="FALSE" type="PPLA" form="NAM" mod="∅" />
+<PLACE id="pl7" spans="307~324" text="metropolitan area" dcl="FALSE" type="PPLA" form="NOM" mod="metropolitian" />
+<PLACE id="pl8" spans="353~360" text="country" dcl="FALSE" type="COUNTRY" form="NOM" mod="∅" />
+<PLACE id="pl9" spans="600~613" text="City of Light" dcl="FALSE" type="PPLC" form="NAM" mod="∅" />
+<PLACE id="pl10" spans="615~631" text="la Ville Lumière" dcl="FALSE" type="PPLC" form="NAM" mod="∅" />
+<PLACE id="pl11" spans="637~655" text="Capital of Fashion" dcl="FALSE" type="PPLC" form="NAM" mod="∅" />
+<PLACE id="pl12" spans="663~667" text="home" dcl="FALSE" type="PPL" form="NOM" mod="∅" />
+<PLACE id="pl13" spans="908~934" text="UNESCO World Heritage Site" dcl="FALSE" type="RGN" form="NAM" mod="∅" />
+<PLACE id="pl14" spans="1014~1019" text="world" dcl="FALSE" form="NOM" mod="∅" />
+<PLACE id="pl15" spans="1027~1032" text="Tokyo" dcl="FALSE" form="NAM" type="PPLC" mod="∅" />
+<PLACE id="pl16" spans="940~944" text="city" dcl="FALSE" type="PPL" form="NOM" mod="∅" />
+<PLACE id="pl17" spans="1301~1306" text="world" dcl="FALSE" form="NOM" type="GRID" mod="∅" />
+<PLACE id="pl18" spans="883~901" text="banks of the Seine" dcl="FALSE" form="NAM" type="BODYOFWATER" mod="∅" />
+<PLACE id="pl19" spans="1355~1368" text="city of Paris" dcl="FALSE" form="NAM" type="PPLC" mod="∅" />
+<PLACE id="pl20" spans="1531~1545" text="Kilomètre Zéro" dcl="FALSE" form="NAM" type="PPLA" mod="∅" />
+<PLACE id="pl21" spans="1679~1684" text="&quot;5th&quot;" dcl="FALSE" form="NAM" type="PPLA" mod="∅" />
+<PLACE id="pl22" spans="1712~1714" text="5e" dcl="FALSE" form="NAM" type="PPLA" mod="∅" />
+<PLACE id="pl23" spans="1730~1734" text="12th" dcl="FALSE" form="NAM" type="PPLA" mod="∅" />
+<PLACE id="pl24" spans="1739~1759" text="16th arrondissements" dcl="FALSE" form="NAM" type="PPLA" mod="∅" />
+<PLACE id="pl25" spans="1493~1510" text="centre of the cit" dcl="FALSE" form="NOM" type="PPLA" mod="∅" />
+<PLACE id="pl26" spans="70~77" text="capital" dcl="FALSE" type="PPLC" form="NAM" mod="cosmopolitian" />
+<PLACE id="pl27" spans="1085~1094" text="landmarks" dcl="FALSE" type="CELESTIAL" form="NAM" mod="∅" />
+<PLACE id="pl28" spans="863~867" text="city" dcl="FALSE" type="PPLC" form="NAM" />
+<PLACE id="pl29" spans="454~460" text="cities" dcl="FALSE" type="PPLC" form="NAM" mod="most beautiful and romantic " />
+<PATH id="p0" spans="1281~1293" text="destinations" dcl="FALSE" mod="international tourist" />
+<SPATIAL_ENTITY id="se0" spans="154~160" text="people" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se1" spans="215~221" text="people" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se2" spans="286~292" text="people" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se3" spans="758~764" text="Chanel" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se4" spans="766~780" text="Christian Dior" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se5" spans="782~800" text="Yves Saint-Laurent" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se6" spans="802~810" text="Guerlain" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se7" spans="812~819" text="Lancôme" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se8" spans="821~828" text="L&apos;Oréal" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se9" spans="834~841" text="Clarins" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se10" spans="978~1006" text="Michelin-starred restaurants" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se11" spans="1107~1119" text="Eiffel Tower" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se12" spans="1125~1140" text="Arc de Triomphe" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se13" spans="1142~1161" text="Notre-Dame de Paris" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se14" spans="1167~1173" text="Louvre" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se15" spans="1179~1191" text="Moulin Rouge" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se16" spans="1200~1223" text="Basilique du Sacré Cœur" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se17" spans="1331~1339" text="tourists" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se18" spans="1406~1415" text="districts" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se19" spans="1423~1438" text="arrondissements" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se20" spans="1577~1587" text="Notre Dame" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se21" spans="1643~1646" text="You" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se22" spans="1768~1779" text="large parks" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se23" spans="1780~1802" text=" the Bois de Vincennes" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se24" spans="1811~1827" text="Bois de Boulogne" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se25" spans="725~734" text="designers" dcl="FALSE" type="PERSON" form="NOM" mod="world´s finest and most luxurious fashion" />
+<SPATIAL_ENTITY id="se26" spans="739~748" text="cosmetics" dcl="FALSE" type="PERSON" form="NOM" mod="world´s finest and most luxurious fashion" />
+<SPATIAL_ENTITY id="se27" spans="968~974" text="number" dcl="FALSE" type="FAC" form="NAM" mod="second hightest " />
+<SPATIAL_ENTITY id="se29" spans="485~497" text="associations" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="hostoric" />
+<NONMOTION_EVENT id="e0" spans="1701~1708" text="written"  />
+<NONMOTION_EVENT id="e1" spans="1390~1397" text="divided"  />
+<NONMOTION_EVENT id="e2" spans="1553~1560" text="located"  />
+<NONMOTION_EVENT id="e3" spans="1610~1615" text="named"  />
+<NONMOTION_EVENT id="e4" spans="660~662" text="is"  />
+<NONMOTION_EVENT id="e5" spans="903~905" text="is"  />
+<NONMOTION_EVENT id="e6" spans="945~948" text="has"  />
+<NONMOTION_EVENT id="e7" spans="1225~1231" text="making"  />
+<NONMOTION_EVENT id="e8" spans="1040~1042" text="is"  />
+<NONMOTION_EVENT id="e9" spans="1376~1378" text="is"  />
+<NONMOTION_EVENT id="e10" spans="502~511" text="remaining"  />
+<MOTION id="m0" spans="161~167" text="living" motion_type="MANNER" motion_class="STAY" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m1" spans="293~299" text="living" motion_type="MANNER" motion_sense="INTRINSIC_CHANGE" motion_class="STAY" />
+<MOTION id="m2" spans="1667~1671" text="stay" motion_type="MANNER" motion_class="STAY" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="168~170" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="126~128" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="222~224" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="326~345" text="In the centre-north" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr4" spans="361~363" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="668~670" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr6" spans="1007~1009" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="1294~1296" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="1060~1068" text="contains" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="1568~1573" text="front" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr10" spans="1672~1674" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="1760~1767" text="include" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr12" spans="1484~1488" text="from" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr13" spans="1398~1402" text="into" semantic_type="DIR_TOP" />
+<MEASURE id="me0" spans="142~153" text="2.2 million"  />
+<MEASURE id="me1" spans="205~213" text="7 millio"  />
+<MEASURE id="me2" spans="182~189" text="105 km2"  />
+<MEASURE id="me3" spans="255~262" text="814 km2"  />
+<MEASURE id="me4" spans="275~285" text="12 million"  />
+<MEASURE id="me5" spans="1320~1330" text="14 million"  />
+<MEASURE id="me6" spans="1403~1405" text="20"  />
+<QSLINK id="qsl0" fromID="se0" fromText="people" toID="pl5" toText="central city" trigger="sr0" relType="IN" />
+<QSLINK id="qsl1" fromID="pl0" fromText="Paris" toID="pl2" toText="Europe" trigger="sr1" relType="IN" />
+<QSLINK id="qsl2" fromID="se1" fromText="people" toID="pl6" toText="Métropole du Grand Paris " trigger="sr2" relType="IN" />
+<QSLINK id="qsl3" fromID="pl3" fromText="Paris" toID="pl4" toText="river Seine" trigger="sr4" relType="EC" />
+<QSLINK id="qsl4" fromID="se10" fromText="Michelin-starred restaurants" toID="pl14" toText="world" trigger="sr6" relType="IN" />
+<QSLINK id="qsl5" toID="pl17" toText="world" fromID="pl6" fromText="Métropole du Grand Paris " trigger="sr7" relType="IN" />
+<QSLINK id="qsl6" toID="pl16" toText="city" fromID="se11" fromText="Eiffel Tower" trigger="sr8" relType="IN" />
+<QSLINK id="qsl7" fromID="se21" fromText="You" toID="pl21" toText="&quot;5th&quot;" trigger="sr10" relType="IN" />
+<QSLINK id="qsl8" fromID="se22" fromText="large parks" toID="pl24" toText="16th arrondissements" trigger="sr11" relType="IN" />
+<OLINK id="ol1" fromID="pl20" fromText="Kilomètre Zéro" toID="se20" toText="Notre Dame" trigger="sr9" relType="front" trajector="pl20" landmark="se20" />
+<OLINK id="ol2" fromID="se19" fromText="arrondissements" toID="pl25" toText="centre of the cit" trigger="sr12" relType="from" trajector="se19" landmark="pl25" />
+<MOVELINK id="mvl0" toID="m0" toText="living" fromID="me0" fromText="2.2 million" trigger="m0" source="∅" goal="pl5" midPoint="∅" mover="se0" landmark="∅" goal_reached="YES" />
+<MOVELINK id="mvl1" toID="m1" toText="living" fromID="se2" fromText="people" trigger="m1" source="∅" goal="pl7" midPoint="∅" mover="se2" landmark="∅" goal_reached="YES" />
+<MOVELINK id="mvl2" toID="m2" toText="stay" fromID="se21" fromText="You" trigger="m2" source="∅" goal="pl21" midPoint="∅" mover="se21" landmark="∅" goal_reached="YES" />
+<MEASURELINK id="ml0" toID="me0" toText="2.2 million" fromID="se0" fromText="people" trajector="se0" landmark="m0" />
+<MEASURELINK id="ml1" toID="me1" toText="7 millio" fromID="se1" fromText="people" trajector="se1" landmark="me1" />
+<MEASURELINK id="ml2" toID="me2" toText="105 km2" fromID="pl5" fromText="central city" trajector="pl5" landmark="me2" />
+<MEASURELINK id="ml3" toID="me3" toText="814 km2" fromID="pl6" fromText="Métropole du Grand Paris " trajector="pl6" landmark="me3" />
+<MEASURELINK id="ml4" toID="me4" toText="12 million" fromID="se2" fromText="people" trajector="se2" landmark="me4" />
+<MEASURELINK id="ml5" toID="me5" toText="14 million" fromID="se17" fromText="tourists" trajector="se17" landmark="me5" />
+<MEASURELINK id="ml6" toID="me6" toText="20" fromID="se18" fromText="districts" trajector="se18" landmark="me6" />
+<METALINK id="metal0" fromID="pl0" fromText="Paris" toID="pl3" toText="Paris" objectID1="pl0" objectID2="pl3" relType="COREFERENCE" />
+<METALINK id="metal1" toID="pl6" toText="Métropole du Grand Paris " relType="SPLITCOREFERENCE" objectID1="pl0" objectID2="pl6" />
+<METALINK id="metal2" toID="pl5" toText="central city" relType="SPLITCOREFERENCE" objectID1="pl0" objectID2="pl5" />
+<METALINK id="metal3" toID="pl7" toText="metropolitan area" relType="COREFERENCE" objectID1="pl0" objectID2="pl7" />
+<METALINK id="metal4" toID="pl9" toText="City of Light" relType="COREFERENCE" objectID1="pl0" objectID2="pl9" />
+<METALINK id="metal5" toID="pl10" toText="la Ville Lumière" relType="COREFERENCE" objectID1="pl0" objectID2="pl10" />
+<METALINK id="metal6" toID="pl11" toText="Capital of Fashion" relType="COREFERENCE" objectID1="pl0" objectID2="pl11" />
+<METALINK id="metal7" toID="pl12" toText="home" relType="COREFERENCE" objectID1="pl0" objectID2="pl12" />
+<METALINK id="metal8" toID="pl16" toText="city" relType="COREFERENCE" objectID1="pl0" objectID2="pl16" />
+<METALINK id="metal9" toID="pl19" toText="city of Paris" relType="COREFERENCE" objectID1="pl0" objectID2="pl9" />
+<METALINK id="metal10" toID="pl25" toText="centre of the cit" relType="SPLITCOREFERENCE" objectID1="pl0" objectID2="pl25" />
+<METALINK id="metal11" toID="pl20" toText="Kilomètre Zéro" relType="SPLITCOREFERENCE" objectID1="pl0" objectID2="pl20" />
+<METALINK id="metal12" toID="pl21" toText="&quot;5th&quot;" relType="SPLITCOREFERENCE" objectID1="pl0" objectID2="pl21" />
+<METALINK id="metal13" toID="pl24" toText="16th arrondissements" relType="SPLITCOREFERENCE" objectID1="pl0" objectID2="pl24" />
+<METALINK id="metal14" fromID="pl21" fromText="&quot;5th&quot;" toID="pl22" toText="5e" objectID1="pl21" objectID2="pl22" relType="COREFERENCE" />
+<METALINK id="metal15" fromID="se18" fromText="districts" toID="se19" toText="arrondissements" objectID1="se18" objectID2="se19" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se22" fromText="large parks" toID="se23" toText=" the Bois de Vincennes" objectID1="se22" objectID2="se23" relType="SPLITCOREFERENCE" />
+<METALINK id="metal17" toID="se24" toText="Bois de Boulogne" objectID1="se22" objectID2="se24" relType="SPLITCOREFERENCE" />
+<METALINK id="metal18" fromID="se20" fromText="Notre Dame" toID="se13" toText="Notre-Dame de Paris" objectID1="se20" objectID2="se13" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se0" fromText="people" toID="se1" toText="people" objectID1="se0" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se0" fromText="people" toID="se2" toText="people" objectID1="se" objectID2="se2" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

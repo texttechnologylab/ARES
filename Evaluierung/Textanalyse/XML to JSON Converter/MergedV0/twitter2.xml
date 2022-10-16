@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA['The best bit about my job - and sometimes the upsetting part too - is the one-to-one contact I have with my patients. I support them with day-to-day things like shopping, cooking and even baking.'
+Martyn is a nursing associate. Find out more.]]></TEXT>
+<TAGS>
+<SPATIAL_ENTITY id="se4" spans="106~108" text="my" dcl="FALSE" />
+<SPATIAL_ENTITY id="se5" spans="109~117" text="patients" type="PERSON" form="NOM" dcl="FALSE" countable="TRUE" />
+<SPATIAL_ENTITY id="se0" spans="10~13" text="bit" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se7" spans="119~120" text="I" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se8" spans="129~133" text="them" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se13" spans="150~156" text="things" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se11" spans="198~204" text="Martyn" type="PERSON" form="NAM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se12" spans="210~227" text="nursing associate" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se2" spans="23~26" text="job" type="ARTIFACT" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se14" spans="57~61" text="part" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se3" spans="86~93" text="contact" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se6" spans="94~95" text="I" type="PERSON" form="NOM" dcl="FALSE" />
+<SPATIAL_ENTITY id="se1" spans="-1~-1" text="" dcl="FALSE" comment="shopping, cooking baking" />
+<NONMOTION_EVENT id="e0" spans="96~100" text="have"  />
+<NONMOTION_EVENT id="e1" spans="121~128" text="support"  />
+<MOTION id="m1" spans="162~170" text="shopping" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="172~179" text="cooking" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m3" spans="189~195" text="baking" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<QSLINK id="qsl0" fromID="se2" fromText="job" toID="se11" toText="Martyn" relType="NTPP" trajector="se2" landmark="se11" />
+<QSLINK id="qsl1" fromID="se6" fromText="I" toID="se11" toText="Martyn" relType="IN" trajector="se6" landmark="se11" />
+<QSLINK id="qsl2" fromID="se5" fromText="patients" toID="se11" toText="Martyn" relType="IN" trajector="se5" />
+<METALINK id="metal0" fromID="se0" fromText="bit" toID="se14" toText="part" relType="COREFERENCE" objectID1="se0" objectID2="se14" />
+<METALINK id="metal1" fromID="se6" fromText="I" toID="se7" toText="I" objectID1="se6" objectID2="se7" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se5" fromText="patients" toID="se8" toText="them" objectID1="se5" objectID2="se7" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se11" fromText="Martyn" toID="se12" toText="nursing associate" objectID1="se11" objectID2="se12" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se1" fromText="" toID="m1" toText="shopping" objectID1="m1" relType="SUBCOREFERENCE" objectID2="se1" />
+<METALINK id="metal5" fromID="se1" fromText="" toID="m2" toText="cooking" objectID1="m2" relType="SUBCOREFERENCE" objectID2="se1" />
+<METALINK id="metal6" fromID="se1" fromText="" toID="m3" toText="baking" objectID1="m3" relType="SUBCOREFERENCE" objectID2="se1" />
+<METALINK id="metal7" fromID="se1" fromText="" toID="se13" toText="things" relType="SPLITCOREFERENCE" objectID2="se13" objectID1="se1" />
+<METALINK id="metal8" fromID="se14" fromText="part" toID="se3" toText="contact" objectID1="se14" objectID2="se3" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

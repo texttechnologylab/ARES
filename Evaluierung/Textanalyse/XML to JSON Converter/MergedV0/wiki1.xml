@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Einstein was born in the German Empire, but moved to Switzerland in 1895, forsaking his German citizenship (as a subject of the Kingdom of Württemberg) the following year. In 1897, at the age of 17, he enrolled in the mathematics and physics teaching diploma program at the Swiss Federal polytechnic school in Zürich, graduating in 1900. In 1901 he acquired Swiss citizenship, which he kept for the rest of his life, and in 1903 he secured a permanent position at the Swiss Patent Office in Bern. In 1905, he was awarded a PhD by the University of Zurich. In 1914, Einstein moved to Berlin in order to join the Prussian Academy of Sciences and the Humboldt University of Berlin. In 1917, Einstein became director of the Kaiser Wilhelm Institute for Physics; he also became a German citizen again – Prussian this time. ]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="25~38" text="German Empire" dcl="FALSE" type="COUNTRY" />
+<PLACE id="pl1" spans="53~64" text="Switzerland" dcl="FALSE" type="COUNTRY" />
+<PLACE id="pl3" spans="274~306" text="Swiss Federal polytechnic school" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl4" spans="310~316" text="Zürich" dcl="FALSE" type="STATE" />
+<PLACE id="pl5" spans="468~487" text="Swiss Patent Office" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl6" spans="491~495" text="Bern" dcl="FALSE" type="STATE" />
+<PLACE id="pl7" spans="534~554" text="University of Zurich" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl8" spans="583~589" text="Berlin" dcl="FALSE" type="STATE" />
+<PLACE id="pl9" spans="611~639" text="Prussian Academy of Sciences" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl11" spans="648~677" text="Humboldt University of Berlin" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl13" spans="128~150" text="Kingdom of Württemberg" dcl="FALSE" type="COUNTRY" />
+<PLACE id="pl2" spans="720~756" text="Kaiser Wilhelm Institute for Physics" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl10" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="0~8" text="Einstein" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se2" spans="95~106" text="citizenship" dcl="FALSE" type="ARTIFACT" mod="German" />
+<SPATIAL_ENTITY id="se4" spans="218~266" text="mathematics and physics teaching diploma program" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se5" spans="199~201" text="he" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se6" spans="346~348" text="he" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se7" spans="364~375" text="citizenship" dcl="FALSE" mod="Swiss" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se8" spans="383~385" text="he" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se10" spans="429~431" text="he" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se11" spans="452~460" text="position" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se12" spans="506~508" text="he" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se13" spans="523~526" text="PhD" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se14" spans="565~573" text="Einstein" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se15" spans="688~696" text="Einstein" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se17" spans="758~760" text="he" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se18" spans="782~789" text="citizen" dcl="FALSE" type="PERSON" mod="German" />
+<SPATIAL_ENTITY id="se19" spans="798~806" text="Prussian" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se20" spans="113~150" text="subject of the Kingdom of Württemberg" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se21" spans="704~756" text="director of the Kaiser Wilhelm Institute for Physics" dcl="FALSE" type="PERSON" />
+<NONMOTION_EVENT id="e0" spans="202~210" text="enrolled"  />
+<NONMOTION_EVENT id="e1" spans="318~328" text="graduating"  />
+<NONMOTION_EVENT id="e2" spans="349~357" text="acquired"  />
+<NONMOTION_EVENT id="e3" spans="386~390" text="kept"  />
+<NONMOTION_EVENT id="e4" spans="432~439" text="secured"  />
+<NONMOTION_EVENT id="e5" spans="513~520" text="awarded"  />
+<NONMOTION_EVENT id="e6" spans="602~606" text="join"  />
+<NONMOTION_EVENT id="e7" spans="697~703" text="became"  />
+<NONMOTION_EVENT id="e8" spans="766~772" text="became"  />
+<NONMOTION_EVENT id="e9" spans="13~17" text="born"  />
+<MOTION id="m0" spans="44~49" text="moved" motion_class="MOVE" motion_sense="LITERAL" motion_type="COMPOUND" />
+<MOTION id="m1" spans="574~579" text="moved" motion_sense="LITERAL" motion_class="MOVE" motion_type="COMPOUND" />
+<S_RELATION id="sr0" spans="18~20" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="307~309" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="267~269" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="211~213" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="461~463" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="488~490" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="50~52" text="to" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="580~582" text="to" semantic_type="TOPOLOGICAL" />
+<EVENT_PATH id="ep0" spans="-1~-1" text="" endID="pl1" beginID="pl0" />
+<EVENT_PATH id="ep1" spans="-1~-1" text="" beginID="pl4" endID="pl6" />
+<EVENT_PATH id="ep2" spans="-1~-1" text="" beginID="pl1" endID="pl8" />
+<QSLINK id="qsl0" toID="pl0" toText="German Empire" fromID="se0" fromText="Einstein" relType="NTPP" trajector="se0" landmark="pl0" trigger="sr0" />
+<QSLINK id="qsl1" toID="pl1" toText="Switzerland" fromID="se0" fromText="Einstein" relType="NTPP" trajector="se0" landmark="pl1" trigger="sr9" />
+<QSLINK id="qsl2" fromID="se5" fromText="he" toID="se4" toText="mathematics and physics teaching diploma program" relType="TPP" trajector="se5" landmark="pl3" trigger="sr5" />
+<QSLINK id="qsl3" fromID="se4" fromText="mathematics and physics teaching diploma program" toID="pl3" toText="Swiss Federal polytechnic school" relType="TPP" trajector="se4" landmark="pl3" trigger="sr4" />
+<QSLINK id="qsl4" toID="pl4" toText="Zürich" fromID="pl3" fromText="Swiss Federal polytechnic school" relType="TPP" trajector="pl3" landmark="pl4" trigger="sr3" />
+<QSLINK id="qsl5" fromID="se11" fromText="position" toID="pl5" toText="Swiss Patent Office" relType="TPP" trajector="se11" landmark="pl5" trigger="sr6" />
+<QSLINK id="qsl6" fromID="pl5" fromText="Swiss Patent Office" toID="pl6" toText="Bern" relType="TPP" trajector="pl5" landmark="pl6" trigger="sr7" />
+<QSLINK id="qsl7" fromID="se14" fromText="Einstein" toID="pl8" toText="Berlin" relType="NTPP" trajector="se14" landmark="pl8" trigger="sr10" />
+<QSLINK id="qsl8" toID="pl0" toText="German Empire" fromID="pl8" fromText="Berlin" relType="IN" trajector="pl8" landmark="pl0" />
+<QSLINK id="qsl9" toID="pl1" toText="Switzerland" fromID="pl4" fromText="Zürich" relType="IN" trajector="pl4" landmark="pl1" />
+<QSLINK id="qsl10" fromID="pl6" fromText="Bern" toID="pl1" toText="Switzerland" relType="IN" trajector="pl6" landmark="pl1" />
+<QSLINK id="qsl11" toID="pl0" toText="German Empire" fromID="pl13" fromText="Kingdom of Württemberg" relType="IN" trajector="pl13" landmark="pl0" />
+<QSLINK id="qsl12" fromID="pl3" fromText="Swiss Federal polytechnic school" toID="pl4" toText="Zürich" relType="IN" trajector="pl3" landmark="pl4" />
+<QSLINK id="qsl13" fromID="pl5" fromText="Swiss Patent Office" toID="pl6" toText="Bern" relType="IN" trajector="pl5" landmark="pl6" />
+<QSLINK id="qsl14" fromID="pl9" fromText="Prussian Academy of Sciences" toID="pl8" toText="Berlin" relType="IN" trajector="pl9" landmark="pl8" />
+<QSLINK id="qsl15" fromID="pl2" fromText="Kaiser Wilhelm Institute for Physics" toID="pl8" toText="Berlin" relType="IN" trajector="pl2" landmark="pl8" />
+<QSLINK id="qsl16" fromID="pl11" fromText="Humboldt University of Berlin" toID="pl8" toText="Berlin" relType="IN" trajector="pl11" landmark="pl8" />
+<MOVELINK id="mvl0" fromID="m0" fromText="moved" toID="pl1" toText="Switzerland" trigger="m0" source="pl0" goal="pl1" midPoint="pl0" mover="se0" goal_reached="YES" />
+<MOVELINK id="mvl1" fromID="se14" fromText="Einstein" toID="pl8" toText="Berlin" trigger="m1" source="pl1" goal="pl8" mover="se0" goal_reached="YES" />
+<METALINK id="metal1" fromID="se20" fromText="subject of the Kingdom of Württemberg" toID="se2" toText="citizenship" objectID1="se20" objectID2="se2" relType="SUBCOREFERENCE" />
+<METALINK id="metal2" fromID="se5" fromText="he" toID="se0" toText="Einstein" objectID1="se5" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se8" fromText="he" toID="se0" toText="Einstein" objectID1="se8" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se10" fromText="he" toID="se0" toText="Einstein" objectID1="se10" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se12" fromText="he" toID="se0" toText="Einstein" objectID1="se12" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se14" fromText="Einstein" toID="se0" toText="Einstein" objectID1="se14" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se15" fromText="Einstein" toID="se14" toText="Einstein" objectID1="se15" objectID2="se14" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se21" fromText="director of the Kaiser Wilhelm Institute for Physics" toID="se15" toText="Einstein" objectID1="se21" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se17" fromText="he" toID="se15" toText="Einstein" objectID1="se17" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se19" fromText="Prussian" toID="se18" toText="citizen" objectID1="se19" objectID2="se18" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se6" fromText="he" toID="se0" toText="Einstein" objectID1="se6" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="pl13" fromText="Kingdom of Württemberg" toID="pl0" toText="German Empire" objectID1="pl13" objectID2="pl0" relType="SUBCOREFERENCE" />
+<METALINK id="metal13" fromID="pl6" fromText="Bern" toID="pl1" toText="Switzerland" objectID1="pl6" objectID2="pl1" relType="SUBCOREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

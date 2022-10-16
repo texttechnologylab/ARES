@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle: https://www.theatlantic.com/science/archive/2021/05/greenlands-rare-earth-election/618785/
+
+Tunulliarfik Fjord has always played an outsize role in global history. One thousand years ago, the Viking Erik the Red settled there, the last outpost in the Norse expansion into North America. When the United States established a protectorate over Greenland during World War II, it built one of its first airports in what is now Narsarsuaq, a large town on the fjord. And now Tunulliarfik is the site of a mining project that has overturned politics on Greenland.
+
+Since 1979, the ruling Siumut party has dominated Greenland’s elections; in all those years it has lost power only once, in 2009, after the island reformed its government and loosened ties with Denmark, which has ruled it for three centuries. Earlier this month, the democratic-socialist Inuit Ataqatigiit party (IA), Greenlandic for “Community for the People,” won an election with more than a third of the vote, after centering its campaign on a promise to cancel the controversial mining project.
+
+Greenland, the world’s largest island, is populated by about 56,000 people, and its election is, in some ways, an extremely local story. The mining project is called Kvanefjeld, and it would excavate thorium, uranium, and rare-earth elements. Kvanefjeld is less than four miles from Narsaq, one of the larger cities in South Greenland and a local tourism center. (It also has an excellent brewery.)
+
+“There is no way for me to have the mine, because it’s only six kilometers from our town,” Mariane Paviasen, 56, a local activist who ran for Parliament under IA, told me in an interview before the election.
+
+But the election touches on some of the biggest issues in global politics: climate change, mineral economics, and indigenous sovereignty. Rare earths are used to make finely tuned magnets that are essential to modern electronics, including electric vehicles and wind turbines. There is some irony here: Greenland, whose ice sheet is a visual metaphor for the inevitability of climate change, will be mined to power the only technology that can stop it.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="99~118" text=" Tunulliarfik Fjord" dcl="FALSE" form="NAM" type="RGN" />
+<PLACE id="pl1" spans="280~293" text="North America" dcl="FALSE" form="NAM" type="STATE" />
+<PLACE id="pl2" spans="350~359" text="Greenland" dcl="FALSE" form="NAM" type="COUNTRY" />
+<PLACE id="pl5" spans="431~441" text="Narsarsuaq" dcl="FALSE" form="NAM" type="PPLA" />
+<PLACE id="pl6" spans="451~455" text="town" dcl="FALSE" form="NOM" type="PPL" />
+<PLACE id="pl7" spans="463~468" text="fjord" dcl="FALSE" form="NOM" type="RGN" />
+<PLACE id="pl8" spans="478~490" text="Tunulliarfik" dcl="FALSE" form="NAM" type="RGN" />
+<PLACE id="pl9" spans="555~564" text="Greenland" dcl="FALSE" form="NAM" type="COUNTRY" />
+<PLACE id="pl10" spans="707~713" text="island" dcl="FALSE" form="NOM" type="COUNTRY" />
+<PLACE id="pl12" spans="1068~1077" text="Greenland" dcl="FALSE" form="NAM" type="COUNTRY" />
+<PLACE id="pl13" spans="1099~1105" text="island" dcl="FALSE" form="NOM" type="COUNTRY" />
+<PLACE id="pl14" spans="1351~1357" text="Narsaq" dcl="FALSE" form="NAM" type="PPLA" />
+<PLACE id="pl15" spans="1377~1383" text="cities" dcl="FALSE" form="NOM" type="PPL" mod="larger" />
+<PLACE id="pl16" spans="1387~1402" text="South Greenland" dcl="FALSE" form="NAM" type="RGN" />
+<PLACE id="pl19" spans="1504~1508" text="mine" dcl="FALSE" form="NOM" />
+<PLACE id="pl20" spans="1552~1556" text="town" dcl="FALSE" form="NOM" type="PPL" />
+<PLACE id="pl21" spans="1518~1520" text="it" dcl="FALSE" form="NOM" />
+<PLACE id="pl22" spans="1980~1989" text="Greenland" dcl="FALSE" form="NAM" type="COUNTRY" />
+<PLACE id="pl3" spans="1432~1434" text="It" dcl="FALSE" form="NOM" type="PPLA" />
+<PLACE id="pl11" spans="761~768" text="Denmark" dcl="FALSE" type="COUNTRY" form="NAM" />
+<PLACE id="pl4" spans="228~233" text="there" dcl="FALSE" type="RGN" />
+<PLACE id="pl18" spans="304~317" text="United States" dcl="FALSE" type="STATE" />
+<PLACE id="pl23" spans="381~383" text="it" dcl="FALSE" type="STATE" />
+<PLACE id="pl24" spans="397~400" text="its" dcl="FALSE" type="STATE" />
+<PLACE id="pl25" spans="723~726" text="its" dcl="FALSE" type="COUNTRY" />
+<PLACE id="pl26" spans="786~788" text="it" dcl="FALSE" type="COUNTRY" />
+<PLACE id="pl27" spans="1148~1151" text="its" dcl="FALSE" type="COUNTRY" />
+<PLACE id="pl28" spans="1415~1429" text="tourism center" dcl="FALSE" type="CIVIL" mod="local" />
+<SPATIAL_ENTITY id="se1" spans="200~219" text="Viking Erik the Red" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se3" spans="367~379" text="World War II" dcl="FALSE" form="NAM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se6" spans="508~522" text="mining project" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se7" spans="543~551" text="politics" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="148~152" text="role" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se10" spans="332~344" text="protectorate" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se11" spans="244~251" text="outpost" dcl="FALSE" form="NOM" type="FAC" mod="last" />
+<SPATIAL_ENTITY id="se13" spans="590~602" text="Siumut party" dcl="FALSE" form="NAM" mod="ruling" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se14" spans="617~638" text="Greenland’s elections" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se16" spans="659~661" text="it" dcl="FALSE" form="NOM" type="FAC" />
+<SPATIAL_ENTITY id="se20" spans="855~883" text="Inuit Ataqatigiit party (IA)" dcl="FALSE" form="NAM" mod="democratic-socialist" type="FAC" />
+<SPATIAL_ENTITY id="se21" spans="936~944" text="election" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se23" spans="1136~1142" text="people" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se24" spans="1234~1244" text="Kvanefjeld" dcl="FALSE" type="ARTIFACT" form="NAM" />
+<SPATIAL_ENTITY id="se25" spans="1209~1223" text="mining project" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se26" spans="1250~1252" text="it" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se27" spans="1268~1275" text="thorium" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se28" spans="1277~1284" text="uranium" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se29" spans="1290~1309" text="rare-earth elements" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se30" spans="1311~1321" text="Kvanefjeld" dcl="FALSE" form="NAM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se32" spans="1489~1491" text="me" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se33" spans="1559~1575" text="Mariane Paviasen" dcl="FALSE" form="NAM" type="PERSON" />
+<SPATIAL_ENTITY id="se34" spans="1589~1597" text="activist" dcl="FALSE" form="NOM" type="PERSON" mod="local" />
+<SPATIAL_ENTITY id="se35" spans="1636~1638" text="me" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se36" spans="1645~1654" text="interview" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se37" spans="1752~1766" text="climate change" dcl="FALSE" type="DYNAMIC_EVENT" form="NAM" />
+<SPATIAL_ENTITY id="se39" spans="1815~1826" text="Rare earths" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se40" spans="1857~1864" text="magnets" dcl="FALSE" form="NOM" type="ARTIFACT" mod="finely tuned" />
+<SPATIAL_ENTITY id="se41" spans="1887~1905" text="modern electronics" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se42" spans="1917~1934" text="electric vehicles" dcl="FALSE" form="NOM" type="VEHICLE" />
+<SPATIAL_ENTITY id="se43" spans="1939~1952" text="wind turbines" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se44" spans="1997~2006" text="ice sheet" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se45" spans="2101~2111" text="technology" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se46" spans="2126~2128" text="it" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se48" spans="2019~2027" text="metaphor" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" mod="visual" />
+<SPATIAL_ENTITY id="se49" spans="1725~1731" text="issues" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se50" spans="1735~1750" text="global politics" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se51" spans="1685~1693" text="election" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se0" spans="671~676" text="power" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se17" spans="2053~2067" text="climate change" dcl="FALSE" form="NAM" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se22" spans="1457~1464" text="brewery" dcl="FALSE" type="FAC" mod="excellent" />
+<SPATIAL_ENTITY id="se38" spans="1001~1009" text="campaign" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se52" spans="1051~1065" text="mining project" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="controversial" />
+<SPATIAL_ENTITY id="se53" spans="1627~1629" text="IA" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se54" spans="1610~1620" text="Parliament" dcl="FALSE" form="NAM" type="FAC" />
+<SPATIAL_ENTITY id="se56" spans="407~415" text="airports" dcl="FALSE" type="FAC" form="NOM" mod="first" />
+<SPATIAL_ENTITY id="se12" spans="265~274" text="expansion" dcl="FALSE" mod="Norse" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se18" spans="185~190" text="years" dcl="FALSE" type="DYNAMIC_EVENT" mod="One thousand" />
+<SPATIAL_ENTITY id="se31" spans="163~170" text="history" dcl="FALSE" type="DYNAMIC_EVENT" mod="global" />
+<SPATIAL_ENTITY id="se47" spans="727~737" text="government" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se57" spans="653~658" text="years" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se58" spans="751~755" text="ties" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se59" spans="799~808" text="centuries" dcl="FALSE" type="DYNAMIC_EVENT" mod="three" />
+<SPATIAL_ENTITY id="se60" spans="823~828" text="month" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se61" spans="975~979" text="vote" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se62" spans="997~1000" text="its" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se63" spans="1015~1022" text="promise" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se64" spans="1152~1160" text="election" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se65" spans="1198~1203" text="story" dcl="FALSE" type="ARTIFACT" mod="local" />
+<SPATIAL_ENTITY id="se66" spans="1666~1674" text="election" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se67" spans="1768~1785" text="mineral economics" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se68" spans="1791~1813" text="indigenous sovereignty" dcl="FALSE" type="DYNAMIC_EVENT" />
+<NONMOTION_EVENT id="e0" spans="384~389" text="built"  />
+<NONMOTION_EVENT id="e1" spans="532~542" text="overturned"  />
+<NONMOTION_EVENT id="e2" spans="318~329" text="established"  />
+<NONMOTION_EVENT id="e3" spans="607~616" text="dominated"  />
+<NONMOTION_EVENT id="e4" spans="714~722" text="reformed"  />
+<NONMOTION_EVENT id="e6" spans="780~785" text="ruled"  />
+<NONMOTION_EVENT id="e7" spans="929~932" text="won"  />
+<NONMOTION_EVENT id="e8" spans="1259~1267" text="excavate"  />
+<NONMOTION_EVENT id="e10" spans="2121~2125" text="stop"  />
+<NONMOTION_EVENT id="e11" spans="1694~1701" text="touches"  />
+<NONMOTION_EVENT id="e5" spans="666~670" text="lost"  />
+<NONMOTION_EVENT id="e12" spans="1440~1443" text="has"  />
+<NONMOTION_EVENT id="e13" spans="1026~1032" text="cancel"  />
+<NONMOTION_EVENT id="e14" spans="987~996" text="centering"  />
+<NONMOTION_EVENT id="e16" spans="1631~1635" text="told"  />
+<NONMOTION_EVENT id="e17" spans="1495~1499" text="have"  />
+<NONMOTION_EVENT id="e15" spans="130~136" text="played"  />
+<NONMOTION_EVENT id="e18" spans="491~493" text="is"  />
+<NONMOTION_EVENT id="e19" spans="424~426" text="is"  />
+<NONMOTION_EVENT id="e20" spans="1161~1163" text="is"  />
+<NONMOTION_EVENT id="e21" spans="1227~1233" text="called"  />
+<NONMOTION_EVENT id="e22" spans="1322~1324" text="is"  />
+<NONMOTION_EVENT id="e23" spans="1475~1477" text="is"  />
+<NONMOTION_EVENT id="e24" spans="1520~1522" text="’s"  />
+<NONMOTION_EVENT id="e25" spans="1831~1843" text="used to make"  />
+<NONMOTION_EVENT id="e26" spans="1870~1873" text="are"  />
+<NONMOTION_EVENT id="e27" spans="1960~1962" text="is"  />
+<NONMOTION_EVENT id="e28" spans="2007~2009" text="is"  />
+<NONMOTION_EVENT id="e30" spans="2074~2091" text="be mined to power"  />
+<MOTION id="m0" spans="220~227" text="settled" motion_type="MANNER" motion_sense="INTRINSIC_CHANGE" motion_class="MOVE" />
+<MOTION id="m2" spans="1110~1119" text="populated" motion_type="MANNER" motion_class="STAY" motion_sense="LITERAL" />
+<MOTION id="m1" spans="742~750" text="loosened" motion_type="MANNER" motion_class="DETACH" motion_sense="FICTIVE" />
+<MOTION id="m3" spans="1602~1605" text="ran" motion_sense="FICTIVE" motion_class="MOVE" motion_type="MANNER" />
+<S_RELATION id="sr0" spans="416~418" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="252~254" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="456~458" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="552~554" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="153~155" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="275~279" text="into" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="1384~1386" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="1639~1641" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="1907~1916" text="including" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="1732~1734" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="1621~1626" text="under" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="1120~1122" text="by"  />
+<S_RELATION id="sr12" spans="1702~1704" text="on"  />
+<EVENT_PATH id="ep0" spans="227~228" text=" " trigger="m0" mids="se1" />
+<EVENT_PATH id="ep1" spans="750~751" text=" " trigger="m1" mids="pl10" />
+<EVENT_PATH id="ep2" spans="1119~1120" text=" " trigger="m2" mids="pl12" />
+<EVENT_PATH id="ep3" spans="1605~1606" text=" " trigger="m3" />
+<MEASURE id="me0" spans="445~450" text="large"  />
+<MEASURE id="me1" spans="140~147" text="outsize"  />
+<MEASURE id="me2" spans="1091~1098" text="largest"  />
+<MEASURE id="me3" spans="1129~1135" text="56,000"  />
+<MEASURE id="me4" spans="1325~1345" text="less than four miles"  />
+<MEASURE id="me5" spans="1528~1542" text="six kilometers"  />
+<MEASURE id="me6" spans="1717~1724" text="biggest"  />
+<QSLINK id="qsl0" toID="pl5" toText="Narsarsuaq" fromID="se56" fromText="airports" trigger="sr0" relType="IN" />
+<QSLINK id="qsl1" fromID="se11" fromText="outpost" toID="se12" toText="expansion" trigger="sr1" relType="IN" />
+<QSLINK id="qsl2" fromID="pl6" fromText="town" toID="pl7" toText="fjord" trigger="sr2" relType="DC" />
+<QSLINK id="qsl3" toID="pl9" toText="Greenland" fromID="se7" fromText="politics" trigger="sr3" relType="IN" />
+<QSLINK id="qsl5" fromID="se54" fromText="Parliament" toID="se53" toText="IA" trigger="sr10" relType="IN" />
+<QSLINK id="qsl6" fromID="pl15" fromText="cities" toID="pl16" toText="South Greenland" trigger="sr6" relType="IN" />
+<QSLINK id="qsl7" toID="se36" toText="interview" fromID="se35" fromText="me" trigger="sr7" relType="IN" />
+<QSLINK id="qsl8" fromID="se41" fromText="modern electronics" toID="se42" toText="electric vehicles" trigger="sr8" relType="IN" />
+<QSLINK id="qsl9" fromID="se49" fromText="issues" toID="se50" toText="global politics" trigger="sr9" relType="IN" />
+<QSLINK id="qsl11" toID="se36" toText="interview" fromID="se33" fromText="Mariane Paviasen" trigger="sr7" relType="IN" />
+<QSLINK id="qsl10" fromID="se8" fromText="role" toID="se31" toText="history" relType="IN" trigger="sr4" />
+<QSLINK id="qsl12" fromID="e15" fromText="played" toID="se31" toText="history" relType="IN" trigger="sr4" />
+<QSLINK id="qsl13" fromID="e1" fromText="overturned" toID="pl9" toText="Greenland" trigger="sr3" />
+<QSLINK id="qsl14" fromID="e16" fromText="told" toID="se36" toText="interview" relType="IN" trigger="sr7" />
+<QSLINK id="qsl15" fromID="e11" fromText="touches" toID="se50" toText="global politics" trigger="sr12" />
+<OLINK id="ol0" fromID="se12" fromText="expansion" toID="pl1" toText="North America" trigger="sr5" referencePt="pl1" frame_type="ABSOLUTE" trajector="se12" landmark="pl1" />
+<OLINK id="ol1" fromID="pl15" fromText="cities" toID="pl16" toText="South Greenland" trigger="sr6" trajector="pl15" landmark="pl16" frame_type="ABSOLUTE" />
+<MOVELINK id="mvl0" fromID="se1" fromText="Viking Erik the Red" toID="m0" toText="settled" trigger="m0" goal="pl4" mover="se1" goal_reached="YES" />
+<MOVELINK id="mvl1" toID="m1" toText="loosened" trigger="m1" source="pl11" />
+<MOVELINK id="mvl2" toID="m2" toText="populated" fromID="se23" fromText="people" trigger="m2" />
+<MOVELINK id="mvl3" toID="m3" toText="ran" fromID="se33" fromText="Mariane Paviasen" trigger="m3" />
+<MEASURELINK id="ml0" toID="me0" toText="large" fromID="pl6" fromText="town" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml1" toID="me1" toText="outsize" fromID="se8" fromText="role" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml2" toID="me2" toText="largest" fromID="pl13" fromText="island" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml3" toID="me3" toText="56,000" fromID="se23" fromText="people" relType="GENERAL_DIMENSION" val="56000" />
+<MEASURELINK id="ml4" toID="me4" toText="less than four miles" fromID="se30" fromText="Kvanefjeld" relType="DISTANCE" val="4" />
+<MEASURELINK id="ml5" toID="me5" toText="six kilometers" fromID="pl21" fromText="it" val="6" relType="DISTANCE" />
+<MEASURELINK id="ml6" toID="me6" toText="biggest" relType="GENERAL_DIMENSION" />
+<METALINK id="metal0" fromID="pl0" fromText=" Tunulliarfik Fjord" toID="pl7" toText="fjord" objectID1="pl0" objectID2="pl7" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="pl0" fromText=" Tunulliarfik Fjord" toID="pl8" toText="Tunulliarfik" objectID1="pl0" objectID2="pl8" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="pl5" fromText="Narsarsuaq" toID="pl6" toText="town" objectID1="pl5" objectID2="pl6" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se6" fromText="mining project" toID="se52" toText="mining project" objectID1="se6" objectID2="se52" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se6" fromText="mining project" toID="se25" toText="mining project" objectID1="se6" objectID2="se25" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se6" fromText="mining project" toID="se26" toText="it" objectID1="se6" objectID2="se26" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se6" fromText="mining project" toID="se24" toText="Kvanefjeld" objectID1="se6" objectID2="se24" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se6" fromText="mining project" toID="se30" toText="Kvanefjeld" objectID1="se6" objectID2="se30" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se13" fromText="Siumut party" toID="se16" toText="it" objectID1="se13" objectID2="se16" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se33" fromText="Mariane Paviasen" toID="se32" toText="me" objectID1="se33" objectID2="se32" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se33" fromText="Mariane Paviasen" toID="se34" toText="activist" objectID1="se33" objectID2="se34" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se21" fromText="election" toID="se51" toText="election" objectID1="se21" objectID2="se51" relType="COREFERENCE" />
+<METALINK id="metal15" fromID="se29" fromText="rare-earth elements" toID="se39" toText="Rare earths" objectID1="se29" objectID2="se39" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se41" fromText="modern electronics" toID="se42" toText="electric vehicles" objectID1="se41" objectID2="se42" relType="SPLITCOREFERENCE" />
+<METALINK id="metal17" fromID="se41" fromText="modern electronics" toID="se43" toText="wind turbines" objectID1="se41" objectID2="se43" relType="SPLITCOREFERENCE" />
+<METALINK id="metal18" fromID="se37" fromText="climate change" toID="se17" toText="climate change" objectID1="se37" objectID2="se17" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se37" fromText="climate change" toID="se46" toText="it" objectID1="se37" objectID2="se17" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se44" fromText="ice sheet" toID="se48" toText="metaphor" objectID1="se44" objectID2="se48" relType="COREFERENCE" />
+<METALINK id="metal21" fromID="pl4" fromText="there" toID="pl0" toText=" Tunulliarfik Fjord" relType="COREFERENCE" />
+<METALINK id="metal22" fromID="pl23" fromText="it" toID="pl18" toText="United States" relType="COREFERENCE" />
+<METALINK id="metal23" fromID="pl24" fromText="its" toID="pl18" toText="United States" relType="COREFERENCE" />
+<METALINK id="metal24" fromID="pl6" fromText="town" toID="pl5" toText="Narsarsuaq" relType="COREFERENCE" />
+<METALINK id="metal25" fromID="pl2" fromText="Greenland" toID="pl9" toText="Greenland" relType="COREFERENCE" />
+<METALINK id="metal26" fromID="pl10" fromText="island" toID="pl25" toText="its" relType="COREFERENCE" />
+<METALINK id="metal27" fromID="pl10" fromText="island" toID="pl2" toText="Greenland" relType="COREFERENCE" />
+<METALINK id="metal28" fromID="pl25" fromText="its" toID="pl2" toText="Greenland" relType="COREFERENCE" />
+<METALINK id="metal29" fromID="se18" fromText="years" toID="se57" toText="years" relType="COREFERENCE" />
+<METALINK id="metal30" fromID="pl26" fromText="it" toID="pl2" toText="Greenland" relType="COREFERENCE" />
+<METALINK id="metal31" fromID="se38" fromText="campaign" toID="se20" toText="Inuit Ataqatigiit party (IA)" relType="SUBCOREFERENCE" />
+<METALINK id="metal32" fromID="pl12" fromText="Greenland" toID="pl2" toText="Greenland" relType="COREFERENCE" />
+<METALINK id="metal33" fromID="pl27" fromText="its" toID="pl2" toText="Greenland" relType="COREFERENCE" />
+<METALINK id="metal34" fromID="pl13" fromText="island" toID="pl2" toText="Greenland" relType="COREFERENCE" />
+<METALINK id="metal35" fromID="se64" fromText="election" toID="se21" toText="election" relType="COREFERENCE" />
+<METALINK id="metal36" fromID="pl3" fromText="It" toID="pl14" toText="Narsaq" relType="COREFERENCE" />
+<METALINK id="metal37" fromID="se53" fromText="IA" toID="se20" toText="Inuit Ataqatigiit party (IA)" relType="COREFERENCE" />
+<METALINK id="metal38" fromID="pl22" fromText="Greenland" toID="pl2" toText="Greenland" relType="COREFERENCE" />
+<METALINK id="metal39"  />
+<SRLINK id="srole1" toID="e1" toText="overturned" fromID="se6" fromText="mining project" objectID2="e1" objectID1="se6" relType="ARGO0" />
+<SRLINK id="srole3" toID="e3" toText="dominated" fromID="se13" fromText="Siumut party" objectID2="e3" objectID1="se13" relType="ARGO0" />
+<SRLINK id="srole4" toID="e4" toText="reformed" fromID="pl10" fromText="island" objectID2="e4" objectID1="pl10" relType="ARGO0" />
+<SRLINK id="srole5" toID="e5" toText="lost" fromID="se16" fromText="it" objectID2="e5" objectID1="se16" relType="ARGO0" />
+<SRLINK id="srole6" toID="e6" toText="ruled" fromID="se13" fromText="Siumut party" objectID2="e6" objectID1="se13" relType="ARGO0" />
+<SRLINK id="srole7" toID="e7" toText="won" fromID="se20" fromText="Inuit Ataqatigiit party (IA)" objectID2="e7" objectID1="se20" relType="ARGO0" />
+<SRLINK id="srole8" toID="e8" toText="excavate" fromID="se26" fromText="it" objectID2="e8" objectID1="se26" relType="ARGO0" />
+<SRLINK id="srole10" toID="e10" toText="stop" fromID="se45" fromText="technology" objectID2="e10" objectID1="se45" relType="ARGO0" />
+<SRLINK id="srole11" toID="e11" toText="touches" fromID="se51" fromText="election" objectID2="e11" objectID1="se51" relType="ARGO0" />
+<SRLINK id="srole12" toID="e12" toText="has" fromID="pl3" fromText="It" objectID2="e12" objectID1="pl3" relType="ARGO0" />
+<SRLINK id="srole13" toID="e13" toText="cancel" fromID="se38" fromText="campaign" objectID2="e13" objectID1="se38" relType="ARGO0" />
+<SRLINK id="srole14" toID="e14" toText="centering" fromID="se21" fromText="election" objectID2="e14" objectID1="se21" relType="ARGO0" />
+<SRLINK id="srole16" toID="e16" toText="told" fromID="se33" fromText="Mariane Paviasen" objectID2="e16" objectID1="se33" relType="ARGO0" />
+<SRLINK id="srole17" toID="e17" toText="have" fromID="se32" fromText="me" objectID2="e17" objectID1="se32" relType="ARGO0" />
+</TAGS>
+</SpaceEvalTaskv1.2>

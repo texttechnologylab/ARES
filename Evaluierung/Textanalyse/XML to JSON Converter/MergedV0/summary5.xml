@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[“In North Carolina, Ricky Bobby (Will Ferrell) is born in the backseat of a 1969 Chevrolet Chevelle on country roads when his father, Reese (Gary Cole), accidentally missed the turnoff for the hospital due to driving too fast. Ricky grows up not knowing Reese, only seeing him once in ten years when he was kicked out of Ricky's school for inappropriate behavior during career day. Before leaving, Reese tells Ricky that in life, “If you ain't first, you're last.” The phrase sticks with him into adulthood, during which he works on the pit crew of Dennit Racing driver Terry Cheveaux (Adam McKay). At the Talladega Superspeedway, Ricky acts as a replacement driver after Terry decides to take a bathroom break, order a chicken sandwich, and make a phone call while in last place. After finishing third in the race, Ricky continues to race in NASCAR and gains fame and fortune by winning many races. Later, the owner of Dennit Racing, Larry Dennit Sr (Pat Hingle), announces they will field a second team with Ricky's best friend Cal Naughton Jr. (John C. Reilly) as the driver. Ricky and Cal become an unstoppable duo on the track, at their first race as teammates, Ricky meets his future wife Carley (Leslie Bibb), after she flashes her breasts.More years later, Ricky now lives in a large mansion with Carley, her father Chip (Ted Manson), and Ricky's two incredibly disrespectful and trash-talking sons Walker (Houston Tumlin) and Texas Ranger (Grayson Russell). After a race at Texas Motor Speedway that Ricky wins by driving in reverse (it cost him 100 championship points, as pointed out by Larry Dennit Jr. (Greg Germann), the new team owner), Ricky and Cal are in a bar where they are introduced to their new teammate, openly gay French Formula One driver Jean Girard (Sacha Baron Cohen), who Dennit hired to win a championship as Ricky is too concerned with individual races and also breaks Ricky's arm when he refuses to say "I love crepes". ”]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="4~18" text="North Carolina" dcl="FALSE" type="RGN" form="NAM" />
+<PLACE id="pl1" spans="606~629" text="Talladega Superspeedway" dcl="FALSE" form="NAM" />
+<PLACE id="pl2" spans="1483~1503" text="Texas Motor Speedway" dcl="FALSE" form="NAM" />
+<PATH id="p0" spans="103~116" text="country roads" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="19~31" text=" Ricky Bobby" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se1" spans="33~45" text="Will Ferrell" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se2" spans="62~70" text="backseat" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se3" spans="76~99" text="1969 Chevrolet Chevelle" dcl="FALSE" type="VEHICLE" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se4" spans="122~132" text="his father" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se5" spans="134~139" text="Reese" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se6" spans="141~150" text="Gary Cole" dcl="FALSE" form="NAM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se7" spans="177~184" text="turnoff" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se8" spans="193~201" text="hospital" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se9" spans="227~232" text="Ricky" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se10" spans="254~259" text="Reese" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se11" spans="273~276" text="him" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se12" spans="300~302" text="he" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se13" spans="321~335" text="Ricky&apos;s school" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se14" spans="340~362" text="inappropriate behavior" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se15" spans="398~403" text="Reese" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se16" spans="410~415" text="Ricky" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se17" spans="488~491" text="him" dcl="FALSE" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se18" spans="497~506" text="adulthood" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se19" spans="521~523" text="he" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se20" spans="537~545" text="pit crew" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se21" spans="549~562" text="Dennit Racing" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se22" spans="570~584" text="Terry Cheveaux" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se23" spans="586~596" text="Adam McKay" dcl="FALSE" form="NAM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se24" spans="631~636" text="Ricky" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se25" spans="647~665" text="replacement driver" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se26" spans="672~677" text="Terry" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se27" spans="696~710" text="bathroom break" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se28" spans="720~736" text="chicken sandwich" dcl="FALSE" type="FAC" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se29" spans="749~759" text="phone call" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se30" spans="769~779" text="last place" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se31" spans="810~814" text="race" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" mod="∅" />
+<SPATIAL_ENTITY id="se32" spans="797~802" text="third" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se33" spans="816~821" text="Ricky" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se34" spans="843~849" text="NASCAR" dcl="FALSE" type="DYNAMIC_EVENT" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se35" spans="935~950" text="Larry Dennit Sr" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se36" spans="952~962" text="Pat Hingle" dcl="FALSE" form="NAM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se37" spans="911~933" text="owner of Dennit Racing" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se38" spans="975~979" text="they" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se39" spans="1010~1029" text="Ricky&apos;s best friend" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se40" spans="1030~1046" text="Cal Naughton Jr." dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se41" spans="1048~1062" text="John C. Reilly" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se42" spans="1079~1084" text="Ricky" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se43" spans="1089~1092" text="Cal" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se44" spans="1071~1077" text="driver" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se45" spans="1103~1118" text="unstoppable duo" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se46" spans="1126~1131" text="track" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se47" spans="1509~1514" text="Ricky" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se48" spans="1534~1541" text="reverse" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se49" spans="1598~1614" text="Larry Dennit Jr." dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se50" spans="1616~1628" text="Greg Germann" dcl="FALSE" form="NAM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se51" spans="1652~1657" text="Ricky" dcl="FALSE" form="NAM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se52" spans="1662~1665" text="Cal" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se53" spans="1675~1678" text="bar" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se54" spans="1765~1776" text="Jean Girard" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se55" spans="1778~1795" text="Sacha Baron Cohen" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se56" spans="1802~1808" text="Dennit" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se57" spans="1840~1845" text="Ricky" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se58" spans="1918~1920" text="he" dcl="FALSE" form="NOM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se59" spans="1901~1912" text="Ricky&apos;s arm" dcl="FALSE" type="ARTIFACT" mod="∅" />
+<SPATIAL_ENTITY id="se60" spans="1136~1152" text="their first race" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se61" spans="1167~1172" text="Ricky" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se62" spans="1195~1201" text="Carley" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se63" spans="1223~1226" text="she" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se64" spans="1203~1214" text="Leslie Bibb" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se65" spans="1235~1246" text="her breasts" dcl="FALSE" type="ARTIFACT" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se66" spans="1265~1270" text="Ricky" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se67" spans="1286~1299" text="large mansion" dcl="FALSE" type="FAC" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se68" spans="1305~1311" text="Carley" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se69" spans="1324~1328" text="Chip" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se70" spans="1330~1340" text="Ted Manson" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se72" spans="1402~1406" text="sons" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se73" spans="1407~1413" text="Walker" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se74" spans="1415~1429" text="Houston Tumlin" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se75" spans="1435~1447" text="Texas Ranger" dcl="FALSE" type="PERSON" form="NAM" mod="∅" />
+<SPATIAL_ENTITY id="se76" spans="1449~1464" text="Grayson Russell" dcl="FALSE" form="NAM" type="PERSON" mod="∅" />
+<SPATIAL_ENTITY id="se77" spans="1475~1479" text="race" dcl="FALSE" form="NOM" type="DYNAMIC_EVENT" mod="∅" />
+<SPATIAL_ENTITY id="se78" spans="1685~1689" text="they" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se71" spans="1937~1938" text="I" dcl="FALSE" type="PERSON" form="NOM" mod="∅" />
+<SPATIAL_ENTITY id="se79" spans="1718~1726" text="teammate" dcl="FALSE" type="PERSON" form="NOM" mod="new" />
+<SPATIAL_ENTITY id="se80" spans="1879~1884" text="races" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<NONMOTION_EVENT id="e0" spans="50~54" text="born"  />
+<NONMOTION_EVENT id="e1" spans="266~272" text="seeing"  />
+<NONMOTION_EVENT id="e2" spans="404~409" text="tells"  />
+<NONMOTION_EVENT id="e3" spans="524~529" text="works"  />
+<NONMOTION_EVENT id="e4" spans="637~641" text="acts"  />
+<NONMOTION_EVENT id="e5" spans="712~717" text="order"  />
+<NONMOTION_EVENT id="e6" spans="742~746" text="make"  />
+<NONMOTION_EVENT id="e8" spans="965~974" text="announces"  />
+<NONMOTION_EVENT id="e9" spans="985~990" text="field"  />
+<NONMOTION_EVENT id="e10" spans="1515~1519" text="wins"  />
+<NONMOTION_EVENT id="e11" spans="1921~1935" text="refuses to say"  />
+<NONMOTION_EVENT id="e12" spans="1894~1900" text="breaks"  />
+<NONMOTION_EVENT id="e13" spans="1173~1178" text="meets"  />
+<NONMOTION_EVENT id="e14" spans="1227~1234" text="flashes"  />
+<NONMOTION_EVENT id="e16" spans="1694~1704" text="introduced"  />
+<NONMOTION_EVENT id="e7" spans="1546~1550" text="cost"  />
+<MOTION id="m0" spans="166~172" text="missed" motion_type="MANNER" motion_class="DEVIATE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="209~216" text="driving" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="233~241" text="grows up" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m3" spans="307~313" text="kicked" motion_type="MANNER" motion_class="LEAVE" motion_sense="FICTIVE" />
+<MOTION id="m4" spans="389~396" text="leaving" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" />
+<MOTION id="m5" spans="689~693" text="take" motion_type="MANNER" motion_class="DEVIATE" motion_sense="FICTIVE" />
+<MOTION id="m6" spans="835~839" text="race" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m8" spans="1523~1530" text="driving" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m9" spans="1275~1280" text="lives" motion_type="MANNER" motion_class="STAY" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="55~57" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="71~73" text="of" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="100~102" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="314~320" text="out of" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr4" spans="492~496" text="into" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="530~532" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr6" spans="599~601" text="At" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="766~768" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr8" spans="803~805" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr9" spans="840~842" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="1119~1121" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="1133~1135" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr12" spans="1281~1283" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr13" spans="1480~1482" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr15" spans="1670~1672" text="in" semantic_type="TOPOLOGICAL" />
+<QSLINK id="qsl0" fromID="se0" fromText=" Ricky Bobby" toID="se2" toText="backseat" trigger="sr0" relType="EC" trajector="se0" landmark="se2" />
+<QSLINK id="qsl1" fromID="se2" fromText="backseat" toID="se3" toText="1969 Chevrolet Chevelle" trigger="sr1" relType="TPP" trajector="se2" landmark="se3" />
+<QSLINK id="qsl2" fromID="se3" fromText="1969 Chevrolet Chevelle" toID="p0" toText="country roads" trigger="sr2" relType="EC" trajector="se3" landmark="pl0" />
+<QSLINK id="qsl4" fromID="se17" fromText="him" toID="se18" toText="adulthood" trigger="sr4" relType="IN" trajector="se17" landmark="se18" />
+<QSLINK id="qsl5" fromID="se19" fromText="he" toID="se20" toText="pit crew" trigger="sr5" relType="IN" trajector="se19" landmark="se20" />
+<QSLINK id="qsl6" fromID="se24" fromText="Ricky" toID="pl1" toText="Talladega Superspeedway" trigger="sr6" relType="IN" trajector="se24" landmark="se24" />
+<QSLINK id="qsl7" fromID="se26" fromText="Terry" toID="se30" toText="last place" trigger="sr7" relType="IN" trajector="se26" landmark="se30" />
+<QSLINK id="qsl8" fromID="se32" fromText="third" toID="se31" toText="race" trigger="sr8" relType="IN" trajector="se32" landmark="se31" />
+<QSLINK id="qsl9" fromID="se33" fromText="Ricky" toID="se34" toText="NASCAR" trigger="sr9" relType="IN" trajector="se33" landmark="se34" />
+<QSLINK id="qsl10" fromID="se45" fromText="unstoppable duo" toID="se46" toText="track" trigger="sr10" relType="EC" trajector="se45" landmark="se46" />
+<QSLINK id="qsl11" toID="se60" toText="their first race" fromID="se45" fromText="unstoppable duo" trigger="sr11" relType="TPP" trajector="se45" landmark="se60" />
+<QSLINK id="qsl12" fromID="se66" fromText="Ricky" toID="se67" toText="large mansion" trigger="sr12" relType="IN" trajector="se66" landmark="se67" />
+<QSLINK id="qsl14" fromID="se77" fromText="race" toID="pl2" toText="Texas Motor Speedway" trigger="sr13" relType="TPP" trajector="se77" landmark="pl2" />
+<QSLINK id="qsl15" fromID="se52" fromText="Cal" toID="se53" toText="bar" trigger="sr15" relType="IN" trajector="se52" landmark="se53" />
+<OLINK id="ol0" toID="se13" toText="Ricky&apos;s school" fromID="se12" fromText="he" trigger="sr3" relType="sr3" trajector="se12" landmark="se13" />
+<MOVELINK id="mvl0" toID="m0" toText="missed" fromID="se5" fromText="Reese" trigger="m0" source="∅" mover="se5" goal="∅" midPoint="∅" goal_reached="NO" landmark="∅" />
+<MOVELINK id="mvl1" toID="m1" toText="driving" fromID="se5" fromText="Reese" trigger="m1" source="∅" mover="se5" goal="se8" midPoint="∅" goal_reached="NO" landmark="∅" />
+<MOVELINK id="mvl2" toID="m2" toText="grows up" fromID="se9" fromText="Ricky" trigger="m2" source="∅" mover="se9" goal="se9" midPoint="∅" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl3" toID="m3" toText="kicked" fromID="se12" fromText="he" trigger="m3" source="∅" mover="se12" goal="se12" midPoint="∅" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl4" toID="m4" toText="leaving" fromID="se15" fromText="Reese" trigger="m4" source="∅" mover="se15" goal="se15" midPoint="∅" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl5" toID="m5" toText="take" fromID="se26" fromText="Terry" trigger="m5" source="∅" mover="se26" goal="se26" midPoint="∅" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl6" toID="m6" toText="race" fromID="se33" fromText="Ricky" trigger="m6" source="∅" mover="se33" goal="se33" midPoint="∅" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl8" toID="m8" toText="driving" fromID="se47" fromText="Ricky" trigger="m8" source="∅" mover="se47" goal="se47" midPoint="∅" goal_reached="YES" landmark="∅" />
+<MOVELINK id="mvl9" toID="m9" toText="lives" fromID="se66" fromText="Ricky" trigger="m9" source="∅" mover="se66" goal="se66" midPoint="∅" goal_reached="YES" />
+<METALINK id="metal0" fromID="se0" fromText=" Ricky Bobby" toID="se9" toText="Ricky" objectID1="se0" objectID2="se9" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se0" fromText=" Ricky Bobby" toID="se12" toText="he" objectID1="se0" objectID2="se12" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se0" fromText=" Ricky Bobby" toID="se16" toText="Ricky" objectID1="se0" objectID2="se16" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se0" fromText=" Ricky Bobby" toID="se17" toText="him" objectID1="se0" objectID2="se17" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se0" fromText=" Ricky Bobby" toID="se19" toText="he" objectID1="se0" objectID2="se19" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se0" fromText=" Ricky Bobby" toID="se33" toText="Ricky" objectID1="se0" objectID2="se33" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se0" fromText=" Ricky Bobby" toID="se24" toText="Ricky" objectID1="se0" objectID2="se24" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se0" fromText=" Ricky Bobby" toID="se42" toText="Ricky" objectID1="se0" objectID2="se42" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se0" fromText=" Ricky Bobby" toID="se45" toText="unstoppable duo" objectID1="se0" objectID2="se45" relType="SUBCOREFERENCE" />
+<METALINK id="metal9" fromID="se0" fromText=" Ricky Bobby" toID="se61" toText="Ricky" objectID1="se0" objectID2="s61" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se0" fromText=" Ricky Bobby" toID="se47" toText="Ricky" objectID1="se0" objectID2="se47" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se0" fromText=" Ricky Bobby" toID="se66" toText="Ricky" objectID1="se0" objectID2="se66" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se0" fromText=" Ricky Bobby" toID="se51" toText="Ricky" objectID1="se0" objectID2="se51" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se0" fromText=" Ricky Bobby" toID="se78" toText="they" objectID1="se0" objectID2="se78" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se22" fromText="Terry Cheveaux" toID="se26" toText="Terry" objectID1="se22" objectID2="se26" relType="COREFERENCE" />
+<METALINK id="metal15" fromID="se39" fromText="Ricky&apos;s best friend" toID="se52" toText="Cal" objectID1="se39" objectID2="se52" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se39" fromText="Ricky&apos;s best friend" toID="se45" toText="unstoppable duo" objectID1="se39" objectID2="se45" relType="SUBCOREFERENCE" />
+<METALINK id="metal17" fromID="se4" fromText="his father" toID="se5" toText="Reese" objectID1="se4" objectID2="se5" relType="COREFERENCE" />
+<METALINK id="metal18" fromID="se5" fromText="Reese" toID="se10" toText="Reese" objectID1="se5" objectID2="se10" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se5" fromText="Reese" toID="se11" toText="him" objectID1="se5" objectID2="se11" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se39" fromText="Ricky&apos;s best friend" toID="se40" toText="Cal Naughton Jr." objectID1="se39" objectID2="se40" relType="COREFERENCE" />
+<METALINK id="metal21" fromID="se39" fromText="Ricky&apos;s best friend" toID="se63" toText="she" objectID1="se39" objectID2="se63" relType="COREFERENCE" />
+<METALINK id="metal22" fromID="se39" fromText="Ricky&apos;s best friend" toID="se52" toText="Cal" objectID1="se39" objectID2="se52" relType="COREFERENCE" />
+<SRLINK id="srole0" toID="e0" toText="born" fromID="se0" fromText=" Ricky Bobby" objectID2="e0" relType="ARGO0" objectID1="se0" />
+<SRLINK id="srole1" toID="e1" toText="seeing" fromID="se10" fromText="Reese" objectID2="e1" relType="ARGO0" objectID1="se10" />
+<SRLINK id="srole2" toID="e2" toText="tells" fromID="se15" fromText="Reese" objectID2="e2" relType="ARGO0" objectID1="se15" />
+<SRLINK id="srole3" toID="e3" toText="works" fromID="se19" fromText="he" objectID2="e3" relType="ARGO0" objectID1="se19" />
+<SRLINK id="srole4" toID="e4" toText="acts" fromID="se24" fromText="Ricky" objectID2="e4" relType="ARGO0" objectID1="se24" />
+<SRLINK id="srole5" toID="e5" toText="order" fromID="se26" fromText="Terry" objectID2="e5" relType="ARGO0" objectID1="se26" />
+<SRLINK id="srole6" toID="e6" toText="make" fromID="se26" fromText="Terry" objectID2="e6" relType="ARGO0" objectID1="se26" />
+<SRLINK id="srole8" toID="e8" toText="announces" fromID="se35" fromText="Larry Dennit Sr" objectID2="e8" relType="ARGO0" objectID1="se35" />
+<SRLINK id="srole9" toID="e9" toText="field" fromID="se38" fromText="they" objectID2="e9" relType="ARGO0" objectID1="se38" />
+<SRLINK id="srole10" toID="e10" toText="wins" fromID="se47" fromText="Ricky" objectID2="e10" relType="ARGO0" objectID1="se47" />
+<SRLINK id="srole11" toID="e11" toText="refuses to say" fromID="se58" fromText="he" objectID2="e11" relType="ARGO0" objectID1="se58" />
+<SRLINK id="srole12" toID="e12" toText="breaks" fromID="se57" fromText="Ricky" objectID2="e12" relType="ARGO0" objectID1="se57" />
+<SRLINK id="srole13" toID="e13" toText="meets" fromID="se61" fromText="Ricky" objectID2="e13" relType="ARGO0" objectID1="se61" />
+<SRLINK id="srole14" toID="e14" toText="flashes" fromID="se63" fromText="she" objectID2="e14" relType="ARGO0" objectID1="se63" />
+<SRLINK id="srole16" toID="e16" toText="introduced" fromID="se78" fromText="they" objectID2="e16" relType="ARGO0" objectID1="se78" />
+</TAGS>
+</SpaceEvalTaskv1.2>

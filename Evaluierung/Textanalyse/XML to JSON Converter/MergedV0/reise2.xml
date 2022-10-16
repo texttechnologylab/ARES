@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Marunda Village is located on the northern outskirts of Jakarta. Companies have poured funding into the village to establish aquaculture farms where locals cultivate shrimp and krill in holding pens, while living in accommodation provided by the company. The village lies within the ocean’s tidal zones; for the livestock to survive the water needs to be changed daily, which is provided by the natural flow of the ocean tide. A government run school also lies within the tidal zones. At high tide children wade through water to pile rocks as a make-shift pathway to the classroom to partake in morning studies. Through the national government’s decentralisation push the aquaculture industry has thrived and provided income and housing for local villages. However the local school has been overlooked in the recent allocation of funds.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="0~15" text="Marunda Village" dcl="FALSE" type="RGN" />
+<PLACE id="pl1" spans="56~63" text="Jakarta" dcl="FALSE" mod="northern outskirts" type="STATE" />
+<PLACE id="pl2" spans="104~111" text="village" dcl="FALSE" type="RGN" />
+<PLACE id="pl3" spans="259~266" text="village" dcl="FALSE" type="RGN" />
+<PLACE id="pl4" spans="283~302" text="ocean’s tidal zones" dcl="FALSE" type="BODYOFWATER" />
+<PLACE id="pl5" spans="472~483" text="tidal zones" dcl="FALSE" type="BODYOFWATER" />
+<PLACE id="pl7" spans="747~755" text="villages" dcl="FALSE" mod="local" type="RGN" />
+<PLACE id="pl6" spans="775~781" text="school" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl8" spans="444~450" text="school" dcl="FALSE" type="CIVIL" />
+<PLACE id="pl9" spans="571~580" text="classroom" dcl="FALSE" type="CIVIL" />
+<PATH id="p0" spans="556~563" text="pathway" dcl="FALSE" mod="make-shift" type="TRAIL" />
+<SPATIAL_ENTITY id="se0" spans="65~74" text="Companies" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se1" spans="87~94" text="funding" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se2" spans="125~142" text="aquaculture farms" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se3" spans="149~155" text="locals" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se4" spans="166~172" text="shrimp" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se5" spans="177~182" text="krill" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se7" spans="186~198" text="holding pens" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se8" spans="216~229" text="accommodation" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se9" spans="246~253" text="company" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se10" spans="312~321" text="livestock" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se11" spans="337~342" text="water" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se12" spans="363~368" text="daily" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se13" spans="415~425" text="ocean tide" dcl="FALSE" mod="natural flow" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se14" spans="444~450" text="school" dcl="FALSE" mod="government run" type="FAC" />
+<SPATIAL_ENTITY id="se15" spans="493~497" text="tide" dcl="FALSE" mod="high" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se16" spans="498~506" text="children" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se17" spans="520~525" text="water" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se18" spans="534~539" text="rocks" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se19" spans="571~580" text="classroom" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se20" spans="603~610" text="studies" dcl="FALSE" mod="morning" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se22" spans="684~692" text="industry" dcl="FALSE" mod="aquaculture" type="FAC" />
+<SPATIAL_ENTITY id="se23" spans="718~724" text="income" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se24" spans="729~736" text="housing" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se25" spans="775~781" text="school" dcl="FALSE" mod="local" type="FAC" />
+<SPATIAL_ENTITY id="se26" spans="830~835" text="funds" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se6" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se21" spans="-1~-1" text="" dcl="FALSE" />
+<NONMOTION_EVENT id="e0" spans="80~86" text="poured"  />
+<NONMOTION_EVENT id="e1" spans="115~124" text="establish"  />
+<NONMOTION_EVENT id="e2" spans="206~212" text="living"  />
+<NONMOTION_EVENT id="e3" spans="230~238" text="provided"  />
+<NONMOTION_EVENT id="e4" spans="267~271" text="lies"  />
+<NONMOTION_EVENT id="e5" spans="325~332" text="survive"  />
+<NONMOTION_EVENT id="e6" spans="379~387" text="provided"  />
+<NONMOTION_EVENT id="e7" spans="456~460" text="lies"  />
+<NONMOTION_EVENT id="e8" spans="584~591" text="partake"  />
+<NONMOTION_EVENT id="e9" spans="697~704" text="thrived"  />
+<NONMOTION_EVENT id="e10" spans="709~717" text="provided"  />
+<NONMOTION_EVENT id="e11" spans="791~801" text="overlooked"  />
+<NONMOTION_EVENT id="e12" spans="355~362" text="changed"  />
+<NONMOTION_EVENT id="e13" spans="156~165" text="cultivate"  />
+<MOTION id="m2" spans="507~511" text="wade" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m3" spans="529~533" text="pile" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="27~29" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="213~215" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="272~278" text="within" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="461~467" text="within" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr5" spans="564~566" text="to" semantic_type="DIR_TOP" />
+<S_RELATION id="sr6" spans="183~185" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="95~99" text="into" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr7" spans="34~42" text="northern" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr8" spans="112~114" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr9" spans="581~583" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr10" spans="526~528" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr11" spans="512~519" text="through" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr12" spans="322~324" text="to" semantic_type="GOAL_DEFINING" />
+<EVENT_PATH id="ep0" spans="835~836" text="." trigger="m2" endID="pl9" beginID="se8" midIDs="pl5," />
+<EVENT_PATH id="ep1" spans="-1~-1" text="" trigger="e0" beginID="se0" endID="pl2" />
+<QSLINK id="qsl0" fromID="pl0" fromText="Marunda Village" toID="pl1" toText="Jakarta" relType="EC" trajector="pl0" trigger="sr0" landmark="pl1" />
+<QSLINK id="qsl1" fromID="e2" fromText="living" toID="se8" toText="accommodation" relType="NTPP" trajector="se3" landmark="pl2" trigger="sr2" />
+<QSLINK id="qsl2" fromID="pl3" fromText="village" toID="pl4" toText="ocean’s tidal zones" relType="NTPP" trajector="pl3" landmark="pl4" trigger="sr3" />
+<QSLINK id="qsl3" fromID="se14" fromText="school" toID="pl5" toText="tidal zones" relType="NTPP" trajector="se14" landmark="pl5" trigger="sr4" />
+<QSLINK id="qsl4" fromID="se6" fromText="" toID="se7" toText="holding pens" relType="NTPP" trajector="se6" landmark="pl2" />
+<QSLINK id="qsl5" fromID="se19" fromText="classroom" toID="pl8" toText="school" relType="IN" trajector="se19" landmark="pl8" />
+<QSLINK id="qsl6" fromID="se15" fromText="tide" toID="pl5" toText="tidal zones" relType="IN" trajector="se15" landmark="pl5" />
+<QSLINK id="qsl7" fromID="se2" fromText="aquaculture farms" toID="pl3" toText="village" relType="IN" trajector="se2" landmark="pl3" />
+<QSLINK id="qsl8" fromID="se8" fromText="accommodation" toID="pl3" toText="village" relType="IN" trajector="se8" landmark="pl3" />
+<QSLINK id="qsl9" fromID="ep0" fromText="." toID="pl4" toText="ocean’s tidal zones" relType="IN" trajector="ep0" landmark="pl4" />
+<OLINK id="ol0" fromID="se16" fromText="children" toID="pl9" toText="classroom" trajector="se16" landmark="pl4" trigger="sr5" frame_type="RELATIVE" referencePt="ground entity" />
+<OLINK id="ol1" fromID="se0" fromText="Companies" toID="pl2" toText="village" trajector="se1" landmark="pl2" trigger="sr1" frame_type="RELATIVE" />
+<OLINK id="ol2" fromID="pl0" fromText="Marunda Village" toID="pl1" toText="Jakarta" trajector="pl0" landmark="pl1" trigger="sr7" frame_type="RELATIVE" referencePt="Jakarta" />
+<OLINK id="ol3" fromID="se16" fromText="children" toID="pl9" toText="classroom" trajector="se16" landmark="pl4" trigger="sr11" frame_type="ABSOLUTE" referencePt="BIRD EYE" />
+<MOVELINK id="mvl0" fromID="se16" fromText="children" toID="se19" toText="classroom" trigger="m2" mover="se16" landmark="pl3" source="pl3" goal="se19" midPoint="p0" goal_reached="YES" />
+<MOVELINK id="mvl1" fromID="se16" fromText="children" toID="se19" toText="classroom" trigger="m3" source="se17" goal="se18" mover="se16" landmark="pl3" goal_reached="YES" />
+<METALINK id="metal0" objectID1="pl2" objectID2="pl0" relType="COREFERENCE" />
+<METALINK id="metal1" objectID1="pl3" objectID2="pl2" relType="COREFERENCE" />
+<METALINK id="metal2" objectID2="pl1" objectID1="pl0" relType="SUBCOREFERENCE" />
+<METALINK id="metal3" objectID1="pl3" objectID2="pl7" relType="SPLITCOREFERENCE" />
+<METALINK id="metal4" objectID1="pl5" objectID2="pl4" relType="COREFERENCE" />
+<METALINK id="metal5" objectID1="se4" objectID2="se6" relType="SUBCOREFERENCE" />
+<METALINK id="metal6" objectID1="se5" objectID2="se6" relType="SUBCOREFERENCE" />
+<METALINK id="metal7" objectID1="se6" objectID2="se10" relType="SPLITCOREFERENCE" />
+<METALINK id="metal8" objectID2="se21" objectID1="se23" relType="SUBCOREFERENCE" />
+<METALINK id="metal9" objectID2="se21" objectID1="se24" relType="SUBCOREFERENCE" />
+<METALINK id="metal10" objectID1="se25" objectID2="se14" relType="COREFERENCE" />
+<METALINK id="metal11" objectID1="se13" objectID2="se15" relType="COREFERENCE" />
+<METALINK id="metal12" objectID1="se8" objectID2="se24" relType="COREFERENCE" />
+<METALINK id="metal13" objectID1="se9" objectID2="se0" relType="SUBCOREFERENCE" />
+<METALINK id="metal14" objectID1="se11" objectID2="se17" relType="COREFERENCE" />
+<METALINK id="metal15" objectID1="se19" objectID2="se25" relType="SUBCOREFERENCE" />
+<METALINK id="metal16" objectID1="se22" objectID2="se2" relType="COREFERENCE" />
+<METALINK id="metal17" objectID1="se26" objectID2="se1" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>

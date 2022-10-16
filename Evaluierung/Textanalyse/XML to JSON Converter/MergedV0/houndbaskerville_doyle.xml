@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Quelle: https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles/text/single-page
+
+“It was at my advice that Sir Charles was about to go to London. His heart was, I knew, affected, and the constant anxiety in which he lived, however chimerical the cause of it might be, was evidently having a serious effect upon his health. I thought that a few months among the distractions of town would send him back a new man. Mr. Stapleton, a mutual friend who was much concerned at his state of health, was of the same opinion. At the last instant came this terrible catastrophe.
+
+“On the night of Sir Charles’s death Barrymore the butler, who made the discovery, sent Perkins the groom on horseback to me, and as I was sitting up late I was able to reach Baskerville Hall within an hour of the event. I checked and corroborated all the facts which were mentioned at the inquest. I followed the footsteps down the yew alley, I saw the spot at the moor-gate where he seemed to have waited, I remarked the change in the shape of the prints after that point, I noted that there were no other footsteps save those of Barrymore on the soft gravel, and finally I carefully examined the body, which had not been touched until my arrival. Sir Charles lay on his face, his arms out, his fingers dug into the ground, and his features convulsed with some strong emotion to such an extent that I could hardly have sworn to his identity. There was certainly no physical injury of any kind. But one false statement was made by Barrymore at the inquest. He said that there were no traces upon the ground round the body. He did not observe any. But I did⁠—some little distance off, but fresh and clear.”
+
+“Footprints?”
+
+“Footprints.”
+
+“A man’s or a woman’s?”
+
+Dr. Mortimer looked strangely at us for an instant, and his voice sank almost to a whisper as he answered.
+
+“Mr. Holmes, they were the footprints of a gigantic hound!”
+]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="166~172" text="London" dcl="FALSE" form="NAM" type="PPLC" />
+<PLACE id="pl1" spans="405~409" text="town" dcl="FALSE" form="NOM" type="PPL" />
+<PLACE id="pl2" spans="772~788" text="Baskerville Hall" dcl="FALSE" form="NAM" type="PPL" />
+<PLACE id="pl4" spans="963~972" text="moor-gate" dcl="FALSE" form="NOM" type="RGN" />
+<PATH id="p1" spans="930~939" text="yew alley" dcl="FALSE" form="NOM" type="ROAD" />
+<SPATIAL_ENTITY id="se0" spans="135~146" text="Sir Charles" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se1" spans="189~190" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="241~243" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se7" spans="351~352" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="421~424" text="him" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se10" spans="441~454" text="Mr. Stapleton" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se11" spans="389~401" text="distractions" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se12" spans="465~471" text="friend" dcl="FALSE" type="PERSON" form="NOM" mod="mutual" />
+<SPATIAL_ENTITY id="se3" spans="1706~1716" text="Footprints" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se13" spans="1721~1731" text="Footprints" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se16" spans="1760~1772" text="Dr. Mortimer" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se17" spans="1793~1795" text="us" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se19" spans="1843~1850" text="whisper" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se20" spans="1854~1856" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se22" spans="1895~1905" text="footprints" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se24" spans="1920~1925" text="hound" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se25" spans="1869~1879" text="Mr. Holmes" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se26" spans="634~643" text="Barrymore" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se28" spans="685~692" text="Perkins" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se31" spans="719~721" text="me" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se32" spans="730~731" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se33" spans="752~753" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se34" spans="811~816" text="event" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se36" spans="896~897" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se37" spans="818~819" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se38" spans="853~858" text="facts" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se39" spans="911~920" text="footsteps" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se40" spans="941~942" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se41" spans="951~955" text="spot" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se42" spans="979~981" text="he" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se43" spans="1005~1006" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se44" spans="1034~1039" text="shape" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se45" spans="1047~1053" text="prints" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se46" spans="1065~1070" text="point" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se47" spans="1072~1073" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se48" spans="1105~1114" text="footsteps" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se49" spans="1129~1138" text="Barrymore" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se50" spans="1146~1157" text="soft gravel" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se51" spans="1171~1172" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se52" spans="1196~1200" text="body" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se53" spans="1247~1258" text="Sir Charles" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se59" spans="1398~1399" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se62" spans="1529~1538" text="Barrymore" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se64" spans="887~894" text="inquest" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se65" spans="1546~1553" text="inquest" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se66" spans="1555~1557" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se67" spans="1582~1588" text="traces" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se68" spans="1598~1604" text="ground" dcl="FALSE" type="FAC" form="NOM" />
+<SPATIAL_ENTITY id="se69" spans="1315~1321" text="ground" dcl="FALSE" type="FAC" form="NOM" />
+<SPATIAL_ENTITY id="se70" spans="1615~1619" text="body" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se71" spans="1621~1623" text="He" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se72" spans="1649~1650" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se23" spans="224~231" text="anxiety" dcl="FALSE" type="ARTIFACT" form="NOM" mod="constant" />
+<SPATIAL_ENTITY id="se73" spans="174~177" text="His" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se74" spans="178~183" text="heart" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se75" spans="327~333" text="effect" dcl="FALSE" type="DYNAMIC_EVENT" mod="serious" />
+<SPATIAL_ENTITY id="se76" spans="339~342" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se77" spans="343~349" text="health" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se78" spans="372~378" text="months" dcl="FALSE" type="DYNAMIC_EVENT" mod="few" />
+<SPATIAL_ENTITY id="se79" spans="436~439" text="man" dcl="FALSE" type="PERSON" mod="new" />
+<SPATIAL_ENTITY id="se80" spans="498~501" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se81" spans="502~517" text="state of health" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se82" spans="535~542" text="opinion" dcl="FALSE" type="DYNAMIC_EVENT" mod="same" />
+<SPATIAL_ENTITY id="se83" spans="556~563" text="instant" dcl="FALSE" type="ARTIFACT" mod="last" />
+<SPATIAL_ENTITY id="se84" spans="583~594" text="catastrophe" dcl="FALSE" type="DYNAMIC_EVENT" mod="terrible" />
+<SPATIAL_ENTITY id="se85" spans="274~279" text="cause" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se86" spans="614~627" text="Sir Charles’s" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se87" spans="628~633" text="death" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se88" spans="648~654" text="butler" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se90" spans="697~715" text="groom on horseback" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se91" spans="799~803" text="hour" dcl="FALSE" type="DYNAMIC_EVENT" mod="qn" />
+<SPATIAL_ENTITY id="se93" spans="1238~1245" text="arrival" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se94" spans="1266~1269" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se95" spans="1270~1274" text="face" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se96" spans="1276~1279" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se97" spans="1280~1284" text="arms" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se98" spans="1290~1293" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se99" spans="1294~1301" text="fingers" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se100" spans="1327~1330" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se101" spans="1331~1339" text="features" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se102" spans="1367~1374" text="emotion" dcl="FALSE" type="ARTIFACT" mod="strong" />
+<SPATIAL_ENTITY id="se103" spans="1427~1430" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se104" spans="1431~1439" text="identity" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se105" spans="1473~1479" text="injury" dcl="FALSE" mod="physical" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se106" spans="1507~1516" text="statement" dcl="FALSE" type="ARTIFACT" mod="false" />
+<SPATIAL_ENTITY id="se107" spans="1738~1743" text="man’s" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se108" spans="1749~1756" text="woman’s" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se109" spans="1816~1819" text="his" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se110" spans="1820~1825" text="voice" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se2" spans="123~129" text="advice" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se5" spans="120~122" text="my" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se6" spans="1881~1885" text="they" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se9" spans="1803~1810" text="instant" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se14" spans="1020~1026" text="change" dcl="FALSE" type="DYNAMIC_EVENT" />
+<NONMOTION_EVENT id="e0" spans="191~195" text="knew"  />
+<NONMOTION_EVENT id="e1" spans="485~494" text="concerned"  />
+<NONMOTION_EVENT id="e4" spans="1857~1865" text="answered"  />
+<NONMOTION_EVENT id="e5" spans="660~664" text="made"  />
+<NONMOTION_EVENT id="e6" spans="820~827" text="checked"  />
+<NONMOTION_EVENT id="e7" spans="832~844" text="corroborated"  />
+<NONMOTION_EVENT id="e8" spans="943~946" text="saw"  />
+<NONMOTION_EVENT id="e9" spans="1007~1015" text="remarked"  />
+<NONMOTION_EVENT id="e10" spans="1074~1079" text="noted"  />
+<NONMOTION_EVENT id="e11" spans="1183~1191" text="examined"  />
+<NONMOTION_EVENT id="e12" spans="1259~1262" text="lay"  />
+<NONMOTION_EVENT id="e13" spans="1221~1228" text="touched"  />
+<NONMOTION_EVENT id="e15" spans="1418~1423" text="sworn"  />
+<NONMOTION_EVENT id="e16" spans="1521~1525" text="made"  />
+<NONMOTION_EVENT id="e17" spans="870~879" text="mentioned"  />
+<NONMOTION_EVENT id="e18" spans="1558~1562" text="said"  />
+<NONMOTION_EVENT id="e20" spans="1651~1654" text="did"  />
+<NONMOTION_EVENT id="e2" spans="197~205" text="affected"  />
+<NONMOTION_EVENT id="e3" spans="244~249" text="lived"  />
+<NONMOTION_EVENT id="e14" spans="353~360" text="thought"  />
+<NONMOTION_EVENT id="e21" spans="519~522" text="was"  />
+<NONMOTION_EVENT id="e22" spans="310~316" text="having"  />
+<NONMOTION_EVENT id="e23" spans="1091~1095" text="were"  />
+<NONMOTION_EVENT id="e24" spans="1447~1450" text="was"  />
+<NONMOTION_EVENT id="e25" spans="1574~1578" text="were"  />
+<NONMOTION_EVENT id="e26" spans="1628~1639" text="not observe"  />
+<NONMOTION_EVENT id="e27" spans="1886~1890" text="were"  />
+<NONMOTION_EVENT id="e19" spans="113~116" text="was"  />
+<NONMOTION_EVENT id="e28" spans="286~294" text="might be"  />
+<MOTION id="m0" spans="160~162" text="go" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="416~420" text="send" motion_type="COMPOUND" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m3" spans="1826~1830" text="sank" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m4" spans="1773~1779" text="looked" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m5" spans="680~684" text="sent" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m6" spans="736~746" text="sitting up" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m7" spans="766~771" text="reach" motion_class="REACH" motion_type="PATH" motion_sense="LITERAL" />
+<MOTION id="m8" spans="898~906" text="followed" motion_type="MANNER" motion_sense="LITERAL" motion_class="FOLLOW" />
+<MOTION id="m9" spans="997~1003" text="waited" motion_type="MANNER" motion_class="STAY" motion_sense="LITERAL" />
+<MOTION id="m11" spans="1340~1349" text="convulsed" motion_class="MOVE_INTERNAL" motion_sense="INTRINSIC_CHANGE" motion_type="MANNER" />
+<MOTION id="m13" spans="1302~1305" text="dug" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" />
+<MOTION id="m12" spans="564~568" text="came" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<S_RELATION id="sr0" spans="163~165" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr2" spans="334~338" text="upon" semantic_type="DIR_TOP" />
+<S_RELATION id="sr4" spans="1838~1840" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr5" spans="1790~1792" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr7" spans="716~718" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr8" spans="921~925" text="down" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr9" spans="956~958" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr11" spans="1027~1029" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr12" spans="1139~1141" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr13" spans="1263~1265" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr14" spans="1285~1288" text="out" semantic_type="DIR_TOP" />
+<S_RELATION id="sr15" spans="1306~1310" text="into" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr16" spans="1424~1426" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr17" spans="880~882" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr18" spans="1589~1593" text="upon" semantic_type="DIR_TOP" />
+<S_RELATION id="sr19" spans="1605~1610" text="round" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr20" spans="1677~1680" text="off" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr21" spans="1539~1541" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="379~384" text="among" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="495~497" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr22" spans="1526~1528" text="by" semantic_type="TOPOLOGICAL" />
+<EVENT_PATH id="ep0" spans="162~163" text=" " trigger="m0" mids="se0" />
+<EVENT_PATH id="ep1" spans="420~421" text=" " trigger="m2" mids="se8" />
+<EVENT_PATH id="ep2" spans="568~569" text=" " mids="se84" trigger="m12" />
+<EVENT_PATH id="ep3" spans="746~747" text=" " trigger="m6" mids="se32" />
+<EVENT_PATH id="ep4" spans="771~772" text=" " trigger="m7" mids="se32" />
+<EVENT_PATH id="ep5" spans="906~907" text=" " trigger="m8" mids="se36" />
+<EVENT_PATH id="ep6" spans="1004~1005" text=" " trigger="m9" mids="se42" />
+<EVENT_PATH id="ep7" spans="1305~1306" text=" " trigger="m13" mids="se99" />
+<EVENT_PATH id="ep8" spans="684~685" text=" " trigger="m5" mids="se26" />
+<EVENT_PATH id="ep9" spans="1349~1350" text=" " trigger="m11" mids="se101" />
+<EVENT_PATH id="ep10" spans="1830~1831" text=" " trigger="m3" mids="se110" />
+<EVENT_PATH id="ep11" spans="1779~1780" text=" " trigger="m4" />
+<MEASURE id="me0" spans="1911~1919" text="gigantic"  />
+<MEASURE id="me1" spans="1096~1098" text="no"  />
+<MEASURE id="me2" spans="1461~1463" text="no"  />
+<MEASURE id="me3" spans="1497~1500" text="one"  />
+<MEASURE id="me4" spans="1579~1581" text="no"  />
+<MEASURE id="me6" spans="1656~1676" text="some little distance"  />
+<QSLINK id="qsl0" fromID="se16" fromText="Dr. Mortimer" toID="se17" toText="us" trigger="sr5" relType="DC" />
+<QSLINK id="qsl1" fromID="sr9" fromText="at" toID="pl4" toText="moor-gate" trigger="sr9" relType="DC" />
+<QSLINK id="qsl2" fromID="se38" fromText="facts" toID="se64" toText="inquest" trigger="sr17" relType="NTPP" />
+<QSLINK id="qsl4" toID="se23" toText="anxiety" fromID="se4" fromText="he" trigger="sr1" relType="IN" />
+<QSLINK id="qsl5" fromID="se44" fromText="shape" toID="se45" toText="prints" trigger="sr11" relType="IN" />
+<QSLINK id="qsl6" fromID="se68" fromText="ground" toID="se70" toText="body" trigger="sr19" relType="PO" />
+<QSLINK id="qsl8" fromID="se49" fromText="Barrymore" toID="se50" toText="soft gravel" trigger="sr12" relType="NTPP" />
+<QSLINK id="qsl12" toID="se68" toText="ground" fromID="se67" fromText="traces" trigger="sr18" relType="DC" />
+<QSLINK id="qsl13" fromID="se78" fromText="months" toID="se11" toText="distractions" trigger="sr3" />
+<QSLINK id="qsl14" fromID="e1" fromText="concerned" toID="se81" toText="state of health" trigger="sr10" />
+<QSLINK id="qsl15" fromID="e17" fromText="mentioned" toID="se64" toText="inquest" trigger="sr17" />
+<QSLINK id="qsl16" fromID="e16" fromText="made" toID="se62" toText="Barrymore" trigger="sr22" />
+<QSLINK id="qsl17" trigger="sr21" />
+<OLINK id="ol1" fromID="se70" fromText="body" toID="se3" toText="Footprints" trigger="sr20" />
+<MOVELINK id="mvl0" fromID="se0" fromText="Sir Charles" toID="m0" toText="go" trigger="m0" goal="pl0" mover="se0" />
+<MOVELINK id="mvl2" toID="m2" toText="send" fromID="se8" fromText="him" trigger="m2" mover="se8" source="pl1" />
+<MOVELINK id="mvl4" toID="m4" toText="looked" fromID="se16" fromText="Dr. Mortimer" trigger="m4" />
+<MOVELINK id="mvl6" toID="m6" toText="sitting up" fromID="se32" fromText="I" trigger="m6" />
+<MOVELINK id="mvl7" toID="m7" toText="reach" fromID="se33" fromText="I" trigger="m7" />
+<MOVELINK id="mvl8" toID="m8" toText="followed" fromID="se36" fromText="I" trigger="m8" />
+<MOVELINK id="mvl9" toID="m9" toText="waited" fromID="se42" fromText="he" trigger="m9" />
+<MOVELINK id="mvl12" toID="m13" toText="dug" fromID="se99" fromText="fingers" trigger="m13" />
+<MOVELINK id="mvl13" fromID="se84" fromText="catastrophe" toID="m12" toText="came" trigger="m12" />
+<MOVELINK id="mvl1" toID="m13" toText="dug" fromID="se26" fromText="Barrymore" trigger="m13" />
+<MEASURELINK id="ml0" toID="me0" toText="gigantic" fromID="se24" fromText="hound" relType="GENERAL_DIMENSION" val="me0" />
+<MEASURELINK id="ml1" toID="me1" toText="no" fromID="se48" fromText="footsteps" relType="GENERAL_DIMENSION" val="me1" />
+<MEASURELINK id="ml4" toID="me4" toText="no" fromID="se67" fromText="traces" relType="GENERAL_DIMENSION" val="me1" />
+<MEASURELINK id="ml5" toID="me6" toText="some little distance" fromID="se3" fromText="Footprints" relType="DISTANCE" val="me6" />
+<MEASURELINK id="ml2" toID="me3" toText="one" fromID="se106" fromText="statement" relType="GENERAL_DIMENSION" val="me3" />
+<MEASURELINK id="ml3" fromID="se105" fromText="injury" toID="me2" toText="no" relType="GENERAL_DIMENSION" />
+<METALINK id="metal0" fromID="se0" fromText="Sir Charles" toID="se4" toText="he" objectID1="se0" objectID2="se4" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se0" fromText="Sir Charles" toID="se8" toText="him" objectID1="se0" objectID2="se8" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se0" fromText="Sir Charles" toID="se53" toText="Sir Charles" objectID1="se0" objectID2="se53" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se0" fromText="Sir Charles" toID="se42" toText="he" objectID1="se0" objectID2="se42" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se1" fromText="I" toID="se7" toText="I" objectID1="se1" objectID2="se7" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se1" fromText="I" toID="se31" toText="me" objectID1="se1" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se1" fromText="I" toID="se32" toText="I" objectID1="se1" objectID2="se32" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se1" fromText="I" toID="se33" toText="I" objectID1="se1" objectID2="se33" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se1" fromText="I" toID="se37" toText="I" objectID1="se1" objectID2="se37" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se1" fromText="I" toID="se36" toText="I" objectID1="se1" objectID2="se36" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se1" fromText="I" toID="se40" toText="I" objectID1="se1" objectID2="se40" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se1" fromText="I" toID="se43" toText="I" objectID1="se1" objectID2="se43" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se1" fromText="I" toID="se47" toText="I" objectID1="se1" objectID2="se47" relType="COREFERENCE" />
+<METALINK id="metal13" fromID="se1" fromText="I" toID="se51" toText="I" objectID1="se1" objectID2="se51" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se1" fromText="I" toID="se59" toText="I" objectID1="se1" objectID2="se59" relType="COREFERENCE" />
+<METALINK id="metal15" fromID="se1" fromText="I" toID="se72" toText="I" objectID1="se1" objectID2="se72" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se1" fromText="I" toID="se16" toText="Dr. Mortimer" objectID1="se1" objectID2="se16" relType="COREFERENCE" />
+<METALINK id="metal17" toID="se20" toText="he" fromID="se1" fromText="I" objectID1="se1" objectID2="se20" relType="COREFERENCE" />
+<METALINK id="metal18" fromID="se10" fromText="Mr. Stapleton" toID="se12" toText="friend" objectID2="se12" objectID1="se10" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se26" fromText="Barrymore" toID="se62" toText="Barrymore" objectID1="se26" objectID2="se62" relType="COREFERENCE" />
+<METALINK id="metal23" fromID="se48" fromText="footsteps" toID="se49" toText="Barrymore" objectID1="se48" objectID2="se49" relType="COREFERENCE" />
+<METALINK id="metal24" fromID="se52" fromText="body" toID="se70" toText="body" objectID1="se52" objectID2="se70" relType="COREFERENCE" />
+<METALINK id="metal25" fromID="se26" fromText="Barrymore" toID="se66" toText="He" objectID1="se26" objectID2="se66" relType="COREFERENCE" />
+<METALINK id="metal26" fromID="se26" fromText="Barrymore" toID="se71" toText="He" objectID1="se26" objectID2="se71" relType="COREFERENCE" />
+<METALINK id="metal27" fromID="se68" fromText="ground" toID="se69" toText="ground" objectID1="se68" objectID2="se69" relType="COREFERENCE" />
+<METALINK id="metal28" fromID="se3" fromText="Footprints" toID="se13" toText="Footprints" objectID1="se3" objectID2="se13" relType="COREFERENCE" />
+<METALINK id="metal29" fromID="se3" fromText="Footprints" toID="se22" toText="footprints" objectID1="se3" objectID2="se22" relType="COREFERENCE" />
+<METALINK id="metal32" fromID="se73" fromText="His" toID="se0" toText="Sir Charles" relType="COREFERENCE" />
+<METALINK id="metal33" fromID="se74" fromText="heart" toID="se0" toText="Sir Charles" relType="SUBCOREFERENCE" />
+<METALINK id="metal34" fromID="se76" fromText="his" toID="se0" toText="Sir Charles" relType="COREFERENCE" />
+<METALINK id="metal35" fromID="se77" fromText="health" toID="se0" toText="Sir Charles" relType="SUBCOREFERENCE" />
+<METALINK id="metal36" fromID="se80" fromText="his" toID="se0" toText="Sir Charles" relType="COREFERENCE" />
+<METALINK id="metal37" fromID="se7" fromText="I" toID="se1" toText="I" relType="COREFERENCE" />
+<METALINK id="metal38" fromID="se81" fromText="state of health" toID="se0" toText="Sir Charles" relType="SUBCOREFERENCE" />
+<METALINK id="metal39" fromID="se88" fromText="butler" toID="se26" toText="Barrymore" relType="COREFERENCE" />
+<METALINK id="metal41" fromID="se90" fromText="groom on horseback" toID="se28" toText="Perkins" relType="COREFERENCE" />
+<METALINK id="metal42" fromID="se94" fromText="his" toID="se0" toText="Sir Charles" relType="COREFERENCE" />
+<METALINK id="metal43" fromID="se95" fromText="face" toID="se0" toText="Sir Charles" relType="SUBCOREFERENCE" />
+<METALINK id="metal44" fromID="se96" fromText="his" toID="se0" toText="Sir Charles" relType="COREFERENCE" />
+<METALINK id="metal45" fromID="se97" fromText="arms" toID="se0" toText="Sir Charles" relType="SUBCOREFERENCE" />
+<METALINK id="metal46" fromID="se98" fromText="his" toID="se0" toText="Sir Charles" relType="COREFERENCE" />
+<METALINK id="metal47" fromID="se99" fromText="fingers" toID="se0" toText="Sir Charles" relType="SUBCOREFERENCE" />
+<METALINK id="metal48" fromID="se100" fromText="his" toID="se0" toText="Sir Charles" relType="COREFERENCE" />
+<METALINK id="metal49" fromID="se101" fromText="features" toID="se0" toText="Sir Charles" relType="SUBCOREFERENCE" />
+<METALINK id="metal50" fromID="se103" fromText="his" relType="COREFERENCE" />
+<METALINK id="metal51" fromID="se104" fromText="identity" toID="se0" toText="Sir Charles" relType="SUBCOREFERENCE" />
+<METALINK id="metal52" fromID="se109" fromText="his" toID="se16" toText="Dr. Mortimer" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se5" fromText="my" toID="se1" toText="I" relType="COREFERENCE" />
+<METALINK id="metal21" fromID="se6" fromText="they" toID="se3" toText="Footprints" relType="COREFERENCE" />
+<SRLINK id="srole0" toID="e0" toText="knew" fromID="se1" fromText="I" relType="ARGO0" objectID2="e0" objectID1="se1" />
+<SRLINK id="srole1" toID="e1" toText="concerned" fromID="se12" fromText="friend" relType="ARGO0" objectID2="e1" objectID1="se12" />
+<SRLINK id="srole2" toID="e4" toText="answered" fromID="se20" fromText="he" relType="ARGO0" objectID2="e4" objectID1="se20" />
+<SRLINK id="srole4" toID="e6" toText="checked" fromID="se37" fromText="I" relType="ARGO0" objectID2="e6" objectID1="se37" />
+<SRLINK id="srole5" toID="e7" toText="corroborated" fromID="se37" fromText="I" relType="ARGO0" objectID2="e7" objectID1="se37" />
+<SRLINK id="srole6" toID="e8" toText="saw" fromID="se40" fromText="I" relType="ARGO0" objectID2="e8" objectID1="se40" />
+<SRLINK id="srole7" toID="e9" toText="remarked" fromID="se43" fromText="I" relType="ARGO0" objectID2="e9" objectID1="s43" />
+<SRLINK id="srole8" toID="e10" toText="noted" fromID="se47" fromText="I" relType="ARGO0" objectID2="e10" objectID1="se47" />
+<SRLINK id="srole9" toID="e11" toText="examined" fromID="se51" fromText="I" relType="ARGO0" objectID2="e11" objectID1="se51" />
+<SRLINK id="srole10" toID="e12" toText="lay" fromID="se53" fromText="Sir Charles" relType="ARGO0" objectID2="e12" objectID1="se53" />
+<SRLINK id="srole11" toID="e13" toText="touched" fromID="se52" fromText="body" relType="ARGO0" objectID2="e13" objectID1="se52" />
+<SRLINK id="srole12" toID="e15" toText="sworn" fromID="se59" fromText="I" relType="ARGO0" objectID2="e15" objectID1="se59" />
+<SRLINK id="srole13" toID="e16" toText="made" fromID="se62" fromText="Barrymore" relType="ARGO0" objectID2="e16" objectID1="se62" />
+<SRLINK id="srole15" toID="e18" toText="said" fromID="se66" fromText="He" relType="ARGO0" objectID2="e18" objectID1="se66" />
+<SRLINK id="srole17" toID="e20" toText="did" fromID="se72" fromText="I" relType="ARGO0" objectID2="e20" objectID1="se72" />
+</TAGS>
+</SpaceEvalTaskv1.2>

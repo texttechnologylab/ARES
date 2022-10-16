@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[On the day of my arrest they put me in a biggish room with several other prisoners, mostly Arabs. They grinned when they saw me enter and asked me what I’d done. I told them I’d killed an Arab, and they kept mum for a while. But presently night began to fall, and one of them explained to me how to lay out my sleeping mat. By rolling up one end one makes a sort of bolster. All night I felt bugs crawling over my face. Some days later I was put by myself in a cell, where I slept on a plank bed hinged to the wall. The only other furniture was a latrine bucket and a tin basin. The prison stands on rising ground, and through my little window I had glimpses of the sea. One day when I was hanging on the bars, straining my eyes toward the sunlight playing on the waves, a jailer entered and said I had a visitor. I thought it must be Marie, and so it was. To go to the Visitors’ Room, I was taken along a corridor, then up a flight of steps, then along another corridor. It was a very large room, lit by a big bow window, and divided into three compartments by high iron grilles running transversally. Between the two grilles there was a gap of some thirty feet, a sort of no man’s land between the prisoners and their friends. I was led to a point exactly opposite Marie, who was wearing her striped dress. On my side of the rails were about a dozen other prisoners, Arabs for the most part. On Marie’s side were mostly Moorish women. She was wedged between a small old woman with tight-set lips and a fat matron, without a hat, who was talking shrilly and gesticulated all the time.]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="49~53" text="room" dcl="FALSE" form="NOM" mod="biggish" type="CIVIL" dimensionality="AREA" />
+<PLACE id="pl1" spans="461~465" text="cell" dcl="FALSE" form="NOM" type="CIVIL" dimensionality="AREA" />
+<PLACE id="pl2" spans="583~589" text="prison" dcl="FALSE" form="NOM" type="CIVIL" dimensionality="VOLUME" />
+<PLACE id="pl3" spans="870~884" text="Visitors’ Room" dcl="FALSE" form="NOM" type="CIVIL" dimensionality="AREA" />
+<PLACE id="pl4" spans="992~996" text="room" dcl="FALSE" form="NOM" dimensionality="AREA" type="CIVIL" />
+<PLACE id="pl5" spans="1183~1187" text="land" dcl="FALSE" type="GRID" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl7" spans="666~669" text="sea" dcl="FALSE" type="BODYOFWATER" form="NOM" dimensionality="VOLUME" />
+<PLACE id="pl6" spans="607~613" text="ground" dcl="FALSE" form="NOM" mod="rising" type="CIVIL" dimensionality="AREA" />
+<PLACE id="pl8" spans="1127~1132" text="there" dcl="FALSE" form="NOM" type="CIVIL" dimensionality="AREA" />
+<PLACE id="pl12" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl13" spans="1244~1249" text="point" dcl="FALSE" type="CIVIL" dimensionality="POINT" form="NOM" />
+<PLACE id="pl14" spans="-1~-1" text="" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl15" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl17" spans="906~914" text="corridor" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" />
+<PLACE id="pl18" spans="962~970" text="corridor" dcl="FALSE" type="CIVIL" dimensionality="AREA" form="NOM" mod="another" />
+<PATH id="p0" spans="906~914" text="corridor" dcl="FALSE" />
+<PATH id="p1" spans="962~970" text="corridor" dcl="FALSE" />
+<PATH id="p2" spans="936~941" text="steps" dcl="FALSE" />
+<SPATIAL_ENTITY id="se0" spans="91~96" text="Arabs" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se1" spans="73~82" text="prisoners" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se2" spans="188~192" text="Arab" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se3" spans="162~163" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se4" spans="152~153" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se5" spans="264~275" text="one of them" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se6" spans="310~322" text="sleeping mat" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se7" spans="366~373" text="bolster" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se8" spans="392~396" text="bugs" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se9" spans="385~386" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se10" spans="414~418" text="face" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se11" spans="436~437" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se12" spans="473~474" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se13" spans="174~175" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se14" spans="486~495" text="plank bed" dcl="FALSE" type="FAC" form="NOM" />
+<SPATIAL_ENTITY id="se15" spans="510~514" text="wall" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se16" spans="531~540" text="furniture" dcl="FALSE" type="FAC" form="NOM" />
+<SPATIAL_ENTITY id="se17" spans="555~561" text="bucket" dcl="FALSE" type="ARTIFACT" form="NOM" mod="latrine" />
+<SPATIAL_ENTITY id="se18" spans="572~577" text="basin" dcl="FALSE" type="ARTIFACT" form="NOM" mod="tin" />
+<SPATIAL_ENTITY id="se19" spans="637~643" text="window" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se20" spans="644~645" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se22" spans="705~709" text="bars" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se23" spans="684~685" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se24" spans="724~728" text="eyes" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se25" spans="764~769" text="waves" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se26" spans="773~779" text="jailer" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se27" spans="797~798" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se28" spans="805~812" text="visitor" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se29" spans="814~815" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se30" spans="835~840" text="Marie" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se31" spans="886~887" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se32" spans="1015~1021" text="window" dcl="FALSE" form="NOM" type="ARTIFACT" mod="big bow" />
+<SPATIAL_ENTITY id="se33" spans="1072~1079" text="grilles" dcl="FALSE" type="ARTIFACT" form="NOM" mod="iron" />
+<SPATIAL_ENTITY id="se34" spans="1119~1126" text="grilles" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se35" spans="1200~1209" text="prisoners" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se36" spans="1220~1227" text="friends" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se37" spans="1229~1230" text="I" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se38" spans="1267~1272" text="Marie" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se39" spans="1302~1307" text="dress" dcl="FALSE" type="ARTIFACT" form="NOM" mod="striped" />
+<SPATIAL_ENTITY id="se40" spans="1327~1332" text="rails" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se41" spans="1358~1367" text="prisoners" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se42" spans="1369~1374" text="Arabs" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se43" spans="1397~1402" text="Marie" dcl="FALSE" type="PERSON" form="NAM" />
+<SPATIAL_ENTITY id="se44" spans="1430~1435" text="women" dcl="FALSE" type="PERSON" form="NOM" mod="Moorish" />
+<SPATIAL_ENTITY id="se45" spans="1472~1477" text="woman" dcl="FALSE" type="PERSON" form="NOM" mod="small old" />
+<SPATIAL_ENTITY id="se46" spans="1508~1514" text="matron" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se47" spans="1493~1497" text="lips" dcl="FALSE" type="ARTIFACT" form="NOM" mod="tight-set" />
+<SPATIAL_ENTITY id="se48" spans="1437~1440" text="She" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se49" spans="1526~1529" text="hat" dcl="FALSE" type="ARTIFACT" form="NOM" />
+<SPATIAL_ENTITY id="se50" spans="98~102" text="They" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se51" spans="125~127" text="me" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se52" spans="740~748" text="sunlight" dcl="FALSE" form="NOM" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se53" spans="33~35" text="me" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se21" spans="24~28" text="they" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se54" spans="116~120" text="they" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se55" spans="198~202" text="they" dcl="FALSE" form="NOM" type="PERSON" />
+<SPATIAL_ENTITY id="se56" spans="239~244" text="night" dcl="FALSE" type="DYNAMIC_EVENT" form="NOM" />
+<SPATIAL_ENTITY id="se57" spans="-1~-1" text="" dcl="FALSE" type="PERSON" form="NOM" />
+<SPATIAL_ENTITY id="se58" spans="-1~-1" text="" dcl="FALSE" type="PERSON" form="NOM" />
+<NONMOTION_EVENT id="e0" spans="103~110" text="grinned"  />
+<NONMOTION_EVENT id="e1" spans="276~285" text="explained"  />
+<NONMOTION_EVENT id="e2" spans="475~480" text="slept"  />
+<NONMOTION_EVENT id="e3" spans="178~184" text="killed"  />
+<NONMOTION_EVENT id="e4" spans="690~697" text="hanging"  />
+<NONMOTION_EVENT id="e5" spans="711~720" text="straining"  />
+<NONMOTION_EVENT id="e6" spans="816~823" text="thought"  />
+<NONMOTION_EVENT id="e8" spans="1027~1034" text="divided"  />
+<NONMOTION_EVENT id="e9" spans="1282~1289" text="wearing"  />
+<NONMOTION_EVENT id="e10" spans="121~124" text="saw"  />
+<NONMOTION_EVENT id="e11" spans="138~143" text="asked"  />
+<NONMOTION_EVENT id="e12" spans="164~168" text="told"  />
+<NONMOTION_EVENT id="e13" spans="203~211" text="kept mum"  />
+<MOTION id="m0" spans="128~133" text="enter" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m2" spans="327~337" text="rolling up" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m3" spans="397~405" text="crawling" motion_sense="LITERAL" motion_class="MOVE" motion_type="COMPOUND" />
+<MOTION id="m4" spans="749~756" text="playing" motion_type="MANNER" motion_class="MOVE_INTERNAL" motion_sense="FICTIVE" />
+<MOTION id="m5" spans="780~787" text="entered" motion_type="PATH" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m6" spans="860~862" text="go" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m7" spans="1235~1238" text="led" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m8" spans="245~258" text="began to fall" motion_type="MANNER" motion_class="MOVE" motion_sense="FICTIVE" />
+<MOTION id="m9" spans="438~445" text="was put" motion_type="MANNER" motion_sense="LITERAL" motion_class="MOVE" />
+<MOTION id="m10" spans="590~596" text="stands" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m11" spans="646~658" text="had glimpses" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m12" spans="1539~1546" text="talking" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m13" spans="1559~1571" text="gesticulated" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m15" spans="296~306" text="to lay out" motion_type="MANNER" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m16" spans="711~720" text="straining" motion_class="MOVE" motion_sense="LITERAL" motion_type="MANNER" />
+<MOTION id="m17" spans="888~903" text="was taken along" motion_class="MOVE" motion_sense="LITERAL" motion_type="COMPOUND" />
+<MOTION id="m18" spans="1231~1238" text="was led" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr0" spans="36~38" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr1" spans="406~410" text="over" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="456~458" text="in" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr3" spans="481~483" text="on" semantic_type="DIR_TOP" />
+<S_RELATION id="sr4" spans="619~626" text="through" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr6" spans="898~903" text="along" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr7" spans="948~953" text="along" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr8" spans="921~923" text="up" semantic_type="PATH_DEFINING" />
+<S_RELATION id="sr9" spans="597~599" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr10" spans="659~661" text="of" semantic_type="DIR_TOP" />
+<S_RELATION id="sr11" spans="729~735" text="toward" semantic_type="DIRECTIONAL" />
+<S_RELATION id="sr12" spans="1452~1459" text="between" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr13" spans="54~58" text="with" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr14" spans="698~700" text="on" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr15" spans="1394~1396" text="On" semantic_type="DIR_TOP" />
+<EVENT_PATH id="ep2" spans="436~465" text="I was put by myself in a cell" trigger="m9" beginID="pl0" endID="pl1" />
+<EVENT_PATH id="ep3" spans="886~971" text="I was taken along a corridor, then up a flight of steps, then along another corridor." trigger="m17" beginID="pl17" endID="pl18" />
+<EVENT_PATH id="ep4" spans="1229~1272" text="I was led to a point exactly opposite Marie" trigger="m18" beginID="pl1" endID="pl13" />
+<MEASURE id="me1" spans="84~90" text="mostly" unit="-" value="mostly" comment="Arabs" />
+<MEASURE id="me2" spans="630~636" text="little" unit="-" value="little" />
+<MEASURE id="me3" spans="981~991" text="very large" unit="-" value="very large" />
+<MEASURE id="me4" spans="1007~1010" text="big" value="big" />
+<MEASURE id="me5" spans="1040~1045" text="three" value="three" unit="-" />
+<MEASURE id="me6" spans="1346~1351" text="dozen" value="dozen" unit="-" />
+<MEASURE id="me8" spans="1415~1421" text="mostly" value="mostly" unit="-" />
+<MEASURE id="me9" spans="1462~1467" text="small" value="small" unit="-" />
+<MEASURE id="me11" spans="1151~1157" text="thirty" value="thirty" unit="feet" />
+<QSLINK id="qsl0" toID="pl0" toText="room" fromID="se53" fromText="me" relType="IN" trigger="sr0" trajector="se53" landmark="pl0" />
+<QSLINK id="qsl1" toID="se10" toText="face" fromID="m3" fromText="crawling" relType="EC" trigger="sr1" trajector="se9" landmark="pl0" />
+<QSLINK id="qsl2" toID="pl1" toText="cell" fromID="se11" fromText="I" relType="IN" trigger="sr2" trajector="se11" landmark="pl1" />
+<QSLINK id="qsl3" toID="se14" toText="plank bed" fromID="e2" fromText="slept" trigger="sr3" relType="EC" trajector="se12" landmark="pl1" />
+<QSLINK id="qsl4" toID="pl0" toText="room" fromID="se1" fromText="prisoners" relType="NTPP" trajector="se1" landmark="pl0" trigger="sr0" />
+<QSLINK id="qsl5" toID="pl0" toText="room" fromID="se50" fromText="They" relType="NTPP" trajector="se50" landmark="pl0" trigger="-" />
+<QSLINK id="qsl6" toID="pl2" toText="prison" fromID="se21" fromText="they" relType="NTPP" trajector="se21" landmark="pl2" trigger="-" />
+<QSLINK id="qsl7" toID="pl0" toText="room" fromID="se54" fromText="they" relType="NTPP" trajector="se54" landmark="pl0" trigger="-" />
+<QSLINK id="qsl8" toID="pl0" toText="room" fromID="se51" fromText="me" relType="NTPP" trajector="se51" landmark="pl0" trigger="-" />
+<QSLINK id="qsl9" toID="pl0" toText="room" fromID="se3" fromText="I" relType="NTPP" trajector="se3" landmark="pl0" trigger="-" />
+<QSLINK id="qsl10" toID="pl0" toText="room" fromID="se4" fromText="I" relType="NTPP" trajector="se4" landmark="pl0" trigger="-" />
+<QSLINK id="qsl11" toID="pl0" toText="room" fromID="se13" fromText="I" relType="NTPP" trajector="se13" landmark="pl0" trigger="-" />
+<QSLINK id="qsl12" toID="pl0" toText="room" fromID="se55" fromText="they" relType="NTPP" trajector="se55" landmark="pl0" trigger="-" />
+<QSLINK id="qsl13" toID="pl1" toText="cell" fromID="se5" fromText="one of them" relType="NTPP" trajector="se5" landmark="pl1" trigger="-" />
+<QSLINK id="qsl14" fromID="se6" fromText="sleeping mat" toID="pl1" toText="cell" relType="NTPP" trajector="se6" landmark="pl1" trigger="-" />
+<QSLINK id="qsl15" toID="se6" toText="sleeping mat" fromID="se7" fromText="bolster" relType="EQ" trajector="se7" landmark="pl1" trigger="-" />
+<QSLINK id="qsl16" fromID="se1" fromText="prisoners" toID="pl0" toText="room" relType="NTPP" trajector="se1" landmark="pl0" trigger="sr13" />
+<QSLINK id="qsl17" fromID="se8" fromText="bugs" toID="se10" toText="face" relType="EC" trajector="se8" landmark="pl2" trigger="sr1" />
+<QSLINK id="qsl18" toID="pl6" toText="ground" fromID="pl2" fromText="prison" relType="NTPP" trajector="pl2" landmark="pl2" trigger="sr9" />
+<QSLINK id="qsl19" toID="pl1" toText="cell" fromID="se19" fromText="window" relType="TPP" trajector="se19" landmark="pl2" trigger="-" />
+<QSLINK id="qsl20" fromID="se22" fromText="bars" toID="se19" toText="window" relType="EC" trajector="se22" landmark="pl1" trigger="sr14" />
+<QSLINK id="qsl21" toID="pl1" toText="cell" fromID="se20" fromText="I" relType="NTPP" trajector="se20" landmark="pl1" trigger="-" />
+<QSLINK id="qsl22" toID="pl1" toText="cell" fromID="se26" fromText="jailer" relType="NTPP" trajector="se26" landmark="pl1" trigger="-" />
+<QSLINK id="qsl23" fromID="se27" fromText="I" toID="pl1" toText="cell" relType="NTPP" trajector="se27" landmark="pl1" trigger="-" />
+<QSLINK id="qsl24" fromID="se28" fromText="visitor" toID="pl3" toText="Visitors’ Room" relType="NTPP" trajector="se28" landmark="pl3" trigger="-" />
+<QSLINK id="qsl25" fromID="pl4" fromText="room" toID="pl2" toText="prison" relType="NTPP" trajector="pl4" landmark="pl2" trigger="-" />
+<QSLINK id="qsl26" fromID="se32" fromText="window" toID="pl2" toText="prison" relType="TPP" trajector="se32" landmark="pl2" trigger="-" />
+<QSLINK id="qsl27" fromID="se33" fromText="grilles" toID="se32" toText="window" relType="EC" trajector="se33" landmark="pl1" trigger="-" />
+<QSLINK id="qsl28" toID="pl3" toText="Visitors’ Room" fromID="se38" fromText="Marie" relType="NTPP" trajector="se38" landmark="pl3" trigger="-" />
+<QSLINK id="qsl29" fromID="se39" fromText="dress" toID="se38" toText="Marie" relType="NTPP" trajector="se39" landmark="pl3" trigger="-" />
+<QSLINK id="qsl30" fromID="se44" fromText="women" toID="se43" toText="Marie" relType="NTPP" trajector="se44" landmark="pl3" trigger="sr15" />
+<QSLINK id="qsl33" fromID="se48" fromText="She" toID="pl3" toText="Visitors’ Room" relType="NTPP" trajector="se48" landmark="pl3" trigger="-" />
+<QSLINK id="qsl34" toID="pl3" toText="Visitors’ Room" fromID="se45" fromText="woman" relType="NTPP" trajector="se45" landmark="pl3" trigger="-" />
+<QSLINK id="qsl35" fromID="se46" fromText="matron" toID="pl3" toText="Visitors’ Room" relType="NTPP" trajector="se46" landmark="pl3" trigger="-" />
+<QSLINK id="qsl36" fromID="se16" fromText="furniture" toID="pl1" toText="cell" relType="NTPP" trajector="se16" landmark="pl1" trigger="-" />
+<QSLINK id="qsl37" fromID="se17" fromText="bucket" toID="pl1" toText="cell" relType="NTPP" trajector="se17" landmark="pl1" trigger="-" />
+<QSLINK id="qsl38" fromID="se18" fromText="basin" toID="pl1" toText="cell" relType="NTPP" trajector="se18" landmark="pl1" trigger="-" />
+<QSLINK id="qsl39" toID="pl1" toText="cell" fromID="se14" fromText="plank bed" relType="NTPP" trajector="se14" landmark="pl1" trigger="sr3" />
+<OLINK id="ol0" fromID="sr6" fromText="along" toID="p0" toText="corridor" />
+<OLINK id="ol1" fromID="sr7" fromText="along" toID="p1" toText="corridor" />
+<OLINK id="ol2" fromID="sr8" fromText="up" toID="p2" toText="steps" />
+<MOVELINK id="mvl0" toID="se6" toText="sleeping mat" fromID="e1" fromText="explained" trigger="m15" mover="se5" landmark="pl0" goal_reached="UNCERTAIN" source="se6" />
+<MOVELINK id="mvl1" fromID="se8" fromText="bugs" toID="se10" toText="face" trigger="m3" landmark="pl0" goal_reached="UNCERTAIN" source="-" mover="-" />
+<MOVELINK id="mvl2" fromID="se26" fromText="jailer" toID="pl12" toText="" trigger="m5" landmark="pl0" source="pl12" mover="se26" goal_reached="YES" />
+<MOVELINK id="mvl3" toID="pl13" toText="point" fromID="se37" fromText="I" trigger="m7" landmark="pl0" mover="se58" source="pl13" goal_reached="YES" />
+<MOVELINK id="mvl4" toID="pl14" toText="" fromID="se51" fromText="me" trigger="m0" goal="pl0" goal_reached="YES" landmark="pl0" source="pl14" mover="se51" />
+<MOVELINK id="mvl5" fromID="se6" fromText="sleeping mat" trigger="m2" landmark="pl0" source="pl14" mover="se3" goal_reached="YES" />
+<MOVELINK id="mvl6" fromID="se52" fromText="sunlight" toID="se25" toText="waves" trigger="m4" landmark="pl0" goal_reached="UNCERTAIN" source="se25" mover="se52" />
+<MOVELINK id="mvl7" fromID="se31" fromText="I" toID="pl3" toText="Visitors’ Room" trigger="m6" landmark="pl3" source="pl3" mover="se31" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl8" fromID="se56" fromText="night" trigger="m8" mover="se58" goal_reached="YES" />
+<MOVELINK id="mvl9" fromID="se11" fromText="I" toID="pl1" toText="cell" trigger="m9" source="pl1" mover="se11" landmark="pl1" goal_reached="YES" />
+<MOVELINK id="mvl10" fromID="pl2" fromText="prison" toID="pl6" toText="ground" trigger="m10" source="pl6" mover="pl2" landmark="pl6" goal_reached="YES" />
+<MOVELINK id="mvl11" fromID="se20" fromText="I" toID="pl7" toText="sea" trigger="m11" source="pl7" mover="se20" landmark="pl7" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl12" fromID="se45" fromText="woman" trigger="m12" source="pl2" mover="se45" landmark="pl2" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl13" fromID="se45" fromText="woman" trigger="m12" source="pl2" mover="se45" landmark="pl2" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl14" fromID="se23" fromText="I" toID="se52" toText="sunlight" trigger="m16" source="pl0" mover="se23" landmark="pl0" goal_reached="UNCERTAIN" />
+<MEASURELINK id="ml1" fromID="me1" fromText="mostly" toID="se0" toText="Arabs" trajector="se0" landmark="pl0" relType="GENERAL_DIMENSION" val="me1" />
+<MEASURELINK id="ml2" fromID="me2" fromText="little" toID="se19" toText="window" val="me2" trajector="se19" landmark="pl2" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml3" fromID="me3" fromText="very large" toID="pl4" toText="room" val="me3" trajector="pl4" landmark="pl2" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml4" fromID="me4" fromText="big" toID="se32" toText="window" val="me4" trajector="se32" landmark="pl4" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml5" fromID="me5" fromText="three" toID="se33" toText="grilles" val="me5" trajector="se33" landmark="pl4" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml6" fromID="me6" fromText="dozen" toID="se41" toText="prisoners" val="me6" trajector="se41" landmark="pl2" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml8" fromID="me8" fromText="mostly" toID="se44" toText="women" val="me8" trajector="se8" landmark="pl2" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml9" fromID="me9" fromText="small" toID="se45" toText="woman" val="me9" trajector="se45" landmark="pl2" relType="GENERAL_DIMENSION" />
+<MEASURELINK id="ml10" fromID="me11" fromText="thirty" toID="pl8" toText="there" val="me11" trajector="pl8" landmark="pl4" relType="DISTANCE" />
+<METALINK id="metal0" toID="se48" toText="She" fromID="se30" fromText="Marie" objectID1="se38" objectID2="se48" relType="COREFERENCE" />
+<METALINK id="metal2" fromID="se53" fromText="me" toID="se51" toText="me" objectID1="se53" objectID2="se51" relType="COREFERENCE" />
+<METALINK id="metal3" fromID="se53" fromText="me" toID="se4" toText="I" objectID1="se53" objectID2="se4" relType="COREFERENCE" />
+<METALINK id="metal4" fromID="se53" fromText="me" toID="se3" toText="I" objectID1="se53" objectID2="se3" relType="COREFERENCE" />
+<METALINK id="metal5" fromID="se53" fromText="me" toID="se13" toText="I" objectID1="se53" objectID2="se13" relType="COREFERENCE" />
+<METALINK id="metal6" fromID="se53" fromText="me" toID="se9" toText="I" objectID1="se53" objectID2="se9" relType="COREFERENCE" />
+<METALINK id="metal7" fromID="se53" fromText="me" toID="se11" toText="I" objectID1="se53" objectID2="se11" relType="COREFERENCE" />
+<METALINK id="metal8" fromID="se53" fromText="me" toID="se12" toText="I" objectID1="se53" objectID2="se12" relType="COREFERENCE" />
+<METALINK id="metal9" fromID="se53" fromText="me" toID="se20" toText="I" objectID1="se53" objectID2="se20" relType="COREFERENCE" />
+<METALINK id="metal10" fromID="se53" fromText="me" toID="se23" toText="I" objectID1="se53" objectID2="se23" relType="COREFERENCE" />
+<METALINK id="metal11" fromID="se53" fromText="me" toID="se27" toText="I" objectID1="se53" objectID2="se27" relType="COREFERENCE" />
+<METALINK id="metal12" fromID="se53" fromText="me" toID="se29" toText="I" objectID1="se53" objectID2="se29" relType="COREFERENCE" />
+<METALINK id="metal13" toID="se31" toText="I" fromID="se53" fromText="me" objectID1="se53" objectID2="se31" relType="COREFERENCE" />
+<METALINK id="metal14" fromID="se53" fromText="me" toID="se37" toText="I" objectID1="se53" objectID2="se37" relType="COREFERENCE" />
+<METALINK id="metal15" fromID="se30" fromText="Marie" toID="se38" toText="Marie" objectID1="se30" objectID2="se38" relType="COREFERENCE" />
+<METALINK id="metal16" fromID="se30" fromText="Marie" toID="se43" toText="Marie" objectID1="se30" objectID2="se43" relType="COREFERENCE" />
+<METALINK id="metal1" fromID="se21" fromText="they" toID="se57" toText="" objectID1="se21" objectID2="se57" relType="COREFERENCE" />
+<METALINK id="metal17" fromID="se0" fromText="Arabs" toID="se1" toText="prisoners" objectID1="se0" objectID2="se1" relType="SUBCOREFERENCE" />
+<METALINK id="metal18" fromID="se50" fromText="They" toID="se1" toText="prisoners" objectID1="se50" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal19" fromID="se54" fromText="they" toID="se50" toText="They" objectID1="se54" objectID2="se50" relType="COREFERENCE" />
+<METALINK id="metal20" fromID="se2" fromText="Arab" toID="se0" toText="Arabs" objectID1="se2" objectID2="se0" relType="COREFERENCE" />
+<METALINK id="metal21" fromID="se55" fromText="they" toID="se2" toText="Arab" objectID1="se55" objectID2="se2" relType="COREFERENCE" />
+<METALINK id="metal22" fromID="se5" fromText="one of them" toID="se2" toText="Arab" objectID1="se55" objectID2="se2" relType="SUBCOREFERENCE" />
+<METALINK id="metal23" fromID="pl0" fromText="room" toID="pl2" toText="prison" objectID1="pl0" objectID2="pl2" relType="SUBCOREFERENCE" />
+<METALINK id="metal24" fromID="pl6" fromText="ground" toID="pl2" toText="prison" objectID1="pl6" objectID2="pl6" relType="SUBCOREFERENCE" />
+<METALINK id="metal25" fromID="pl3" fromText="Visitors’ Room" toID="pl2" toText="prison" objectID1="pl3" objectID2="pl2" relType="SUBCOREFERENCE" />
+<METALINK id="metal26" fromID="pl4" fromText="room" toID="pl2" toText="prison" objectID1="pl4" objectID2="pl2" relType="SUBCOREFERENCE" />
+<METALINK id="metal27" fromID="pl8" fromText="there" toID="pl4" toText="room" objectID1="pl8" objectID2="pl4" relType="COREFERENCE" />
+<METALINK id="metal28" fromID="se35" fromText="prisoners" toID="se1" toText="prisoners" objectID1="se35" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal29" fromID="se41" fromText="prisoners" toID="se1" toText="prisoners" objectID1="se41" objectID2="se1" relType="COREFERENCE" />
+<METALINK id="metal30" fromID="se42" fromText="Arabs" toID="se41" toText="prisoners" objectID1="se42" objectID2="se42" relType="SUBCOREFERENCE" />
+<METALINK id="metal31" fromID="se44" fromText="women" toID="se48" toText="She" objectID1="se44" objectID2="se44" relType="COREFERENCE" />
+<METALINK id="metal32" fromID="pl12" fromText="" toID="pl4" toText="room" objectID1="pl12" objectID2="pl4" relType="COREFERENCE" />
+<METALINK id="metal33" fromID="se58" fromText="" toID="se26" toText="jailer" objectID1="se58" objectID2="se26" relType="COREFERENCE" />
+<METALINK id="metal34" fromID="pl14" fromText="" toID="pl0" toText="room" objectID1="pl14" objectID2="pl0" relType="COREFERENCE" />
+<METALINK id="metal35" fromID="pl0" fromText="room" toID="pl15" toText="" objectID1="pl0" objectID2="pl15" relType="SUBCOREFERENCE" />
+<METALINK id="metal36" fromID="pl1" fromText="cell" toID="pl15" toText="" objectID1="pl1" objectID2="pl15" relType="SUBCOREFERENCE" />
+<METALINK id="metal37" fromID="pl3" fromText="Visitors’ Room" toID="pl15" toText="" objectID1="pl3" objectID2="pl15" relType="SUBCOREFERENCE" />
+<METALINK id="metal38" fromID="pl17" fromText="corridor" toID="pl15" toText="" objectID1="pl17" objectID2="pl15" relType="SUBCOREFERENCE" />
+<METALINK id="metal39" fromID="pl18" fromText="corridor" toID="pl15" toText="" objectID1="pl18" objectID2="pl15" relType="SUBCOREFERENCE" />
+<METALINK id="metal40" fromID="pl4" fromText="room" toID="pl15" toText="" objectID1="pl4" objectID2="pl15" relType="SUBCOREFERENCE" />
+<METALINK id="metal41" fromID="pl8" fromText="there" toID="pl15" toText="" objectID1="pl8" objectID2="pl15" relType="SUBCOREFERENCE" />
+<METALINK id="metal42" fromID="pl13" fromText="point" toID="pl15" toText="" objectID1="pl13" objectID2="pl15" relType="SUBCOREFERENCE" />
+<METALINK id="metal49" fromID="pl15" fromText="" toID="pl2" toText="prison" objectID1="pl15" objectID2="pl2" relType="SPLITCOREFERENCE" />
+<METALINK id="metal50" fromID="pl1" fromText="cell" toID="pl15" toText="" objectID1="pl1" objectID2="pl15" relType="SUBCOREFERENCE" />
+<SRLINK id="srole0" fromID="se50" fromText="They" toID="e0" toText="grinned" relType="ARGO0" objectID1="se50" objectID2="e0" />
+<SRLINK id="srole1" fromID="se13" fromText="I" toID="e3" toText="killed" relType="ARGO0" objectID1="se13" objectID2="e3" />
+<SRLINK id="srole2" fromID="se5" fromText="one of them" toID="e1" toText="explained" relType="ARGO0" objectID1="se5" objectID2="e1" />
+<SRLINK id="srole3" fromID="se12" fromText="I" toID="e2" toText="slept" relType="ARGO0" objectID1="se12" objectID2="e2" />
+<SRLINK id="srole4" fromID="se23" fromText="I" toID="e4" toText="hanging" relType="ARGO0" objectID1="se23" objectID2="e4" />
+<SRLINK id="srole5" fromID="se29" fromText="I" toID="e6" toText="thought" relType="ARGO0" objectID1="se29" objectID2="e6" />
+<SRLINK id="srole7" fromID="se38" fromText="Marie" toID="e9" toText="wearing" relType="ARGO0" objectID1="se38" objectID2="e9" />
+<SRLINK id="srole8" toID="e5" toText="straining" fromID="se23" fromText="I" objectID2="e5" relType="ARGO0" objectID1="se23" />
+<SRLINK id="srole9" toID="e8" toText="divided" fromID="pl4" fromText="room" objectID2="e8" relType="ARGO0" objectID1="pl4" />
+</TAGS>
+</SpaceEvalTaskv1.2>

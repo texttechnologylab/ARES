@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[Bilbo celebrates his 111th birthday and leaves the Shire suddenly, leaving the Ring to Frodo Baggins, his cousin and heir. Neither hobbit is aware of the Ring's origin, but the wizard Gandalf suspects it is a Ring of Power. Seventeen years later, Gandalf tells Frodo that he has confirmed that the Ring is the one lost by the Dark Lord Sauron long ago and counsels him to take it away from the Shire. Gandalf leaves, promising to return by Frodo's birthday and accompany him on his journey, but fails to do so. Frodo sets out on foot, offering a cover story of moving to Crickhollow, accompanied by his gardener Sam Gamgee and his cousin Pippin Took. They are pursued by mysterious Black Riders, but meet a passing group of Elves led by Gildor Inglorion, their chants to Elbereth ward off the Riders. The hobbits spend the night with them, then take an evasive short cut the next day, and arrive at the farm of Farmer Maggot, who takes them to Bucklebury Ferry, where they meet their friend Merry Brandybuck. When they reach the house at Crickhollow, Merry and Pippin reveal they know about the Ring and insist on travelling with Frodo and Sam. ]]></TEXT>
+<TAGS>
+<PLACE id="pl0" spans="51~56" text="Shire" dcl="FALSE" type="RGN" />
+<PLACE id="pl1" spans="394~399" text="Shire" dcl="FALSE" type="RGN" />
+<PLACE id="pl2" spans="571~582" text="Crickhollow" dcl="FALSE" type="RGN" />
+<PLACE id="pl6" spans="903~907" text="farm" dcl="FALSE" type="RGN" />
+<PLACE id="pl7" spans="944~960" text="Bucklebury Ferry" dcl="FALSE" />
+<PLACE id="pl9" spans="1038~1049" text="Crickhollow" dcl="FALSE" type="RGN" />
+<PLACE id="pl3" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl4" spans="-1~-1" text="" dcl="FALSE" />
+<PLACE id="pl5" spans="-1~-1" text="" dcl="FALSE" />
+<PATH id="p1" spans="861~870" text="short cut" dcl="FALSE" mod="evasive" type="ROAD" />
+<SPATIAL_ENTITY id="se0" spans="0~5" text="Bilbo" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se2" spans="79~83" text="Ring" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se3" spans="87~100" text="Frodo Baggins" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se4" spans="106~112" text="cousin" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se5" spans="117~121" text="heir" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se6" spans="131~137" text="hobbit" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se7" spans="184~191" text="Gandalf" dcl="FALSE" mod="wizard" type="PERSON" />
+<SPATIAL_ENTITY id="se8" spans="209~222" text="Ring of Power" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se9" spans="247~254" text="Gandalf" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se10" spans="261~266" text="Frodo" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se11" spans="272~274" text="he" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se12" spans="298~302" text="Ring" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se13" spans="326~342" text="Dark Lord Sauron" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se14" spans="310~313" text="one" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se15" spans="365~368" text="him" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se16" spans="401~408" text="Gandalf" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se17" spans="440~456" text="Frodo&apos;s birthday" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se18" spans="21~35" text="111th birthday" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se19" spans="471~474" text="him" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se20" spans="511~516" text="Frodo" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se21" spans="546~557" text="cover story" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se22" spans="612~622" text="Sam Gamgee" dcl="FALSE" mod="gardener" type="PERSON" />
+<SPATIAL_ENTITY id="se24" spans="638~649" text="Pippin Took" dcl="FALSE" mod="cousin" type="PERSON" />
+<SPATIAL_ENTITY id="se25" spans="651~655" text="They" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se26" spans="682~694" text="Black Riders" dcl="FALSE" mod="mysterious" type="PERSON" />
+<SPATIAL_ENTITY id="se29" spans="715~729" text="group of Elves" dcl="FALSE" mod="passing" type="PERSON" />
+<SPATIAL_ENTITY id="se30" spans="737~753" text="Gildor Inglorion" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se31" spans="771~779" text="Elbereth" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se32" spans="793~799" text="Riders" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se33" spans="805~812" text="hobbits" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se35" spans="834~838" text="them" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se36" spans="880~883" text="day" dcl="FALSE" type="DYNAMIC_EVENT" />
+<SPATIAL_ENTITY id="se37" spans="911~924" text="Farmer Maggot" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se38" spans="926~929" text="who" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se39" spans="936~940" text="them" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se40" spans="968~972" text="they" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se41" spans="991~1007" text="Merry Brandybuck" dcl="FALSE" mod="friend" type="PERSON" />
+<SPATIAL_ENTITY id="se42" spans="1014~1018" text="they" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se43" spans="1051~1056" text="Merry" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se44" spans="1061~1067" text="Pippin" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se45" spans="1075~1079" text="they" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se46" spans="1095~1099" text="Ring" dcl="FALSE" type="ARTIFACT" />
+<SPATIAL_ENTITY id="se47" spans="1130~1135" text="Frodo" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se48" spans="1140~1143" text="Sam" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se49" spans="1029~1034" text="house" dcl="FALSE" type="FAC" />
+<SPATIAL_ENTITY id="se50" spans="944~960" text="Bucklebury Ferry" dcl="FALSE" type="VEHICLE" />
+<SPATIAL_ENTITY id="se1" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se23" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se27" spans="755~760" text="their" dcl="FALSE" type="PERSON" />
+<SPATIAL_ENTITY id="se28" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se51" spans="-1~-1" text="" dcl="FALSE" />
+<SPATIAL_ENTITY id="se52" spans="-1~-1" text="" dcl="FALSE" />
+<NONMOTION_EVENT id="e0" spans="6~16" text="celebrates"  />
+<NONMOTION_EVENT id="e1" spans="141~146" text="aware"  />
+<NONMOTION_EVENT id="e2" spans="192~200" text="suspects"  />
+<NONMOTION_EVENT id="e3" spans="255~260" text="tells"  />
+<NONMOTION_EVENT id="e4" spans="279~288" text="confirmed"  />
+<NONMOTION_EVENT id="e5" spans="356~364" text="counsels"  />
+<NONMOTION_EVENT id="e6" spans="417~426" text="promising"  />
+<NONMOTION_EVENT id="e8" spans="461~470" text="accompany"  />
+<NONMOTION_EVENT id="e9" spans="535~543" text="offering"  />
+<NONMOTION_EVENT id="e10" spans="700~704" text="meet"  />
+<NONMOTION_EVENT id="e11" spans="730~733" text="led"  />
+<NONMOTION_EVENT id="e12" spans="761~767" text="chants"  />
+<NONMOTION_EVENT id="e13" spans="813~818" text="spend"  />
+<NONMOTION_EVENT id="e14" spans="973~977" text="meet"  />
+<NONMOTION_EVENT id="e15" spans="1068~1074" text="reveal"  />
+<NONMOTION_EVENT id="e16" spans="1104~1110" text="insist"  />
+<NONMOTION_EVENT id="e7" spans="517~525" text="sets out"  />
+<MOTION id="m0" spans="40~46" text="leaves" motion_type="COMPOUND" motion_class="LEAVE" motion_sense="LITERAL" />
+<MOTION id="m1" spans="409~415" text="leaves" motion_type="PATH" motion_class="LEAVE" motion_sense="LITERAL" />
+<MOTION id="m2" spans="430~436" text="return" motion_type="PATH" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m4" spans="561~567" text="moving" motion_type="COMPOUND" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" />
+<MOTION id="m5" spans="660~667" text="pursued" motion_type="COMPOUND" motion_class="FOLLOW" motion_sense="LITERAL" />
+<MOTION id="m6" spans="845~849" text="take" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<MOTION id="m7" spans="930~935" text="takes" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m8" spans="1019~1024" text="reach" motion_type="COMPOUND" motion_class="REACH" motion_sense="LITERAL" />
+<MOTION id="m9" spans="1114~1124" text="travelling" motion_type="COMPOUND" motion_class="MOVE" motion_sense="LITERAL" />
+<S_RELATION id="sr1" spans="84~86" text="to" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr2" spans="568~570" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr3" spans="896~898" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr4" spans="941~943" text="to" semantic_type="GOAL_DEFINING" />
+<S_RELATION id="sr5" spans="1035~1037" text="at" semantic_type="TOPOLOGICAL" />
+<S_RELATION id="sr0" spans="526~528" text="on" semantic_type="PATH_DEFINING" />
+<EVENT_PATH id="ep0" spans="-1~-1" text="" endID="pl4" beginID="pl0" midIDs="se18" trigger="m0" comment="Bilbo leaves" />
+<EVENT_PATH id="ep1" spans="-1~-1" text="" beginID="se16" endID="pl5" trigger="m1" />
+<EVENT_PATH id="ep2" spans="-1~-1" text="" beginID="se20" endID="se49" midIDs="pl3,se35,pl6,pl7" trigger="e7" />
+<MEASURE id="me1" spans="224~239" text="Seventeen years" value="17" />
+<QSLINK id="qsl0" fromID="se2" fromText="Ring" toID="se3" toText="Frodo Baggins" relType="EC" trajector="se3" landmark="pl0" trigger="sr1" />
+<QSLINK id="qsl1" fromID="se33" fromText="hobbits" toID="se37" toText="Farmer Maggot" relType="IN" trajector="se33" landmark="pl6" trigger="sr3" />
+<QSLINK id="qsl2" fromID="se39" fromText="them" toID="pl7" toText="Bucklebury Ferry" relType="TPP" trajector="se39" landmark="pl7" trigger="sr4" />
+<QSLINK id="qsl3" fromID="se42" fromText="they" toID="pl9" toText="Crickhollow" relType="TPP" trajector="se42" landmark="pl9" trigger="sr5" />
+<QSLINK id="qsl4" fromID="se0" fromText="Bilbo" toID="pl0" toText="Shire" relType="IN" trajector="se0" landmark="pl0" />
+<QSLINK id="qsl5" toID="pl0" toText="Shire" fromID="se3" fromText="Frodo Baggins" relType="IN" trajector="se3" landmark="pl0" />
+<QSLINK id="qsl6" toID="pl0" toText="Shire" fromID="se7" fromText="Gandalf" relType="IN" trajector="se7" landmark="pl0" />
+<QSLINK id="qsl7" fromID="se18" fromText="111th birthday" toID="pl0" toText="Shire" relType="IN" trajector="se18" landmark="pl0" />
+<QSLINK id="qsl8" toID="pl0" toText="Shire" fromID="se20" fromText="Frodo" relType="OUT" trajector="se20" landmark="pl0" />
+<QSLINK id="qsl9" toID="pl0" toText="Shire" fromID="se16" fromText="Gandalf" relType="OUT" trajector="se16" landmark="pl0" />
+<QSLINK id="qsl10" toID="pl0" toText="Shire" fromID="se0" fromText="Bilbo" relType="OUT" trajector="se0" landmark="pl0" />
+<QSLINK id="qsl11" toID="pl0" toText="Shire" fromID="se22" fromText="Sam Gamgee" relType="OUT" trajector="se22" landmark="pl0" />
+<QSLINK id="qsl12" fromID="se24" fromText="Pippin Took" toID="pl0" toText="Shire" relType="OUT" trajector="se24" landmark="pl0" />
+<QSLINK id="qsl13" toID="pl3" toText="" fromID="se29" fromText="group of Elves" relType="IN" trajector="se29" landmark="pl3" />
+<QSLINK id="qsl14" toID="pl3" toText="" fromID="se26" fromText="Black Riders" relType="IN" trajector="se26" landmark="pl3" />
+<QSLINK id="qsl15" toID="pl3" toText="" fromID="se25" fromText="They" relType="IN" trajector="se25" landmark="pl3" />
+<QSLINK id="qsl16" fromID="se33" fromText="hobbits" toID="se35" toText="them" relType="EC" trajector="se23" landmark="se35" />
+<QSLINK id="qsl17" toID="pl6" toText="farm" fromID="se39" fromText="them" relType="IN" trajector="se39" landmark="pl6" />
+<QSLINK id="qsl18" toID="pl7" toText="Bucklebury Ferry" fromID="se33" fromText="hobbits" relType="IN" trajector="se33" landmark="pl7" />
+<QSLINK id="qsl19" fromID="se41" fromText="Merry Brandybuck" toID="pl7" toText="Bucklebury Ferry" relType="IN" trajector="se41" landmark="pl7" />
+<QSLINK id="qsl20" fromID="se37" fromText="Farmer Maggot" toID="pl6" toText="farm" relType="IN" trajector="se37" landmark="pl6" />
+<QSLINK id="qsl21" fromID="se37" fromText="Farmer Maggot" toID="pl7" toText="Bucklebury Ferry" relType="IN" trajector="se37" landmark="pl7" />
+<QSLINK id="qsl22" fromID="se42" fromText="they" toID="se49" toText="house" relType="EC" trajector="se42" landmark="pl9" />
+<MOVELINK id="mvl0" fromID="se0" fromText="Bilbo" toID="pl0" toText="Shire" trigger="m0" source="pl0" goal_reached="YES" mover="se0" landmark="middle earth" />
+<MOVELINK id="mvl1" fromID="se16" fromText="Gandalf" toID="se19" toText="him" trigger="m1" source="pl0" goal="e8" mover="se16" goal_reached="YES" landmark="middle earth" />
+<MOVELINK id="mvl2" fromID="se20" fromText="Frodo" toID="pl2" toText="Crickhollow" trigger="m4" source="pl0" goal="pl2" mover="se20" goal_reached="NO" />
+<MOVELINK id="mvl3" fromID="se25" fromText="They" toID="se26" toText="Black Riders" trigger="m5" mover="se25" goal_reached="UNCERTAIN" />
+<MOVELINK id="mvl4" fromID="se33" fromText="hobbits" toID="se36" toText="day" trigger="m6" goal="e13" mover="se33" goal_reached="YES" />
+<MOVELINK id="mvl5" fromID="se33" fromText="hobbits" toID="se41" toText="Merry Brandybuck" trigger="m7" goal="pl7" mover="se33" goal_reached="YES" />
+<MOVELINK id="mvl6" fromID="se42" fromText="they" toID="se48" toText="Sam" trigger="m9" goal="m9" mover="se42" source="pl9" landmark="pl9" goal_reached="YES" />
+<MOVELINK id="mvl9" fromID="se16" fromText="Gandalf" toID="se19" toText="him" trigger="m2" goal="se17" mover="se16" goal_reached="NO" />
+<METALINK id="metal0" objectID1="se4" objectID2="se1" relType="SUBCOREFERENCE" />
+<METALINK id="metal1" objectID1="se5" objectID2="se1" relType="SUBCOREFERENCE" />
+<METALINK id="metal2" objectID1="se1" objectID2="se3" relType="SPLITCOREFERENCE" />
+<METALINK id="metal3" objectID2="se6" objectID1="se3" relType="SUBCOREFERENCE" />
+<METALINK id="metal4" objectID1="se0" objectID2="se6" relType="SUBCOREFERENCE" />
+<METALINK id="metal5" objectID1="se9" objectID2="se7" relType="COREFERENCE" />
+<METALINK id="metal6" objectID1="se11" objectID2="se9" relType="COREFERENCE" />
+<METALINK id="metal7" objectID1="se10" objectID2="se3" relType="COREFERENCE" />
+<METALINK id="metal8" objectID1="se14" objectID2="se8" relType="COREFERENCE" />
+<METALINK id="metal9" objectID1="se12" objectID2="se8" relType="COREFERENCE" />
+<METALINK id="metal10" objectID1="se2" objectID2="se8" relType="COREFERENCE" />
+<METALINK id="metal11" objectID1="se15" objectID2="se3" relType="COREFERENCE" />
+<METALINK id="metal12" objectID1="se16" objectID2="se7" relType="COREFERENCE" />
+<METALINK id="metal13" objectID1="se20" objectID2="se3" relType="COREFERENCE" />
+<METALINK id="metal14" objectID1="se22" objectID2="se23" relType="SUBCOREFERENCE" />
+<METALINK id="metal15" objectID1="se24" objectID2="se23" relType="SUBCOREFERENCE" />
+<METALINK id="metal16" objectID1="se23" objectID2="se25" relType="SPLITCOREFERENCE" />
+<METALINK id="metal17" objectID2="se29" objectID1="se30" relType="SUBCOREFERENCE" />
+<METALINK id="metal18" objectID2="se27" objectID1="se29" relType="COREFERENCE" />
+<METALINK id="metal19" objectID1="se32" objectID2="se26" relType="COREFERENCE" />
+<METALINK id="metal20" objectID2="se33" objectID1="se23" relType="SPLITCOREFERENCE" />
+<METALINK id="metal21" objectID1="se3" objectID2="se33" relType="SPLITCOREFERENCE" />
+<METALINK id="metal22" objectID1="se35" objectID2="se29" relType="COREFERENCE" />
+<METALINK id="metal23" objectID1="se38" objectID2="se37" relType="COREFERENCE" />
+<METALINK id="metal24" objectID2="se28" objectID1="se47" relType="SUBCOREFERENCE" />
+<METALINK id="metal25" objectID2="se28" objectID1="se48" relType="SUBCOREFERENCE" />
+<METALINK id="metal26" objectID1="se28" objectID2="se40" relType="SPLITCOREFERENCE" />
+<METALINK id="metal27" objectID2="se51" objectID1="se28" relType="SUBCOREFERENCE" />
+<METALINK id="metal28" objectID2="se51" objectID1="se41" relType="SUBCOREFERENCE" />
+<METALINK id="metal29" objectID1="se51" objectID2="se42" relType="SPLITCOREFERENCE" />
+<METALINK id="metal30" objectID1="se43" objectID2="se52" relType="SUBCOREFERENCE" />
+<METALINK id="metal31" objectID1="se44" objectID2="se52" relType="SUBCOREFERENCE" />
+<METALINK id="metal32" objectID1="se52" objectID2="se45" relType="SPLITCOREFERENCE" />
+<METALINK id="metal33" objectID1="se46" objectID2="se8" relType="COREFERENCE" />
+<METALINK id="metal34" objectID1="se47" objectID2="se3" relType="COREFERENCE" />
+<METALINK id="metal35" objectID1="se43" objectID2="se41" relType="COREFERENCE" />
+<METALINK id="metal36" objectID1="se44" objectID2="se24" relType="COREFERENCE" />
+<METALINK id="metal37" objectID1="se48" objectID2="se22" relType="COREFERENCE" />
+<METALINK id="metal38" objectID1="pl9" objectID2="pl2" relType="COREFERENCE" />
+<METALINK id="metal39" objectID1="pl1" objectID2="pl0" relType="COREFERENCE" />
+</TAGS>
+</SpaceEvalTaskv1.2>
