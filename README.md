@@ -31,7 +31,7 @@ First Scene is "Main Menu"
 # Usage & Cite
 Follow the instructions embedded into the scenes and read the related Paper. If you want to use the project, please quote this as follows:
 
-Patrick Masny. ARES: Annotation von Relationen und Eigenschaften zur Szenengenerierung , bachelor’s thesis, Frankfurt, Germany, 2022. ![[Link]]([https://aclanthology.org/2022.lrec-1.202](https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/70595)) ![[PDF]]([http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.202.pdf](https://publikationen.ub.uni-frankfurt.de/files/70595/ARES___Bachelorarbeit_Patrick_Masny.pdf))
+Patrick Masny. ARES: Annotation von Relationen und Eigenschaften zur Szenengenerierung , bachelor’s thesis, Frankfurt, Germany, 2022. ![[Link]](https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/70595) ![[PDF]](https://publikationen.ub.uni-frankfurt.de/files/70595/ARES___Bachelorarbeit_Patrick_Masny.pdf)
 
 # BibTeX
 ```
