@@ -1,3 +1,6 @@
+[![version](https://img.shields.io/github/license/texttechnologylab/ARES)]()
+
+
 # ARES: Annotation von Relationen und Eigenschaften zur Szenengenerierung
 
 ## Abstract
